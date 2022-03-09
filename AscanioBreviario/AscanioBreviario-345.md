@@ -1,0 +1,7 @@
+
+O pintor, ao começar a sua obra, traça riscos na tela e faz borrões azuis, amarelos, verdes etc. Quem não entende e jamais viu como se executam as obras-primas, sorri, talvez incrédulo e sem perceber o que deseja o artista. Mas uns minutos e o borrão azul é um céu, o verde, uma campina, o amarelo, um canteiro de rosas. O quadro maravilhoso aí está, chamando a atenção e a provocar as críticas e exclamações mais lisonjeiras de todos. A obra maravilhosa do Artista Divino, a que Ele executa nas almas, é também assim. Quem compreende o que de nós quer Nosso Senhor, quando, na tela de nossa vida, atira esses borrões feios, de cores berrantes, de tantas e tão cruéis provações? Ah! Só Ele sabe o que há de fazer de nossa vida. O plano Divino, como o ideal do artista, não se compreende
+
+logo no início da obra. Deixemo-Lo trabalhar! Não sejamos tão estúpidos como os que censuram a tela borrada do pintor. Os planos da Divina Providência nos são ocultos. Os planos de nossa sabedoria -- que mais se poderia chamar loucura
+
+-   não coincidem com os planos da Sabedoria Divina. Daí tanto desespero, tantas amarguras e desilusões dos que não confiam em Nosso Senhor e não têm paciência, não esperam o fim do trabalho do Divino Artista. Oh! deixai que Jesus, o Divino Mestre, faça o que quiser na tela frágil de nossa vida! Esperai! Confiai! E as maravilhas do Artista Celeste hão de extasiar-vos.
+

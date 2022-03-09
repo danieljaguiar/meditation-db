@@ -1,0 +1,13 @@
+
+Vivemos contando, medindo cuidadosamente os sofrimentos que nos afligem. De nada nos esquecemos. Costumamos até exagerar as nossas dores. Trazemos pesado e medido o sofrimento, e diante de Deus, nas orações, queremos ser atendidos e não admitimos delongas.
+
+São de São João Crisóstomo estas palavras: "Sois muito exatos em contar os sofrimentos. E o sois, porventura, em contar os pecados que os provocam?
+
+Pensais, tão só, nos pecados que cometeis durante um dia, sem contar os inumeráveis pecados de toda a vida, que não quereis conhecer. E vereis quanta injustiça, quanta ofensa a Deus vos hão de chegar à memória!"
+
+E temos coragem de medir, pesar as ofensas, os crimes que cometemos? "Se Vós, Senhor, medirdes as nossas iniquidades, que será de nós?"
+
+Examinemos cuidadosamente nossas consciências. Um olhar sobre a vida passada, sobre a multidão de nossos pecados. E depois calculemos o que havemos sofrido neste mundo. Não temos mais pecados do que sofrimentos? E se um só pecado mortal merece um castigo eterno, que merecemos com tanto pecado?
+
+Quem deve mais?
+

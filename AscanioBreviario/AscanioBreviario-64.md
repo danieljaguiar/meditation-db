@@ -1,0 +1,7 @@
+
+Deus quer de nós uma só e única coisa: o cumprimento da Sua Vontade Santíssima. O mais é acessório e até inútil e perigoso para nossa salvação. O dever cumprido nos assegura também o cumprimento da Vontade de Deus. Quem fez o que deve, fez o que pôde, fez o que Deus quis, podendo ficar tranquilo e abandonar-se inteiramente nas mãos da Divina Providência. O sucesso? A vitória? O êxito? Pouco importam. Se Deus os quis? Insucessos, fracassos, humilhações? Deus os permitiu? Louvado seja Deus! Temos certeza de haver cumprido o dever e a consciência está sossegada? Tudo vai bem. Deus não o quis! A pureza de intenção é que vale em nossas obras. Vigiemos a nossa pureza de intenção e nunca ficaremos dolorosamente surpreendidos com os fracassos de nossas boas obras. Apeguemo-nos unicamente à vontade de Deus e
+
+fiquemos indiferentes ao sucesso ou insucesso, à vitória ou ao fracasso. Disse o Pe. Lehody(#BOOKMARK 59#): "Sabemos que Deus quer de nós esta boa obra, mas desconhecemos as Suas ulteriores intenções. Muitas vezes, para nos exercitar na virtude da santa indiferença, Deus nos inspira desígnios muito elevados, cujo sucesso, entretanto, não quer".
+
+Queixarmo-nos, lamentarmo-nos, descrermos da Providência? Seria orgulho e loucura. Deus sabe o que faz! Se o fracasso nos humilhou e purificou nossa intenção, bendigamos a Deus! Pereceu esta obra de zelo para o nosso bem! Deus não a quis!
+

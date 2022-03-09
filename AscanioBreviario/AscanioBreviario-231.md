@@ -1,0 +1,9 @@
+
+A alma: Deus e Senhor meu, vejo quão necessária me é a paciência, porque nesta vida acontecem muitas adversidades. Faça eu o que fizer para ter paz, nunca minha vida estará sem batalha e sem dor.
+
+Jesus Cristo: Assim é, filho meu, mas não quero que faças consistir a paz na isenção de tentações ou em não encontrar coisa alguma que te aflija. Antes, quando tiveres padecido muitas tribulações e experimentado muitas adversidades, então crê que achaste a paz. Se disseres que não podes sofrer tanto, como sofrerás o fogo do purgatório? De dois males sempre se há de escolher o menor. Para evitares, pois, os tormentos eternos, sofre por Deus -- e de bom ânimo -- os males presentes. Pensas tu que os mundanos têm pouco ou nada que sofrer? Ainda os que vivem nas maiores delícias não estão livres de
+
+padecer. Dirás, talvez, que têm muitos divertimentos e seguem seus apetites e, por isso, se lhes dá pouco de algumas tribulações. Seja, embora, assim e tenham eles quanto desejam, dize-me quanto tempo lhes durará esta felicidade imaginária? Olha que os mais ricos e abastados do século desaparecerão como o fumo e não ficará memória de suas alegrias passadas. E, ainda enquanto vivem, não descansam sem amargura, sem aborrecimento e temor. Porque, da mesma causa donde recebem deleites lhes vêm ordinariamente pena e dor. A minha justiça é que os castiga desta sorte. Já que, desordenadamente, buscam e seguem os deleites, é bem que não os gozem sem confusão e sem amargura. Oh! quão breves, quão falsos, quão desordenados e torpes são todos estes prazeres! Tu, pois, meu filho, não sigas teus apetites e quebranta tua vontade, DELEITA-TE NO SENHOR E ELE TE DARÁ O QUE PEDIR O TEU CORAÇÃO. Se, pois,
+
+queres gozar uma verdadeira alegria e abundantes consolações, despreza todas as coisas do mundo, corta todos os seus prazeres, e Eu te abençoarei e derramarei em teu peito inefável doçura.
+

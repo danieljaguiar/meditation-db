@@ -1,0 +1,7 @@
+
+É preciso que tenhamos muita paciência conosco e ainda mais do que com outros. Somos, às vezes, insuportáveis a nós mesmos. Tanta miséria, quedas repetidas, defeitos incorrigíveis, fraquezas vergonhosas, covardia, desânimos, pecados sobre pecados! Oh! Que desolação! Não nos perturbemos. Calma e paciência. Quanto mais perturbação tanto pior. É orgulho não nos conformarmos com a nossa fraqueza e a nossa miséria. Às vezes é mais fácil termos paciência com os outros do que conosco. Com a natureza rebelde, atrevida, grosseira que possuímos, perdemos a calma!
+
+Não maltratemos o nosso jumentinho a pancadas de impaciência. É pior. Será preferível que lhe demos boa ração de calma e tranquilidade e confiança. Um dia Nosso Senhor disse a uma dessas almas já quase desesperadas com a sua má natureza, sempre rebelde e recalcitrante: "Minha filha, fui tão paciente contigo, pois é preciso que também tenhas paciência contigo mesma.(#BOOKMARK 88#)
+
+Tenhamos então muita paciência conosco. Se Nosso Senhor, que é a Infinita Justiça, a própria Santidade, se Ele que tanto odeia o pecado nos suporta por misericórdia, -- por que não nos havemos de suportar na miséria?
+

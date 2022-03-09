@@ -1,0 +1,9 @@
+
+A esperança é doce alívio e bálsamo suavíssimo nas agruras do exílio da terra. "O tempo passa como um sonho, dizia Teresinha, mas Deus já nos vê na glória e se regozija com a nossa eterna felicidade! Como este pensamento faz bem à minha alma! Compreendo porque Ele nos deixa sofrer!\...(#BOOKMARK 261#)
+
+Quem pensa no Céu acha pouco e leve todo sofrimento deste exílio. Era em transportes de amor e de alegria que o Anjo do Carmelo pensava no Céu. "Amanhã dizia, estaremos no porto! Meu Deus, que veremos então? O Senhor será a alma de nossa alma, Mistério insondável! Os olhos humanos nunca viram a luz incriada, os ouvidos humanos nunca ouviram as incomparáveis melodias dos céus, nem jamais pôde o coração humano compreender o que reserva o
+
+futuro. E tudo isso virá logo, logo sim, se amarmos a Jesus apaixonadamente."(#BOOKMARK 262#)
+
+A esperança é o bálsamo suave que Nosso Senhor nos deu para as feridas tão dolorosas do coração. E não nos iludimos, como diz a impiedade, oh! Não! O Céu é uma realidade! E virá logo! Mais depressa talvez do que pensamos. Todo sofrimento é suportável quando se medita bem na recompensa que o Senhor prometeu aos eleitos. A figura deste mundo passa. E por que nos apegarmos ao que só nos faz desgraçados? Seremos saciados plenamente de todo desejo e sonho de felicidade. E nossa alegria será eterna! Ó Paraíso! Façamo-nos aqui pequenos, porque é estreita a porta do Céu, e só entram lá as almas pequeninas!\...
+

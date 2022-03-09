@@ -1,0 +1,31 @@
+
+1\. _And going a little further He fell upon his face, praying and saying: My Father._ ([Mt. 26, 39](https://vulgata.online/bible/Mt.26?ed=DR2&vfn=DR2.Mt.26.39:vs.)
+
+Our Lord here recommends to us three conditions to be observed when we pray.
+
+- (i) Solitude: because going a little further he separated himself even from those whom he had chosen. _When thou shalt pray enter into thy chamber and having shut the door pray to thy Father in secret_ ([Mt. 6, 6](https://vulgata.online/bible/Mt.6?ed=DR2&vfn=DR2.Mt.6.6:vs). But notice he went not far away but a _little_ that He might show that he is not far from those who call upon Him, and also that they might see him praying and learn to pray in like fashion.
+
+- (ii) Humility: He fell upon his face, giving there by an example of humility. This because humility is necessary for prayer and because Peter had said: _Yea, though I should die with thee, I will not deny thee_ ([Mt. 26, 35](https://vulgata.online/bible/Mt.26?ed=DR2&vfn=DR2.Mt.26.35:vs). Therefore did Our Lord fall, to show us we should not trust in our own strength.
+
+- (iii) Devotion, when He said _My Father_. It is essential that when we pray we pray from devotion. He says _My Father_ because He is uniquely God's Son; we are God's children by adoption only.
+
+(In Matt, xxvi.)
+
+2\. _If it be possible let this chalice pass from me. Nevertheless not as I will but as Thou wilt_ ([Mt. 26, 39](https://vulgata.online/bible/Mt.26?ed=DR2&vfn=DR2.Mt.26.39:vs).
+
+Here we consider the tenor of prayer. Christ was praying according to the prompting of his sense nature, in so far, that is, as his prayer, as advocate for his senses, was expressing the inclinations of his senses, proposing to God, by prayer, what the desire of his senses suggested. And He did this that He might teach us three things:
+
+- (i) That he had taken a true human nature with all its natural inclinations.
+
+- (ii) That it is lawful for man to will, according to his natural inclination, a thing which God does not will.
+
+- (iii) That man ought to subject his own inclination to the divine will. Whence St. Augustine says: Christ, living as a man, showed a certain private human willingness when he said, _Let this chalice pass from me_. This was human willingness, a man's own will and, so to say, his private desire. But Christ, since He wills to be a man of right heart, a man directed to God, adds, _Nevertheless not as I will but as thou wilt_
+
+(3-12-11).
+
+And in this he teaches by example how we should arrange our inclinations so that they do not come into conflict with the divine rule. Whence we learn that there is nothing wrong in our shrinking from what is naturally grievous, so long as we bring our emotion into line with the divine will.
+
+Christ had two wills, one from his Father in so far as he was God and the other in so far as he was man. This human will he submitted in all things to his Father, giving us in this an example to do likewise, "_I came down from heaven, not to do my will, but the will of him that sent me_ "([Jo. 6, 38](https://vulgata.online/bible/Jo.6?ed=DR2&vfn=DR2.Jo.6.38:vs).
+
+(In Matt, xxvi.)
+

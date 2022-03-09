@@ -1,0 +1,19 @@
+
+_But this know ye, that if the goodman of the house knew at what hour the thief would come, he would certainly watch, and not suffer his house to be broken open_. — [Mat. xxiv, 43](https://vulgata.online/bible/Mat.xxiv?ed=DR2&vfn=DR2.Mat.xxiv.43:vs.
+
+Since we are uncertain which hour it will be, we must watch the whole night long.
+
+The house is the soul. Therein man should be at rest. _When I go into my house_, that is, into my conscience, _I shall repose myself with her_ (Wisdom viii. 16). _The goodman of the house is as that king, that sitteth on the throne of judgment, who scattereth away all evil with his look_ ([Pv. xx, 8](https://vulgata.online/bible/Pv.xx?ed=DR2&vfn=DR2.Pv.xx.8:vs).
+
+Sometimes a thief breaks into the house. The thief is any plausible false theory, or indeed any temptation. It is said to be a thief in the sense of the gospel, _He that entereth not by the door into the sheephold, but climbeth up another way, the same is a thief and a robber_ ([Jo. x, 1](https://vulgata.online/bible/Jo.x?ed=DR2&vfn=DR2.Jo.x.1:vs). The door is an excellent name for natural knowledge or natural rights. Whoever enters through his reason, enters through the door. But whoever comes in through desires, or through wrath or the like, is a thief.
+
+Thieves work by night. We have no fear of what comes to us in the day. So it is that temptations never come to the man whose mind is given to contemplation of divine things. Let him however slacken in that service and presently comes temptation. Hence the timely prayer of Holy Scripture, _When my strength shall fail, do not Thou forsake me_ ([Ps. Ixx, 9](https://vulgata.online/bible/Ps.Ixx?ed=DR2&vfn=DR2.Ps.Ixx.9:vs).
+
+We must then watch, since we know not when the Lord shall come, shall come that is, to judgment. Or perhaps we may refer it to the day we shall die. _For yourselves know perfectly, that the day of the Lord shall so come as a thief in the night, for when they shall say peace and security, then shall sudden destruction come upon them_ (OneThess v. 23). Wherefore, says Our Lord, _be you also ready, because at what hour you know not the Son of Man shall come_ ([Mt. xxiv, 44](https://vulgata.online/bible/Mt.xxiv?ed=DR2&vfn=DR2.Mt.xxiv.44:vs).
+
+St. John Chrysostom notes that men attached to their property will sit up all the night to watch over it. If they can be so watchful for the things that pass away, how much more should they not be watchful over spiritual treasures.
+
+We may notice also a parable of St. Augustine's. There are three servants and they look forward affectionately to the return of their master. The first says, "My lord will come quickly, therefore I shall watch for him." The second says, "My lord will be late, but I will watch none the less." The third says, "At what hour my lord will come I know not, and for this reason I will take care to watch." Which servant spoke best? St. Augustine says the third. The first risks a sad deception, for if he thinks the lord will soon arrive, and in fact the lord is delayed, the servant runs the danger of sleeping through weariness. The second, too, may find he has made a mistake, but he runs no danger. But it is the third who does well, for being uncertain he is continually on the alert. It is therefore a misfortune to fix in our minds any special time.
+
+(In Matt, xxiv.)
+

@@ -1,0 +1,25 @@
+
+Nas horas de angústia, nos momentos tristes e amargos da vida, quando as tribulações e a adversidade nos visitam com todo o seu doloroso cortejo, ah!
+
+Quanto nos custou a resignação e conformidade com a Santíssima Vontade de Deus!
+
+Paciência! Paciência!
+
+Trabalhar, sofrer, morrer, eis a lei de que ninguém se pode isentar, a condição de todos os mortais.
+
+Paciência! Paciência!
+
+Bem poucos compreendem a necessidade de nossa conformação com a Vontade de Deus, condição essa, entretanto, essencial para a salvação de nossas almas.
+
+"Não são aqueles que dizem Senhor! Senhor! os que entram no reino dos céus, mas sim os que fazem a vontade de meu Pai", disse Nosso Senhor no Evangelho.
+
+E no ''Pai Nosso'' rezamos: "Seja feita a vossa vontade assim na terra como no céu".
+
+Rezam muitos devotos o "Pai Nosso", mas bem poucos o compreendem! Toda santidade consiste em fazer o que Deus quer de nós.
+
+Nas alegrias, nas horas felizes, na saúde, na prosperidade -- "Faça-se a Vossa vontade, ó Senhor!"
+
+Nas tristezas e amarguras da vida, nos revezes da sorte, na doença, nas adversidades -- "Faça-se a vossa vontade, Senhor"!
+
+Trabalhar, sofrer, morrer\... É o nosso destino aqui! Depois, se formos fiéis, virão o descanso e a vida eterna!
+

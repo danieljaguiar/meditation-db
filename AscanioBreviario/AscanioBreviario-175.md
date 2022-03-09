@@ -1,0 +1,9 @@
+
+"Ora, um daqueles ladrões, que estavam dependurados, blasfemava contra Ele, dizendo: Se tu és o Cristo, salva-te a ti mesmo e a nós. Mas o outro, respondendo o repreendia, dizendo: Nem ainda tu temes a Deus estando no mesmo suplício? E nós temos o castigo que merecem as nossas obras; mas este nenhum mal fez. E dizia a Jesus: Senhor, lembra-te de mim quando entrares no teu reino. E Jesus lhe respondeu: Em verdade te digo que hoje estarás comigo no paraíso.(#BOOKMARK 165#)
+
+O Bom Ladrão é o mais tocante modelo das almas confiantes. Viu Jesus no patíbulo entre criminosos. Ouviu as acusações, os insultos e blasfêmias do povo.
+
+E, naquele homem desfigurado, ali na cruz, reconhece o Messias prometido, o Senhor que lhe pode abrir as portas do reino do Céu. "Senhor, lembra-te de mim quando entrares no teu reino!"
+
+Belo ato de confiança! Um criminoso, um infeliz salteador, um condenado e com justiça, por tantos crimes, tem confiança em Jesus e Lhe pede uma lembrança apenas, quando chegar ao Reino Eterno. E, como não é pequeno o mérito da confiança, responde Jesus ao ladrão: "Em verdade te digo que hoje estarás comigo no paraíso!" Dois pecadores no Calvário. Um é o Desespero que blasfema. O outro, a Confiança, a pedir Misericórdia. Gestas se perde. Dimas se salva. O Bom Ladrão é o grande, talvez o maior dos missionários da Confiança! Imitemo-lo!
+

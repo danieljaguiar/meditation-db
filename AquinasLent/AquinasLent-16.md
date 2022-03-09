@@ -1,0 +1,17 @@
+
+The gospel says ([Lc. i, 75](https://vulgata.online/bible/Lc.i?ed=DR2&vfn=DR2.Lc.i.75:vs) _That we may serve him in holiness and justice_. But to serve God is an act of religion. Therefore religion is the same thing as holiness.
+
+The word "holiness" seems to imply two things.
+
+- (i) Cleanness, and in this it accords with the Greek word _agios_ which means "free of earth"
+
+- (ii) Firmness, whence, of old, those things were called holy which were protected by the law and thereby rendered inviolable. Whence also things are said to be sanctioned, because they are defended by law. Things which belong to the worship of God may be said to be holy in both of the senses just described. Not only men, therefore, but the temple and the vessels and so forth are said to be made holy from the fact that they are used in the service of God.
+
+Cleanness is essential if the human mind is to be applied to God, because what stains the human mind is its being joined to lower things: as all kinds of things are cheapened by mixture with things less valuable, for example, silver when it is mixed with lead. Now if the mind is to be united to the highest thing of all, i.e., to God, it must be altogether taken away from the things that are lower. And that is why a mind that is lacking in purity cannot be applied to God. _Follow peace with all men and holiness: without which no man shall see God_ ([Heb. xii, 14](https://vulgata.online/bible/Heb.xii?ed=DR2&vfn=DR2.Heb.xii.14:vs).
+
+Firmness, too, is required in whoever would set his mind to God. The mind must be set to God as to one's last end and first beginning. But ends and beginnings are the kinds of things which above all others need to be immovable. Whence St. Paul says, _I am sure that neither death nor life, nor angels, nor principalities, nor powers, nor things present nor things to come, nor might, nor height, nor depth, nor any other creatures, shall be able to separate us from the love of God, which is in Christ Jesus, Our Lord_ (Romans xiii. 38, 39).
+
+Holiness is then the quality whereby men apply themselves and their actions to God. Hence it does not differ from religion as though it had a different essence, but only according to the way these two things exist. For religion gives God the service due to him in what particularly concerns divine worship — in sacrifices, for example, in offerings and in other things of that kind. Holiness, however, gives to God not only these things but the acts of the other virtues too, or again, it ensures that by good works a man makes himself fit for the service of God in worship.
+
+(2-2 81 8.)
+

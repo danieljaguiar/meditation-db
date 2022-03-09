@@ -1,0 +1,7 @@
+
+Do *Journal et Pensées de chaque jour*, daquela alma escolhida que foi Elizabete Leseur, aqui reproduzo, sem comentar, a edificante página de 18 de julho de 1912. É a oração dos que sofrem, tão sublime e consoladora. Eis a transcrição:
+
+"Meu Deus, deponho a vossos pés o meu fardo de sofrimentos, de tristezas, de renúncias; ofereço tudo pelo Coração de Jesus e peço ao Vosso Amor que transforme estas provas em alegria e santidade para os que amo, em graça para as almas, em dons preciosos para Vossa Igreja. Neste abismo de acabrunhamento físico, desgostos e de cansaço moral, de trevas, em que me lançastes, deixai passar um raio de Vossa triunfante claridade! Ou melhor -- porque as trevas de Getsêmani e do Calvário são fecundas -- fazei que todo este mal sirva para o bem de todos. Ajudai-me a ocultar o despojamento interior e a pobreza espiritual sob a riqueza do sorriso e os esplendores da caridade. Quando a cruz se tornar mais pesada, ponde a Vossa doce Mão sob o fardo que Vós mesmo colocastes sobre meu corpo dolorido. Senhor, eu Vos adoro e ainda sou e serei sempre a Vossa devedora, porque, como Divino contrapeso aos meus sofrimentos, Vós me dais a "Eucaristia do Céu. Aleluia!"
+
+Tão formosa oração, verdadeira oração dos que sofrem, partida de um coração que tanto sofreu na terra e se fez mestra na arte da cruz, -- a Santa Igreja a enriqueceu com 300 dias de indulgência cada vez -- (Ex rescripto S.P.A. 27 Juni 1922). Convém receitá-la nos dias de dor e de trevas. Consola. É a oração dos que sofrem.
+

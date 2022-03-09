@@ -1,0 +1,7 @@
+
+Não se compreende cristão sem cruz. "Ignorais -- diz Bossuet que o nome de cristão significa homem destinado ao sofrimento?" Os cristãos delicados, inimigos da dor, quase pagãos, querem Jesus, sim, adoram-no e pretendem amá- lo, mas\... Sem a cruz. Querem o Menino Jesus, sim, nos braços de Maria, cheio de encantos, porém, longe da gruta de Belém, da pobreza e miséria do estábulo, da companhia dos pobres e dos animais. Querem Jesus, sim, mas transfigurado no Tabor, resplandecente de glória, a provocar o êxtase e a admiração dos três discípulos Pedro, Tiago e João. Ah! O Tabor é montanha predileta dos cristãos delicados. Como lhes horroriza, porém, o Calvário! Como lhes é insuportável a montanha do martírio! Querem um Cristo de iluminuras, de arte e beleza, um Cristo resplandecente no Tabor e na Ressurreição! Páginas há do Evangelho que eles não podem ler, de duras que são, principalmente as que pregam a penitência e a luta contra as paixões e a tríplice concupiscência!
+
+Jesus não nos vem sem a cruz! Esta é a condição para servi-lo e amá-lo. "Se alguém quer ser meu discípulo, que se renuncie, tome a sua cruz de cada dia e me siga\...".
+
+E, para nos dar exemplo, vai Nosso Senhor adiante com a sua cruz. Não, jamais encontrareis esse Jesus de vossos sonhos e loucas fantasias, ó delicados inimigos da cruz! Jesus sem cruz não existe! E, pois, também não se compreenderá um cristão sem cruz. Não pode o discípulo ser maior nem melhor que o Mestre!
+

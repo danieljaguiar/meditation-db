@@ -1,0 +1,7 @@
+
+A Santa Igreja nos ensina em sua Liturgia da Missa, na festa de Maria Auxiliadora, 24 de maio, que Deus constituiu na Bem-aventurada Virgem Maria
+
+"um perpétuo socorro para defesa do povo cristão". Por que profetizara a Virgem que todas as gerações haviam de chamá-la Bem-aventurada? Porque seria Ela, para todas as gerações, um perpétuo socorro. O título de "Perpétuo Socorro" inspira confiança. Nossa Senhora, no quadro miraculoso de Roma, quis mostrar ao povo cristão que é sempre Mãe solícita e carinhosa. Perpétuo socorro de nossa perpétua miséria! Pelos meados do século XV, um negociante piedoso embarca na ilha de Creta para a Itália. Leva consigo um tesouro precioso, belo quadro de Nossa Senhora. Em pleno mar se desencadeia horrorosa tempestade. Já desesperada, a tripulação, a convite do piedoso negociante, prostra-se diante da imagem da Virgem. Rapidamente cessa o furor das ondas e o Céu torna-se claro e sereno. O quadro miraculoso foi a Roma e, por ordem da Virgem, exposto e venerado na Igreja de São Mateus, faz milagres, confirmando o título que trazia de "Perpétuo Socorro". Afinal, depois de longo esquecimento, veio a imagem miraculosa aos filhos de Santo Afonso. Em 26 de abril de 1866, foi levada em triunfo para a Igreja de Santo Afonso, em Roma, onde é venerada até hoje.
+
+"Nossa Senhora do Perpétuo Socorro" é um título de Maria que enche o coração e o faz transbordar de confiança. Ó Maria, na enfermidade, nas aflições, na dor e na tristeza, nas provas e reveses, na vida e na morte, vinde, vinde em meu socorro, ó Mãe carinhosa!
+

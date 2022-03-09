@@ -1,0 +1,7 @@
+
+Bom é que, de tempos em tempos, sucedam-nos coisas adversas e nos venham trabalhos, porque fazem recolher o homem dentro do seu coração, para que, conhecendo que vive em desterro, não ponha a sua esperança em coisa alguma do mundo.
+
+Bom é que padeçamos algumas vezes contradições e que os homens pensem mal ou pouco favoravelmente de nós, ainda que façamos o bem e tenhamos boa intenção. Estas coisas, de ordinário, ajudam-nos a sermos humildes e nos defendem da vanglória. Porque então buscamos melhor a Deus por testemunha interior, quando exteriormente somos desprezados pelos homens que pensam mal de nós. Por isso deveria o homem firmar-se de tal modo em Deus que lhe não fosse necessário buscar muitas consolações humanas. Quando o homem de boa vida é atribulado, tentado ou combatido de maus pensamentos, então conhece ter de Deus necessidade, experimentando que sem Ele não pode fazer coisa boa. Então se entristece, geme e pede ao Senhor que o livre dos males de que padece.
+
+Então sente que se lhe dilata a vida, deseja que se lhe apresse a morte, para ser desatado das prisões do corpo e unir-se com Cristo. Então conhece que não há nem pode haver no mundo perfeita segurança nem paz perfeita.
+

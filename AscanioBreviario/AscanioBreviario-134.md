@@ -1,0 +1,9 @@
+
+Aos 13 de maio, a florzinha delicada de Nossa Senhora, Santa Teresinha do Menino Jesus, foi agraciada pelo sorriso da Virgem. Uma doença estranha acabrunhava a pobre criança. O pai e as irmãs recorreram à Santíssima Virgem. "E eu -- escreve Teresinha -- já não encontrando nenhum socorro neste mundo, quase a morrer de dor, voltara-me para minha Mãe do Céu, suplicando-Lhe que tivesse compaixão de sua filhinha. Animou-se de súbito a estátua.(#BOOKMARK 106#) A Virgem tomou um aspecto tão belo que nunca achei expressão para descrever essa formosura Divina. Ressumbravam do seu semblante uma doçura, uma bondade e ternura inefáveis, mas o que se me gravou nas profundezas da alma foi o seu sorriso arrebatador! Desvaneceram-se minhas mágoas, brotaram-se-me dos olhos duas grossas lágrimas, que me rolaram silenciosamente pela face. Ah! Eram lágrimas de alegria celeste e sem mistura! A Virgem Santíssima adiantou- se para mim! Sorriu-me!\... Que ventura a minha!(#BOOKMARK 107#)
+
+E o sorriso de Maria curou Teresinha. E nos cura também de todas as enfermidades, de nossas misérias e pecados. Sorriso de Maria é esse convite da consciência para que deixemos o pecado e façamos uma boa confissão. Sorriso de Maria é essa inspiração da graça para nossa santificação. Sorriso de Maria são as
+
+misericórdias Divinas que Ela faz chover sobre nós, eternos réus da justiça Divina, sempre isentos do castigo pela proteção Materna Daquela que é o Refúgio dos pecadores!
+
+Ó Maria! Vós que sorristes ao inocente anjo do Carmelo, dai-me o Vosso sorriso de misericórdia. Sofro tanto e sou tão pecador!
+

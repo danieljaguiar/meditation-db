@@ -1,0 +1,29 @@
+
+_Wherefore he that thinketh himself to stand, let him take heed lest he fall._ — [1Co. 10, 12](https://vulgata.online/bible/1Co.10?ed=DR2&vfn=DR2.1Co.10.12:vs.
+
+1\. The case of the Jews who, in punishment, were overthrown in the desert ([1Co. 5, 5](https://vulgata.online/bible/1Co.5?ed=DR2&vfn=DR2.1Co.5.5:vs) is a warning for us. These words of the Scripture contain four things which should attract the wise man's attention, namely the multitude of those who fell, for it says _Wherefore_; then the uncertainty of those who still stand, for it adds _he that thinketh himself to stand_ thirdly, the need for caution, for it adds _let him take heed_ and finally the ease with which disaster comes, for it says lest he fall.
+
+St. Paul says _wherefore_ as if to say these men, for all that they have had the advantage of God's gifts, nevertheless, because of their sins, perished, wherefore, bearing this in mind, _he that thinketh himself_, by whatever kind of subtle reasoning, to stand, that is, to be in a state of grace and charity, _let him take heed_, diligently attending to it, lest he fall, whether by sinning himself or by inducing others to sin. _How art thou fallen from heaven, O Lucifer_ says Isaias (xiv. 12), and the Psalmist, A thousand shall fall at thy side ([Ps. 90, 7](https://vulgata.online/bible/Ps.90?ed=DR2&vfn=DR2.Ps.90.7:vs), and St. Paul himself, in another place, says therefore, See how you walk, circumspectly ([Ef. 5, 15](https://vulgata.online/bible/Ef.5?ed=DR2&vfn=DR2.Ef.5.15:vs).
+
+2\. We must note that the things which drive us to a fall are numerous.
+
+- (i) Weakness, lack of strength; as children, the aged and the sick fall in the natural life. As Isaias says, _They shall fall through infirmity_ ([Is. 40, 30](https://vulgata.online/bible/Is.40?ed=DR2&vfn=DR2.Is.40.30:vs). This happens to us through lukewarmness in well doing and through too frequent changing.
+
+- (ii) We fall under the weight of our sins, as asses fall under a load that is too heavy. _The workers of iniquity have fallen_ ([Ps. 35, 13](https://vulgata.online/bible/Ps.35?ed=DR2&vfn=DR2.Ps.35.13:vs). And this happens through our neglect to repent.
+
+- (iii) Through a multitude of things drawing us, as a tree or a house falls over on the crowd that tugs at it. We fall in this way by the onrush of enemies.
+
+- (iv) The slipperiness of the road, and so we fall as travelers fall into the mud. _Take heed lest thou slip with thy tongue and fall_ ([Eus. 27, 30](https://vulgata.online/bible/Eus.27?ed=DR2&vfn=DR2.Eus.27.30:vs). We fall thus through carelessness in guarding our senses.
+
+- (v) A variety of traps and we fall like the bird taken in the nets. _A just man shall fall seven times_ ([Pv. xxiv, 16](https://vulgata.online/bible/Pv.xxiv?ed=DR2&vfn=DR2.Pv.xxiv.16:vs). And this happens through the corruption of created things.
+
+- (vi) Ignorance of what one ought to do, and we fall easily as do the blind. _If the blind lead the blind, both fall into the pit_ ([Mt. xv, 14](https://vulgata.online/bible/Mt.xv?ed=DR2&vfn=DR2.Mt.xv.14:vs). This comes about through our not learning things necessary to us.
+
+- (vii) The example of others who fall, as the angels fell by the example of Lucifer. _A just man falling down before the wicked, is as a fountain troubled by the foot, a spring that has suffered defilement _([Pv. xxv, 26](https://vulgata.online/bible/Pv.xxv?ed=DR2&vfn=DR2.Pv.xxv.26:vs). And this happens when we imitate the wicked.
+
+- (viii) The heaviness of the flesh: for the body when corrupted weighs down the soul, as does a stone that hangs at the neck of a swimmer. A mountain in falling cometh to naught (Job xiv. 18).
+
+And this is what comes of pampering the body.
+
+(In 1Co. x.)
+

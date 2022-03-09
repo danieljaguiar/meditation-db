@@ -1,0 +1,9 @@
+
+"Deus não fez a dor -- escreve Mgr. Laveille(#BOOKMARK 278#). -- A dor é fruto do pecado.
+
+Entretanto, uma disposição misericordiosa da Bondade Divina a transforma em preservativo e remédio. O sofrimento purifica".
+
+Teresinha compreendeu admiravelmente a missão Divina do sofrimento e sempre o acolheu com o mais doce e belo sorriso. Aos quatorze anos escrevia ela à Irmã Inês(#BOOKMARK 279#): -- "É bem verdade que o fel está sempre de mistura nos cálices que sorvemos. Para mim, os espinhos nos facilitam o desapego da terra, e fazem que elevemos os olhos muito para cima deste mundo". Nosso Senhor nos manda o sofrimento a fim de que nos desiludamos do mundo e das criaturas e contemos só com Ele. No seu pequenino caminho, Teresinha nos ensina a arte de sofrer. Consiste ela em aceitar todas as pequeninas cruzes que nos aparecem cada dia, a cada hora, a cada momento, e fazê-lo sempre pacientemente, humildemente, com sorriso acolhedor. Disse ela: -- "Sofro de instante a instante\... É por se pensar no passado e no futuro que costuma vir o desânimo". Em outra ocasião, torturada por horrorosos e incríveis sofrimentos, murmurou docement(#BOOKMARK 280#): -- "O bom Deus não me fez pressentir a morte próxima, mas me dá ainda mais e muito maiores sofrimentos\... Entretanto, não me atormento por isso. Só quero pensar no momento presente".
+
+E é nisto que está o segredo do sofrimento na via da infância: sofrer com um sorriso tudo o que vem das mãos de Deus, as grandes e as pequenas cruzes, e isso cada dia, a cada hora, a cada instante, sem olhar o passado nem o futuro.
+

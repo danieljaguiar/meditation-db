@@ -1,0 +1,7 @@
+
+\...."Pelo que digo a ti: muitos pecados lhe são perdoados, porque muito amou; mas, a quem menos perdoa, menos ama. E os que estavam junto à mesa começaram a dizer consigo mesmo: Quem é este que também perdoa pecados? E disse à mulher: A tua fé te salvou. Vai em paz."(#BOOKMARK 150#)
+
+A desordem de Madalena foi ter amado loucamente as criaturas, e a salvação da pecadora foi ter amado, e muito, a Nosso Senhor. Este amor de Madalena era o amor confiante, penitente, que atrai o Amor misericordioso. As almas grandes no pecado costumam também ser grandes no Amor Divino. Vede Agostinho, Margarida de Cortona, Maria Egipcíaca. Que almas seráficas! O amor das criaturas, que mancha e perde, transforma-se, purifica e salva, quando voltado para o Criador. Eis porque Nosso Senhor assim pode falar de Madalena: "Muitos pecados lhe são perdoados porque muito amou".
+
+Tua alma está coberta de iniquidades, de crimes, de pecados vergonhosos? Ah! Não tenhas receio!\... Corre depressa a Jesus e pede-Lhe perdão, como fez Madalena, num gesto de confiança e de amor penitente. E serás perdoado! O amor e a confiança ressuscitam as almas que buscam o Salvador com todas as forças. É só isto que pede o Coração misericordioso de Jesus. Amor e confiança! Dizia uma alma arrependida. O resto\... não existe para mim(#BOOKMARK 151#)
+

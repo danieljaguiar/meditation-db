@@ -1,0 +1,7 @@
+
+A piedosa autora dos "Avisos espirituais" escreve, no seu livro de consolações,
+
+que devemos aceitar a cruz que Nosso Senhor nos envia, sem a diminuir em largura, nem em comprimento ou em altura. Tal como a recebemos, devemos levá-la até ao calvário, como o fez o nosso Divino Redentor. Aceitai vossa cruz na sua largura, que abraça todas as coisas e circunstâncias capazes de vos fazerem sofrer, todas as penas, tudo o que vier! Aceitai-a no seu comprimento, isto é, na duração. Dizei assim: "Quanto tempo Nosso Senhor me quiser no sofrimento, sofrerei por seu amor, até à morte, se for de Sua Vontade!" Aceitai a vossa cruz na sua altura, isto é, na grandeza dos tormentos que vos acabrunham. Às vezes a cruz é muito alta. Que fazer? Por ser maior, será mais preciosa. A medida de nossa felicidade e glória no Céu será a medida da nossa cruz. Esperai a cruz que Nosso Senhor vos mandar e não procureis cortá-la para diminuí-la no cumprimento. Sofrei quanto tempo Ele quiser! A cruz que vem do Céu é uma obra de arte bem talhada e bela. Foi preparada pelo Artista Divino. Por que estragar, com a nossa ignorância, o trabalho tão rico do Divino Carpinteiro da Judeia? É ridículo e estúpido um operário boçal mutilar o trabalho de um artista.
+
+Não estraguemos a obra-prima do Divino Artista que talhou nossa cruz!
+

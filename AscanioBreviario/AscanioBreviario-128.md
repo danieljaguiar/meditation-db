@@ -1,0 +1,7 @@
+
+Estamos exilados na terra. Nossa pátria é o Céu. Eva, mãe dos homens, legou- lhes a morte, o pecado, a perdição e as amarguras do desterro. "Degredados filhos de Eva." É de degredos a nossa condição aqui! Maria, a quem o Anjo saudou: "Ave." "Deus te salve." -- Veio consolar-nos no exílio, veio salvar-nos e ajudar- nos a chegar à Pátria, ao Céu. Em terra estranha, nem conhecemos o caminho nem temos sossego. Façamo-nos pequeninos pela humildade, resignação e abandono. Roguemos a Nossa Senhora que nos guie e nos venha adoçar, com o seu carinho materno, os dissabores e a saudade amarga da Pátria. Sem Maria, o exílio da terra é muito duro. Não A vemos ainda, é verdade, mas sentimos a sua doce proteção, a influência do seu carinhoso amor. Longe da pátria, o filho se sente feliz quando recebe uma carta da mamãe querida. Beija-a e a lê comovido. As suas expressões ternas, que lhe despertam tão doces recordações e lhe excitam as saudades do lar, o carinho e solicitude maternais que nelas transparecem, tudo, tudo lhe fala ao coração. Sofre, sim, mas consola-o e conforta-o o pensamento de que um anjo reza por ele e o acompanha, dia e noite, carinhosamente, a pensar, a chorar, preparando agradáveis surpresas para a
+
+volta, do exílio, de seu filho amado.
+
+Oh! Quando, no triste exílio desta vida, sentirmos o coração oprimido de tristeza e saudades, olhemos para o Céu. Maria lá nos espera. Beijemos o seu terço. É a carta do seu carinhoso amor materno, escrita por Ela mesma, para consolar-nos.
+

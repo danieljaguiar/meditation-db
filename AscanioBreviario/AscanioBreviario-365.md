@@ -1,0 +1,11 @@
+
+Conheceis a palavra de Pascal, impressionante e profundamente verdadeira: "Jesus Cristo estará agonizante até o fim do mundo. Não se pode dormir durante esse tempo!"?
+
+"Dormir -- comenta o Pe. Plus(#BOOKMARK 335#) -- como pensar em tal quando o Mestre está aí suspenso, a padecer, para muitos, infelizmente em vão?"
+
+-   "Pois que -- dizia Urias a Davi -- o meu general Joab dorme numa tenda de campanha e eu havia de ir descansar num palácio! Não, não aceito este privilégio
+
+triste!" À vista do Crucificado perde-se a vontade de viver sem cruz. Os santos, com o Apóstolo das Gentes, sofrem todos a sublime loucura da cruz. Sofrem, porque não sofrem ainda mais. É a sede de Amor e essa sede só se pode satisfazer, aqui no exílio, de cruz, de sofrimento, e martírios. São Felipe Néri estava à morte, esgotado, sem forças. O médico mandou-lhe que tomasse um caldo. Trazendo-lhe, começa a tomá-lo. Para de repente e exclama: "Ah! meu Jesus! que diferença entre nós! Fostes cravado no duro madeiro da cruz e eu descanso num leito tão cômodo! Deram-vos a beber fel e vinagre e a mim enchem-me de carinhos. Em torno de Vós havia inimigos, que vos insultavam, e junto de mim só há amigos, que se esforçam por me consolar!" E o santo se pôs a chorar. Oh! Como Nosso Senhor Crucificado apaixona os santos!
+
+Saibamos sofrer em espírito de reparação pelos nossos pecados, e olhemos com mais fé, com mais amor, o nosso crucifixo!
+
