@@ -1,0 +1,19 @@
+
+Os sofrimentos humanos podem ser considerados à dupla luz. Primeiro, quanto à espécie. E então, não devia Cristo sofrer todos os sofrimentos; pois, muitas espécies de sofrimentos são contrárias entre si, tal a combustão pelo fogo e a submersão na água. Mas, agora tratamos dos sofrimentos de proveniência extrínseca; pois, os sofrimentos procedentes de causas externas, como as doenças do corpo, não devia ele sofrê-los, como dissemos.
+
+Mas, quanto ao gênero, sofreu todos os sofrimentos humanos. O que é susceptível de tríplice consideração:
+
+1\. Primeiro, quanto aos homens que lhe causaram sofrimentos. Pois, certos sofrimentos lhe foram infligidos pelos gentios e pelos judeus; por homens e por mulheres, como o mostram as criadas acusadoras de Pedro. Também recebeu sofrimentos de príncipes e de seus ministros, e do populacho, conforme a Escritura (Sl 2, 1): *« Por que razão se embraveceram as nações e os povos meditaram coisas vãs? Os reis da terra se sublevaram e os príncipes se coligaram contra o Senhor e seu Cristo».* Sofreu também de seus discípulos e conhecidos: como de Judas, que o traiu e de Pedro, que o negou.
+
+2\. Segundo, o mesmo se conclui relativamente àquilo em que o homem pode sofrer. Assim, sofreu nos seus amigos, que o abandonaram; na sua reputação, pelas blasfêmias contra ele proferidas; na sua honra e glória, pelas irrisões e contumélias contra ele assacadas; nos bens, quando das suas próprias vestes foi espoliado; na alma, pela tristeza, pelo tédio e pelo temor; no corpo, pelos ferimentos e flagelações.
+
+3\. Terceiro, podemos considerá-lo relativamente aos membros do corpo.
+
+Assim, Cristo sofreu, na cabeça, a coroa de pungentes espinhos; nas mãos e nos pés, a pregação dos cravos; na face, bofetadas e cuspe; e em todo o corpo, flagelações. Sofreu também em todos os sentidos do corpo: no tato, quando flagelado e pregado com cravos; no gosto, quando lhe deram de beber fel e vinagre; no olfato, quando suspenso no patíbulo, num lugar fétido pelos cadáveres dos supliciados, *chamado Calvário*; no ouvido, ferido pelas vociferações dos que o blasfemavam e faziam dele irrisão; na vista, *ao ver sua mãe e o discípulo a quem amava, chorando*.
+
+Quanto à suficiência, um sofrimento mínimo de Cristo bastava para remir o gênero humano de todos os pecados. Mas, quanto à conveniência, foi suficiente que sofresse todos os gêneros de sofrimentos.
+
+*III, q. XLVI, a. 5.*
+
+(P. D. Mézard, O. P., *Meditationes ex Operibus S. Thomae*)
+

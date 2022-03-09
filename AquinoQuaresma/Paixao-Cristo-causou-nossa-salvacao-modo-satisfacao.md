@@ -1,0 +1,21 @@
+
+*«Ele é propiciação pelos nossos pecados; e não somente pelos nossos, mas também pelos de todo o mundo»* (1 Jo 2, 2)
+
+**I. Propriamente falando, satisfaz pela ofensa quem, ao ofendido, oferece algo que este ame tanto ou mais do que odeia a ofensa.** Ora, Cristo, sofrendo por obediência e caridade, ofereceu a Deus um bem maior do que o exigido pela recompensa da ofensa total do gênero humano. **Assim, primeiro, pela grandeza da caridade, pela qual sofria. Segundo, pela dignidade de sua vida, que oferecia em satisfação**, que era a vida de Deus e do homem. **Terceiro, por causa da generalidade da Paixão e da grandeza da dor assumida.** Por onde, a Paixão de Cristo foi uma satisfação não só suficiente, mas superabundante pelos pecados do gênero humano, segundo aquilo do Evangelho: *«Ele é a propiciação pelos nossos pecados, e não somente pelos nossos, mas também pelos de todo o mundo»* (Mt 20, 19).
+
+**Em verdade, quem peca é que deve dar satisfação; porém, a cabeça e os membros constituem uma como pessoa mística. Por isso, a satisfação de Cristo pertence a todos os fiéis, como aos seus membros. Assim, também quando dois homens estão unidos pela caridade, um pode satisfazer por outro.**
+
+*III, q. XLVIII, a. II*
+
+**II. Ainda que Cristo tenha, com sua morte, satisfeito suficientemente pelo pecado original, não é inconveniente que as penalidades conseqüentes deste pecado permaneçam ainda naqueles que participam da redenção de Cristo.** Com efeito, que a pena continue mesmo após a abolição da culpa, é algo em que se encontra harmonia e utilidade:
+
+**1. Para que exista conformidade entre os fiéis e Cristo, como entre os membros e a cabeça.** Ora, assim como Cristo suportou muitos sofrimentos até chegar a glória da imortalidade, assim convinha que seus fiéis passassem por sofrimentos até chegarem a imortalidade; trazem em si mesmos as marcas da Paixão de Cristo, por assim dizer, para obter uma glória semelhante a sua.
+
+**2. Pois, se os homens que vêm ao Cristo recebessem prontamente a imortalidade e a impassibilidade, muitos homens se aproximariam do Cristo mais por causa destes benefícios corporais que pelos bens espirituais**, o que vai contra a intenção de Cristo, que veio ao mundo para levar os homens, do amor das coisas corporais, ao amor das espirituais.
+
+**3. Enfim, se os que se aproximam de Cristo se tornassem, instantaneamente, impassíveis e imortais, isto, de certo modo, os compeliria a abraçar a fé de Cristo. O que diminuiria o mérito da fé.**
+
+*Contr. 4, 55.*
+
+(P. D. Mézard, O. P., *Meditationes ex Operibus S. Thomae*)
+
