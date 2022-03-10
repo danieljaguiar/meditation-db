@@ -3,7 +3,7 @@ _We were reconciled to God through the death of his son_. — [Rom. v, 10](https
 
 1\. The Passion of Christ brought about our reconciliation to God in two ways.
 
-It removed the sin that had made the human race God's enemy, as it says in Holy Scripture, To God _the wicked and his wickedness are alike hateful_ ([Wis. xiv, 9](https://vulgata.online/bible/Wis.xiv?ed=DR2&vfn=DR2.Wis.xiv.9:vs), and again, _Thou hatest all the workers of iniquity_ ([Ps. v, 7](https://vulgata.online/bible/Ps.v?ed=DR2&vfn=DR2.Ps.v.7:vs)).
+It removed the sin that had made the human race God's enemy, as it says in Holy Scripture, To God _the wicked and his wickedness are alike hateful_ ([Wis. xiv, 9](https://vulgata.online/bible/Wis.xiv?ed=DR2&vfn=DR2.Wis.xiv.9:vs)), and again, _Thou hatest all the workers of iniquity_ ([Ps. v, 7](https://vulgata.online/bible/Ps.v?ed=DR2&vfn=DR2.Ps.v.7:vs)).
 
 Secondly, the Passion was a sacrifice most acceptable to God. It is in fact the peculiar effect of sacrifice to be itself a thing by which God is placated: just as a man remits offences done against him for the sake of some acknowledgment, pleasing to him, which is made. _Whence it is said, If the Lord stir thee up against me, let him accept of sacrifice_ (1 Kings xxvi. 19). Likewise, the voluntary suffer ing of Christ was so good a thing in itself, that for the sake of this good thing found in human nature, God was pleased beyond the totality of offences committed by all mankind, as far as concerns all those who are linked to Christ in his suffering by faith and by charity.
 

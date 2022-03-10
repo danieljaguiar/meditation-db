@@ -17,7 +17,7 @@ By sinning man bound himself not to God but to the devil. As far as concerns the
 
 Hence he did not, by reason of the sin committed, bind himself to God, but rather, deserting God's service, he had fallen under the yoke of the devil. And God, with justice if we remember the offence committed against Him, had not prevented this.
 
-But, if we consider the matter of the punishment earned, it was chiefly and in the first place to God that man was bound, as to the supreme judge. Man was, in respect of punishment, bound to the devil only in a lesser sense, as to the torturer, as it says in the gospel, _Lest the adversary deliver thee to the judge and the judge deliver thee to the officer_ ([Mt. v, 25](https://vulgata.online/bible/Mt.v?ed=DR2&vfn=DR2.Mt.v.25:vs), that is, to the cruel minister of punishments .
+But, if we consider the matter of the punishment earned, it was chiefly and in the first place to God that man was bound, as to the supreme judge. Man was, in respect of punishment, bound to the devil only in a lesser sense, as to the torturer, as it says in the gospel, _Lest the adversary deliver thee to the judge and the judge deliver thee to the officer_ ([Mt. v, 25](https://vulgata.online/bible/Mt.v?ed=DR2&vfn=DR2.Mt.v.25:vs)), that is, to the cruel minister of punishments .
 
 Therefore, although the devil unjustly, as far as was in his power, held man — whom by his lies he had deceived — bound in slavery, held him bound both on account of the guilt and of the punishment due for it, it was nevertheless just that man should suffer in this way. The slavery which he suffered on account of the thing done God did not prevent, and the slavery he suffered as punishment God decreed.
 

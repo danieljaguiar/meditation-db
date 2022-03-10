@@ -9,7 +9,7 @@ God, _Then shalt thou abound in delights in the almighty_ (job xxii. 26). _In th
 
 - (ii) The reward is yet special for each individual. One man shall see more clearly than another, and shall enjoy more fully, according to the measure allotted him. Hence the words in St. John (xiv. 2), _In my father's house there are many mansions_ for which reason too, it was said, "_Everyone shall receive his own reward._"
 
-St. Paul shows how the extent of each one's reward will be measured when he says, according to his own labour. Not that by this is meant an equality as between the amount of labour and the amount of the reward, for as it is said in [2Co. iv, 17](https://vulgata.online/bible/2Co.iv?ed=DR2&vfn=DR2.2Co.iv.17:vs), _That which is at present Momentary and light of our tribulation, worketh for us above measure exceedingly an eternal weight of glory_. The equality promised is the equality of proportion, an equality such that where there has been greater labour there will be greater reward.
+St. Paul shows how the extent of each one's reward will be measured when he says, according to his own labour. Not that by this is meant an equality as between the amount of labour and the amount of the reward, for as it is said in [2Co. iv, 17](https://vulgata.online/bible/2Co.iv?ed=DR2&vfn=DR2.2Co.iv.17:vs)), _That which is at present Momentary and light of our tribulation, worketh for us above measure exceedingly an eternal weight of glory_. The equality promised is the equality of proportion, an equality such that where there has been greater labour there will be greater reward.
 
 2\. The labour can be considered as greater in three ways:
 

@@ -3,7 +3,7 @@ _God spared not even His own Son, but delivered Him up for us all_. — [Rom. vi
 
 Christ suffered willingly, moved by obedience to His Father. Wherefore, God the Father delivered Christ to his Passion, and this in three ways:
 
-1\. Because the Father, of His eternal will, preordained the Passion of Christ as the means whereby to free the human race. So it is said in Isaias, The Lord hath laid on Him the iniquity of us all ([Is. liii, 6](https://vulgata.online/bible/Is.liii?ed=DR2&vfn=DR2.Is.liii.6:vs), and again, _The Lord was pleased to bruise him in infirmity_ ([ibid. liii, 10](https://vulgata.online/bible/ibid.liii?ed=DR2&vfn=DR2.ibid.liii.10:vs)).
+1\. Because the Father, of His eternal will, preordained the Passion of Christ as the means whereby to free the human race. So it is said in Isaias, The Lord hath laid on Him the iniquity of us all ([Is. liii, 6](https://vulgata.online/bible/Is.liii?ed=DR2&vfn=DR2.Is.liii.6:vs)), and again, _The Lord was pleased to bruise him in infirmity_ ([ibid. liii, 10](https://vulgata.online/bible/ibid.liii?ed=DR2&vfn=DR2.ibid.liii.10:vs)).
 
 2\. Because He inspired Our Lord with the willingness to suffer for us, pouring into his soul the love which produced the will to suffer. Whence the prophet goes on to say, _He was offered because it was his own will_ ([Is. iii, 7](https://vulgata.online/bible/Is.iii?ed=DR2&vfn=DR2.Is.iii.7:vs)).
 

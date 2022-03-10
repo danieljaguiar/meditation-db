@@ -1,7 +1,7 @@
 
 1\. We fast for three reasons.
 
-- (i) To check the desires of the flesh. So St. Paul says _in fastings, in chastity_ ([2Co. vi, 5](https://vulgata.online/bible/2Co.vi?ed=DR2&vfn=DR2.2Co.vi.5:vs), meaning that fasting is a safeguard for chastity. As St. Jerome says, "Without Ceres, and Bacchus, Venus would freeze,"as much as to say that lust loses its heat through spareness of food and drink.
+- (i) To check the desires of the flesh. So St. Paul says _in fastings, in chastity_ ([2Co. vi, 5](https://vulgata.online/bible/2Co.vi?ed=DR2&vfn=DR2.2Co.vi.5:vs)), meaning that fasting is a safeguard for chastity. As St. Jerome says, "Without Ceres, and Bacchus, Venus would freeze,"as much as to say that lust loses its heat through spareness of food and drink.
 
 - (ii) That the mind may more freely raise itself to contemplation of the heights. We' read in the book of Daniel that it was after a fast of three weeks that he received the revelation from God ([Dan. x, 2](https://vulgata.online/bible/Dan.x?ed=DR2&vfn=DR2.Dan.x.2:vs-4)).
 

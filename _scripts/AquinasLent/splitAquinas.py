@@ -7,11 +7,8 @@ import json
 import datetime
 import os
 
-initial_path = "./_scripts/AquinasLent/"
-
-
 try:
-    dir = initial_path + 'outputlocal'
+    dir = './AquinasLent'
     for f in os.listdir(dir):
         os.remove(os.path.join(dir, f))
 except OSError:
@@ -19,7 +16,7 @@ except OSError:
 
 count_file = 0
 
-with open(initial_path + "AquinasLent-Full.md", encoding="utf-8") as file:
+with open("./_scripts/AquinasLent/AquinasLent-Full.md", encoding="utf-8") as file:
     lines = file.readlines()
 
     for line in lines:
@@ -27,5 +24,5 @@ with open(initial_path + "AquinasLent-Full.md", encoding="utf-8") as file:
             print("new file", count_file)
             count_file = count_file + 1
         else:
-            with open(initial_path + "outputlocal/AquinasLent-"+count_file.__str__()+".md", "a", encoding="utf8") as myfile:
+            with open("./AquinasLent/AquinasLent-"+count_file.__str__()+".md", "a", encoding="utf8") as myfile:
                 myfile.write(line)

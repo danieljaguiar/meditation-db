@@ -5,7 +5,7 @@ It was right that Christ should be buried.
 
 1\. It proved that He had really died. No one is placed in the grave unless he is undeniably dead. And, as we read in St. Mark (ch. xv), Pilate, before he gave leave for Christ to be buried, made careful inquiry to assure himself that Christ was dead.
 
-2\. The very fact that Christ rose again from the grave gives a hope of rising again through Him to all others who lie in their graves. As it says in the gospel, _All that are in the grave shall hear the voice of the Son of God. And they that hear shall live_ ([Jo. v, 28](https://vulgata.online/bible/Jo.v?ed=DR2&vfn=DR2.Jo.v.28:vs), 25).
+2\. The very fact that Christ rose again from the grave gives a hope of rising again through Him to all others who lie in their graves. As it says in the gospel, _All that are in the grave shall hear the voice of the Son of God. And they that hear shall live_ ([Jo. v, 28](https://vulgata.online/bible/Jo.v?ed=DR2&vfn=DR2.Jo.v.28:vs)), 25).
 
 3\. It was an example for those who by the death of Christ are spiritually dead to sin, for those, that is, who are hidden away from the turmoil of human affairs. So St. Paul says, _You are dead; and your life is hid with Christ in God_ ([Col. iii, 3](https://vulgata.online/bible/Col.iii?ed=DR2&vfn=DR2.Col.iii.3:vs)). So, too, those who are baptised, since by the death of Christ they die to sin, are as it were buried with Christ in their immersion, as St. Paul again says, _We are buried together with Christ by baptism unto death_ ([Rom. vi, 4](https://vulgata.online/bible/Rom.vi?ed=DR2&vfn=DR2.Rom.vi.4:vs)).
 

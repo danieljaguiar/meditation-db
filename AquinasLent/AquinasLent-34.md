@@ -5,7 +5,7 @@ _Joseph taking the body, wrapped it up in a clean linen cloth and laid it in his
 
 - (i) The pure body of Christ. For the cloth was made of linen which by much pressing is made white and in like manner it was after much pressure that the body of Christ came to the brightness of the resurrection. _Thus it behoved Christ to suffer, and to rise again from the dead the third day_ ([Lc. xxiv, 46](https://vulgata.online/bible/Lc.xxiv?ed=DR2&vfn=DR2.Lc.xxiv.46:vs)).
 
-- (ii) The Church, which _without spot or wrinkle_ ([Eph. v, 27](https://vulgata.online/bible/Eph.v?ed=DR2&vfn=DR2.Eph.v.27:vs), is signified by this linen woven out of many threads.
+- (ii) The Church, which _without spot or wrinkle_ ([Eph. v, 27](https://vulgata.online/bible/Eph.v?ed=DR2&vfn=DR2.Eph.v.27:vs)), is signified by this linen woven out of many threads.
 
 - (iii) A clear conscience, where Christ reposes.
 
