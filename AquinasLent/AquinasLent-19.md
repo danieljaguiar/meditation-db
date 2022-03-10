@@ -3,7 +3,7 @@
 
 - (i) To check the desires of the flesh. So St. Paul says _in fastings, in chastity_ ([2Co. vi, 5](https://vulgata.online/bible/2Co.vi?ed=DR2&vfn=DR2.2Co.vi.5:vs), meaning that fasting is a safeguard for chastity. As St. Jerome says, "Without Ceres, and Bacchus, Venus would freeze,"as much as to say that lust loses its heat through spareness of food and drink.
 
-- (ii) That the mind may more freely raise itself to contemplation of the heights. We' read in the book of Daniel that it was after a fast of three weeks that he received the revelation from God ([Dan. x, 2](https://vulgata.online/bible/Dan.x?ed=DR2&vfn=DR2.Dan.x.2:vs-4).
+- (ii) That the mind may more freely raise itself to contemplation of the heights. We' read in the book of Daniel that it was after a fast of three weeks that he received the revelation from God ([Dan. x, 2](https://vulgata.online/bible/Dan.x?ed=DR2&vfn=DR2.Dan.x.2:vs-4)).
 
 - (iii) To make satisfaction for sin. This is the reason given by the prophet Joel, _Be converted to me with all your heart, in fasting and in weeping and in mourning_ (Joel ii. 12). And here is what St. Augustine writes on the matter. "Fasting purifies the soul. It lifts up the mind, and it brings the body into subjection to the spirit. It makes the heart contrite and humble, scatters the clouds of desire, puts out the flames of lust and the true light of chastity."
 
@@ -15,7 +15,7 @@
 
 - (ii) the lifting of the mind to higher things.
 
-The times self-indicated for fasting are then those in which men are especially bound to free themselves from sin and to raise their minds to God in devotion. Such a time especially is that which precedes that solemnity of Easter in which baptism is administered and sin thereby destroyed, and when the burial of Our Lord is recalled, for _we are buried together with Christ by baptism into death_ ([Rom. vi, 4](https://vulgata.online/bible/Rom.vi?ed=DR2&vfn=DR2.Rom.vi.4:vs). Then, too, at Easter most of all men's minds should be lifted, through devotion to the glory of that eternity which Christ in his resurrection inaugurated.
+The times self-indicated for fasting are then those in which men are especially bound to free themselves from sin and to raise their minds to God in devotion. Such a time especially is that which precedes that solemnity of Easter in which baptism is administered and sin thereby destroyed, and when the burial of Our Lord is recalled, for _we are buried together with Christ by baptism into death_ ([Rom. vi, 4](https://vulgata.online/bible/Rom.vi?ed=DR2&vfn=DR2.Rom.vi.4:vs)). Then, too, at Easter most of all men's minds should be lifted, through devotion to the glory of that eternity which Christ in his resurrection inaugurated.
 
 Wherefore the Church has decreed that immediately before the solemnity of Easter we must fast, and, for a similar reason, that we must fast on the eves of the principal feasts, setting apart those days as opportune to prepare ourselves for the devout celebration of the feasts themselves.
 

@@ -5,7 +5,7 @@ This woman, once Christ had instructed her, became an apostle. There are three t
 
 1\. The entirety of her surrender to Our Lord. This is shown:
 
-- (i) From the fact that she left lying there, almost as if forgotten, that for which she had come to the well, the water and the water-pot. So great was her absorption. Hence it is said, _The woman left her water-pot and went away into the city_, went away to announce the wonderful works of Christ. She cared no longer for the bodily comforts in view of the usefulness of better things, following in this the example of the Apostles of whom it is said that, _Leaving their nets they followed the Lord_ ([Mc. i, 18](https://vulgata.online/bible/Mc.i?ed=DR2&vfn=DR2.Mc.i.18:vs).
+- (i) From the fact that she left lying there, almost as if forgotten, that for which she had come to the well, the water and the water-pot. So great was her absorption. Hence it is said, _The woman left her water-pot and went away into the city_, went away to announce the wonderful works of Christ. She cared no longer for the bodily comforts in view of the usefulness of better things, following in this the example of the Apostles of whom it is said that, _Leaving their nets they followed the Lord_ ([Mc. i, 18](https://vulgata.online/bible/Mc.i?ed=DR2&vfn=DR2.Mc.i.18:vs)).
 
 The water-pot stands for fashionable desire, by means of which men draw up pleasures from those depths of darkness signified by the well, that is, from practices which are of the earth earthy. Those who abandon such desires for the sake of God are like the woman who left her water-pot.
 
@@ -27,7 +27,7 @@ _They therefore went out of the city and came unto Christ_. — John iv. 30.
 
 Hereby it is made clear to us that if we would come to Christ, we too must go out of the city, which is to say, we must lay aside all love of bodily delights.
 
-_Let us go forth therefore to him without the camp_ ([Heb. xiii, 13](https://vulgata.online/bible/Heb.xiii?ed=DR2&vfn=DR2.Heb.xiii.13:vs).
+_Let us go forth therefore to him without the camp_ ([Heb. xiii, 13](https://vulgata.online/bible/Heb.xiii?ed=DR2&vfn=DR2.Heb.xiii.13:vs)).
 
 (In John iv.)
 

@@ -1,13 +1,13 @@
 
-_He putteth water into a basin, and began to wash the feet of the disciples, and to wipe them with the towel wherewith he was girded_ ([Jo. xiii, 5](https://vulgata.online/bible/Jo.xiii?ed=DR2&vfn=DR2.Jo.xiii.5:vs).
+_He putteth water into a basin, and began to wash the feet of the disciples, and to wipe them with the towel wherewith he was girded_ ([Jo. xiii, 5](https://vulgata.online/bible/Jo.xiii?ed=DR2&vfn=DR2.Jo.xiii.5:vs)).
 
 There are three things which this can be taken to symbolise.
 
 1\. The pouring of the water into the basin is a symbol of the pouring out of His blood upon the earth. Since the blood of Jesus has a power of cleansing it may in a sense be called water. The reason why water, as well as blood, came out of His side, was to show that this blood could wash away sin.
 
-Again we might take the water as a figure of Christ's Passion. He _putteth water into a basin_, that is, by faith and devotion He stamped into the minds of faithful followers the memory of His Passion. _Remember my poverty, and transgression, the wormwood and the gall_ ([Lam. iii, 19](https://vulgata.online/bible/Lam.iii?ed=DR2&vfn=DR2.Lam.iii.19:vs).
+Again we might take the water as a figure of Christ's Passion. He _putteth water into a basin_, that is, by faith and devotion He stamped into the minds of faithful followers the memory of His Passion. _Remember my poverty, and transgression, the wormwood and the gall_ ([Lam. iii, 19](https://vulgata.online/bible/Lam.iii?ed=DR2&vfn=DR2.Lam.iii.19:vs)).
 
-2\. By the words and _began to wash_ it is human imperfection that is symbolised. For the Apostles, after their living with Christ, were certainly more perfect, and yet they needed to be washed, there were still stains upon them. We are here made to understand that no matter what is the degree of any man's perfection he still needs to be made more perfect still; He is still contracting uncleanness of some kind to some extent. So in the Book of Proverbs we read, _Who can say My heart is clean I am pure from sin_ ([Pv. xx, 9](https://vulgata.online/bible/Pv.xx?ed=DR2&vfn=DR2.Pv.xx.9:vs).
+2\. By the words and _began to wash_ it is human imperfection that is symbolised. For the Apostles, after their living with Christ, were certainly more perfect, and yet they needed to be washed, there were still stains upon them. We are here made to understand that no matter what is the degree of any man's perfection he still needs to be made more perfect still; He is still contracting uncleanness of some kind to some extent. So in the Book of Proverbs we read, _Who can say My heart is clean I am pure from sin_ ([Prov. xx, 9](https://vulgata.online/bible/Prov.xx?ed=DR2&vfn=DR2.Prov.xx.9:vs)).
 
 Nevertheless the Apostles and the just have this kind of uncleanness only in their feet.
 

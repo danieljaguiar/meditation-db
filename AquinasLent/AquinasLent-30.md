@@ -1,5 +1,5 @@
 
-_They shall deliver him to the Gentiles to be mocked, and scourged and crucified_. — [Mt. xx, 19](https://vulgata.online/bible/Mt.xx?ed=DR2&vfn=DR2.Mt.xx.19:vs.
+_They shall deliver him to the Gentiles to be mocked, and scourged and crucified_. — [Mt. xx, 19](https://vulgata.online/bible/Mt.xx?ed=DR2&vfn=DR2.Mt.xx.19:vs).
 
 In the very manner of the Passion of Our Lord its effects are foreshadowed. In the first place, the Passion of Our Lord had for its effect the salvation of Jews, many of whom were baptised in his death.
 

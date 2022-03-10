@@ -1,5 +1,5 @@
 
-Our Lord said, as His Passion drew near, _Now shall the princes of this world be cast out. And I, if I be lifted up from the earth, will draw all things to myself_ ([Jo. xii, 31](https://vulgata.online/bible/Jo.xii?ed=DR2&vfn=DR2.Jo.xii.31:vs, 32).
+Our Lord said, as His Passion drew near, _Now shall the princes of this world be cast out. And I, if I be lifted up from the earth, will draw all things to myself_ ([Jo. xii, 31](https://vulgata.online/bible/Jo.xii?ed=DR2&vfn=DR2.Jo.xii.31:vs), 32).
 
 He was lifted up from the earth by His Passion on the cross. Therefore by that Passion the devil was driven out from his dominion over men.
 

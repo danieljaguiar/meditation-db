@@ -1,3 +1,4 @@
+
 _Attend and see if there be any sorrow like unto my sorrow_. — [Lam. i, 12](https://vulgata.online/bible/Lam.i?ed=DR2&vfn=DR2.Lam.i.12:vs).
 
 Our Lord as He suffered felt really, and in his senses, that pain which is caused by some harmful bodily thing. Lie also felt that interior pain which is caused by the fear of something harmful and which we call sadness. In both these respects the pain suffered by Our Lord was the greatest pain possible in this present life. There are four reasons why this was so.
@@ -8,7 +9,7 @@ The cause of the pain in the senses was the breaking up of the body, a pain whos
 
 The cause of the internal pain was:
 
-- (i) All the sins of all mankind for which, by suffering, he was making satisfaction, so that, in a sense, he took them to him as though they were his own. _The words of my sins_, it says in the Psalms ([Ps. xxi, 2](https://vulgata.online/bible/Ps.xxi?ed=DR2&vfn=DR2.Ps.xxi.2:vs).
+- (i) All the sins of all mankind for which, by suffering, he was making satisfaction, so that, in a sense, he took them to him as though they were his own. _The words of my sins_, it says in the Psalms ([Ps. xxi, 2](https://vulgata.online/bible/Ps.xxi?ed=DR2&vfn=DR2.Ps.xxi.2:vs)).
 
 - (ii) The special case of the Jews and the others who had had a share in the sin of his death, and especially the case of his disciples for whom his death had been a thing to be ashamed of.
 
@@ -23,3 +24,4 @@ The cause of the internal pain was:
 From all these causes, if we consider them together, it will be evident that the pain suffered by Christ was the greatest pain ever suffered.
 
 (3 46 6.)
+

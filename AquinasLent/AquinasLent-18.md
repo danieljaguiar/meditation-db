@@ -1,5 +1,5 @@
 
-_By one man sin entered into this world, and by sin death_. --[Rom. v, 12](https://vulgata.online/bible/Rom.v?ed=DR2&vfn=DR2.Rom.v.12:vs.
+_By one man sin entered into this world, and by sin death_. --[Rom. v, 12](https://vulgata.online/bible/Rom.v?ed=DR2&vfn=DR2.Rom.v.12:vs).
 
 1\. If for some wrongdoing a man is deprived of some benefit once given to him, that he should lack that benefit is the punishment of his sin.
 

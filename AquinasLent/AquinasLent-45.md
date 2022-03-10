@@ -13,7 +13,7 @@ Toil, thirst, hunger, the aches of the body, all these he endured, to encourage 
 
 He went so far as to endure even death, lest the fear of death might at any time tempt man to abandon the truth. And lest any of us might dread to die even a shameful death for the truth, he chose to die by the most accursed death of all, by crucifixion.
 
-That the Son of God, made man, should suffer death was also fitting for this reason, that by his example he stimulates our courage, and so makes true what St. Peter said, _Christ suffered for us, leaving you an example that you should follow his steps_ ([OnePet. ii, 21](https://vulgata.online/bible/OnePet.ii?ed=DR2&vfn=DR2.OnePet.ii.21:vs).
+That the Son of God, made man, should suffer death was also fitting for this reason, that by his example he stimulates our courage, and so makes true what St. Peter said, _Christ suffered for us, leaving you an example that you should follow his steps_ ([OnePet. ii, 21](https://vulgata.online/bible/OnePet.ii?ed=DR2&vfn=DR2.OnePet.ii.21:vs)).
 
 (Contra Armen. Sarac. 7)
 

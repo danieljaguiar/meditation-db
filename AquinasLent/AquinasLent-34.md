@@ -1,11 +1,11 @@
 
-_Joseph taking the body, wrapped it up in a clean linen cloth and laid it in his own new monument_. — [Mt. xxvii, 59](https://vulgata.online/bible/Mt.xxvii?ed=DR2&vfn=DR2.Mt.xxvii.59:vs.
+_Joseph taking the body, wrapped it up in a clean linen cloth and laid it in his own new monument_. — [Mt. xxvii, 59](https://vulgata.online/bible/Mt.xxvii?ed=DR2&vfn=DR2.Mt.xxvii.59:vs).
 
 1\. By this _clean linen cloth_ three things are signified in a hidden way, namely:
 
-- (i) The pure body of Christ. For the cloth was made of linen which by much pressing is made white and in like manner it was after much pressure that the body of Christ came to the brightness of the resurrection. _Thus it behoved Christ to suffer, and to rise again from the dead the third day_ ([Lc. xxiv, 46](https://vulgata.online/bible/Lc.xxiv?ed=DR2&vfn=DR2.Lc.xxiv.46:vs).
+- (i) The pure body of Christ. For the cloth was made of linen which by much pressing is made white and in like manner it was after much pressure that the body of Christ came to the brightness of the resurrection. _Thus it behoved Christ to suffer, and to rise again from the dead the third day_ ([Lc. xxiv, 46](https://vulgata.online/bible/Lc.xxiv?ed=DR2&vfn=DR2.Lc.xxiv.46:vs)).
 
-- (ii) The Church, which _without spot or wrinkle_ ([Ef. v, 27](https://vulgata.online/bible/Ef.v?ed=DR2&vfn=DR2.Ef.v.27:vs), is signified by this linen woven out of many threads.
+- (ii) The Church, which _without spot or wrinkle_ ([Eph. v, 27](https://vulgata.online/bible/Eph.v?ed=DR2&vfn=DR2.Eph.v.27:vs), is signified by this linen woven out of many threads.
 
 - (iii) A clear conscience, where Christ reposes.
 
@@ -15,9 +15,9 @@ _It was Joseph's own grave and certainly it was somehow_ appropriate that he who
 
 Notice that it was a new grave. Had other bodies already been laid in it, there might have been a doubt which had arisen. There is another fitness in this circumstance, namely that he who was buried in this new grave, was he who was born of a virgin mother.
 
-As Mary's womb knew no child before him nor after him, so was it with this grave. Again we may understand that it is in a soul renewed that Christ is buried by faith, _that Christ may dwell by faith in our hearts_ ([Ef. iii, 17](https://vulgata.online/bible/Ef.iii?ed=DR2&vfn=DR2.Ef.iii.17:vs).
+As Mary's womb knew no child before him nor after him, so was it with this grave. Again we may understand that it is in a soul renewed that Christ is buried by faith, _that Christ may dwell by faith in our hearts_ ([Eph. iii, 17](https://vulgata.online/bible/Eph.iii?ed=DR2&vfn=DR2.Eph.iii.17:vs)).
 
-St. John's Gospel adds, _Now there was in the place where he was crucified a garden; and in the garden a new sepulchre_ ([Jo. xix, 41](https://vulgata.online/bible/Jo.xix?ed=DR2&vfn=DR2.Jo.xix.41:vs). Which recalls to us that as Christ was taken in a garden and suffered his agony in a garden, so in a garden was he buried, and thereby we are reminded that it was from the sin committed by Adam in the garden of delightfulness that, by the power of his Passion, Christ set us free, and also that through the Passion the Church was consecrated, the Church which again is as a garden closed.
+St. John's Gospel adds, _Now there was in the place where he was crucified a garden; and in the garden a new sepulchre_ ([Jo. xix, 41](https://vulgata.online/bible/Jo.xix?ed=DR2&vfn=DR2.Jo.xix.41:vs)). Which recalls to us that as Christ was taken in a garden and suffered his agony in a garden, so in a garden was he buried, and thereby we are reminded that it was from the sin committed by Adam in the garden of delightfulness that, by the power of his Passion, Christ set us free, and also that through the Passion the Church was consecrated, the Church which again is as a garden closed.
 
 (In Mt. 26.)
 

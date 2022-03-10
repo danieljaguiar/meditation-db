@@ -3,13 +3,13 @@ _Thy own soul a sword shall pierce_. — Luke ii. 35.
 
 In these words there is noted for us the close association of Our Lady with the Passion of Christ. Four things especially made the Passion most bitter for her.
 
-Firstly, the goodness of her son, _Who did no sin_ ([OnePet. ii, 22](https://vulgata.online/bible/OnePet.ii?ed=DR2&vfn=DR2.OnePet.ii.22:vs).
+Firstly, the goodness of her son, _Who did no sin_ ([OnePet. ii, 22](https://vulgata.online/bible/OnePet.ii?ed=DR2&vfn=DR2.OnePet.ii.22:vs)).
 
 Secondly, the cruelty of those who crucified Him, shown, for example, in this that as He lay dying they refused Him even water, nor would they allow His mother, who would most lovingly have given it, to help Him.
 
-Thirdly, the disgrace of the punishment, _Let us condemn him to a most shameful death_ ([Wis. ii, 20](https://vulgata.online/bible/Wis.ii?ed=DR2&vfn=DR2.Wis.ii.20:vs).
+Thirdly, the disgrace of the punishment, _Let us condemn him to a most shameful death_ ([Wis. ii, 20](https://vulgata.online/bible/Wis.ii?ed=DR2&vfn=DR2.Wis.ii.20:vs)).
 
-Fourthly, the cruelty of the torment. _O ye that pass by the way, attend and see if there be any sorrow like to my sorrow_ ([Lam. i, 12](https://vulgata.online/bible/Lam.i?ed=DR2&vfn=DR2.Lam.i.12:vs).
+Fourthly, the cruelty of the torment. _O ye that pass by the way, attend and see if there be any sorrow like to my sorrow_ ([Lam. i, 12](https://vulgata.online/bible/Lam.i?ed=DR2&vfn=DR2.Lam.i.12:vs)).
 
 (Serm.)
 
