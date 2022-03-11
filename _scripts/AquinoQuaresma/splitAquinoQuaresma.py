@@ -17,7 +17,7 @@ try:
 except OSError:
     pass
 
-count_file = -1
+count_file = 0
 
 with open(initial_path + "full.md", encoding="utf-8") as fullFile:
     lines = fullFile.readlines()
@@ -31,5 +31,5 @@ with open(initial_path + "full.md", encoding="utf-8") as fullFile:
                 print(count_file, "- new file - ",
                       fileNamesLines[count_file].strip())
             else:
-                with open("./AquinoQuaresma/"+fileNamesLines[count_file].strip()+".md", "a", encoding="utf8") as newFile:
+                with open("./AquinoQuaresma/"+count_file.__str__()+".md", "a", encoding="utf8") as newFile:
                     newFile.write(line)
