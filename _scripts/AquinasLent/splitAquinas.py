@@ -24,5 +24,5 @@ with open("./_scripts/AquinasLent/AquinasLent-Full.md", encoding="utf-8") as fil
             print("new file", count_file)
             count_file = count_file + 1
         else:
-            with open("./AquinasLent/AquinasLent-"+count_file.__str__()+".md", "a", encoding="utf8") as myfile:
+            with open("./AquinasLent/"+count_file.__str__()+".md", "a", encoding="utf8") as myfile:
                 myfile.write(line)
