@@ -7,11 +7,11 @@ import json
 import datetime
 import os
 
-initial_path = "./_scripts/AquinoQuaresma/"
+initial_path = "./_scripts/aquino-quaresma/"
 
 
 try:
-    dir = './AquinoQuaresma'
+    dir = './aquino-quaresma'
     for f in os.listdir(dir):
         os.remove(os.path.join(dir, f))
 except OSError:
@@ -27,9 +27,9 @@ with open(initial_path + "full.md", encoding="utf-8") as fullFile:
 
         for line in lines:
             if(line[0:1] == "#"):
-                count_file = count_file + 1
-                print(count_file, "- new file - ",
+                print(count_file + 1, "- new file - ",
                       fileNamesLines[count_file].strip())
+                count_file = count_file + 1
             else:
-                with open("./AquinoQuaresma/"+count_file.__str__()+".md", "a", encoding="utf8") as newFile:
+                with open("./aquino-quaresma/"+count_file.__str__()+".md", "a", encoding="utf8") as newFile:
                     newFile.write(line)
