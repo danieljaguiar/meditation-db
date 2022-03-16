@@ -4,7 +4,7 @@ Nesta obra o Padre Cristini se valeu da \"Le Opere Complete di Sant'Alfonso de' 
 
 Com maestria, o pe. Cristini organizou os textos do Santo em leituras para serem meditadas em cada dia do ano liturgica. As leituras com frequencia nos remetem a liturgia tridentina do dia. Meditar nos textos dessa obra pela manhã, antes de assistir a missa diária, é de grande valia espiritual.
 
-Os textos de Santo Afonso são de uma beleza imensa, diferente de uma obra de teologia para tratar de temas elevados, o Santo parece escrever uma carta particularmente endereçada a você, leitor, tentando anima-lo na fé e move-lo a perfeição espiritual.
+Os textos de Santo Afonso são de uma beleza imensa, diferente de uma obra de teologia ou filosofia, o Santo, como que, escreve uma carta para o seu leitor, tentando anima-lo na fé e move-lo a perfeição espiritual.
 
 A obra é dividida em 3 Tomos, todos disponibilizados online em locais como [Alexandria Católica](https://alexandriacatolica.blogspot.com/2011/03/fonte-meditacoes-para-todos-os-dias-e.html) e no [Docer](https://docer.pl/doc/xe80e15) .
 
