@@ -24,6 +24,14 @@
     "description": "Um pequeno texto para ser meditado a cada dia do ano e motivar o fiel católico ao progresso na vida espiritual."
   },
   {
+    "id": "breviary-trust",
+    "authorId": "ascanio",
+    "shortTitle": "Breviary of Trust",
+    "title": "Breviary of Trust by Monsignur Ascânio Brandão",
+    "language": "pt",
+    "description": "Our own ONGOING translation of this amazing book by a brazilian priest, with short meditations to motivate you in the spiritual life."
+  },
+  {
     "id": "afonso-todo-dia",
     "authorId": "alphonsus",
     "shortTitle": "Meditações para todos os dias",
