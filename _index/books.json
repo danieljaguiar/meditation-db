@@ -40,8 +40,8 @@
     "authorId": "alphonsus",
     "shortTitle": "Meditações para todos os dias",
     "title": "Meditações de Santo Afonso de Ligório para cada dia do ano",
-    "initialPrayers": "afonso-todo-dia-initial",
-    "finalPrayers": "afonso-todo-dia-final",
+    "initialPrayer": "afonso-todo-dia-initial",
+    "finalPrayer": "afonso-todo-dia-final",
     "language": "pt",
     "description": "Textos de de Santo Afonso de Ligório organizados pelo Padre Thiago Maria Cristini para serem meditados a cada dia do ano liturgico.",
     "shortDescription": "Textos de de Santo Afonso de Ligório organizados pelo Padre Thiago Maria Cristini para serem meditados a cada dia do ano liturgico."
