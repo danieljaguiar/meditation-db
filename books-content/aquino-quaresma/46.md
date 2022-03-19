@@ -1,0 +1,26 @@
+
+Da descida de Cristo aos infernos podemos tirar quatro ensinamentos para nossa instrução.
+
+1\. — Primeiro, uma firme esperança em Deus, pois quando quer que o homem esteja em aflição, deve sempre esperar do auxílio divino e nele confiar. Nada há de mais sério do que cair no inferno. Se portanto Cristo libertou os que estavam nos infernos, cada um, se é de fato amigo de Deus, deve muito confiar para que Ele o liberte de qualquer angústia. Lê-se:
+
+" *Esta* (isto é, a sabedoria *) não abandonou o justo que foi vencido* (...) *desceu com ele na fossa, e na prisão o não abandonou*" (Sb 10, 13-14). Como Deus auxilia aos seus servos de um modo todo especial, aquele que O serve deve estar sempre muito seguro. Lê-se: " *O que teme ao Senhor por nada trepidará e nada temerá por que Ele é a sua esperança*" (Ecl 39, 16).
+
+2\. — Segundo, devemos despertar em nós o temor, e de nós afastar a presunção. Pois, apesar de Cristo ter suportado a paixão pelos pecadores, e ter descido aos infernos, não libertou a todos, mas somente àqueles que estavam sem pecado mortal, como acima foi dito. Aqueles que morreram em pecado mortal, deixou-os abandonados. Por isso, ninguém que desça de lá com pecado mortal espere perdão. Mas ficarão no inferno o tempo em que os Santos Patriarcas estiverem no Paraíso, isto é, para toda a eternidade. Lê-
+
+se em São Mateus: " *Irão os malditos para o suplício eterno, os justos, porém, para o Paraíso*" (Mt 25, 46).
+
+3\. — Terceiro, devemos viver atentos, porque se Cristo desceu aos infernos para a nossa salvação, também nós devemos com solicitude lá descer em espírito, meditando sobre às penas nele existentes, imitando o Santo Ezequias, que dizia: " *Irão os malditos para o suplício eterno, os justos, porém, para o Paraíso*" (Is 38, 10).
+
+Desse modo, aquele que em vida vai lá pela meditação, não descerá facilmente para o inferno na morte, porque essa meditação afasta do pecado.
+
+Aos vermos como os homens deste mundo evitam as más ações por temor das penas temporais, como não deveriam eles muito mais se resguardarem do pecado por causa das penas do inferno, que são muito mais longas, mais cruéis e mais numerosas? Eis porque lê-se nas Escrituras: " *Lembra-te dos teus últimos dias, e não pecarás para sempre*" (Ecl 7, 40).
+
+4\. — O quarto ensinamento tirado da descida de Cristo aos infernos, é nos ter Ele oferecido um exemplo de amor. Cristo desceu aos infernos para libertar os seus. Devemos também nós lá descer pela meditação, para auxiliar os nossos. Eles, por si mesmos, nada podem conseguir. Nós é que devemos ir em socorro dos que estão no purgatório. Se alguém não quisesse socorrer um ente querido que estivesse na prisão, como isso nos pareceria cruel! No entanto, seria muito mais cruel aquele que não viesse em socorro do amigo que está no purgatório, pois não há comparação entre as penas deste mundo e aquelas. Lê-se a esse respeito: " *Tende piedade de mim, tende piedade de mim, pelo menos vós, ó meus amigos, porque a mão de Deus me socorre*" (Jo 19, 21). — " *É santo e salutar o pensamento de orar pelos defuntos para que sejam livres dos pecados*" (Mc 19, 46).
+
+São auxiliados os que estão no purgatório principalmente por três atos, conforme disse Agostinho: pelas Missas, pelas orações e pelas esmolas.
+
+Gregório acrescenta um quarto: o jejum. Não deve causar admiração que assim seja, porque também neste mundo o amigo pode satisfazer pelo amigo. A mesma coisa acontece com os que estão no purgatório.
+
+*In Symb.*
+
+(P. D. Mézard, O. P., *Meditationes ex Operibus S. Thomae*)

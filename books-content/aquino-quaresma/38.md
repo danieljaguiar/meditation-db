@@ -1,0 +1,29 @@
+
+*"E uma espada trespassará a tua alma"* (Lc 2, 35) Estas palavras assinalam a grande compaixão de Nossa Senhora pelo Cristo.
+
+Quatro coisas tornaram a Paixão de Cristo sobretudo amargas à mãe de Cristo:
+
+**1. A bondade de seu Filho**: *"ele não cometeu pecado, nem se encontrou engano na sua boca"* (1 Pd 2, 22);
+
+**2. A crueldade dos verdugos**, que se evidencia ao terem se recusado a dar-lhe água na sua agonia e impedido que lho desse sua mãe, que diligentemente daria.
+
+**3. A ignomínia do suplício**. *"Condenemo-lo a uma morte infame",* diz o livro da Sabedoria (2, 20).
+
+**4. A atrocidade dos tormentos**: *"Ó vós todos que passais pelo caminho, atendei e vede se há dor semelhante à dor que me atormenta"* (Lm 1, 12).
+
+*Serm.*
+
+Quanto às palavras do velho Simeão: *"uma espada trespassará a tua alma"* , Orígines e outros doutores as aplicam à dor sofrida por Cristo na Paixão.
+
+Quanto a Ambrósio, pela espada entende significar *a prudência de Maria, não ignorante do mistério celeste. Pois, vivo é o verbo de Deus, válido e mais agudo que toda espada de dois gumes*.
+
+Outros, porém, entendem por isso a espada da dúvida, não devendo, porém, entender-se por esta uma dúvida culpável contra a fé, mas a da admiração e da discussão. Assim diz Basílio: *a Santa Virgem, aos pés da cruz e presenciando tudo o que se passou, depois mesmo do testemunho de Gabriel, depois do inefável conhecimento da divina concepção, depois da ingente realização dos milagres, flutuava na sua alma, vendo, de um lado, as humilhações que sofria seu Filho e, de outro, as maravilhas que realizava.*
+
+*IIIa q. XXVII, a. IV, 2um*
+
+Mesmo sabendo pela fé que Deus queria que Cristo sofresse, e ainda que conformasse sua vontade à vontade divina quanto à coisa desejada, como fazem os perfeitos, a Virgem Maria se entristecia pela morte de Cristo, enquanto sua vontade inferior repugnava esta coisa particularmente desejada; e isto não é contrário à perfeição.
+
+*1 Dist. 48, q. única, a. III*
+
+(P. D. Mézard, O. P., *Meditationes ex Operibus S. Thomae*)
+

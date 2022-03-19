@@ -1,0 +1,9 @@
+
+Deus não é Pai? E um pai deseja mal a seu filho? Vós, que sois maus, disse Nosso Senhor, se vosso filho pede um pão lhe dais pedra, ou, se quer um peixe lhe dais um escorpião?"
+
+Quanto mais vosso Pai que está nos Céus! E essas graças, esses golpes doloridos e revezes da fortuna e calamidades, é tudo, tudo para nosso bem! Nem sempre para o bem temporal, mas sempre para o bem eterno! Podemos dizer, cheios de confiança, e resignados, em todos os sofrimentos: Tudo que me acontece é para
+
+meu bem! A Divina Providência vela por nós. Deus é Eterno e Misericordioso. Eterno, quer que desprezemos as coisas temporais e não nos esqueçamos dos bens eternos. Misericordioso, inclina-se até a fragilidade, a miséria de nossa vida, para nos socorrer, não caindo um fio de cabelo de nossas cabeças sem a sua Vontade Divina.
+
+Um piedoso fidalgo, conta o Pe. Huguet(#BOOKMARK 42#), tinha o costume de dizer sempre, em todos os acontecimentos da vida: "Tudo que me acontece é para meu bem!" Um dia, no momento de embarcar em viagem para a Inglaterra, caiu e fraturou as pernas. Não deixou de exclamar: Tudo que me acontece é para meu bem". Os amigos, admirados dessa linguagem, disseram-lhe: "Então será para teu bem quebrarem-se as duas pernas, além de ficar prejudicada a tua viagem de negócios sérios e importantes?" -- "Sim, replicou ele, Deus sabe o que faz! Creio que tudo aconteceu para meu bem". Poucos dias depois se soube que naufragara o navio em que o piedoso fidalgo deveria viajar.
+

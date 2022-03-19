@@ -1,0 +1,21 @@
+
+1\. A sacrifice properly so called is something done to render God the honour specially due to Him, in order to appease Him. St. Augustine teaches this, saying, "Every work done in order that we may, in a holy union, cleave to God is a true sacrifice — every work, that is to say, related to that final good whose possession alone can make us truly happy." Christ in the Passion offered himself for us, and it was just this circumstance that he offered himself willingly which was to God the most precious thing of all, since the willingness came from the greatest possible love. Whence it is evident that the Passion of Christ was a real sacrifice.
+
+And as he himself adds later. The former sacrifices of the saints were so many signs, of different kinds, of this one true sacrifice. This one thing was signified through many things, as one thing is said through many words, so that it may be repeated often without beginning to weary people.
+
+St. Augustine speaks of four things being found in every sacrifice, namely a person to whom the offering is made, one by whom it is made, the thing offered and those on whose behalf it is offered. These are all found in the Passion of Our Lord. It is the same person, the only, true mediator himself, who through the sacrifice of peace reconciles us to God, yet remains one with him to whom he offers, who makes one with him those for whom he offers, and is himself one who both offers and is offered.
+
+2\. It is true that in those sacrifices of the old law which were types of Christ, human flesh was never offered, but it does not follow from this that the Passion of Christ was not a sacrifice. For although the reality and the thing that typifies it must coincide in one point, it is not necessary that they coincide in every point, for the reality must go beyond the thing that typifies it. It was then very fitting that the sacrifice in which the flesh of Christ is offered for us was typified by a sacrifice not of the flesh of man but of other animals, to foreshadow the flesh of Christ which is the most perfect sacrifice of all. It is the most perfect sacrifice of all.
+
+- (i) Because since it is the flesh of human nature that is offered, it is a thing fittingly offered for men and fittingly received by men in a sacrament.
+
+- (ii) Because, since the flesh of Christ was able to suffer and to die it was suitable for immolation.
+
+- (iii) Because since that flesh was itself without sin, it had a power to cleanse from sin.
+
+- (iv) Because being the flesh of the very offerer, it was acceptable to God by reason of the unspeakable love of the one who was offering his own flesh.
+
+Whence St. Augustine says, "What is there more suitably received by men, of offerings made on their behalf, than human flesh, and what is so suitable for immolation as mortal flesh? And what is so clean for cleansing mortal viciousness as that flesh born, without stain of carnal desire, in the womb and of the womb of a virgin? And what can be so graciously offered and received as the flesh of our sacrifice, the body so produced of our priest?"
+
+(3 48 3.)
+

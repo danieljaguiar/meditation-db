@@ -1,0 +1,9 @@
+
+Quando sentimos o coração imerso num oceano de amarguras, cruentamente ferido pela saudade de um ente desaparecido, precisamos contemplar Nossa Senhora ao pé da cruz. É junto Dela, a consoladora dos aflitos, que encontraremos consolação.
+
+Uma senhora piedosa teve a desventura de perder um filho em pleno viço da mocidade. Era filho único, o raio de sol de sua existência. A pobre mãe ficou inconsolável. Quase em desespero, chorava desoladamente e definhava de amargura e cruéis saudades. Um artista genial, reproduzindo numa tela as feições do saudoso e chorado filho, e pintando noutra Nossa Senhora da Piedade, com Jesus nos braços, lívido, ensanguentado, morto, escreveu o seguinte sob a última: "Ela perdeu mais do que vós!" A vista do retrato do filho exacerbou naturalmente a dor da inconsolável mãe, mas, contemplando atentamente o outro quadro e meditando as palavras nele escritas, murmurou: "Sim, Ela perdeu mais do que eu". E não se desesperou! Ergueu-se, cheia de coragem, enxugou as lágrimas e ofereceu a Nossa Senhora toda a imensa dor que a acabrunhava.
+
+Mães acabrunhadas de saudades, quando tiverdes o coração partido de dor pela
+
+morte de um filho querido, contemplai Nossa Senhora das Dores ao pé da cruz. Ela perdeu mais do que vós e não se desesperou!
+

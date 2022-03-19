@@ -1,0 +1,11 @@
+
+A uma jovem que ia deixar o mundo para receber, num convento, o hábito
+
+religioso, disse Santa Catarina de Gênova: "Que a eternidade esteja em vosso espírito, o mundo sob vossos pés, a Vontade de Deus em todas as vossas ações e que o Amor Divino brilhe em vosso coração!" A meditação destas palavras não será para nós grande incentivo, poderoso estímulo no sofrimento e tribulações da vida? Quem pensa na eternidade não vive de ilusões e compreende o que Bossuet chamava a pavorosa seriedade da vida humana. Quem tem, no espírito, a eternidade, sabe desprezar o que é caduco e efêmero.
+
+Sob nossos pés esteja o mundo. A iconografia representa São Francisco de Assis pisando o mundo e abraçado a Jesus Cristo na cruz. Façamos também assim. Esteja o mundo sob nossos pés, para que possamos sentir a doçura, a unção Divina das ternuras do abraço de Nosso Senhor na cruz. Não fomos criados senão para isto: fazer a Vontade de Deus. A ela obedeçamos, pois, em todas as ações de nossa vida.
+
+"Ó Vontade de meu Deus, toda santa, toda amável, dizia Santo Afonso, quero abraçar-vos!" Caros leitores, só com a prática desse desejo é que seremos felizes e teremos segura a salvação.
+
+Seja ela o nosso programa de vida!
+

@@ -1,0 +1,13 @@
+
+A mãe não abandona o filho no sofrimento. Fica ao seu lado, carinhosa, solícita; empregando todo o esforço para lhe mitigar a dor e enxugar-lhe o pranto. O coração materno sofre quando sofrem os filhos. A criancinha, quando ferida, grita, instintivamente: "Mamãe!" Filhos de Nossa Senhora, eternas crianças, à caça das borboletas de nossas ilusões, tantas vezes caímos e nos ferimos nas pedras do caminho da vida! Nessas ocasiões, façamos como as criancinhas e gritemos: "Mamãe, Mãe do Céu, meu Refúgio, valei-me!"
+
+Soframos com Maria, como a criancinha machucada, no regaço materno. Se a
+
+nossa amargura vem do pecado, Ela é Refúgio dos pecadores! É o pecador miserável e pobre quem tem mais direito à proteção Daquela que é o refúgio dos pecadores! Se nos acabrunha a doença, um olhar para o Céu: Nossa Senhora é saúde dos enfermos! Nas aflições que nos atormentam, a Consoladora dos aflitos será nosso conforto. Não há sofrimento que Maria não possa aliviar. Basta recorrer a Ela com amor, confiança e abandono de criancinha ferida, no regaço materno. Sofrer com Maria é consolo sem igual.
+
+Um doente me dizia, chorando: "Ah! meu padre, se eu, ao menos, tivesse minha mãe aqui comigo! Mas sou órfão!\..." -- Meu filho -- disse-lhe eu -- temos Nossa Senhora, que é Mãe, e que não nos abandona, não morre, não nos deixa órfãos!"
+
+-   Ah! -- respondeu-me -- que Nossa Senhora venha então me amparar, seja minha Mãe e me ajude a sofrer!"
+
+Digamos também assim nas amarguras da vida!
+

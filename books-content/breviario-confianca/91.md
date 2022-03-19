@@ -1,0 +1,15 @@
+
+Caímos tantas vezes! Senhor, quanta miséria! Por que nos admirarmos de ser a enfermidade enferma, a fraqueza fraca, a miséria miserável? Que somos diante de Deus, que é o Divino Forte, senão fraqueza? Paciência! Nossa miséria é uma doença que não tem cura neste mundo. Nosso Senhor quer a nossa vontade. Ele faz o resto! A santidade não é obra de um dia. Enquanto não tocarmos a nossa miséria com o dedo e não nos convencermos do nada que somos, ainda nos resta
+
+muito a caminhar. As quedas têm esta vantagem: ajudam-nos a desprezar-nos, a desconfiar de nossas próprias forças e a só confiar em Deus. Essa é a razão por que caímos tanto. Estejamos bem convencidos -- diz o Padre Caussada(#BOOKMARK 69#) -- de que nossa miséria é a causa de todas as nossas fraquezas e de que estas, Deus as permite por misericórdia. Sem isso, nunca nos curaríamos de uma presunção e de uma orgulhosa confiança em nós mesmos. Jamais compreenderíamos, como é preciso, que todo mal vem de nós e todo o bem somente de Deus. Só com "um milhão de experiências pessoais" é que se pode adquirir o hábito desse duplo sentimento\...
+
+Por que o desânimo quando nos achamos fracos e cobertos de miséria, caindo a cada passo? Que podemos nós? Humilhemo-nos! Paciência! Aspiremos à perfeição, à santidade, com e apesar de nossas misérias. Já temos um milhão de experiências pessoais?
+
+
+
+
+
+
+
+
+

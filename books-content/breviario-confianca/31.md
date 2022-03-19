@@ -1,0 +1,17 @@
+
+Na doença como na saúde, a alma cristã deve exclamar: Senhor! Faça-se a Vossa Vontade!
+
+Santo Afonso dizia nas enfermidades: "Senhor! Eu nem desejo sarar nem permanecer doente. Somente quero o que Vós quereis".
+
+"Por isso, acrescentava, o melhor e mais perfeito é não pedir nem a saúde nem a doença, mas abandonar-se à Vontade de Deus, a fim de que Ele determine o que Lhe aprouver".
+
+São Camilo de Lelis teve cinco longas e dolorosas enfermidades, que ele chamava de "misericórdias do Senhor".
+
+A doença, se fere o corpo, cura muitas vezes a pobre alma enferma.
+
+Salviano costumava dizer que a doença é um meio tão comum de santificação para as almas, que muitas pessoas nunca chegariam à santidade se gozassem de uma boa saúde.
+
+Resignai-vos, almas que sofreis! Nessa enfermidade que vos acabrunha e abate, nessas horas penosas e longas de tantas dores, está a Vontade de Deus, a Mão misericordiosa de Deus a vos amparar e livrar de tantos males, pecados e desgraças! Um dia tudo isso veremos claramente no Céu e abençoaremos a Mão de Deus, que nos fez sofrer! Bendigamos a Mão de Deus que nos fere!
+
+Louvemos as doenças, porque são elas as misericórdias do Senhor!
+

@@ -1,0 +1,7 @@
+
+Deus nos há de julgar! Este pensamento, que aterroriza tantas almas, deveria consolar-nos. Como poderemos pensar sem tremer no juízo Divino, quando santos como São Bernardo e São Jerônimo tremiam só à meditação dessa verdade eterna? Quem nos vai julgar? Um Deus, sim, um Deus de justiça, que encontra imperfeições até nos seus Anjos! Mas esse Deus é nosso Pai e Pai por toda a eternidade, Pai das misericórdias. Deus é justo, sim, e por isso mesmo é que devemos ter confiança. Sendo justo, saberá levar em conta a nossa fraqueza, a nossa ignorância e miséria, verá a nossa boa vontade, a pureza de nossas intenções. Temê-Lo, por quê? Ele bem sabe de que barro somos feitos. Portanto, confiança!
+
+Perguntaram a Santo Ambrósio, quando moribundo, se não temia os juízos de Deus. "Ah! -- respondeu o santo -- temos um mestre tão bom!"\... "Tenha confiança em Nosso Senhor", dizia o sacerdote a Frederico Ozanan. "Ó meu padre -- respondeu o servo de Deus, em agonia -- como ter medo de Nosso Senhor? Amo-O tanto!" Amemos o Coração de Jesus, fonte de misericórdia e perdão. É nosso Juiz, sim, mas também é nosso Pai.
+
+"Como é doce morrer -- dizia Santa Margarida Maria -- para ser julgada por Aquele em cujo Coração vivemos!"
+

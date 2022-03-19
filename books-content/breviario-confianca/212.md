@@ -1,0 +1,7 @@
+
+"Deus -- escreveu Lacordaire -- ocultou no sofrimento um bálsamo reparador e misterioso". A alegria de sofrer, que experimentaram os verdadeiros amigos de Nosso Senhor, o mundo jamais será capaz de a entender." Santa Teresa disse: "Este sentimento, sentimento simultâneo de alegria e de dor, é uma alegria apenas nascente, algo de incompreensível para mim. O prazer e a dor que sinto ao mesmo tempo, são para mim um mistério".(#BOOKMARK 190#)
+
+São Francisco de Sales escreve admiravelmente sobre esse mistério de dor e alegria na alma do justo: "Jesus Cristo sofre com quem por Ele sofre\... Jesus tira dos sofrimentos de seus amigos uma parte. Seu divino Amor faz achar doçura na dor, semelhantemente a fontes de água doce que se encontrassem em pleno oceano e às aragens frescas recebidas na fornalha pelos três meninos da Babilônia. Quando se ama não se sofre, mas, se vem o sofrimento, é recebido com amor".(#BOOKMARK 191#)
+
+Em cada amargura, em cada provação, uma gota de bálsamo suave e delicioso de amor e de paz. Para quem ama a Jesus, a própria dor consola observa Santo Agostinho. Oh! doce mistério de amor e de misericórdia! Sofre-se o tormento, o exílio, o castigo, a punição do pecado, goza-se desde já a recompensa, a paz, a suavidade do Amor. Por isso é que um solitário, já no fim de uma vida austera, dizia: "Senhor, Vós me enganastes! Julgava que, para Vos servir, era preciso sofrer só e muito para Vós e, entretanto, que doçura e que paz! Vós me enganastes, Senhor!"
+

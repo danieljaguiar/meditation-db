@@ -1,0 +1,21 @@
+
+*«Ele foi o que tomou sobre si as nossas fraquezas e ele mesmo carregou com as nossas dores»* (Is 53, 4)
+
+Pela Paixão de Cristo fomos liberados do reato da pena de dois modos: 46
+
+1. Primeiro diretamente; i. é, porque a Paixão de Cristo foi uma satisfação suficiente e superabundante pelos pecados de todo o gênero humano; ora, dada a satisfação suficiente, eliminado fica o reato da pena.
+
+2\. De outro modo, indiretamente; i. é, enquanto a Paixão de Cristo é a causa da remissão do pecado, no qual se funda o reato da pena.
+
+**Os condenados, contudo, não estão liberados da pena, pois a Paixão de Cristo somente produz o seu efeito naqueles a quem se aplica pela fé, pela caridade e pelos sacramentos da fé**. Ora, os condenados ao inferno, que não estão unidos à Paixão de Cristo ao modo que acabamos de referir, não lhe podem colher o efeito.
+
+**E apesar de termos sido liberados da pena do pecado, é preciso, no entanto, impor aos penitentes uma pena satisfatória; pois, para se beneficiar do efeito da Paixão de Cristo, é preciso estarmos configurados ao Cristo.**
+
+Ora, configuramo-nos sacramentalmente a Ele no batismo, segundo aquilo do Apóstolo (Rm 6, 4): *Fomos sepultados com ele para morrer ao pecado pelo batismo*. Por isso aos batizados não se lhes impõe nenhuma pena satisfatória, por estarem totalmente liberados pela satisfação de Cristo. Mas porque *Cristo uma só vez morreu pelos nossos pecados*, no dizer da Escritura (1 Pd 3, 18), não pode o homem uma segunda vez se configurar à morte de Cristo pelo sacramento do batismo. E por isso, os que depois do batismo pecam hão de assemelhar-se com Cristo, padecente por alguma penalidade ou sofrimento, que suportem na sua pessoa. Mas essa penalidade basta, apesar de muito menor que a merecida pelo pecado, por causa da cooperação da satisfação de Cristo.
+
+Mas, se a morte, que é pena do pecado, ainda subsiste, é porque a satisfação do Cristo só tem efeito em nós enquanto fomos incorporados ao Cristo, como os membros à cabeça. Pois é preciso que os membros estejam em conformidade com a cabeça. Por onde, assim como Cristo teve primeiro a graça na alma com a passibilidade do corpo, e chegou pela Paixão à glória da imortalidade, assim também nós, que somos os seus membros, somos pela sua Paixão liberados do reato de qualquer pena. Mas, para isso, devemos primeiro receber na alma o Espírito de adoção de filhos, pelo qual adimos a herança da glória da imortalidade, enquanto ainda temos um corpo passível e mortal. Mas depois assemelhados aos sofrimentos e à morte de Cristo, chegaremos à glória imortal segundo aquilo do Apóstolo (Rm 8, 17): *Se somos filhos somos também herdeiros; herdeiros verdadeiramente de Deus e co-herdeiros de Cristo, se é que todavia nós padecemos com ele para que sejamos também com ele glorificados*.
+
+*IIIa q. XLIX a. 3*
+
+(P. D. Mézard, O. P., *Meditationes ex Operibus S. Thomae*)
+

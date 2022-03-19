@@ -1,0 +1,7 @@
+
+"Depois sabendo Jesus que tudo estava cumprido para se acabar de cumprir a
+
+Escritura, disse: Tenho sede! Tinha, porém, ali perto um vaso cheio de vinagre. Então, correndo logo um deles, tomando uma esponja, a ensopou em vinagre e a pôs sobre uma cana e Lhe dava de beber."(#BOOKMARK 167#)
+
+Jesus, agonizante, na cruz! Tem sede! "Sitio!" "Eu tenho sede!" De suplícios mais horrorosos não se queixou e nem pediu alívio. E clama: "Tenho sede!" Ah! É a sede de nossas almas, sede de amor, que O devora. Jesus quer na linfa cristalina das almas remidas, água pura, de puro amor de nossos corações. Corações cheios de confiança, de abandono, que O amem e Lhe deem almas, muitas almas. E, quando na tortura horrorosa dessa sede de Amor, Jesus nos pede o coração pela confiança, chegamos-Lhe aos lábios em brasa e ressequidos a esponja ensopada em vinagre de desespero, de dúvida e desconfiança da sua Misericórdia. E como não a rejeitar, triste e amargurado? Ah! Demos a Jesus agonizante e sequioso, todo o amor de nosso coração, e que esse amor seja um amor confiante na sua Misericórdia infinita. Aliviemos a sede abrasadora de Nosso Divino Redentor, a nos pedir almas, muitas almas que podemos salvar pregando a Sua Bondade e o Seu Amor Misericordioso! Afastai dos lábios do Divino agonizante o fel do desespero e o vinagre da desconfiança, que perdem tantas almas!
+

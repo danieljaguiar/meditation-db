@@ -1,0 +1,13 @@
+
+Santa Teresa se oferecia a Deus cinquenta vezes por dia, para que o Senhor dispusesse dela como quisesse, e se propunha a abraçar o que Nosso Senhor lhe enviasse, fosse a prosperidade ou a adversidade. Eis o que é importante na vida de perfeição. Só isso basta para santificar em pouco tempo uma alma. Na prosperidade, todo o mundo está disposto a conformar-se com a Vontade Divina. Na adversidade, bem poucos.
+
+Demos graças a Deus quando a sua misericórdia nos cumula de favores e bens temporais. É muito bela a gratidão e atrai novas bênçãos do Céu! Mas\... Não nos esqueçamos de que a adversidade é também uma graça, e das maiores. Se dissermos, na prosperidade, "Bendito seja Deus, por que não o fazermos também nas adversidades? Imitemos o Santo Profeta Jó e seremos agradáveis ao Senhor.
+
+"Um só Bendito seja Deus, nas contrariedades, dizia o Pe. João D'Ávila, vale mais do que mil orações de graças quando estamos na prosperidade e tudo nos corre bem."
+
+Nas alegrias e consolações? Bendito seja Deus! Na doença ou na saúde? Bendito seja Deus!
+
+Nas trevas ou na luz? Bendito seja Deus!
+
+Como é agradável a Nosso Senhor uma criatura assim resignada, humilde, paciente! É uma pérola do Coração de Jesus!
+

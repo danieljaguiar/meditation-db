@@ -5,7 +5,8 @@
     "shortTitle": "Meditações para a Quaresma",
     "title": "Meditações para a Quaresma dos textos de São Tomás de Aquino",
     "language": "pt",
-    "description": "Coleções de textos de São Tomás de Aquino, organizados pelo padre Dennis Mezárd em forma de meditações para cada dia da queresma."
+    "description": "Coleções de textos de São Tomás de Aquino, organizados pelo padre Dennis Mezárd em forma de meditações para cada dia da queresma.",
+    "shortDescription": "Coleções de textos de São Tomás de Aquino, organizados pelo padre Dennis Mezárd em forma de meditações para cada dia da queresma."
   },
   {
     "id": "aquinas-lent",
@@ -13,7 +14,8 @@
     "shortTitle": "Meditations for Lent",
     "title": "Meditations for Lent from the texts of Saint Thomas Aquinas",
     "language": "en",
-    "description": "Collection of texts from Saint Thomas Aquinas, organized by father Dennis Mezárd in a form of meditation for everyday of the lent."
+    "description": "Collection of texts from Saint Thomas Aquinas, organized by father Dennis Mezárd in a form of meditation for everyday of the lent.",
+    "shortDescription": "Collection of texts from Saint Thomas Aquinas, organized by father Dennis Mezárd in a form of meditation for everyday of the lent."
   },
   {
     "id": "breviario-confianca",
@@ -21,7 +23,8 @@
     "shortTitle": "Breviário da Confiança",
     "title": "Breviário da Confiança por Monsenhor Ascânio Brandão",
     "language": "pt",
-    "description": "Um pequeno texto para ser meditado a cada dia do ano e motivar o fiel católico ao progresso na vida espiritual."
+    "description": "Um pequeno texto para ser meditado a cada dia do ano e motivar o fiel católico ao progresso na vida espiritual.",
+    "shortDescription": "Um pequeno texto para ser meditado a cada dia do ano e motivar o fiel católico ao progresso na vida espiritual."
   },
   {
     "id": "breviary-trust",
@@ -29,7 +32,8 @@
     "shortTitle": "Breviary of Trust",
     "title": "Breviary of Trust by Monsignur Ascânio Brandão",
     "language": "pt",
-    "description": "Our own ONGOING translation of this amazing book by a brazilian priest, with short meditations to motivate you in the spiritual life."
+    "description": "Our own ONGOING translation of this amazing book by a brazilian priest, with short meditations to motivate you in the spiritual life.",
+    "shortDescription": "Our own (ONGOING) translation of this amazing book by a brazilian priest, with short meditations to motivate you in the spiritual life."
   },
   {
     "id": "afonso-todo-dia",
@@ -37,6 +41,7 @@
     "shortTitle": "Meditações para todos os dias",
     "title": "Meditações de Santo Afonso de Ligório para cada dia do ano",
     "language": "pt",
-    "description": "Textos de de Santo Afonso de Ligório organizados pelo Padre Thiago Maria Cristini para serem meditados a cada dia do ano liturgico."
+    "description": "Textos de de Santo Afonso de Ligório organizados pelo Padre Thiago Maria Cristini para serem meditados a cada dia do ano liturgico.",
+    "shortDescription": "Textos de de Santo Afonso de Ligório organizados pelo Padre Thiago Maria Cristini para serem meditados a cada dia do ano liturgico."
   }
 ]

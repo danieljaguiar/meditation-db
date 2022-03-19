@@ -1,0 +1,9 @@
+
+Podem-se pôr limites ao que é infinito? Pois não é infinita a misericórdia Divina,
+
+não é um Oceano Infinito de Misericórdia? Se o Senhor é infinitamente justo, é também infinitamente Misericordioso. E, neste mundo, vivemos no tempo da Misericórdia. Abri o Evangelho. Tudo ali vos inspira confiança e enche o coração. Por que duvidar, se empenhamos da nossa parte todos os nossos esforços, por que desconfiar de um Pai tão bom e poderoso? Nosso Senhor é o Pai do filho pródigo, e o Bom Pastor. Por que nos deixou Ele, no Evangelho, parábolas tão belas, tão comovedoras? Não foi para a manifestação da Sua bondade infinita? Ah! não compreendo as almas que têm medo de Deus! Como é doloroso e triste ao coração de um pai estender ao filho os braços cheios de ternura e se ver repelido! É preciso que confiemos. A medida da confiança é confiar sem medida.
+
+A confiança, somente ela nos leva ao Amor! O temor leva à justiça severa, tal como a representam os pecadores. Mas não é essa justiça que Jesus terá para com os que O amam -- escreve Santa Teresinha à irmã(#BOOKMARK 68#): Nossa confiança é combatida obstinadamente pelo Inferno, porque ela é a vida, a salvação. A obstinação de Satã, oporemos a obstinação de nossa confiança. E seremos salvos!
+
+Meu Jesus, ajudai-me a vencer-me, e dai-me esta confiança obstinada que arrebatava o vosso Coração!
+

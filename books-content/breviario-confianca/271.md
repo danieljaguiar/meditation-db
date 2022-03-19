@@ -1,0 +1,9 @@
+
+A penitência, na via da infância, não contém as macerações e prodígios de mortificação, mais admiráveis que imitáveis, dos grandes anacoretas e grandes santos penitentes. Não. É simples, oculta e, por isso mesmo, heroica. Escreve Teresa, na *História de uma alma*(#BOOKMARK 263#):
+
+"Longe de me querer assemelhar às belas almas que, desde a infância, praticam toda espécie de macerações, fiz consistir as minhas penitências, unicamente, em quebrar a minha vontade, reter uma palavra de réplica, prestar pequenos serviços em torno de mim, sem lhes dar importância, e mil outras coisas do mesmo gênero."
+
+Essas mortificações, que parecem pequeninas, insignificantes, são mais duras que as grandes macerações voluntárias. Vencer e sacrificar a vontade, o amor próprio, o orgulho enfim, é penoso e difícil. O martírio das pequeninas cruzes e das alfinetadas é mais longo e necessita uma virtude heroica. Aprendamos a sofrer, aproveitando as pequeninas cruzes de cada dia santificando nossas dores. Depois do pecado, para quem ofendeu a Nosso Senhor, só uma porta no Céu: a da penitência. Esta só palavra já assusta a nossa fraqueza. Que fazer? Se não
+
+podemos todos com as macerações dos grandes santos, entremos no pequenino caminho e aproveitemos tudo o que o Céu nos manda cada dia: contrariedades, privações, doenças e tropeços sem conta que topamos no caminho da vida! Soframos, com sorriso heroico, o que for da vontade de Deus!
+

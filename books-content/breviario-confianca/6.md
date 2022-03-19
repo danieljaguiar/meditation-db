@@ -1,0 +1,7 @@
+
+Deus tem desígnios insondáveis sobre nós. Só ele sabe o que necessitamos. O sofrimento que, às vezes, tanto nos revolta, é, podemos crê-lo, misericórdia, pura misericórdia Divina. Na Eternidade louvaremos mil vezes a mão que nos feriu. Dor bendita! Digamos com Santo André: "Ó boa cruz!" Peçamos a Nosso Senhor que se cumpra a Sua Santíssima Vontade.
+
+"Oh! Se compreendêssemos os desígnios de Deus e os nossos verdadeiros interesses, não poderíamos ter outro desejo senão o de Lhe obedecer, outro temor senão o de não Lhe ser bastante obediente. Suplicaríamos e haveríamos de importunar a Deus com as nossas orações para que se faça a Sua vontade e não a nossa, porque abandonar a sábia e tão poderosa mão de Deus para seguirmos as
+
+nossas luzes tão pobres, e vivermos ao gosto de nossas fantasias, seria verdadeira loucura e supremo infortúnio".(#BOOKMARK 25#) É loucura desprezar as luzes do Alto. Somos tão cegos, e ainda queremos contrariar os desígnios de Deus sobre nós, claramente manifestados na obediência e nos acontecimentos da vida! Cavamos assim a nossa ruína e arriscamos a salvação eterna!
+

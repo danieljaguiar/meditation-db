@@ -1,0 +1,7 @@
+
+"Aliviemos as almas do Purgatório -- diz São João Crisóstomo -- aliviemo-las por tudo o que nos penaliza, porque Deus tem cuidado em aplicar aos mortos os méritos dos vivos." Escreve Berlioux: "O sofrimento é a grande satisfação que o Senhor pede aos devedores da Justiça". Logo, soframos pelos nossos mortos, a fim de que eles sofram menos. Oh! se tivéssemos uma fé mais viva, uma caridade mais ardente, que mortificações nos imporíamos a nós mesmos para libertar do Purgatório nossos parentes e amigos, eles que tanto nos amaram, que sofreram, talvez, por nós, e estão agora sofrendo de maneira tão horrível! Já que não somos capazes de tamanhas penitências como os santos, tenhamos generosidade para alguns pequenos sacrifícios. O sacrifício de um prazer, de uma afeição perigosa, de uma leitura má, de uma vaidade, etc. "Escolhei a melhor vítima, aconselha o
+
+P. Félix, S.J., escolhei-a, sobretudo, no fundo de posso coração." Por aqueles que amais, sacrificai o que tendes de mais caro. Sacrificai-vos a vós mesmos, e que o preço do sacrifício pessoal se torne o resgate do sofrimento." "Ah! vejo, acrescenta o Pe. Berlioux, vejo essas almas felizes elevarem-se para o Céu nas
+
+asas de nossos sacrifícios, de nossas austeridades e sofrimentos!" Que objeto de consolação e de esperança! Ó meu Deus! Ó Jesus Crucificado, fazei-nos compreender o valor do sofrimento!
+
