@@ -20,7 +20,7 @@ Depois:
 
 Estes atos devem ser feitos com atenção, mas brevemente, depois do que se fará a Meditação.
 
-# 2\. MEDITAÇÃO
+# 2\. Meditação
 Para a Meditação sirvamo-nos sempre de um livro, ao menos no começo, parando nas passagens que mais impressão nos fazem. São Francisco de Sales diz que devemos imitar as abelhas, que se demoram numa flor enquanto acham mel, e voam depois para outra.
 
 Note-se além disto que são três os frutos da meditação: afetos, súplicas e resoluções; nisto é que consiste o proveito da oração mental. Assim, depois de haverdes meditado numa verdade eterna, e Deus ter falado ao vosso coração, é mister que faleis a Deus:
