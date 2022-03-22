@@ -43,24 +43,48 @@ full_file_paths = get_filepaths(initial_path)
 regexp = re.compile(r'\(#BOOKMARK ([0-9]{1,3})\#\)')
 
 for file_path in full_file_paths:
+    # if count >= 30:
+    #     break
+    # else:
+    #     count = count + 1
 
     with open(file_path, encoding="utf-8") as file:
+        footnotes_lines = "\n"
+        footnotes_ref = 1
         lines = file.readlines()
         lineCount = 0
 
         for line in lines:
             res = regexp.search(line)
-            if res:
+
+            while res:
                 value = [x for x in allFootnotes if x["bookmark"]
                          == int(res.group(1))]
 
-                print(res.group(0))
-
                 if value[0]["type"] == "inPlace":
-                    lines[lineCount] = line.replace(
+                    line = line.replace(
                         res.group(0), " (" + value[0]["text"].strip()+")")
+
+                if value[0]["type"] == "bottom":
+                    line = line.replace(
+                        res.group(0), " [^" + footnotes_ref.__str__()+"]")
+
+                    footnotes_lines = footnotes_lines + \
+                        "\n[^" + footnotes_ref.__str__() + "]: " + \
+                        value[0]["text"].strip()
+
+                    footnotes_ref = footnotes_ref + 1
+
+                res = regexp.search(line)
+
+            lines[lineCount] = line
 
             lineCount = lineCount + 1
 
+    # print(lines)
+    # print(footnotes_lines)
+
     with open(file_path, "w", encoding="utf-8") as file:
         file.writelines(lines)
+        if footnotes_ref >= 2:
+            file.writelines(footnotes_lines)
