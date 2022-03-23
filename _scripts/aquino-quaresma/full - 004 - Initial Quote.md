@@ -1,6 +1,6 @@
 # 1. Quarta-feira de cinzas: A morte
 
-> *«Por um homem entrou o pecado neste mundo e, pelo pecado, a morte»* (Rm 5, 12)
+> Por um homem entrou o pecado neste mundo e, pelo pecado, a morte (Rm 5, 12)
 
 1\. Se alguém, por culpa sua, foi privado de algum benefício, que lhe fora dado, a privação desse benefício será a pena da culpa cometida. Ora, o homem, desde o primeiro instante da sua criação, recebeu de Deus o benefício de, enquanto tivesse o seu espírito sujeito a Deus, ter sujeitas à alma racional as potências inferiores dela, e o corpo, à alma. Ora, tendo o espírito do homem repelido, pelo pecado original, a sujeição divina, daí resultou que as potências inferiores já não se sujeitaram totalmente à razão, donde procedeu a tão grande rebelião dos apetites carnais contra ela, nem já o corpo se subordinou totalmente à alma, donde resultou a morte e as outras deficiências corporais. Ora, a vida e a saúde do corpo consiste em sujeitar-se à alma, como o perfectível, à sua perfeição. Por onde e ao contrário, a morte, a doença e todas as misérias do corpo resultam da falta de sujeição do corpo à alma. Donde, é claro que, assim como a rebelião do apetite carnal contra o espírito é a pena do pecado dos nossos primeiros pais, assim também o é a morte e todas as misérias do corpo.
 
@@ -32,7 +32,7 @@ III. Os tempos de jejum estão convenientemente determinados pela Igreja. O jeju
 
 # 3. Sexta-feira depois das cinzas: A coroa de espinhos  6a. feira depois das Cinzas
 
-> *«Saí, filhas de Sião, e vêde o rei Salomão com o diadema de que sua mãe o coroou no dia do seu casamento e no dia do júbilo do seu coração»* (Ct 3, 11) 
+> Saí, filhas de Sião, e vêde o rei Salomão com o diadema de que sua mãe o coroou no dia do seu casamento e no dia do júbilo do seu coração (Ct 3, 11) 
 
 É a voz da Igreja que convida as almas dos fiéis a contemplar quão admirável e belo é seu Esposo. Pois as filhas de Sião são iguais às filhas de Jerusalém, almas santas, habitantes do Reino de Deus, que gozam, com os anjos, da paz perpétua e da contemplação da glória do Senhor.
 
@@ -52,7 +52,7 @@ II. Pode-se, também, aplicar tudo isso à Paixão de Cristo, segundo a letra. C
 
 # Sábado depois das Cinzas
 
-> *«Em verdade, em verdade vos digo que, se o grão de trigo que cai na terra não morrer, fica infecundo»* (Jo 12, 24)
+> Em verdade, em verdade vos digo que, se o grão de trigo que cai na terra não morrer, fica infecundo (Jo 12, 24)
 
 I.  O grão de trigo é de dois modos usado: para o feitio do pão e para a semeadura. O versículo acima diz respeito ao grão de trigo como semente, não como matéria do pão, pois, nesse último caso, não precisa fecundar para dar fruto. *Se o grão de trigo não morrer*, não que perca sua virtude seminal, mas porque muda de espécie. *«o que tu semeias não toma vida, se primeiro não morre»* (1 Cor 15, 36)
 
@@ -72,7 +72,7 @@ Nosso Senhor alude aqui à utilidade da paixão,e é como se dissesse: a não se
 
 # I Domingo da Quaresma
 
-> *«Foi levado Jesus pelo Espírito ao deserto, para ser tentado pelo diabo.»* (Mt 4, 1)
+> Foi levado Jesus pelo Espírito ao deserto, para ser tentado pelo diabo. (Mt 4, 1)
 
 Cristo quis ser tentado:
 
@@ -90,7 +90,7 @@ Cristo quis ser tentado:
 
 # Segunda feira depois do I domingo da Quaresma
 
-> *«Jesus estava no deserto quarenta dias e quarenta noites e ali foi tentado por Satanás»* (Mc 1, 13)
+> Jesus estava no deserto quarenta dias e quarenta noites e ali foi tentado por Satanás»* (Mc 1, 13)
 
 I. Cristo, por vontade própria deixou-se tentar pelo diabo, assim como voluntariamente entregou o corpo à morte; do contrário, o diabo não ousaria aproximar-se dele. Ora, o diabo atenta de preferência os solitários; pois, como diz a Escritura (Ecle 4, 12), *«se alguém prevalecer contra um, dois lhe resistem»*. Por isso foi Cristo para o deserto, como para o campo da luta, para ser nele tentado pelo diabo. Donde o dizer Ambrósio, que Cristo foi ao deserto deliberadamente, para provocar o diabo. Pois, se este não viesse atacá-lo, i. é, o diabo, Cristo não o teria vencido.
 
@@ -128,7 +128,7 @@ Quanto à suficiência, um sofrimento mínimo de Cristo bastava para remir o gê
 
 # Quarta-feira depois do I domingo da Quaresma
 
-> *«Atendei e vede se há dor semelhante à minha dor»* (Lm 1, 12)
+> Atendei e vede se há dor semelhante à minha dor»* (Lm 1, 12)
 
 Cristo, na sua paixão, sofreu verdadeiramente a dor. Tanto a sensível, causada pelos tormentos corpóreos, como a interior, causada pela apreensão do mal, que se chama tristeza. Ora, ambas essas dores foram máximas em Cristo, entre as dores da vida presente. O que se explica por quatro razões.
 
@@ -172,7 +172,7 @@ Quanto à ordenação de Deus, Cristo foi crucificado entre ladrões, porque, se
 
 # Sexta-feira da I semana da Quaresma
 
-> *«um dos soldados abriu-lhe o lado com uma lança, e imediatamente saiu sangue e água.»* (Jo 19, 34)
+> um dos soldados abriu-lhe o lado com uma lança, e imediatamente saiu sangue e água.»* (Jo 19, 34)
 
 I.  É significativo que a Escritura diga *«abriu-lhe»*, e não *«feriu-lhe»*, pois, por este lado, nos foi aberta a porta da vida eterna.* «Depois disto olhei, e eis que vi uma porta aberta no céu»* (Ap 4, 1). É esta a porta que figurava aquela, no lado da arca, por onde entraram os animais que haviam de se salvar no dilúvio.
 
@@ -198,7 +198,7 @@ Convém ainda esta figura: assim como do lado de Cristo, que dormia na cruz, sai
 
 # Sábado depois do I domingo da Quaresma
 
-> *«Mas Deus manifesta a sua caridade para conosco, porque, quando ainda éramos pecadores, no tempo oportuno, morreu Cristo por nós.»*(Rm 5, 8) 
+> Mas Deus manifesta a sua caridade para conosco, porque, quando ainda éramos pecadores, no tempo oportuno, morreu Cristo por nós.»*(Rm 5, 8) 
 
 I. Cristo morreu pelos ímpios. E isto é grande, se considerarmos quem é aquele que morreu; também é grande, se considerarmos por quem foi que Cristo morreu. Ora, *«é difícil haver quem morra por um justo»* (Rm 5, 7), ou seja, é difícil encontrar quem morra para salvar um homem justo; e até, como diz Isaías: *«o justo perece, e não há quem considere sobre isto no seu coração»* (57, 1). E por isso, *«é difícil haver quem morra por um justo».* Pois se alguém, isto é, alguma rara exceção, ousar, pelo zelo da virtude, morrer por um bom homem, será coisa realmente rara; e isso, por ser um feito muito elevado, como diz S. João (15, 13): *«Ninguém tem maior amor que o daquele que dá a vida por seus amigos»*. Porém, morrer por homens ímpios e maus, é algo que jamais ocorre. E por isto devemos, com razão, nos admirar, pois foi isto que Cristo fez.
 
@@ -226,7 +226,7 @@ Tamanha é a graça de Deus e seu amor para conosco, que Ele fez por nós mais d
 
 # II Domingo da Quaresma
 
-> *«O que não poupou nem o seu próprio Filho, mas por nós todos o entregou»* (Rm 8, 32)
+> O que não poupou nem o seu próprio Filho, mas por nós todos o entregou»* (Rm 8, 32)
 
 Cristo sofreu voluntariamente, em obediência ao Pai. E de três modos Deus Pai entregou Cristo à paixão:
 
@@ -248,7 +248,7 @@ Cristo, porém, não foi devedor da morte por necessidade, mas por caridade para
 
 # Segunda-feira da II Semana da Quaresma
 
-> *«Entregá-lo-ão aos gentios para ser escarnecido, açoitado e crucificado»* (Mt 20, 19)
+> Entregá-lo-ão aos gentios para ser escarnecido, açoitado e crucificado (Mt 20, 19)
 
 1.\ No modo mesmo da paixão de Cristo lhe estava prefigurado o efeito.
 
@@ -286,7 +286,7 @@ Ora, o efeito do pecado dos nossos primeiros pais chega a cada indivíduo pela g
 
 # Quarta-feira da II Semana da Quaresma
 
-> *«Ele é propiciação pelos nossos pecados; e não somente pelos nossos, mas também pelos de todo o mundo»* (1 Jo 2, 2)
+> Ele é propiciação pelos nossos pecados; e não somente pelos nossos, mas também pelos de todo o mundo»* (1 Jo 2, 2)
 
 I. Propriamente falando, satisfaz pela ofensa quem, ao ofendido, oferece algo que este ame tanto ou mais do que odeia a ofensa. Ora, Cristo, sofrendo por obediência e caridade, ofereceu a Deus um bem maior do que o exigido pela recompensa da ofensa total do gênero humano. Assim, primeiro, pela grandeza da caridade, pela qual sofria. Segundo, pela dignidade de sua vida, que oferecia em satisfação, que era a vida de Deus e do homem. Terceiro, por causa da generalidade da Paixão e da grandeza da dor assumida. Por onde, a Paixão de Cristo foi uma satisfação não só suficiente, mas superabundante pelos pecados do gênero humano, segundo aquilo do Evangelho: *«Ele é a propiciação pelos nossos pecados, e não somente pelos nossos, mas também pelos de todo o mundo»* (Mt 20, 19).
 
@@ -328,7 +328,7 @@ Donde o dizer Agostinho: *«Que oferenda podiam os homens tomar, que lhes fosse 
 
 # Sexta-feira da II Semana da Quaresma
 
-> *«José, tomando o corpo, envolveu-o num lençol branco. E depositou-o no seu sepulcro novo»* (Mt 27, 59)
+> José, tomando o corpo, envolveu-o num lençol branco. E depositou-o no seu sepulcro novo (Mt 27, 59)
 
 I.  Por este sudário designam-se três coisas, em sentido místico: 
 
@@ -377,7 +377,7 @@ Por onde, relativamente a Deus, a justiça exigia fosse o homem redimido; não p
 
 # III Domingo da Quaresma
 
-> *«Amou-nos e nos lavou dos pecados no seu sangue»* (Ap 1, 5) 
+> Amou-nos e nos lavou dos pecados no seu sangue (Ap 1, 5) 
 
 A Paixão de Cristo é a causa própria da remissão dos pecados, por três razões:
 
@@ -401,7 +401,7 @@ Pela fé também nos é aplicada a Paixão de Cristo, a fim de lhe colhermos os 
 
 O Senhor disse, na iminência da Paixão: 
 
-> *«Agora será lançado fora o príncipe deste mundo, e eu, quando for levantado da terra, todas as coisas atrairei a mim mesmo»* (Jo 12, 31). 
+> Agora será lançado fora o príncipe deste mundo, e eu, quando for levantado da terra, todas as coisas atrairei a mim mesmo (Jo 12, 31). 
 
 Ora, o Senhor foi levantado da terra pela Paixão da cruz. Logo, por ela o diabo foi privado do seu poder sobre os homens.
 
@@ -427,7 +427,7 @@ Deus permite ao diabo enganar certas pessoas, em certos tempos e lugares, por um
 
 # Terça-feira da III Semana da Quaresma
 
-> *«fostes regatados pelo precioso sangue de Cristo, como de um cordeiro imaculado e sem contaminação*» (1 Pd 1, 19)
+> fostes regatados pelo precioso sangue de Cristo, como de um cordeiro imaculado e sem contaminação*» (1 Pd 1, 19)
 
 Pelo pecado dos nossos primeiros pais, o gênero humano apartou-se de Deus, como explica são Paulo na epístola aos Efésios (cap 2); o homem não se excluiu do poder de Deus, mas da visão da Sua face, a qual são admitidos aos Seus filhos e familiares. Ademais, caíramos sob o poder usurpado do diabo, ao qual, por seu consentimento, o homem se submeteu. O homem entregou-lhe tudo quanto nele era, embora não pudesse dar-se, pois não era mestre de si mesmo e a outro pertencia.
 
@@ -449,7 +449,7 @@ Se o diabo nos dominou por uma injusta usurpação, termos caído sob seu poder,
 
 # Quarta-feira da III Semana da Quaresma
 
-> *«fostes comprados por um grande preço»* (1 Cor 6, 20) 
+> fostes comprados por um grande preço (1 Cor 6, 20) 
 
 A injúria ou sofrimento mede-se pela dignidade do lesado: sofre maior injúria o rei, se esbofeteado, do que sofreria alguma pessoa privada. Ora, a dignidade da pessoa de Cristo é infinita, pois é uma pessoa divina.
 
@@ -477,7 +477,7 @@ Mas, permanece verdade que Cristo, que não apenas deu sua vida, mas ainda sofre
 
 # Quinta-feira da III Semana da Quaresma
 
-> *«A mulher, pois, deixou o seu cântaro, e foi à cidade»* (Jo 4, 28) 
+> A mulher, pois, deixou o seu cântaro, e foi à cidade (Jo 4, 28) 
 
 Após ter sido instruída por Cristo, a samaritana fez trabalho de apóstolo.
 
@@ -511,7 +511,7 @@ O fruto de sua pregação.
 
 # Sexta-feira da terceira semana da Quaresma
 
-> *«Ele foi o que tomou sobre si as nossas fraquezas e ele mesmo carregou com as nossas dores»* (Is 53, 4)
+> Ele foi o que tomou sobre si as nossas fraquezas e ele mesmo carregou com as nossas dores (Is 53, 4)
 
 Pela Paixão de Cristo fomos liberados do reato da pena de dois modos:
 
@@ -532,7 +532,7 @@ Mas, se a morte, que é pena do pecado, ainda subsiste, é porque a satisfação
 
 # Sábado da terceira semana da Quaresma
 
-> *«Fomos reconciliados com Deus pela morte de seu Filho.»* (Rm 5, 10) 
+> Fomos reconciliados com Deus pela morte de seu Filho. (Rm 5, 10) 
 
 Pela Paixão de Cristo fomos liberados do reato da pena de dois modos:
 
@@ -558,7 +558,7 @@ Assim, pode-se dizer simplesmente que Deus ama a quem admite a esta visão, quer
 
 # IV Domingo da Quaresma
 
-> *«Portanto, irmãos, tenham confiança de entrar no Santuário pelo sangue de Cristo.»* (Hb 10, 19)
+> Portanto, irmãos, tenham confiança de entrar no Santuário pelo sangue de Cristo. (Hb 10, 19)
 
 O fechamento de uma porta é um obstáculo que impede a entrada das pessoas. Ora, os homens estavam impedidos de entrar no reino dos céus por causa do pecado, pois, como diz Isaías (25, 8): *"Caminho sagrado chamá-lo-*
 
@@ -578,7 +578,7 @@ Cristo, com sua paixão, mereceu-nos a abertura do reino celeste e removeu o imp
 
 # segunda-feira depois do IV domingo da Quaresma
 
-> *«Ele tornou-se obediente até a morte, e morte de cruz; para o qual Deus também o exaltou.»* (Fl 2, 8)
+> Ele tornou-se obediente até a morte, e morte de cruz; para o qual Deus também o exaltou. (Fl 2, 8)
 
 O mérito comporta certa igualdade com a justiça. Por isso, diz o Apóstolo que "para aquele que realiza obras, o salário é considerado um débito" (Rm 4,4). Quando alguém, por sua injusta vontade, atribui a si mais do que se lhe deve, é justo que se diminua também o que se lhe devia, como diz o livro do Êxodo (22): "Quando um homem roubar uma ovelha, devolva". E dizemos que ele o mereceu, porquanto desse modo se pune sua vontade injusta.
 
@@ -636,7 +636,7 @@ Mas, *Cristo também sofreu por nós, deixando-vos o exemplo* da tribulação, d
 
 # Quarta-feira depois do IV domingo da Quaresma
 
-> *«Mandaram, pois, suas irmãs dizer a Jesus: Senhor, eis que está enfermo aquele que tu amas»* (Jo 11, 3 )
+> Mandaram, pois, suas irmãs dizer a Jesus: Senhor, eis que está enfermo aquele que tu amas (Jo 11, 3 )
 
 Aqui há três coisas que se deve considerar:
 
@@ -654,7 +654,7 @@ do amor especial e da familiaridade que lhes testemunhará. E talvez estivessem 
 
 # Quinta-feira da IV semana da Quaresma
 
-> *«Nosso amigo Lázaro dorme»* (Jo 11, 11)
+> Nosso amigo Lázaro dorme (Jo 11, 11)
 
 I. Chamamos alguém de " *Nosso amigo*", por causa dos numerosos benefícios e serviços que nos prestou; é por isso que não devemos faltar-lhe na necessidade.
 
@@ -684,7 +684,7 @@ De qualquer modo que se exponha o texto, o Senhor cura por vezes os mortos de qu
 
 I.  Pelo sangue de Cristo, foi selado o Novo Testamento. 
 
-> "*Este cálice é o novo testamento no meu sangue*" (1 Cor 11, 25)
+> Este cálice é o novo testamento no meu sangue (1 Cor 11, 25)
 
 Testamento compreende-se de dois modos:
 
@@ -737,7 +737,7 @@ Por isso foi mais conveniente que, pela paixão de Cristo fossemos liberados, do
 
 # Primeiro domingo da Paixão
 
-> *«E como Moisés levantou no deserto a serpente, assim também importa que seja levantado o Filho do homem, a fim de que todo o que crê nele tenha a vida eterna.»* (Jo 3, 14-15)
+> E como Moisés levantou no deserto a serpente, assim também importa que seja levantado o Filho do homem, a fim de que todo o que crê nele tenha a vida eterna. (Jo 3, 14-15)
 
 Aqui há três coisas que devemos considerar:
 
