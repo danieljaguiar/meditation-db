@@ -9,8 +9,8 @@ import datetime
 import os
 import sys
 sys.path.append(os.path.abspath('./_scripts/main'))
-# don't
 import books
+# don't
 
 
 def check_int(s):
@@ -47,7 +47,7 @@ with open("./_scripts/AquinasLent/full2.md", encoding="utf-8") as file:
                 print(res.group(1))
 
             line = line.replace(res.group(0), "[" + books.conv[book] + ". " + newInt.__str__(
-            ) + ", " + verse.strip() + "](https://vulgata.online/bible/" + books.conv[book] + "." + newInt.__str__() + "?ed=DR2&vfn=DR2." + books.conv[book] + "." + newInt.__str__() + "."+verse.strip()+":vs)")
+            ) + ", " + verse.strip() + "](https://vulgata.online/bible/" + books.conv[book] + "." + newInt.__str__() + "?ed=DR2&vfn=DR2." + books.conv[book] + "." + newInt.__str__() + "." + verse.strip() + ":vs)")
 
             res = regexp.search(line)
 

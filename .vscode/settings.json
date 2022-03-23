@@ -1,0 +1,4 @@
+{
+  "python.languageServer": "Pylance",
+  "python.formatting.autopep8Args": ["--ignore", "E402"]
+}
