@@ -77,4 +77,11 @@ conv = {
     "Sl": "Ps",
     "Tg": "Tg",
     "Zc": "Zc",
+    "1 Cor": "1Co",
+    "1 Jo": "1Jo",
+    "1 Pd": "1Pe",
+    "1 Rs": "1Rs",
+    "1 Ts": "1Ts",
+    "2 Cor": "2Co",
+    "2 Pd": "2Pe",
 }

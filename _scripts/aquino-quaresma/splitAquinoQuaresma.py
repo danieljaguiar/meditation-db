@@ -21,7 +21,7 @@ except OSError:
     pass
 
 regexp = re.compile(
-    r'\(([^\s]*)\s([0-9]{1,3}),\s?([0-9]{1,3})\)', re.MULTILINE)
+    r'\((([1-4]{1,2}\s)?[^\s]*)\s([0-9]{1,3}),\s?([0-9]{1,3})\)', re.MULTILINE)
 
 count_file = 0
 
@@ -30,15 +30,15 @@ with open(initial_path + "full - 005 - Consistent Quotes.md", encoding="utf-8") 
 
     for line in lines:
         if(line[0:1] == "#"):
-            print(count_file + 1, "- new file ")
+            # print(count_file + 1, "- new file ")
             count_file = count_file + 1
         else:
             res = regexp.search(line)
             while res:
                 res = regexp.search(line)
                 book = res.group(1)
-                chapter = res.group(2)
-                verse = res.group(3)
+                chapter = res.group(3)
+                verse = res.group(4)
 
                 # if check_int(chapter):
                 #     newInt = int(chapter)
