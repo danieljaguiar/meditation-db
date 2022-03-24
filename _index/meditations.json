@@ -295,7 +295,7 @@
     "bookId": "afonso-todo-dia",
     "order": 30,
     "title": "Festa de Santo Estevão, Proto mártir",
-    "subTitle": "Dia 26 de Dezembro (primeira meditação, pela manha)",
+    "subTitle": "1a Meditação - Dia 26 de Dezembro",
     "rules": [
       {
         "type": "fixedDate",
@@ -309,7 +309,7 @@
     "bookId": "afonso-todo-dia",
     "order": 31,
     "title": "Uma visita à Gruta de Belém",
-    "subTitle": "Dia 26 de Dezembro (Meditação para a tarde do mesmo dia)",
+    "subTitle": "2a Meditação - Dia 26 de Dezembro",
     "rules": [
       {
         "type": "fixedDate",
@@ -323,7 +323,7 @@
     "bookId": "afonso-todo-dia",
     "order": 32,
     "title": "Festa de São João Evangelista",
-    "subTitle": "Dia 27 de Dezembro",
+    "subTitle": "1a Meditação - Dia 27 de Dezembro",
     "rules": [
       {
         "type": "fixedDate",
@@ -337,7 +337,7 @@
     "bookId": "afonso-todo-dia",
     "order": 33,
     "title": "Oferecimento do coração a Jesus Menino",
-    "subTitle": "Dia 27 de Dezembro (Meditação para a tarde do mesmo dia)",
+    "subTitle": "2a Meditação - Dia 27 de Dezembro",
     "rules": [
       {
         "type": "fixedDate",
@@ -351,7 +351,7 @@
     "bookId": "afonso-todo-dia",
     "order": 34,
     "title": "Festa dos Santos Inocentes",
-    "subTitle": "Dia 28 de Dezembro",
+    "subTitle": "1a Meditação - Dia 28 de Dezembro",
     "rules": [
       {
         "type": "fixedDate",
@@ -365,7 +365,7 @@
     "bookId": "afonso-todo-dia",
     "order": 35,
     "title": "Felicidade de quem nasceu depois da Redenção e na Igreja Católica",
-    "subTitle": "Dia 28 de Dezembro (Meditação para a tarde do mesmo dia)",
+    "subTitle": "2a Meditação - Dia 28 de Dezembro",
     "rules": [
       {
         "type": "fixedDate",
@@ -407,7 +407,7 @@
     "bookId": "afonso-todo-dia",
     "order": 38,
     "title": "Devemos aproveitar o tempo",
-    "subTitle": "Para o último dia do ano",
+    "subTitle": "1a Meditação - Para o último dia do ano",
     "rules": [
       {
         "type": "fixedDate",
@@ -421,7 +421,7 @@
     "bookId": "afonso-todo-dia",
     "order": 39,
     "title": "Jesus Cristo tem feito e padecido tudo por nosso amor",
-    "subTitle": "Para o último dia do ano (Meditação para a tarde do mesmo dia)",
+    "subTitle": "2a Meditação - Para o último dia do ano",
     "rules": [
       {
         "type": "fixedDate",
@@ -1417,7 +1417,7 @@
     "bookId": "afonso-todo-dia",
     "order": 129,
     "title": "O demônio mudo e as confissões sacrílegas",
-    "subTitle": "Domingo da Terceira Semana da Quaresma",
+    "subTitle": "1a Meditação - Domingo da Terceira Semana da Quaresma",
     "rules": [
       {
         "type": "easter",
@@ -1431,7 +1431,7 @@
     "bookId": "afonso-todo-dia",
     "order": 130,
     "title": "Estado miserável dos que recaem no pecado",
-    "subTitle": "Outra meditação para o mesmo Domingo (Terceira Semana da Quaresma)",
+    "subTitle": "2a Meditação - Domingo da Terceira Semana da Quaresma",
     "rules": [
       {
         "type": "easter",
@@ -1529,7 +1529,7 @@
     "bookId": "afonso-todo-dia",
     "order": 137,
     "title": "A multidão faminta e as almas do purgatório",
-    "subTitle": "Domingo da Quarta Semana da Quaresma",
+    "subTitle": "1a Meditação - Domingo da Quarta Semana da Quaresma",
     "rules": [
       {
         "type": "easter",
@@ -1543,7 +1543,7 @@
     "bookId": "afonso-todo-dia",
     "order": 138,
     "title": "Terna compaixão de Jesus Cristo para com os pecadores",
-    "subTitle": "Outra meditação para o mesmo Domingo da Quarta Semana da Quaresma",
+    "subTitle": "2a Meditação - Domingo da Quarta Semana da Quaresma",
     "rules": [
       {
         "type": "easter",
@@ -1753,7 +1753,7 @@
     "bookId": "afonso-todo-dia",
     "order": 153,
     "title": "Jesus é levado a Pilatos e a Herodes, e posposto a Barrabás",
-    "subTitle": "Segunda-feira Santa (primeira meditação)",
+    "subTitle": "1a Meditação - Segunda-feira Santa",
     "rules": [
       {
         "type": "easter",
@@ -1767,7 +1767,7 @@
     "bookId": "afonso-todo-dia",
     "order": 154,
     "title": "Jesus preso à coluna e flagelado",
-    "subTitle": "Segunda-feira Santa (meditação para a tarde)",
+    "subTitle": "2a Meditação - Segunda-feira Santa",
     "rules": [
       {
         "type": "easter",
@@ -1781,7 +1781,7 @@
     "bookId": "afonso-todo-dia",
     "order": 155,
     "title": "Jesus é coroado de espinhos e apresentado ao povo",
-    "subTitle": "Terça-feira Santa (primeira meditação)",
+    "subTitle": "1a Meditação - Terça-feira Santa",
     "rules": [
       {
         "type": "easter",
@@ -1795,7 +1795,7 @@
     "bookId": "afonso-todo-dia",
     "order": 156,
     "title": "Jesus é condenado e vai ao Calvário",
-    "subTitle": "Terça-feira Santa (meditação para a tarde)",
+    "subTitle": "2a Meditação - Terça-feira Santa",
     "rules": [
       {
         "type": "easter",
@@ -1809,7 +1809,7 @@
     "bookId": "afonso-todo-dia",
     "order": 157,
     "title": "Quarta Dor de Maria Santíssima – Encontro com Jesus, que carrega a cruz",
-    "subTitle": "Quarta-feira Santa (primeira meditação)",
+    "subTitle": "1a Meditação - Quarta-feira Santa",
     "rules": [
       {
         "type": "easter",
@@ -1823,7 +1823,7 @@
     "bookId": "afonso-todo-dia",
     "order": 158,
     "title": "Jesus é crucificado entre dois ladrões",
-    "subTitle": "Quarta-feira Santa (meditação para a tarde)",
+    "subTitle": "2a Meditação - Quarta-feira Santa",
     "rules": [
       {
         "type": "easter",
@@ -1837,7 +1837,7 @@
     "bookId": "afonso-todo-dia",
     "order": 159,
     "title": "O dia do Amor",
-    "subTitle": "Quinta-feira Santa (primeira meditação)",
+    "subTitle": "1a Meditação - Quinta-feira Santa",
     "rules": [
       {
         "type": "easter",
@@ -1851,7 +1851,7 @@
     "bookId": "afonso-todo-dia",
     "order": 160,
     "title": "Quinta Dor de Maria Santíssima – Morte de Jesus",
-    "subTitle": "Quinta-feira Santa (meditação para a tarde)",
+    "subTitle": "2a Meditação - Quinta-feira Santa",
     "rules": [
       {
         "type": "easter",
@@ -1865,7 +1865,7 @@
     "bookId": "afonso-todo-dia",
     "order": 161,
     "title": "Morte de Jesus",
-    "subTitle": "Sexta-feira Santa (primeira meditação)",
+    "subTitle": "1a Meditação - Sexta-feira Santa",
     "rules": [
       {
         "type": "easter",
@@ -1879,7 +1879,7 @@
     "bookId": "afonso-todo-dia",
     "order": 162,
     "title": "Sexta Dor de Maria Santíssima – Jesus é descido da cruz",
-    "subTitle": "Sexta-feira Santa (meditação para a tarde)",
+    "subTitle": "2a Meditação - Sexta-feira Santa",
     "rules": [
       {
         "type": "easter",
@@ -1893,7 +1893,7 @@
     "bookId": "afonso-todo-dia",
     "order": 163,
     "title": "Sétima Dor de Maria Santíssima – Sepultura de Jesus",
-    "subTitle": "Sábado Santo (primeira meditação)",
+    "subTitle": "1a Meditação - Sábado Santo",
     "rules": [
       {
         "type": "easter",
@@ -1907,7 +1907,7 @@
     "bookId": "afonso-todo-dia",
     "order": 164,
     "title": "Soledade de Maria Santíssima depois da sepultura de Jesus",
-    "subTitle": "Sábado Santo (meditação para a tarde)",
+    "subTitle": "2a Meditação - Sábado Santo",
     "rules": [
       {
         "type": "easter",
@@ -4175,7 +4175,7 @@
     "bookId": "afonso-todo-dia",
     "order": 326,
     "title": "O homem hidrópico e o cristão ambicioso",
-    "subTitle": "Domingo da Décima Sétima Semana depois de Pentecostes",
+    "subTitle": "1a Meditação - Domingo da Décima Sétima Semana depois de Pentecostes",
     "rules": [
       {
         "type": "easter",
@@ -4189,7 +4189,7 @@
     "bookId": "afonso-todo-dia",
     "order": 327,
     "title": "O homem e o vício da impureza",
-    "subTitle": "Domingo da Décima Sétima Semana depois de Pentecostes (Outra meditação para o mesmo dia)",
+    "subTitle": "2a Meditação - Domingo da Décima Sétima Semana depois de Pentecostes",
     "rules": [
       {
         "type": "easter",
