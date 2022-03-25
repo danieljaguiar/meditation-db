@@ -61,5 +61,26 @@
         }
       }
     ]
+  },
+  {
+    "id": "kempis",
+    "localizations": [
+      {
+        "language": "en",
+        "value": {
+          "shortName": "Thomas Kempis",
+          "name": "Thomas à Kempis",
+          "description": "Pending"
+        }
+      },
+      {
+        "language": "pt",
+        "value": {
+          "shortName": "Thomas Kempis",
+          "name": "Thomas à Kempis",
+          "description": "Pendente"
+        }
+      }
+    ]
   }
 ]
