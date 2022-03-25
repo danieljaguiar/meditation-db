@@ -25,7 +25,7 @@ except OSError:
 
 count_file = 0
 
-with open(initial_path + "imitation - 001 - No Intro.md", encoding="utf-8") as fullFile:
+with open(initial_path + "imitation - 003 - Removing Scapes.md", encoding="utf-8") as fullFile:
     lines = fullFile.readlines()
 
     for line in lines:
