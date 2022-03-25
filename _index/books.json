@@ -2,63 +2,66 @@
   {
     "id": "afonso-todo-dia",
     "language": "pt",
-    "priority": 1,
+    "priority": 100,
     "authorId": "alphonsus",
     "shortTitle": "Meditações para todos os dias",
     "title": "Meditações de Santo Afonso de Ligório para cada dia do ano",
     "initialPrayer": "afonso-todo-dia-initial",
     "finalPrayer": "afonso-todo-dia-final",
-    "description": "Textos de de Santo Afonso de Ligório organizados pelo Padre Thiago Maria Cristini para serem meditados a cada dia do ano liturgico.",
     "shortDescription": "Textos de de Santo Afonso de Ligório organizados pelo Padre Thiago Maria Cristini para serem meditados a cada dia do ano liturgico."
   },
   {
     "id": "breviario-confianca",
     "language": "pt",
-    "priority": 2,
+    "priority": 200,
     "authorId": "ascanio",
     "shortTitle": "Breviário da Confiança",
     "title": "Breviário da Confiança por Monsenhor Ascânio Brandão",
-    "description": "Um pequeno texto para ser meditado a cada dia do ano e motivar o fiel católico ao progresso na vida espiritual.",
     "shortDescription": "Um pequeno texto para ser meditado a cada dia do ano e motivar o fiel católico ao progresso na vida espiritual."
   },
   {
     "id": "aquino-quaresma",
     "language": "pt",
-    "priority": 3,
+    "priority": 300,
     "authorId": "aquinas",
     "shortTitle": "Meditações para a Quaresma",
     "title": "Meditações para a Quaresma dos textos de São Tomás de Aquino",
-    "description": "Coleções de textos de São Tomás de Aquino, organizados pelo padre Dennis Mezárd em forma de meditações para cada dia da queresma.",
     "shortDescription": "Coleções de textos de São Tomás de Aquino, organizados pelo padre Dennis Mezárd em forma de meditações para cada dia da queresma."
   },
   {
     "id": "breviary-trust",
     "language": "en",
-    "priority": 4,
+    "priority": 400,
     "authorId": "ascanio",
     "shortTitle": "Breviary of Trust",
     "title": "Breviary of Trust by Monsignur Ascânio Brandão",
-    "description": "Our own ONGOING translation of this amazing book by a brazilian priest, with short meditations to motivate you in the spiritual life.",
     "shortDescription": "Our own (ONGOING) translation of this amazing book by a brazilian priest, with short meditations to motivate you in the spiritual life."
+  },
+  {
+    "id": "imitacao",
+    "language": "pt",
+    "priority": 600,
+    "authorId": "kempis",
+    "shortTitle": "Imitação de Cristo",
+    "title": "Imitação de Cristo",
+    "shortDescription": "Depois da Bíbila é considerado o livro mais lido dentro da Cristandade. Consiste em uma coleção de pensamentos para a perfeição Cristã."
   },
   {
     "id": "aquinas-lent",
     "language": "en",
-    "priority": 5,
+    "priority": 500,
     "authorId": "aquinas",
     "shortTitle": "Meditations for Lent",
     "title": "Meditations for Lent from the texts of Saint Thomas Aquinas",
-    "description": "Collection of texts from Saint Thomas Aquinas, organized by father Dennis Mezárd in a form of meditation for everyday of the lent.",
     "shortDescription": "Collection of texts from Saint Thomas Aquinas, organized by father Dennis Mezárd in a form of meditation for everyday of the lent."
   },
   {
     "id": "imitation",
     "language": "en",
-    "priority": 6,
+    "priority": 600,
     "authorId": "kempis",
     "shortTitle": "Imitation of Christ",
     "title": "Imitation of Christ",
-    "description": "After the Bible the most widely read book, consisting in a collection of thoughts aiming on Christian perfection.",
     "shortDescription": "After the Bible the most widely read book, consisting in a collection of thoughts aiming on Christian perfection."
   }
 ]
