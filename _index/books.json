@@ -29,6 +29,15 @@
     "shortDescription": "Coleções de textos de São Tomás de Aquino, organizados pelo padre Dennis Mezárd em forma de meditações para cada dia da queresma."
   },
   {
+    "id": "imitacao",
+    "language": "pt",
+    "priority": 350,
+    "authorId": "kempis",
+    "shortTitle": "Imitação de Cristo",
+    "title": "Imitação de Cristo",
+    "shortDescription": "Depois da Bíbila é considerado o livro mais lido dentro da Cristandade. Consiste em uma coleção de pensamentos para a perfeição Cristã."
+  },
+  {
     "id": "breviary-trust",
     "language": "en",
     "priority": 400,
@@ -36,15 +45,6 @@
     "shortTitle": "Breviary of Trust",
     "title": "Breviary of Trust by Monsignur Ascânio Brandão",
     "shortDescription": "Our own (ONGOING) translation of this amazing book by a brazilian priest, with short meditations to motivate you in the spiritual life."
-  },
-  {
-    "id": "imitacao",
-    "language": "pt",
-    "priority": 600,
-    "authorId": "kempis",
-    "shortTitle": "Imitação de Cristo",
-    "title": "Imitação de Cristo",
-    "shortDescription": "Depois da Bíbila é considerado o livro mais lido dentro da Cristandade. Consiste em uma coleção de pensamentos para a perfeição Cristã."
   },
   {
     "id": "aquinas-lent",
