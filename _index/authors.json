@@ -70,15 +70,15 @@
         "value": {
           "shortName": "Thomas Kempis",
           "name": "Thomas à Kempis",
-          "description": "Pending"
+          "description": "A Dutch-German who lived poverty, chastity and obedience, dedicating himself to prayer, and translation of Church manuscripts."
         }
       },
       {
         "language": "pt",
         "value": {
-          "shortName": "Thomas Kempis",
-          "name": "Thomas à Kempis",
-          "description": "Pendente"
+          "shortName": "Tomás Kempis",
+          "name": "Tomás de Kempis",
+          "description": "Um alemão-holandês que viveu pobreza, castidade e obediência, se dedicando a oração, e tradução de manuscritos da Igreja."
         }
       }
     ]

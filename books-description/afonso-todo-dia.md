@@ -1,8 +1,8 @@
-Com título \"Meditações para todos os dias e festas do anno tiradas das obras asceticas de Santo Affonso Maria de Ligorio, Bispo e Doutor da Santa Igreja\", essa excelente obra foi compilada pelo Padre Thiago Maria Cristini, CSSR e traduzida para o português pelo padre João de Jong.
+Com título \"Meditações para todos os dias e festas do anno tiradas das obras asceticas de Santo Affonso Maria de Ligorio, Bispo e Doutor da Santa Igreja\", essa excelente obra foi compilada pelo Padre Thiago Maria Cristini (CSSR) e traduzida para o português pelo padre João de Jong.
 
 Nesta obra o Padre Cristini se valeu da \"Le Opere Complete di Sant'Alfonso de' Liguori\" (A obra completa de Santo Afonso de Ligorio).
 
-Com maestria, o pe. Cristini organizou os textos do Santo em leituras para serem meditadas em cada dia do ano liturgica. As leituras com frequencia nos remetem a liturgia tridentina do dia. Meditar nos textos dessa obra pela manhã, antes de assistir a missa diária, é de grande valia espiritual.
+Com maestria, o pe. Cristini organizou os textos de Santo Afonso em leituras para serem meditadas em cada dia do ano liturgico. As leituras com frequencia nos remetem a liturgia do dia na missa tridentina. Portanto, meditar nos textos dessa obra pela manhã, antes de assistir a missa diária, é de grande valia espiritual.
 
 Os textos de Santo Afonso são de uma beleza imensa, diferente de uma obra de teologia ou filosofia, o Santo, como que, escreve uma carta para o seu leitor, tentando anima-lo na fé e move-lo a perfeição espiritual.
 
