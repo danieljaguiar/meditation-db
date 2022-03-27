@@ -20184,7 +20184,7 @@
     "rules": [
       {
         "type": "easter",
-        "value": "-21",
+        "value": "-20",
         "priority": 500
       }
     ],
