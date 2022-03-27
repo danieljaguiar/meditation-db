@@ -20175,5 +20175,20 @@
     ],
     "slug": "multiplication-of-the-loaves",
     "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 120,
+    "title": "The Value of Obdience",
+    "subTitle": "Monday after Fourth Sunday Of Lent",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-21",
+        "priority": 500
+      }
+    ],
+    "slug": "the-value-of-the-obdience",
+    "priority": 500
   }
 ]
