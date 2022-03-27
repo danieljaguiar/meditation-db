@@ -20160,5 +20160,20 @@
     ],
     "slug": "livro-4-capitulo-18",
     "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 119,
+    "title": "The Multiplication Of The Loaves",
+    "subTitle": "Fourth Sunday Of Lent",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-21",
+        "priority": 500
+      }
+    ],
+    "slug": "multiplication-of-the-loaves",
+    "priority": 500
   }
 ]

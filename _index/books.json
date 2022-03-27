@@ -47,6 +47,15 @@
     "shortDescription": "Our own (ONGOING) translation of this amazing book by a brazilian priest, with short meditations to motivate you in the spiritual life."
   },
   {
+    "id": "divine-intimacy",
+    "language": "en",
+    "priority": 450,
+    "authorId": "gabriel",
+    "shortTitle": "Divine Intimacy",
+    "title": "Divine Intimacy - Meditations on the Interior Life for Every Day Of The Liturgical Year",
+    "shortDescription": "Already considered a classic for meditation among the Carmilites, helps to initmate union with God by considerations of holy truths."
+  },
+  {
     "id": "aquinas-lent",
     "language": "en",
     "priority": 500,
