@@ -16,7 +16,7 @@ except OSError:
 
 count_file = 0
 
-with open("./_scripts/AquinasLent/full3.md", encoding="utf-8") as file:
+with open("./_scripts/AquinasLent/full4.md", encoding="utf-8") as file:
     lines = file.readlines()
 
     for line in lines:
@@ -24,5 +24,5 @@ with open("./_scripts/AquinasLent/full3.md", encoding="utf-8") as file:
             print("new file", count_file)
             count_file = count_file + 1
         else:
-            with open("./_scripts/AquinasLent/output/"+count_file.__str__()+".md", "a", encoding="utf8") as myfile:
+            with open("./_scripts/AquinasLent/output/" + count_file.__str__() + ".md", "a", encoding="utf8") as myfile:
                 myfile.write(line)
