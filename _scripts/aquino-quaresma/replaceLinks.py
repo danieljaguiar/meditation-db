@@ -17,10 +17,10 @@ regexp = re.compile(
 
 count_file = 0
 
-with open(initial_path + "full - 005 - Consistent Quotes.md", encoding="utf-8") as fullFile:
+with open(initial_path + "full - 010 - manual review.md", encoding="utf-8") as fullFile:
     lines = fullFile.readlines()
 
-    with open(initial_path + "/full - 007 - linksFixed.md", "a", encoding="utf8") as newFile:
+    with open(initial_path + "/full - 011 - fixedLinks.md", "a", encoding="utf8") as newFile:
         for line in lines:
             res = regexp.search(line)
             while res:

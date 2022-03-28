@@ -167,7 +167,7 @@ II.  Mas esta porta é causa da salvação. Por isso, diz a Escritura *"imediata
 
 Isto ocorreu para mostrar-nos que, pela Paixão de Cristo, conseguimos plena ablução de nossos pecados e de nossas máculas.
 
-\- De nossos pecados, pelo sangue, que é o preço da nossa redenção, conforme a Escritura, *"fostes resgatados da vossa vã maneira de viver recebida dos vossos pais, não a preço de ouro ou de prata, mas pelo precioso sangue de Cristo, como dum cordeiro imaculado e sem contaminação"* (1 Pe 1, 18-19) ([1Pe. 1, 18-19](https://vulgata.online/bible/1Pe.1?ed=MS&vfn=MS.1Pe.1.18-19:vs))
+\- De nossos pecados, pelo sangue, que é o preço da nossa redenção, conforme a Escritura, *"fostes resgatados da vossa vã maneira de viver recebida dos vossos pais, não a preço de ouro ou de prata, mas pelo precioso sangue de Cristo, como dum cordeiro imaculado e sem contaminação"* ([1Pe. 1, 18-19](https://vulgata.online/bible/1Pe.1?ed=MS&vfn=MS.1Pe.1.18-19:vs))
 \- Das nossas máculas, pela água, que é o banho da nossa regeneração, conforme a Escritura, *"derramarei sobre vós uma água pura, e vós sereis purificados de todas as vossas imundícies"* ([Ez. 36, 25](https://vulgata.online/bible/Ez.36?ed=MS&vfn=MS.Ez.36.25:vs)); *"Naquele dia haverá uma fonte aberta para a casa de Davi e para os habitantes de Jerusalém, para se lavarem as manchas do pecado."* ([Zc. 13, 1](https://vulgata.online/bible/Zc.13?ed=MS&vfn=MS.Zc.13.1:vs)).
 
 E, por isto, estas duas coisas referem-se especialmente aos dois sacramentos: a água ao sacramento do batismo; o sangue, à eucaristia.
@@ -183,7 +183,7 @@ Convém ainda esta figura: assim como do lado de Cristo, que dormia na cruz, sai
 > Mas Deus manifesta a sua caridade para conosco, porque, quando ainda éramos pecadores, no tempo oportuno, morreu Cristo por nós  
 [Rm. 5, 8](https://vulgata.online/bible/Rm.5?ed=MS&vfn=MS.Rm.5.8:vs)
 
-I. Cristo morreu pelos ímpios. E isto é grande, se considerarmos quem é aquele que morreu; também é grande, se considerarmos por quem foi que Cristo morreu. Ora, *"é difícil haver quem morra por um justo"* ([Rm. 5, 7](https://vulgata.online/bible/Rm.5?ed=MS&vfn=MS.Rm.5.7:vs)), ou seja, é difícil encontrar quem morra para salvar um homem justo; e até, como diz Isaías: *"o justo perece, e não há quem considere sobre isto no seu coração"* (57, 1). E por isso, *"é difícil haver quem morra por um justo".* Pois se alguém, isto é, alguma rara exceção, ousar, pelo zelo da virtude, morrer por um bom homem, será coisa realmente rara; e isso, por ser um feito muito elevado, como diz S. João (15, 13): *"Ninguém tem maior amor que o daquele que dá a vida por seus amigos"*. Porém, morrer por homens ímpios e maus, é algo que jamais ocorre. E por isto devemos, com razão, nos admirar, pois foi isto que Cristo fez.
+I. Cristo morreu pelos ímpios. E isto é grande, se considerarmos quem é aquele que morreu; também é grande, se considerarmos por quem foi que Cristo morreu. Ora, *"é difícil haver quem morra por um justo"* ([Rm. 5, 7](https://vulgata.online/bible/Rm.5?ed=MS&vfn=MS.Rm.5.7:vs)), ou seja, é difícil encontrar quem morra para salvar um homem justo; e até, como diz Isaías: *"o justo perece, e não há quem considere sobre isto no seu coração"* (Is 57, 1). E por isso, *"é difícil haver quem morra por um justo".* Pois se alguém, isto é, alguma rara exceção, ousar, pelo zelo da virtude, morrer por um bom homem, será coisa realmente rara; e isso, por ser um feito muito elevado, como diz S. João (Jo 15, 13): *"Ninguém tem maior amor que o daquele que dá a vida por seus amigos"*. Porém, morrer por homens ímpios e maus, é algo que jamais ocorre. E por isto devemos, com razão, nos admirar, pois foi isto que Cristo fez.
 
 II.  Se procurarmos saber porque Cristo morreu pelos ímpios, a resposta é que, por sua morte, Deus manifestou sua caridade para conosco, ou seja, sua morte mostra que Ele nos ama infinitamente, porque, *"quando ainda éramos pecadores"*, Cristo morreu por nós.
 
@@ -191,15 +191,11 @@ E a mesma morte de Cristo mostra a caridade de Deus para conosco, pois entregou 
 
 E, desse modo, assim como a caridade de Deus Pai para conosco se demonstra por ter nos dado o seu Espírito, assim também se demonstra por ter nos dado o seu Filho.
 
-Quando S. Paulo diz que Deus *"manifesta a sua caridade para conosco"*, assinala a imensidade do amor divino, pelo fato de ter entregue seu Filho para morrer por nós; e, em seguida, por nossa condição; pois Deus não o fez por causa de nossos méritos, mas *"quando ainda éramos*
-
-*pecadores",* como diz S. Paulo na Epístola aos Efésios (2, 4): *"Mas Deus, que é rico em misericórdia, pela sua extrema caridade, com que nos amou, estando nós mortos pelos pecados, vivificou-nos em Cristo".*
+Quando S. Paulo diz que Deus *"manifesta a sua caridade para conosco"*, assinala a imensidade do amor divino, pelo fato de ter entregue seu Filho para morrer por nós; e, em seguida, por nossa condição; pois Deus não o fez por causa de nossos méritos, mas *"quando ainda éramos pecadores",* como diz S. Paulo na Epístola aos Efésios (Ef 2, 4): *"Mas Deus, que é rico em misericórdia, pela sua extrema caridade, com que nos amou, estando nós mortos pelos pecados, vivificou-nos em Cristo".*
 
 *In Rom., V.*
 
-III.  Nessas coisas, mal se pode crer. Diz a Escritura: *"acontecerá uma*
-
-*coisa em vossos dias, que ninguém acreditará, quando for contada."* ([Hc. 1, 5](https://vulgata.online/bible/Hc.1?ed=MS&vfn=MS.Hc.1.5:vs)). Pois que Cristo tenha morrido por nós, é algo de surpreendente, algo que mal se pode conceber. E é isto o que diz o Apóstolo, *"faço uma obra em vossos dias, uma obra que vós não crereis, se alguém vo-la contar."* ([Act. 13, 41](https://vulgata.online/bible/Act.13?ed=MS&vfn=MS.Act.13.41:vs))
+III.  Nessas coisas, mal se pode crer. Diz a Escritura: *"acontecerá uma coisa em vossos dias, que ninguém acreditará, quando for contada."* ([Hc. 1, 5](https://vulgata.online/bible/Hc.1?ed=MS&vfn=MS.Hc.1.5:vs)). Pois que Cristo tenha morrido por nós, é algo de surpreendente, algo que mal se pode conceber. E é isto o que diz o Apóstolo, *"faço uma obra em vossos dias, uma obra que vós não crereis, se alguém vo-la contar."* ([Act. 13, 41](https://vulgata.online/bible/Act.13?ed=MS&vfn=MS.Act.13.41:vs))
 
 Tamanha é a graça de Deus e seu amor para conosco, que Ele fez por nós mais do que podemos compreender ou conceber.
 
@@ -313,9 +309,7 @@ I.  Por este sudário designam-se três coisas, em sentido místico:
 
 II. *"E depositou-o no seu sepulcro novo"* ([Mt. 27, 59](https://vulgata.online/bible/Mt.27?ed=MS&vfn=MS.Mt.27.59:vs)). O texto diz, de início, que o sepulcro não era seu. E é muito conveniente que aquele que morrera pelos pecados dos outros fosse sepultado em um sepulcro alheio.
 
-O texto diz que o sepulcro era *"novo"*, pois se outros corpos tivessem sido depositados aí, não se saberia qual tinha ressuscitado. Outra razão é que, àquele que nasceu de uma virgem intacta, convinha ser sepultado num sepulcro novo; assim como no ventre de Maria não houve ninguém antes ou depois dele, assim também neste sepulcro. Do mesmo modo, para significar ainda que Cristo habita pela fé, escondido na alma renovada: *"que Cristo habite pela fé nos vossos corações"* ([Ef. 3, 17](https://vulgata.online/bible/Ef.3?ed=MS&vfn=MS.Ef.3.17:vs)) E S. João acrescenta, *"Ora, no lugar em que Jesus foi crucificado, havia um jardim, e no jardim um sepulcro novo."* ([Jo. 19, 41](https://vulgata.online/bible/Jo.19?ed=MS&vfn=MS.Jo.19.41:vs)). É digno de nota que Jesus, capturado num jardim, tenha sofrido sua Paixão e sido sepultado num jardim; como que para significar que, pela virtude da sua Paixão, 33
-
-somos libertados do pecado que Adão, no jardim das delícias, cometeu; e que é por Jesus que a Igreja é consagrada, ela, que é como o Jardim fechado, do Cântico.
+O texto diz que o sepulcro era *"novo"*, pois se outros corpos tivessem sido depositados aí, não se saberia qual tinha ressuscitado. Outra razão é que, àquele que nasceu de uma virgem intacta, convinha ser sepultado num sepulcro novo; assim como no ventre de Maria não houve ninguém antes ou depois dele, assim também neste sepulcro. Do mesmo modo, para significar ainda que Cristo habita pela fé, escondido na alma renovada: *"que Cristo habite pela fé nos vossos corações"* ([Ef. 3, 17](https://vulgata.online/bible/Ef.3?ed=MS&vfn=MS.Ef.3.17:vs)) E S. João acrescenta, *"Ora, no lugar em que Jesus foi crucificado, havia um jardim, e no jardim um sepulcro novo."* ([Jo. 19, 41](https://vulgata.online/bible/Jo.19?ed=MS&vfn=MS.Jo.19.41:vs)). É digno de nota que Jesus, capturado num jardim, tenha sofrido sua Paixão e sido sepultado num jardim; como que para significar que, pela virtude da sua Paixão, somos libertados do pecado que Adão, no jardim das delícias, cometeu; e que é por Jesus que a Igreja é consagrada, ela, que é como o Jardim fechado, do Cântico.
 
 *In Matth., XXVII.*
 
@@ -454,17 +448,14 @@ Três coisas podemos sublinhar de suas palavras e atos.
 
 I. A devoção que sentia e manifestou dos dois modos seguintes: 
 
-a\) Movida por intensa devoção, a samaritana como que se esqueceu da razão pela qual viera à fonte e abandonou água e cântaro. É o que diz o texto: *"a mulher deixou o seu cântaro, e foi à cidade"* , para anunciar a grandeza de Cristo, sem cuidar das necessidades do corpo. Nisso seguiu o exemplo dos Apóstolos que, após terem tudo deixado para trás, seguiram o Senhor. Ora, o cântaro significa a concupiscência das coisas do século, com o qual do fundo das trevas significado pelo poço, i.é, do trato com as coisas terrenas, os homens extraem os prazeres. Portanto, os que abandonam as concupiscências do século por Deus, abandonam o cântaro.
+1. Movida por intensa devoção, a samaritana como que se esqueceu da razão pela qual viera à fonte e abandonou água e cântaro. É o que diz o texto: *"a mulher deixou o seu cântaro, e foi à cidade"* , para anunciar a grandeza de Cristo, sem cuidar das necessidades do corpo. Nisso seguiu o exemplo dos Apóstolos que, após terem tudo deixado para trás, seguiram o Senhor. Ora, o cântaro significa a concupiscência das coisas do século, com o qual do fundo das trevas significado pelo poço, i.é, do trato com as coisas terrenas, os homens extraem os prazeres. Portanto, os que abandonam as concupiscências do século por Deus, abandonam o cântaro.
+2. A intensidade de sua devoção manifesta-se ainda pela multidão daqueles a quem anuncia o Cristo, pois não foi a um, nem a dois ou três, mas a toda a cidade. Diz o texto: *"...e foi à cidade".*
 
-b\) A intensidade de sua devoção manifesta-se ainda pela multidão daqueles a quem anuncia o Cristo, pois não foi a um, nem a dois ou três, mas a toda a cidade. Diz o texto: *"...e foi à cidade".*
+II. A qualidade de sua pregação: *"e disse àquela gente: vinde ver um homem..."*
 
-II. A qualidade de sua pregação: *"e disse àquela gente: vinde ver um homem...".*
-
-a\) Ela convida todos a ver o Cristo: *"Vinde ver um homem"*. Ela não diz imediatamente para que viessem ao Cristo, para não dar ocasião a blasfêmia; ao contrário, começa dizendo coisas que eram críveis e patentes, a saber, que era um homem. Ela não diz: crede, e sim: vinde ver, pois sabiam que, se bebessem daquela fonte, vendo-o, experimentariam o mesmo que ela experimentou. Por fim, a samaritana segue o exemplo do verdadeiro pregador, e não chama os homens para si, mas para o Cristo.
-
-b\) Oferece uma prova da divindade do Cristo, ao dizer: *"que me disse tudo o que eu tenho feito"*, ou seja, quantos homens tivera a samaritana. Ela não se envergonha de contar aquilo que lhe é motivo de confusão, pois a alma abrasada com o fogo divino não se importa mais com nada terreno, nem com a glória, nem com a vergonha, mas apenas com essa chama que nela queima.
-
-c\) Conclui confessando a majestade de Cristo, ao dizer: *"será este porventura o Cristo?"* Ela não ousou afirmar que era o Cristo, para que não aparentasse ensinar os outros: temia que, irritados, eles se recusassem a ir ao Cristo.
+1. Ela convida todos a ver o Cristo: *"Vinde ver um homem"*. Ela não diz imediatamente para que viessem ao Cristo, para não dar ocasião a blasfêmia; ao contrário, começa dizendo coisas que eram críveis e patentes, a saber, que era um homem. Ela não diz: crede, e sim: vinde ver, pois sabiam que, se bebessem daquela fonte, vendo-o, experimentariam o mesmo que ela experimentou. Por fim, a samaritana segue o exemplo do verdadeiro pregador, e não chama os homens para si, mas para o Cristo.
+2. Oferece uma prova da divindade do Cristo, ao dizer: *"que me disse tudo o que eu tenho feito"*, ou seja, quantos homens tivera a samaritana. Ela não se envergonha de contar aquilo que lhe é motivo de confusão, pois a alma abrasada com o fogo divino não se importa mais com nada terreno, nem com a glória, nem com a vergonha, mas apenas com essa chama que nela queima.
+3. Conclui confessando a majestade de Cristo, ao dizer: *"será este porventura o Cristo?"* Ela não ousou afirmar que era o Cristo, para que não aparentasse ensinar os outros: temia que, irritados, eles se recusassem a ir ao Cristo.
 
 Tampouco o silenciou totalmente, mas o propôs sob a forma de pergunta, como se submetesse o seu julgamento ao deles. De fato, este era o meio mais fácil de persuadi-los.
 
@@ -526,13 +517,11 @@ Assim, pode-se dizer simplesmente que Deus ama a quem admite a esta visão, quer
 > Portanto, irmãos, tenham confiança de entrar no Santuário pelo sangue de Cristo  
 [Hb. 10, 19](https://vulgata.online/bible/Hb.10?ed=MS&vfn=MS.Hb.10.19:vs)
 
-O fechamento de uma porta é um obstáculo que impede a entrada das pessoas. Ora, os homens estavam impedidos de entrar no reino dos céus por causa do pecado, pois, como diz Isaías (25, 8): *"Caminho sagrado chamá-lo-*
-
-*ão. O impuro não passará por ele"* .
+O fechamento de uma porta é um obstáculo que impede a entrada das pessoas. Ora, os homens estavam impedidos de entrar no reino dos céus por causa do pecado, pois, como diz Isaías (Is 25, 8): *"Caminho sagrado chamá-lo-ão. O impuro não passará por ele"* .
 
 E há dois pecados que impedem a entrada do reino dos céus. Um é o pecado de nosso primeiro pai, pecado comum a toda a natureza humana e que fechava ao homem a entrada do reino celeste. Por isso, se lê no livro do Gênesis, que, depois do pecado do primeiro homem, *"Deus postou os querubins com uma espada de fogo e versátil, para guardar o caminho da árvore da vida"* . O outro é o pecado especial de cada pessoa, cometido pelo ato pessoal de cada homem.
 
-Pela paixão de Cristo somos libertados não só do pecado comum a toda a natureza humana, em relação à culpa e em relação à dívida da pena, uma vez que ele pagou por nós o preço, mas também dos pecados próprios de cada um dos que participam da paixão dele pela fé, pelo amor, e pelos sacramentos da fé. Consequentemente, pela paixão de Cristo foi-nos aberta a porta do reino celeste. E é precisamente isso que nos diz a Carta aos Hebreus (9, 11): *"Cristo, sumo sacerdote dos bens vindouros, por seu próprio sangue, entrou uma vez para sempre no santuário e obteve uma libertação definitiva"* .
+Pela paixão de Cristo somos libertados não só do pecado comum a toda a natureza humana, em relação à culpa e em relação à dívida da pena, uma vez que ele pagou por nós o preço, mas também dos pecados próprios de cada um dos que participam da paixão dele pela fé, pelo amor, e pelos sacramentos da fé. Consequentemente, pela paixão de Cristo foi-nos aberta a porta do reino celeste. E é precisamente isso que nos diz a Carta aos Hebreus (Hb 9, 11): *"Cristo, sumo sacerdote dos bens vindouros, por seu próprio sangue, entrou uma vez para sempre no santuário e obteve uma libertação definitiva"* .
 
 É o que dá a entender o livro dos Números quando diz que o homicida "ali permanecerá", ou seja, na cidade de refúgio, *"até a morte do sumo sacerdote consagrado com o óleo santo"* ([Nm. 35, 25](https://vulgata.online/bible/Nm.35?ed=MS&vfn=MS.Nm.35.25:vs)); depois da morte deste, voltará para sua casa.
 
@@ -547,33 +536,23 @@ Cristo, com sua paixão, mereceu-nos a abertura do reino celeste e removeu o imp
 > Ele tornou-se obediente até a morte, e morte de cruz; para o qual Deus também o exaltou  
 [Fm. 2, 8](https://vulgata.online/bible/Fm.2?ed=MS&vfn=MS.Fm.2.8:vs)
 
-O mérito comporta certa igualdade com a justiça. Por isso, diz o Apóstolo que "para aquele que realiza obras, o salário é considerado um débito" ([Rm. 4, 4](https://vulgata.online/bible/Rm.4?ed=MS&vfn=MS.Rm.4.4:vs)). Quando alguém, por sua injusta vontade, atribui a si mais do que se lhe deve, é justo que se diminua também o que se lhe devia, como diz o livro do Êxodo (22): "Quando um homem roubar uma ovelha, devolva". E dizemos que ele o mereceu, porquanto desse modo se pune sua vontade injusta.
+O mérito comporta certa igualdade com a justiça. Por isso, diz o Apóstolo que "para aquele que realiza obras, o salário é considerado um débito" ([Rm. 4, 4](https://vulgata.online/bible/Rm.4?ed=MS&vfn=MS.Rm.4.4:vs)). Quando alguém, por sua injusta vontade, atribui a si mais do que se lhe deve, é justo que se diminua também o que se lhe devia, como diz o livro do [Êxodo](https://vulgata.online/bible/Ex.22?ed=MS): "Quando um homem roubar uma ovelha, devolva". E dizemos que ele o mereceu, porquanto desse modo se pune sua vontade injusta.
 
 Assim também, quando alguém, por uma justa vontade, se priva do que tinha direito de possuir, merece que se lhe dê mais, como salário de sua vontade justa. Por isso, como diz o Evangelho de Lucas, "quem se humilha será exaltado" ([Lc. 14, 11](https://vulgata.online/bible/Lc.14?ed=MS&vfn=MS.Lc.14.11:vs)).
 
 I. Ora, Cristo, em sua paixão, de quatro modos se humilhou abaixo de sua dignidade:
 
-a\) Primeiro, em relação à sua paixão e morte, de que não era devedor.
+- Primeiro, em relação à sua paixão e morte, de que não era devedor.
+- Segundo, em relação ao local, pois seu corpo foi posto num sepulcro, e sua alma, na mansão dos mortos.
+- Terceiro, em relação à confusão e opróbrios que suportou.
+- Quarto, em relação ao fato de ter sido entregue ao poder dos homens, conforme ele mesmo disse a Pilatos: "Não terias poder algum sobre mim se não te houvesse sido dado do alto" ([Jo. 19, 11](https://vulgata.online/bible/Jo.19?ed=MS&vfn=MS.Jo.19.11:vs)).
 
-b\) Segundo, em relação ao local, pois seu corpo foi posto num sepulcro, e sua alma, na mansão dos mortos.
+II\. Por sua paixão, mereceu a exaltação de quatro maneiras: 
 
-c) Terceiro, em relação à confusão e opróbrios que suportou.
-
-d\) Quarto, em relação ao fato de ter sido entregue ao poder dos homens, conforme ele mesmo disse a Pilatos: "Não terias poder algum sobre mim se não te houvesse sido dado do alto" ([Jo. 19, 11](https://vulgata.online/bible/Jo.19?ed=MS&vfn=MS.Jo.19.11:vs)).
-
-II\. Por sua paixão, mereceu a exaltação de quatro maneiras: a) Primeiro, em relação à ressurreição gloriosa. Por isso, diz o salmo (138, 1):
-
-"Conheces o meu deitar", ou seja, a humilhação de minha paixão, "e o meu levantar".
-
-b\) Segundo, em relação à ascensão ao céu. Por isso, diz a Carta aos Efésios:
-
-"Desceu primeiro até as partes inferiores da terra. Aquele que desceu é também o que subiu mais alto que todos os céus" ([Ef. 4, 9-10](https://vulgata.online/bible/Ef.4?ed=MS&vfn=MS.Ef.4.9-10:vs)).
-
-c\) Terceiro, em relação ao assento que teve à direita do Pai e à manifestação de sua divindade, conforme diz Isaías: "Ele será exaltado, elevado, e posto muito alto, da mesma forma que as multidões ficaram horrorizadas a seu respeito assim será sem glória o seu aspecto entre os homens" (52, 13-14). E
-
-diz a Carta aos Filipenses (2, 8-10): "Ele se fez obediente até a morte e morte numa cruz. Foi por isso que Deus lhe conferiu o Nome que está acima de todo nome", ou seja, para que por todos seja considerado como Deus e todos lhe mostrem reverência como a um Deus. E é o que se acrescenta: "A fim de que ao nome de Jesus todo joelho se dobre, nos céus, na terra e debaixo da terra".
-
-d\) Quarto, em relação ao poder judiciário, pois diz o livro de Jó: *"Tua causa foi julgada como a de um ímpio. Receberás o juízo e a causa"* ([Job. 36, 17](https://vulgata.online/bible/Job.36?ed=MS&vfn=MS.Job.36.17:vs)).
+- Primeiro, em relação à ressurreição gloriosa. Por isso, diz o salmo (Ps 138, 1): "Conheces o meu deitar", ou seja, a humilhação de minha paixão, "e o meu levantar".
+- Segundo, em relação à ascensão ao céu. Por isso, diz a Carta aos Efésios: "Desceu primeiro até as partes inferiores da terra. Aquele que desceu é também o que subiu mais alto que todos os céus" ([Ef. 4, 9-10](https://vulgata.online/bible/Ef.4?ed=MS&vfn=MS.Ef.4.9-10:vs)).
+- Terceiro, em relação ao assento que teve à direita do Pai e à manifestação de sua divindade, conforme diz Isaías: "Ele será exaltado, elevado, e posto muito alto, da mesma forma que as multidões ficaram horrorizadas a seu respeito assim será sem glória o seu aspecto entre os homens" (Is 52, 13-14). E diz a Carta aos Filipenses (Fp 2, 8-10): "Ele se fez obediente até a morte e morte numa cruz. Foi por isso que Deus lhe conferiu o Nome que está acima de todo nome", ou seja, para que por todos seja considerado como Deus e todos lhe mostrem reverência como a um Deus. E é o que se acrescenta: "A fim de que ao nome de Jesus todo joelho se dobre, nos céus, na terra e debaixo da terra".
+- Quarto, em relação ao poder judiciário, pois diz o livro de Jó: *"Tua causa foi julgada como a de um ímpio. Receberás o juízo e a causa"* ([Job. 36, 17](https://vulgata.online/bible/Job.36?ed=MS&vfn=MS.Job.36.17:vs)).
 
 *III, q. XLIX, a. 6*
 
@@ -606,11 +585,9 @@ Mas, *Cristo também sofreu por nós, deixando-vos o exemplo* da tribulação, d
 
 Aqui há três coisas que se deve considerar:
 
-1. A primeira é que os amigos de Deus por vezes padecem no corpo. Assim, não é sinal de falta de amizade com Deus o padecermos no corpo. Elifaz errava ao dizer a Jó, *Lembra-te: que inocente pereceu jamais? ou quando foram os justos destruídos?* ([Job. 4, 7](https://vulgata.online/bible/Job.4?ed=MS&vfn=MS.Job.4.7:vs)), como provam as irmãs de Lázaro: *Senhor, eis que está enfermo aquele que tu amas*. Lemos no livros dos Provérbios (3, 12): *O Senhor castiga aquele a quem ama, como um pai a seu filho querido*.
-2. A segunda é que elas não dizem: Senhor, vinde, curai-o, mas apenas expõem o seu estado: *eis que está enfermo*. O que significa que basta exprimir a um amigo as nossas necessidades, sem acrescenta pedido algum; pois um amigo, assim como procura seu próprio bem e combate seus males pessoais, combaterá os males de seu amigo. *E isto é sobretudo verdadeiro de quem verdadeiramente ama*. Diz o salmo (144, 20): *O Senhor guarda todos os que o amam*.
-3. A terceira é que as duas irmãs, desejando a cura de seu irmão doente, não vêm pessoalmente ao Cristo, como o fizeram o paralítico e o centurião; e isso por causa de sua confiança em Jesus Cristo, em virtude 56
-
-do amor especial e da familiaridade que lhes testemunhará. E talvez estivessem detidas pela dor, como disse são João Cristóstomo, em conformidade com aquilo do Eclesiástico (6, 11): *Se o teu amigo perseverar firme, será para ti como um igual, tratará à vontade com os da tua casa*.
+1. A primeira é que os amigos de Deus por vezes padecem no corpo. Assim, não é sinal de falta de amizade com Deus o padecermos no corpo. Elifaz errava ao dizer a Jó, *Lembra-te: que inocente pereceu jamais? ou quando foram os justos destruídos?* ([Job. 4, 7](https://vulgata.online/bible/Job.4?ed=MS&vfn=MS.Job.4.7:vs)), como provam as irmãs de Lázaro: *Senhor, eis que está enfermo aquele que tu amas*. Lemos no livros dos Provérbios (Pv 3, 12): *O Senhor castiga aquele a quem ama, como um pai a seu filho querido*.
+2. A segunda é que elas não dizem: Senhor, vinde, curai-o, mas apenas expõem o seu estado: *eis que está enfermo*. O que significa que basta exprimir a um amigo as nossas necessidades, sem acrescenta pedido algum; pois um amigo, assim como procura seu próprio bem e combate seus males pessoais, combaterá os males de seu amigo. *E isto é sobretudo verdadeiro de quem verdadeiramente ama*. Diz o salmo (Ps 144, 20): *O Senhor guarda todos os que o amam*.
+3. A terceira é que as duas irmãs, desejando a cura de seu irmão doente, não vêm pessoalmente ao Cristo, como o fizeram o paralítico e o centurião; e isso por causa de sua confiança em Jesus Cristo, em virtude do amor especial e da familiaridade que lhes testemunhará. E talvez estivessem detidas pela dor, como disse são João Cristóstomo, em conformidade com aquilo do Eclesiástico (Ees 6, 11): *Se o teu amigo perseverar firme, será para ti como um igual, tratará à vontade com os da tua casa*.
 
 *In Joan, XI*
 
@@ -650,13 +627,13 @@ I.  Pelo sangue de Cristo, foi selado o Novo Testamento.
 
 Testamento compreende-se de dois modos:
 
-a\) A palavra "testamento" é comumente utilizada para significar algum pacto. Assim, Deus fez por duas vezes pactos com o gênero humano. Na primeira vez, prometendo bens temporais e livrando-nos dos males temporais; e este pacto é chamado Antigo Testamento. Na segunda vez, prometendo bens espirituais e livrando-nos dos males contrários; e este pacto é chamado Novo Testamento. Tudo isso conforme as Escrituras:
+1\. A palavra "testamento" é comumente utilizada para significar algum pacto. Assim, Deus fez por duas vezes pactos com o gênero humano. Na primeira vez, prometendo bens temporais e livrando-nos dos males temporais; e este pacto é chamado Antigo Testamento. Na segunda vez, prometendo bens espirituais e livrando-nos dos males contrários; e este pacto é chamado Novo Testamento. Tudo isso conforme as Escrituras:
 
 "*Estão a chegar os dias, diz o Senhor, em que farei nova aliança com a casa de Israel e com a casa de Judá, diferente da aliança que fiz com seus pais do Egito* (...) *Eis a aliança que farei com a casa de Israel depois daqueles dias, diz o Senhor: Imprimirei a minha lei no seu íntimo, escrevê-la-ei nos seus corações; serei o seu Deus e eles serão o meu povo*"([Je. 31, 33](https://vulgata.online/bible/Je.31?ed=MS&vfn=MS.Je.31.33:vs)).
 
 Os antigos costumavam fundir o sangue de uma vítima para selar um pacto, Moisés tomou sangue e o aspergiu sobre o povo, dizendo: *Este é o sangue da aliança que o Senhor firmou convosco*. Assim, portanto, o antigo testamento ou pacto foi selado no sangue de touros; o Novo Testamento ou pacto, no sangue de Cristo, vertido em sua Paixão.
 
-b\) A palavra "testamento" também é utilizada, de modo mais estrito, para significar a disposição de uma herança. Ora, o testamento, nesta acepção, não é recebido senão pela morte; pois, como diz são Paulo: *"o testamento só produz seu efeito em caso de morte, não tendo força enquanto vive o testador"*
+2\. A palavra "testamento" também é utilizada, de modo mais estrito, para significar a disposição de uma herança. Ora, o testamento, nesta acepção, não é recebido senão pela morte; pois, como diz são Paulo: *"o testamento só produz seu efeito em caso de morte, não tendo força enquanto vive o testador"*
 
 ([Hb. 9, 17](https://vulgata.online/bible/Hb.9?ed=MS&vfn=MS.Hb.9.17:vs)). Deus inicialmente dispusera para uma herança eterna, mas, sob a figura dos bens temporais; o que constitui o Antigo Testamento. Mas, em seguida, fez um Novo Testamento, pelo qual prometeu expressamente a herança eterna; e este Testamento foi selado pelo sangue da morte de Cristo.
 
@@ -771,15 +748,15 @@ A contemplação das coisas celestes é representada pelo sepulcro. Por isso, so
 
 Três coisas são necessárias para este sepulcro espiritual em Deus: que a alma pratique as virtudes, torne-se toda pura e branca e morra radicalmente para o mundo. Todas estas condições se encontram misticamente presentes na sepultura de Cristo.
 
-1\. A primeira encontramos em são Marcos (14, 8), no lugar em que se diz que Maria Madalena embalsamou com antecipação a sepultura de Jesus: o balsamo precioso de nardo significa as virtudes que possuem grande preço. Nada nesta vida é mais precioso que as virtudes. Por isso, a alma santa que quer ser embalsamada na divina contemplação, deve antes de mais nada receber o balsamo pelo exercício das virtudes. Assim dizia Jó (5, 26): *"Entrarás, na maturidade, no sepulcro..."* —a que acrescenta a Glosa: *da divina contemplação* — *"...como um feixe de trigo colhido a seu tempo."* — novamente a Glosa: *porque o tempo da ação tem por recompensa a eterna contemplação*; e é preciso que o perfeito exercite antes sua alma nas virtudes para guardá-la em seguida no celeiro do repouso.
+1\. A primeira encontramos em são Marcos (Mc 14, 8), no lugar em que se diz que Maria Madalena embalsamou com antecipação a sepultura de Jesus: o balsamo precioso de nardo significa as virtudes que possuem grande preço. Nada nesta vida é mais precioso que as virtudes. Por isso, a alma santa que quer ser embalsamada na divina contemplação, deve antes de mais nada receber o balsamo pelo exercício das virtudes. Assim dizia Jó (Job 5, 26): *"Entrarás, na maturidade, no sepulcro..."* —a que acrescenta a Glosa: *da divina contemplação* — *"...como um feixe de trigo colhido a seu tempo."* — novamente a Glosa: *porque o tempo da ação tem por recompensa a eterna contemplação*; e é preciso que o perfeito exercite antes sua alma nas virtudes para guardá-la em seguida no celeiro do repouso.
 
-2\. A segunda encontramos também em são Marcos (15, 40), no lugar em que se diz que José comprou um sudário, pois o sudário é uma peça de linho, e o linho só se embranquece com muito trabalho. Daí vêm o simbolizar a candura da alma, à qual só conquistamos com muito trabalho.
+2\. A segunda encontramos também em são Marcos (Mc 15, 40), no lugar em que se diz que José comprou um sudário, pois o sudário é uma peça de linho, e o linho só se embranquece com muito trabalho. Daí vêm o simbolizar a candura da alma, à qual só conquistamos com muito trabalho.
 
-Lê-se no Apocalipse (22, 11), *"aquele que é justo justifique-se mais; aquele que é santo, santifique-se mais".* São Paulo dizia aos romanos (6, 4): *"Nós fomos, pois, sepultados com ele, a fim de morrer pelo batismo, para que, assim como Cristo ressuscitou dos mortos pela glória do Pai, assim nós vivamos uma vida nova"* , progredindo do bem ao melhor, pela justiça da fé, na esperança da glória. Assim, devem os homens guardarem-se no sepulcro da divina contemplação pelo candor da pureza interior. Por isso, sobre aquilo da Escritura ([Mt. 5, 8](https://vulgata.online/bible/Mt.5?ed=MS&vfn=MS.Mt.5.8:vs)): *"Bem-aventurados os puros de coração, porque verão a Deus",* disse são Jerônimo: *o Senhor, que é puro, é visto pelo coração puro*.
+Lê-se no Apocalipse (Ap 22, 11), *"aquele que é justo justifique-se mais; aquele que é santo, santifique-se mais".* São Paulo dizia aos romanos (Rm 6, 4): *"Nós fomos, pois, sepultados com ele, a fim de morrer pelo batismo, para que, assim como Cristo ressuscitou dos mortos pela glória do Pai, assim nós vivamos uma vida nova"* , progredindo do bem ao melhor, pela justiça da fé, na esperança da glória. Assim, devem os homens guardarem-se no sepulcro da divina contemplação pelo candor da pureza interior. Por isso, sobre aquilo da Escritura ([Mt. 5, 8](https://vulgata.online/bible/Mt.5?ed=MS&vfn=MS.Mt.5.8:vs)): *"Bem-aventurados os puros de coração, porque verão a Deus",* disse são Jerônimo: *o Senhor, que é puro, é visto pelo coração puro*.
 
-3\. A terceira encontramos em são João (19, 39), quando diz *"Nicodemos, o que tinha ido primeiramente de noite ter com Jesus, foi também, levando uma composição de quase cem libras de mirra e de aloés".* As cem libras de mirra e de aloés, pelas quais o corpo morto conserva-se sem se corromper, significam a mortificação perfeita dos sentidos exteriores, pela qual a alma, morta para o mundo, conserva-se sem se corromper pelos vícios; segundo esta palavra de são Paulo ([2Co. 4, 16](https://vulgata.online/bible/2Co.4?ed=MS&vfn=MS.2Co.4.16:vs)): *"embora se destrua em nós o homem exterior, todavia o homem interior vai-se renovando de dia para dia"*, ou seja, torna-se cada vez mais puro de vícios pelo fogo da tribulação.
+3\. A terceira encontramos em são João (Jo 19, 39), quando diz *"Nicodemos, o que tinha ido primeiramente de noite ter com Jesus, foi também, levando uma composição de quase cem libras de mirra e de aloés".* As cem libras de mirra e de aloés, pelas quais o corpo morto conserva-se sem se corromper, significam a mortificação perfeita dos sentidos exteriores, pela qual a alma, morta para o mundo, conserva-se sem se corromper pelos vícios; segundo esta palavra de são Paulo ([2Co. 4, 16](https://vulgata.online/bible/2Co.4?ed=MS&vfn=MS.2Co.4.16:vs)): *"embora se destrua em nós o homem exterior, todavia o homem interior vai-se renovando de dia para dia"*, ou seja, torna-se cada vez mais puro de vícios pelo fogo da tribulação.
 
-Por isso, a alma do homem deve, antes de mais nada, morrer para este mundo com Cristo e, sem seguido, ser sepultada com ele, no segredo da contemplação. São Paulo o dizia aos Colossenses (3, 3): *"estais mortos para as coisas terrenas e a vossa vida está escondida com Cristo em Deus".*
+Por isso, a alma do homem deve, antes de mais nada, morrer para este mundo com Cristo e, sem seguido, ser sepultada com ele, no segredo da contemplação. São Paulo o dizia aos Colossenses (Cl 3, 3): *"estais mortos para as coisas terrenas e a vossa vida está escondida com Cristo em Deus".*
 
 *De Humanitate Christi, cap. XLII*
 
@@ -818,7 +795,7 @@ Quatro coisas tornaram a Paixão de Cristo sobretudo amargas à mãe de Cristo:
 
 1. A bondade de seu Filho: *"ele não cometeu pecado, nem se encontrou engano na sua boca"* ([1Pe. 2, 22](https://vulgata.online/bible/1Pe.2?ed=MS&vfn=MS.1Pe.2.22:vs));
 2. A crueldade dos verdugos, que se evidencia ao terem se recusado a dar-lhe água na sua agonia e impedido que lho desse sua mãe, que diligentemente daria.
-3. A ignomínia do suplício. *"Condenemo-lo a uma morte infame",* diz o livro da Sabedoria (2, 20).
+3. A ignomínia do suplício. *"Condenemo-lo a uma morte infame",* diz o livro da Sabedoria (Sa 2, 20).
 4. A atrocidade dos tormentos: *"Ó vós todos que passais pelo caminho, atendei e vede se há dor semelhante à dor que me atormenta"* ([Lm. 1, 12](https://vulgata.online/bible/Lm.1?ed=MS&vfn=MS.Lm.1.12:vs)).
 
 *Serm.*
@@ -899,14 +876,12 @@ III\. — Jesus lhe diz: *Aquele que se lavou não tem necessidade de lavar sen�
 > levantou-se da ceia e depôs o seu manto, e, pegando numa toalha, cingiu-se com ela
 [Jo. 13, 4](https://vulgata.online/bible/Jo.13?ed=MS&vfn=MS.Jo.13.4:vs)
 
-I.  Cristo mostra-se servidor, abraçando uma tarefa humilde, conforme aquilo do Evangelho ([Mt. 20, 28](https://vulgata.online/bible/Mt.20?ed=MS&vfn=MS.Mt.20.28:vs)): *"o Filho do homem não veio para ser*
-
-*servido, mas para servir".*
+I.  Cristo mostra-se servidor, abraçando uma tarefa humilde, conforme aquilo do Evangelho ([Mt. 20, 28](https://vulgata.online/bible/Mt.20?ed=MS&vfn=MS.Mt.20.28:vs)): *"o Filho do homem não veio para ser servido, mas para servir".*
 
 Três coisas fazem o bom servidor:
 
 1. Que seja circunspeto, para enxergar tudo o que seu serviço demanda. Isso certamente não se daria se o servidor estivesse sentado ou deitado. A atitude própria do servidor é a de permanecer de pé, por isso Cristo *"levantou-se da ceia"*. *"Qual é o maior, o que está à mesa, ou o que serve*?" ([Lc. 22, 27](https://vulgata.online/bible/Lc.22?ed=MS&vfn=MS.Lc.22.27:vs))
-2. Que se desembarace de tudo, afim de poder cumprir apropriadamente o seu serviço, o que seria muito dificultado pela multidão do vestuário. É por isso que o Senhor *depôs o seu manto*. Isso está figurado no livro do Gênesis (17) quando Abraão escolhe os escravos mais desimpedidos.
+2. Que se desembarace de tudo, afim de poder cumprir apropriadamente o seu serviço, o que seria muito dificultado pela multidão do vestuário. É por isso que o Senhor *depôs o seu manto*. Isso está figurado no livro do [Gênesis](https://vulgata.online/bible/Gn.17?ed=MS) quando Abraão escolhe os escravos mais desimpedidos.
 3. Que esteja pronto a servir, ou seja, que tenha tudo o que é necessário para o seu serviço. De Marta lemos no Evangelho ([Lc. 10, 40](https://vulgata.online/bible/Lc.10?ed=MS&vfn=MS.Lc.10.40:vs)), *afadigava-se muito na continua lida da casa.* Por isso o Senhor *pegando numa toalha, cingiu-se com ela*, para estar pronto, não somente para lavar os pés, mas para secá-los.
 
 Que nós saibamos calcar os pés sobre nosso orgulho, pois aquele que veio de Deus e a ele vai, lavou os pés.
@@ -933,7 +908,7 @@ E foi por isso que, na cruz, saiu de seu lado traspassado sangue e água, para d
 
 Também podemos compreender, pela água, a Paixão de Cristo. *"lançou água numa bacia"*, i. é, imprimiu a memória da sua Paixão nas almas dos fiéis pela fé e pela devoção *. "Lembra-te da minha pobreza e tribulação - absinto e fel que me fazem beber"* ([Lm. 3, 19](https://vulgata.online/bible/Lm.3?ed=MS&vfn=MS.Lm.3.19:vs)).
 
-2\. Ao dizer *"começou a lavar os pés dos discípulos"*, faz alusão à imperfeição humana; pois os Apóstolos, depois de Cristo, eram os mais perfeitos e, no entanto, precisavam ser purificados, pois tinham algumas impurezas. Isso nos mostra que o homem, por melhor que seja, tem necessidade de se aperfeiçoar; e que contrai algumas manchas, conforme aquilo dos Provérbios (20, 9): *"Quem pode dizer: O meu coração está puro, estou limpo do pecado?".* Contudo, estão sujos apenas nos pés.
+2\. Ao dizer *"começou a lavar os pés dos discípulos"*, faz alusão à imperfeição humana; pois os Apóstolos, depois de Cristo, eram os mais perfeitos e, no entanto, precisavam ser purificados, pois tinham algumas impurezas. Isso nos mostra que o homem, por melhor que seja, tem necessidade de se aperfeiçoar; e que contrai algumas manchas, conforme aquilo dos Provérbios (Pv 20, 9): *"Quem pode dizer: O meu coração está puro, estou limpo do pecado?".* Contudo, estão sujos apenas nos pés.
 
 Outros, ao contrário, não estão sujos apenas nos pés, estão totalmente sujos. Ora, os que jazem no chão sujam-se totalmente com as imundices da terra. Do mesmo modo, sujam-se totalmente os que se apegam totalmente às coisas da terra, já pelo sentimento, já pelos sentidos.
 
@@ -979,9 +954,7 @@ Quanto ao crescimento da esperança, diz o Apóstolo (8, 32): *O que não poupou
 
 Quanto ao crescimento da caridade, aquilo das Escrituras ([Ees. 43, 3](https://vulgata.online/bible/Ees.43?ed=MS&vfn=MS.Ees.43.3:vs)): *"Ao meio dia queima a terra".* Ou seja, no fervor da Paixão, ardem de amor os corações terrestres. Diz ainda são Bernardo: "O cálice que bebestes, ó bom Jesus, mais que tudo, vos fez amável. A obra de nossa redenção reivindica absoluta e prontamente todo nosso amor para si; ela faz agradável a devoção, torna-a mais justa, une-nos mais estreitamente e com maior veemência nos toca o coração."
 
-3\. Por causa do sacramento da nossa salvação, para que, pelo exemplo de sua morte, morrêssemos para este mundo. *"Por isso a minha alma prefere a suspensão, os meus ossos preferem a morte"* ([Job. 7, 15](https://vulgata.online/bible/Job.7?ed=MS&vfn=MS.Job.7.15:vs)). E são Gregório comenta: "A alma é a intenção do espírito, os ossos são a força da carne. O
-
-que está suspenso, foi erguido do chão. A alma, portanto, foi erguida às coisas da eternidade, para que morram os ossos, pois o amor da vida eterna destrói em nós toda a força da vida exterior". Ser desprezado pelo mundo é o sinal desta morte. São Gregório acrescenta: "o mar retém os corpos viventes, mas rejeita os cadáveres".
+3\. Por causa do sacramento da nossa salvação, para que, pelo exemplo de sua morte, morrêssemos para este mundo. *"Por isso a minha alma prefere a suspensão, os meus ossos preferem a morte"* ([Job. 7, 15](https://vulgata.online/bible/Job.7?ed=MS&vfn=MS.Job.7.15:vs)). E são Gregório comenta: "A alma é a intenção do espírito, os ossos são a força da carne. O que está suspenso, foi erguido do chão. A alma, portanto, foi erguida às coisas da eternidade, para que morram os ossos, pois o amor da vida eterna destrói em nós toda a força da vida exterior". Ser desprezado pelo mundo é o sinal desta morte. São Gregório acrescenta: "o mar retém os corpos viventes, mas rejeita os cadáveres".
 
 *De humanit. Christi*
 
@@ -989,13 +962,9 @@ que está suspenso, foi erguido do chão. A alma, portanto, foi erguida às cois
 
 Da descida de Cristo aos infernos podemos tirar quatro ensinamentos para nossa instrução.
 
-1\. — Primeiro, uma firme esperança em Deus, pois quando quer que o homem esteja em aflição, deve sempre esperar do auxílio divino e nele confiar. Nada há de mais sério do que cair no inferno. Se portanto Cristo libertou os que estavam nos infernos, cada um, se é de fato amigo de Deus, deve muito confiar para que Ele o liberte de qualquer angústia. Lê-se:
+1\. — Primeiro, uma firme esperança em Deus, pois quando quer que o homem esteja em aflição, deve sempre esperar do auxílio divino e nele confiar. Nada há de mais sério do que cair no inferno. Se portanto Cristo libertou os que estavam nos infernos, cada um, se é de fato amigo de Deus, deve muito confiar para que Ele o liberte de qualquer angústia. Lê-se: "*Esta* (isto é, a sabedoria *) não abandonou o justo que foi vencido* (...) *desceu com ele na fossa, e na prisão o não abandonou*"([Sa. 10, 13-14](https://vulgata.online/bible/Sa.10?ed=MS&vfn=MS.Sa.10.13-14:vs)). Como Deus auxilia aos seus servos de um modo todo especial, aquele que O serve deve estar sempre muito seguro. Lê-se: *"O que teme ao Senhor por nada trepidará e nada temerá por que Ele é a sua esperança*"([Eus. 39, 16](https://vulgata.online/bible/Eus.39?ed=MS&vfn=MS.Eus.39.16:vs)).
 
-"*Esta* (isto é, a sabedoria *) não abandonou o justo que foi vencido* (...) *desceu com ele na fossa, e na prisão o não abandonou*"([Sa. 10, 13-14](https://vulgata.online/bible/Sa.10?ed=MS&vfn=MS.Sa.10.13-14:vs)). Como Deus auxilia aos seus servos de um modo todo especial, aquele que O serve deve estar sempre muito seguro. Lê-se: *"O que teme ao Senhor por nada trepidará e nada temerá por que Ele é a sua esperança*"([Eus. 39, 16](https://vulgata.online/bible/Eus.39?ed=MS&vfn=MS.Eus.39.16:vs)).
-
-2\. — Segundo, devemos despertar em nós o temor, e de nós afastar a presunção. Pois, apesar de Cristo ter suportado a paixão pelos pecadores, e ter descido aos infernos, não libertou a todos, mas somente àqueles que estavam sem pecado mortal, como acima foi dito. Aqueles que morreram em pecado mortal, deixou-os abandonados. Por isso, ninguém que desça de lá com pecado mortal espere perdão. Mas ficarão no inferno o tempo em que os Santos Patriarcas estiverem no Paraíso, isto é, para toda a eternidade. Lê-
-
-se em São Mateus: *"Irão os malditos para o suplício eterno, os justos, porém, para o Paraíso*"([Mt. 25, 46](https://vulgata.online/bible/Mt.25?ed=MS&vfn=MS.Mt.25.46:vs)).
+2\. — Segundo, devemos despertar em nós o temor, e de nós afastar a presunção. Pois, apesar de Cristo ter suportado a paixão pelos pecadores, e ter descido aos infernos, não libertou a todos, mas somente àqueles que estavam sem pecado mortal, como acima foi dito. Aqueles que morreram em pecado mortal, deixou-os abandonados. Por isso, ninguém que desça de lá com pecado mortal espere perdão. Mas ficarão no inferno o tempo em que os Santos Patriarcas estiverem no Paraíso, isto é, para toda a eternidade. Lê-se em São Mateus: *"Irão os malditos para o suplício eterno, os justos, porém, para o Paraíso*"([Mt. 25, 46](https://vulgata.online/bible/Mt.25?ed=MS&vfn=MS.Mt.25.46:vs)).
 
 3\. — Terceiro, devemos viver atentos, porque se Cristo desceu aos infernos para a nossa salvação, também nós devemos com solicitude lá descer em espírito, meditando sobre às penas nele existentes, imitando o Santo Ezequias, que dizia: *"Irão os malditos para o suplício eterno, os justos, porém, para o Paraíso*"([Is. 38, 10](https://vulgata.online/bible/Is.38?ed=MS&vfn=MS.Is.38.10:vs)).
 
@@ -1010,5 +979,3 @@ São auxiliados os que estão no purgatório principalmente por três atos, conf
 Gregório acrescenta um quarto: o jejum. Não deve causar admiração que assim seja, porque também neste mundo o amigo pode satisfazer pelo amigo. A mesma coisa acontece com os que estão no purgatório.
 
 *In Symb.*
-
-(P. D. Mézard, O. P., *Meditationes ex Operibus S. Thomae*)
