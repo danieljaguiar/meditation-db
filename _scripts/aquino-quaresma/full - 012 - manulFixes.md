@@ -105,11 +105,9 @@ Os sofrimentos humanos podem ser considerados à dupla luz. Primeiro, quanto à 
 
 Mas, quanto ao gênero, sofreu todos os sofrimentos humanos. O que é susceptível de tríplice consideração:
 
-1\. Primeiro, quanto aos homens que lhe causaram sofrimentos. Pois, certos sofrimentos lhe foram infligidos pelos gentios e pelos judeus; por homens e por mulheres, como o mostram as criadas acusadoras de Pedro. Também recebeu sofrimentos de príncipes e de seus ministros, e do populacho, conforme a Escritura ([Ps. 2, 1](https://vulgata.online/bible/Ps.2?ed=MS&vfn=MS.Ps.2.1:vs)): *"Por que razão se embraveceram as nações e os povos meditaram coisas vãs? Os reis da terra se sublevaram e os príncipes se coligaram contra o Senhor e seu Cristo".* Sofreu também de seus discípulos e conhecidos: como de Judas, que o traiu e de Pedro, que o negou.
-
-2\. Segundo, o mesmo se conclui relativamente àquilo em que o homem pode sofrer. Assim, sofreu nos seus amigos, que o abandonaram; na sua reputação, pelas blasfêmias contra ele proferidas; na sua honra e glória, pelas irrisões e contumélias contra ele assacadas; nos bens, quando das suas próprias vestes foi espoliado; na alma, pela tristeza, pelo tédio e pelo temor; no corpo, pelos ferimentos e flagelações.
-
-3\. Terceiro, podemos considerá-lo relativamente aos membros do corpo.
+1. Primeiro, quanto aos homens que lhe causaram sofrimentos. Pois, certos sofrimentos lhe foram infligidos pelos gentios e pelos judeus; por homens e por mulheres, como o mostram as criadas acusadoras de Pedro. Também recebeu sofrimentos de príncipes e de seus ministros, e do populacho, conforme a Escritura ([Ps. 2, 1](https://vulgata.online/bible/Ps.2?ed=MS&vfn=MS.Ps.2.1:vs)): *"Por que razão se embraveceram as nações e os povos meditaram coisas vãs? Os reis da terra se sublevaram e os príncipes se coligaram contra o Senhor e seu Cristo".* Sofreu também de seus discípulos e conhecidos: como de Judas, que o traiu e de Pedro, que o negou.
+2. Segundo, o mesmo se conclui relativamente àquilo em que o homem pode sofrer. Assim, sofreu nos seus amigos, que o abandonaram; na sua reputação, pelas blasfêmias contra ele proferidas; na sua honra e glória, pelas irrisões e contumélias contra ele assacadas; nos bens, quando das suas próprias vestes foi espoliado; na alma, pela tristeza, pelo tédio e pelo temor; no corpo, pelos ferimentos e flagelações.
+3. Terceiro, podemos considerá-lo relativamente aos membros do corpo.
 
 Assim, Cristo sofreu, na cabeça, a coroa de pungentes espinhos; nas mãos e nos pés, a pregação dos cravos; na face, bofetadas e cuspe; e em todo o corpo, flagelações. Sofreu também em todos os sentidos do corpo: no tato, quando flagelado e pregado com cravos; no gosto, quando lhe deram de beber fel e vinagre; no olfato, quando suspenso no patíbulo, num lugar fétido pelos cadáveres dos supliciados, *chamado Calvário*; no ouvido, ferido pelas vociferações dos que o blasfemavam e faziam dele irrisão; na vista, *ao ver sua mãe e o discípulo a quem amava, chorando*.
 
@@ -284,13 +282,10 @@ E como Agostinho acrescenta a seguir, no mesmo livro, *"os sacrifícios primitiv
 
 II.  É verdade que nos sacrifícios da lei antiga, que eram figura de Cristo, nunca se oferecia carne humana; mas disso não segue que a Paixão não tenha sido um sacrifício. Pois, embora a realidade corresponda à figura de certo modo, não corresponde totalmente, pois a verdade há de necessariamente ultrapassar a figura. Por isso e convenientemente a figura deste sacrifício, pelo qual a carne de Cristo é oferecida por nós, foi a carne, não dos homens, mas de animais irracionais que significavam a carne e Cristo. A carne de Cristo é o perfeitíssimo dos sacrifícios pelas razões seguintes:
 
-1\) porque, sendo carne de natureza humana, é convenientemente oferecida pelos homens, que a tomam sob a forma de sacramento.
-
-2\) porque, sendo passível e mortal, era apta para a imolação.
-
-3\) porque, sendo isenta de pecado, tinha a eficiência para purificar dos pecados.
-
-4\) porque, sendo a carne mesma do oferente, era aceita de Deus por causa da caridade com que a oferecia.
+1. porque, sendo carne de natureza humana, é convenientemente oferecida pelos homens, que a tomam sob a forma de sacramento.
+2. porque, sendo passível e mortal, era apta para a imolação.
+3. porque, sendo isenta de pecado, tinha a eficiência para purificar dos pecados.
+4. porque, sendo a carne mesma do oferente, era aceita de Deus por causa da caridade com que a oferecia.
 
 Donde o dizer Agostinho: *"Que oferenda podiam os homens tomar, que lhes fosse mais adaptada, que uma carne humana? Que de mais apto à imolação do que uma carne mortal? Que haveria de mais puro para delir os vícios dos mortais que uma carne nascida sem o contágio da concupiscência carnal, de um ventre e de um ventre virginal? Que poderia ser oferecido e aceito com mais graça que a carne de nosso sacrifício, tornado o corpo de nosso Sacerdote?"*
 
@@ -334,8 +329,8 @@ Ora, Cristo satisfez, não certo dando dinheiro nem por qualquer forma semelhant
 
 O homem, pecando, contraiu uma obrigação tanto para com Deus como para o diabo:
 
-— Pois, pela culpa, ofendeu a Deus e sujeitou-se ao diabo, pelo seu consentimento. E assim, em razão da culpa, não se tornou servo de Deus; mas antes, afastando-se do seu serviço, incorreu na escravidão do diabo, por justa permissão de Deus, por causa da ofensa contra ele cometida.
-— Mas, quanto à pena, o homem contraiu principalmente uma obrigação para com Deus, como supremo juiz; e para com o diabo, como seu algoz, segundo aquilo do Evangelho ([Mt. 5, 25](https://vulgata.online/bible/Mt.5?ed=MS&vfn=MS.Mt.5.25:vs)): *"Para que te não suceda que o teu adversário te entregue ao juiz e que o juiz te entregue ao seu ministro",* i. é, *ao anjo cruel da pena*, como interpreta Crisóstomo. Embora, pois, o diabo retivesse, injustamente e na medida do seu poder, sob o seu jugo o homem enganado pela sua fraude, tanto quanto à culpa como quanto à pena, contudo, era justo que isso o homem o sofresse, por permissão de Deus, quanto à culpa, e pela ordem do mesmo Deus, quanto à pena.
+\- Pois, pela culpa, ofendeu a Deus e sujeitou-se ao diabo, pelo seu consentimento. E assim, em razão da culpa, não se tornou servo de Deus; mas antes, afastando-se do seu serviço, incorreu na escravidão do diabo, por justa permissão de Deus, por causa da ofensa contra ele cometida.
+\- Mas, quanto à pena, o homem contraiu principalmente uma obrigação para com Deus, como supremo juiz; e para com o diabo, como seu algoz, segundo aquilo do Evangelho ([Mt. 5, 25](https://vulgata.online/bible/Mt.5?ed=MS&vfn=MS.Mt.5.25:vs)): *"Para que te não suceda que o teu adversário te entregue ao juiz e que o juiz te entregue ao seu ministro",* i. é, *ao anjo cruel da pena*, como interpreta Crisóstomo. Embora, pois, o diabo retivesse, injustamente e na medida do seu poder, sob o seu jugo o homem enganado pela sua fraude, tanto quanto à culpa como quanto à pena, contudo, era justo que isso o homem o sofresse, por permissão de Deus, quanto à culpa, e pela ordem do mesmo Deus, quanto à pena.
 
 Por onde, relativamente a Deus, a justiça exigia fosse o homem redimido; não porém relativamente ao diabo.
 
@@ -398,9 +393,8 @@ Pelo pecado dos nossos primeiros pais, o gênero humano apartou-se de Deus, como
 
 A Paixão de Cristo, portanto, teve dois efeitos:
 
-\- Livrou-nos do poder do inimigo, venceu-o com meios contrários aos que utilizara o inimigo na sua vitória sobre o homem: a humildade, a obediência e a austeridade da pena, que se opõe ao deleite do fruto proibido.
-
-\- Ademais, satisfazendo pela falta dos homens, ela os uniu a Deus e fez deles filhos e familiares de Deus.
+1. Livrou-nos do poder do inimigo, venceu-o com meios contrários aos que utilizara o inimigo na sua vitória sobre o homem: a humildade, a obediência e a austeridade da pena, que se opõe ao deleite do fruto proibido.
+2. Ademais, satisfazendo pela falta dos homens, ela os uniu a Deus e fez deles filhos e familiares de Deus.
 
 Esta liberação tem, pois, um duplo caráter de redenção. Enquanto nos livrou do poder do diabo, Cristo nos redimiu ao modo de um rei que resgata pelo combate um reino ocupado pelo adversário. Enquanto aplacou a Deus em nosso favor, redimiu-nos como se, satisfazendo rigorosamente por nós, pagasse um preço para que fossemos libertados da pena e do pecado.
 
@@ -459,9 +453,7 @@ II. A qualidade de sua pregação: *"e disse àquela gente: vinde ver um homem..
 
 Tampouco o silenciou totalmente, mas o propôs sob a forma de pergunta, como se submetesse o seu julgamento ao deles. De fato, este era o meio mais fácil de persuadi-los.
 
-III
-
-O fruto de sua pregação.
+III. O fruto de sua pregação.
 
 "*Saíram, pois, da cidade, e foram ter com ele"*. Por onde se vê que, se quisermos ir ao Cristo, devemos também deixar a cidade, i. é, abandonar o amor da concupiscência carnal. *"Saiamos, pois, a ele fora dos arraiais"*, diz são Paulo ([Hb. 13, 13](https://vulgata.online/bible/Hb.13?ed=MS&vfn=MS.Hb.13.13:vs))
 
