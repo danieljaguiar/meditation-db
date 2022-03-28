@@ -20190,5 +20190,20 @@
     ],
     "slug": "the-value-of-the-obdience",
     "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 121,
+    "title": "Come, follow Me",
+    "subTitle": "Tuesday after Fourth Sunday Of Lent",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-19",
+        "priority": 500
+      }
+    ],
+    "slug": "come-follow-me",
+    "priority": 500
   }
 ]
