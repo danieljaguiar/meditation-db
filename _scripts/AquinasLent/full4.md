@@ -1,6 +1,7 @@
 # Septuagesima Sunday - The work of the vineyard
 
-> _Going out about the third hour, he saw others standing in the marketplace idle. And he said to them: Go you also into my vineyard and I will give you what shall be just._  [Mt. 20, 3](https://vulgata.online/bible/Mt.20?ed=DR2&vfn=DR2.Mt.20.3:vs)
+> _Going out about the third hour, he saw others standing in the marketplace idle. And he said to them: Go you also into my vineyard and I will give you what shall be just._  
+[Mt. 20, 3](https://vulgata.online/bible/Mt.20?ed=DR2&vfn=DR2.Mt.20.3:vs)
 
 In these words we may notice four things:
 
@@ -24,7 +25,8 @@ The vineyard into which the men are sent to work is the life of goodness, in whi
 
 # Monday After Septuagesima - On doing good
 
-> _In doing good let us not fail. For in due time we shall reap, not failing._ [Gl. 11, 9](https://vulgata.online/bible/Gl.11?ed=DR2&vfn=DR2.Gl.11.9:vs)
+> _In doing good let us not fail. For in due time we shall reap, not failing._  
+[Gl. 11, 9](https://vulgata.online/bible/Gl.11?ed=DR2&vfn=DR2.Gl.11.9:vs)
 
 In these words St. Paul does three things:
 
@@ -54,7 +56,8 @@ Whence St. Augustine says: "If man will set no limit to his labour, God will set
 
 # Tuesday after Septuagesima - The prayer of Our Lord in the garden
 
-> _And going a little further He fell upon his face, praying and saying: My Father._ [Mt. 26, 39](https://vulgata.online/bible/Mt.26?ed=DR2&vfn=DR2.Mt.26.39:vs)
+> _And going a little further He fell upon his face, praying and saying: My Father._  
+[Mt. 26, 39](https://vulgata.online/bible/Mt.26?ed=DR2&vfn=DR2.Mt.26.39:vs)
 
 1\. Our Lord here recommends to us three conditions to be observed when we pray.
 
@@ -82,7 +85,8 @@ Christ had two wills, one from his Father in so far as he was God and the other 
 
 # Wednesday after Septuagesima - Good works
 
-> _If any man build upon this foundation, gold, silver, precious stones, wood, hay, stubble, every man's work shall be manifest._ [1Co. 3, 12-13](https://vulgata.online/bible/1Co.3?ed=DR2&vfn=DR2.1Co.3.12-13:vs)
+> _If any man build upon this foundation, gold, silver, precious stones, wood, hay, stubble, every man's work shall be manifest._  
+[1Co. 3, 12-13](https://vulgata.online/bible/1Co.3?ed=DR2&vfn=DR2.1Co.3.12-13:vs)
 
 1\. The works that man relies on in matters spiritual and divine are compared to gold, silver and precious stones, things substantial, brilliant and precious, yet they are compared in such a way that gold symbolises those things by which man tends to God Himself by contemplation and love. "_I counsel thee to buy of me gold fire-tried_" ([Ap. 3, 18](https://vulgata.online/bible/Ap.3?ed=DR2&vfn=DR2.Ap.3.18:vs)), that is, wisdom with charity. By silver are meant those acts by which man clings to the spiritual realities he must believe, love and contemplate. Whence in the Glossa silver is interpreted as referring to love of one's neighbour. By precious stones is to be understood the work of the different virtues with which man's soul is decked.
 
@@ -100,7 +104,8 @@ To build with gold, silver and precious stones is therefore to build, upon the f
 
 # Thursday after Septuagesima - The reward
 
-> _Every man shall receive his own reward, according to his own labour._ [1Co. 3, 8](https://vulgata.online/bible/1Co.3?ed=DR2&vfn=DR2.1Co.3.8:vs)
+> _Every man shall receive his own reward, according to his own labour._  
+[1Co. 3, 8](https://vulgata.online/bible/1Co.3?ed=DR2&vfn=DR2.1Co.3.8:vs)
 
 1\. This reward is at once common to all men and particular to each.
 
@@ -124,7 +129,8 @@ Sometimes however, the labour is greater from lack of will to do the work, for t
 
 # Friday after Septuagesima - The need for caution
 
-> _Wherefore he that thinketh himself to stand, let him take heed lest he fall._ [1Co. 10, 12](https://vulgata.online/bible/1Co.10?ed=DR2&vfn=DR2.1Co.10.12:vs)
+> _Wherefore he that thinketh himself to stand, let him take heed lest he fall._  
+[1Co. 10, 12](https://vulgata.online/bible/1Co.10?ed=DR2&vfn=DR2.1Co.10.12:vs)
 
 1\. The case of the Jews who, in punishment, were overthrown in the desert ([1Co. 5, 5](https://vulgata.online/bible/1Co.5?ed=DR2&vfn=DR2.1Co.5.5:vs) is a warning for us. These words of the Scripture contain four things which should attract the wise man's attention, namely the multitude of those who fell, for it says _Wherefore_; then the uncertainty of those who still stand, for it adds _he that thinketh himself to stand_ thirdly, the need for caution, for it adds _let him take heed_ and finally the ease with which disaster comes, for it says lest he fall.
 
@@ -147,7 +153,8 @@ And this is what comes of pampering the body.
 
 # Saturday after Septuagesima - On reforming ourselves
 
-> _Be not conformed to this world, but be reformed in the newness of your mind, that you may prove what is the good, and the acceptable, and the perfect will of God._ [Rm. 12, 2](https://vulgata.online/bible/Rm.12?ed=DR2&vfn=DR2.Rm.12.2:vs)
+> _Be not conformed to this world, but be reformed in the newness of your mind, that you may prove what is the good, and the acceptable, and the perfect will of God._  
+[Rm. 12, 2](https://vulgata.online/bible/Rm.12?ed=DR2&vfn=DR2.Rm.12.2:vs)
 
 1\. What is forbidden is the forming of one self after the pattern of the world. _Be not conformed to this world_, that is, to the things which pass away with time. For this present world is a kind of measure of those things which pass away with time. A man forms himself after the pattern of things transitory when, willingly and lovingly, he gives himself to serve them. Those also form themselves after that pattern who imitate the lives of the worldly, _This then I say and testify in the Lord: That henceforward you walk not as also the Gentiles walk in the vanity of their mind_ ([Ef. 4, 17](https://vulgata.online/bible/Ef.4?ed=DR2&vfn=DR2.Ef.4.17:vs)).
 
@@ -171,7 +178,8 @@ Such then is the will of God as those experience it who are not formed after the
 
 # Sexagesima Sunday - The Seed
 
-> _The Sower went out to sow his seed._ [Lc. 8, 4](https://vulgata.online/bible/Lc.8?ed=DR2&vfn=DR2.Lc.8.4:vs)
+> _The Sower went out to sow his seed._  
+[Lc. 8, 4](https://vulgata.online/bible/Lc.8?ed=DR2&vfn=DR2.Lc.8.4:vs)
 
 1\. The keenness of the sower. It is Christ who goes forth, and in three ways. He goes from the bosom of the Father, and yet without a change of place; from Jewry to the Gentiles; from the private depths of wisdom to the public life of teaching. It is Christ who sows. Now the seed is the source of fruit. Whence every good action is clue to God. What is it that He sows? _His own seed_, says the gospel. That seed is the Word of God. And what docs it produce? It produces others, like unto Him from whom itself proceeds, for it makes them sons of God.
 
@@ -192,7 +200,8 @@ So these men hear quickly, but take no root in what they hear, for _they have no
 
 # Monday after Sexagesima - The goodness of God
 
-> _He that spared not even his own Son, but delivered him up for us all, how hath he not also, with him, given us all things?_ [Rm. 8, 32](https://vulgata.online/bible/Rm.8?ed=DR2&vfn=DR2.Rm.8.32:vs)
+> _He that spared not even his own Son, but delivered him up for us all, how hath he not also, with him, given us all things?_  
+[Rm. 8, 32](https://vulgata.online/bible/Rm.8?ed=DR2&vfn=DR2.Rm.8.32:vs)
 
 1\. Since the Apostle makes mention of many sons when he says ([Rm. 5, 15](https://vulgata.online/bible/Rm.5?ed=DR2&vfn=DR2.Rm.5.15:vs)), _You have received the spirit of adoption of sons_, he now separates this Son from all these by saying _his own Son_, that is to say, not an adoptive son, but a son of his own nature, co-eternal with him, that son of whom the Father says, in St. Matthew ([Mt. 3, 17](https://vulgata.online/bible/Mt.3?ed=DR2&vfn=DR2.Mt.3.17:vs)), _This is my beloved Son_.
 
@@ -208,7 +217,8 @@ There is something else to notice in the words, _He that spared not his own Son_
 
 # Tuesday after Sexagesima - The remembrance of Our Lord's Passion
 
-> _Think diligently upon him that endured such opposition from sinners against himself; that you be not wearied, fainting in your minds._ [Hb. 12, 3](https://vulgata.online/bible/Hb.12?ed=DR2&vfn=DR2.Hb.12.3:vs)
+> _Think diligently upon him that endured such opposition from sinners against himself; that you be not wearied, fainting in your minds._  
+[Hb. 12, 3](https://vulgata.online/bible/Hb.12?ed=DR2&vfn=DR2.Hb.12.3:vs)
 
 1\. We are advised to _think diligently_ that is, to think upon Him over and over again. _In all thy ways_, says Holy Scripture, _think upon him_ ([Pv. 3, 6](https://vulgata.online/bible/Pv.3?ed=DR2&vfn=DR2.Pv.3.6:vs)). The reason for which is that no matter what anxiety may befall us, we have a remedy in the cross.
 
@@ -230,7 +240,8 @@ St. Paul again gives a reason for our courageous perseverance when he says, in t
 
 # Wednesday after Sexagesima - The need to be watchful
 
-> _Watch ye therefore because you know not what hour your Lord will come_ [Mt. 24, 42](https://vulgata.online/bible/Mt.24?ed=DR2&vfn=DR2.Mt.24.42:vs)
+> _Watch ye therefore because you know not what hour your Lord will come_  
+[Mt. 24, 42](https://vulgata.online/bible/Mt.24?ed=DR2&vfn=DR2.Mt.24.42:vs)
 
 1\. Our Lord warns us to be watchful, placing before us our uncertainty as to when we shall die. He says to us, "The day is not certain. Of two that are working one shall be taken and the other left and no man can be certain which of the two shall be his lot. Therefore you should be careful and watchful. _Watch ye therefore._"
 
@@ -244,7 +255,8 @@ Our Lord's words, _Watch ye therefore_ and the rest may also be understood with 
 
 # Thursday after Sexagesima - Our watch must be ceaseless
 
-> _But this know ye, that if the goodman of the house knew at what hour the thief would come, he would certainly watch, and not suffer his house to be broken open._ [Mt. 24, 43](https://vulgata.online/bible/Mt.24?ed=DR2&vfn=DR2.Mt.24.43:vs)
+> _But this know ye, that if the goodman of the house knew at what hour the thief would come, he would certainly watch, and not suffer his house to be broken open._  
+[Mt. 24, 43](https://vulgata.online/bible/Mt.24?ed=DR2&vfn=DR2.Mt.24.43:vs)
 
 Since we are uncertain which hour it will be, we must watch the whole night long.
 
@@ -264,7 +276,8 @@ We may notice also a parable of St. Augustine's. There are three servants and th
 
 # Friday after Sexagesima - The Worship due to God
 
-> _Thou shalt not have strange Gods before me._ [Ex. 20, 3](https://vulgata.online/bible/Ex.20?ed=DR2&vfn=DR2.Ex.20.3:vs)
+> _Thou shalt not have strange Gods before me._  
+[Ex. 20, 3](https://vulgata.online/bible/Ex.20?ed=DR2&vfn=DR2.Ex.20.3:vs)
 
 We are forbidden to worship any but the one God, and there are five things which show the prohibition to be reasonable.
 
@@ -308,7 +321,8 @@ But in the external actions we must use discretion and make charity the measure 
 
 # Quinquagesima Sunday - How we should serve God on the Lord's day
 
-> _Remember that thou keep holy the Sabbath Day_ [Ex. 20, 8](https://vulgata.online/bible/Ex.20?ed=DR2&vfn=DR2.Ex.20.8:vs)
+> _Remember that thou keep holy the Sabbath Day_  
+[Ex. 20, 8](https://vulgata.online/bible/Ex.20?ed=DR2&vfn=DR2.Ex.20.8:vs)
 
 Man is bound to keep feast days holy. Now a thing is said to be holy in one of two ways, either because the thing is itself unspotted or because it is consecrated to God. We must say something then of the kind of works from which we should abstain on such days and also of the kind with which we should occupy ourselves.
 
@@ -320,7 +334,7 @@ Man is bound to keep feast days holy. Now a thing is said to be holy in one of t
 
 2\. Study of the word of God. This indeed was the practice of the Jews, as we read in the Acts of the Apostles (xfii. 27). _The voices of the prophets, which are read every sabbath_. Christians therefore, whose spiritual state should be more perfect than that of the Jews, ought on such days to meet together for sermons and for the Church's office. And likewise for profitable conversation. Here are two things truly profitable for the soul of the sinner, sure means to his amendment. For the word of God instructs the ignorant and stirs up those that are lukewarm.
 
-3\. Direct occupation with the things of God. This do those who are perfect. In the psalms ([Ps. 33, 9](https://vulgata.online/bible/Ps.33?ed=DR2&vfn=DR2.Ps.33.9:vs)) we read, _Taste and see that the Lord is sweet_, and this because He gives rest to the soul. For just as the body worn out with toil craves for rest, so too does the soul. Now the soul's place is God. Be thou unto me a God, _a protector and a place of refuge_, is written in the Psalms ([Ps. 30, 3](https://vulgata.online/bible/Ps.30?ed=DR2&vfn=DR2.Ps.30.3:vs)). And St. Paul, too, says, _There remaineth therefore a day of rest for the people of God; for he that is entered into his rest, the same also hath rested from his works, as God aid from his_ ([Hb. 4, 9-10](https://vulgata.online/bible/Hb.4?ed=DR2&vfn=DR2.Hb.4.9-10:vs))). Again in the book of Wisdom (viii. 16), _When I go into my house, that is, my conscience, I shall repose with her, that is, with Wisdom_.
+3\. Direct occupation with the things of God. This do those who are perfect. In the psalms ([Ps. 33, 9](https://vulgata.online/bible/Ps.33?ed=DR2&vfn=DR2.Ps.33.9:vs)) we read, _Taste and see that the Lord is sweet_, and this because He gives rest to the soul. For just as the body worn out with toil craves for rest, so too does the soul. Now the soul's place is God. Be thou unto me a God, _a protector and a place of refuge_, is written in the Psalms ([Ps. 30, 3](https://vulgata.online/bible/Ps.30?ed=DR2&vfn=DR2.Ps.30.3:vs)). And St. Paul, too, says, _There remaineth therefore a day of rest for the people of God; for he that is entered into his rest, the same also hath rested from his works, as God aid from his_ ([Hb. 4, 9-10](https://vulgata.online/bible/Hb.4?ed=DR2&vfn=DR2.Hb.4.9-10:vs)). Again in the book of Wisdom (viii. 16), _When I go into my house, that is, my conscience, I shall repose with her, that is, with Wisdom_.
 
 But before the soul can attain to this peace, it must already have found peace in three other ways.
 
@@ -355,7 +369,8 @@ Holiness is then the quality whereby men apply themselves and their actions to G
 
 # Tuesday after Quinquagesima - Our Lord is scourged
 
-> _Having scourged Jesus, he delivered him to them to be crucified._ [Mt. 27, 26](https://vulgata.online/bible/Mt.27?ed=DR2&vfn=DR2.Mt.27.26:vs)
+> _Having scourged Jesus, he delivered him to them to be crucified._  
+[Mt. 27, 26](https://vulgata.online/bible/Mt.27?ed=DR2&vfn=DR2.Mt.27.26:vs)
 
 Why did he scourge him before he delivered him to them? St. Jerome says because it was a Roman custom that prisoners condemned to death should be scourged before execution. So it was that the prophecy was fulfilled, _I was made ready by a scourging_ ([Ps. 37, 18](https://vulgata.online/bible/Ps.37?ed=DR2&vfn=DR2.Ps.37.18:vs)).
 
@@ -371,7 +386,8 @@ Did Pilate's intention excuse him from the guilt of scourging Our Lord? By no me
 
 # Ash Wednesday - Death
 
-> _By one man sin entered into this world, and by sin death._ [Rm. 5, 12](https://vulgata.online/bible/Rm.5?ed=DR2&vfn=DR2.Rm.5.12:vs)
+> _By one man sin entered into this world, and by sin death._  
+[Rm. 5, 12](https://vulgata.online/bible/Rm.5?ed=DR2&vfn=DR2.Rm.5.12:vs)
 
 1\. If for some wrongdoing a man is deprived of some benefit once given to him, that he should lack that benefit is the punishment of his sin.
 
@@ -422,7 +438,8 @@ Wherefore the Church has decreed that immediately before the solemnity of Easter
 
 # Friday after Ash Wednesday - The crown of thorns
 
-> _Go forth, ye daughters of Sion, and see king Solomon in the diadem, wherewith his mother crowned him in the day of his espousals, and in the day of the joy of his heart._ [Cc. 3, 11](https://vulgata.online/bible/Cc.3?ed=DR2&vfn=DR2.Cc.3.11:vs)
+> _Go forth, ye daughters of Sion, and see king Solomon in the diadem, wherewith his mother crowned him in the day of his espousals, and in the day of the joy of his heart._  
+[Cc. 3, 11](https://vulgata.online/bible/Cc.3?ed=DR2&vfn=DR2.Cc.3.11:vs)
 
 This is the voice of the Church inviting the souls of the faithful to behold the marvellous beauty of her spouse. For the daughters of Sion, who are they but the daughters of Jerusalem, holy souls, the citizens of that city which is above, who with the angels enjoy the peace that knows no end, and, in consequence, look upon the glory of the Lord?
 
@@ -444,7 +461,8 @@ _Go forth_, beyond the gates of your city, that you may see him, on Mount Calvar
 
 # Saturday after Ash Wednesday - The grain of wheat
 
-> _Unless the gram of wheat falling into the ground die, itself remaineth alone._ [Jo. 12, 24](https://vulgata.online/bible/Jo.12?ed=DR2&vfn=DR2.Jo.12.24:vs)
+> _Unless the gram of wheat falling into the ground die, itself remaineth alone._  
+[Jo. 12, 24](https://vulgata.online/bible/Jo.12?ed=DR2&vfn=DR2.Jo.12.24:vs)
 
 We use the grain of wheat in two ways, for bread and for seed. Here the word is to be taken in the second sense, grain of wheat meaning seed and not the matter out of which we make bread. For in this sense it never increases so as to bear fruit. When it is said that the grain must _die_, this does not mean that it loses its value as seed, but that it is changed into another kind of thing. So St. Paul ([1Co. 15, 36](https://vulgata.online/bible/1Co.15?ed=DR2&vfn=DR2.1Co.15.36:vs) says, _That which then thou sowest is not quickened, except it die first_.
 
@@ -462,7 +480,8 @@ Our Lord therefore says to us, "_I came as seed, something meant to bear fruit a
 
 # Sunday in The First Week In Lent - It was fitting that Christ should be tempted
 
-> _Jesus was led by the spirit into the desert, to be tempted by the devil._ [Mt. 4, 1](https://vulgata.online/bible/Mt.4?ed=DR2&vfn=DR2.Mt.4.1:vs)
+> _Jesus was led by the spirit into the desert, to be tempted by the devil._  
+[Mt. 4, 1](https://vulgata.online/bible/Mt.4?ed=DR2&vfn=DR2.Mt.4.1:vs)
 
 Christ willed to be tempted:
 
@@ -480,7 +499,8 @@ Christ willed to be tempted:
 
 # Monday in The First Week In Lent - Christ had to be tempted in the desert
 
-> _He was in the desert forty days and forty nights: and was tempted by Satan._ [Mc. 1, 13](https://vulgata.online/bible/Mc.1?ed=DR2&vfn=DR2.Mc.1.13:vs)
+> _He was in the desert forty days and forty nights: and was tempted by Satan._  
+[Mc. 1, 13](https://vulgata.online/bible/Mc.1?ed=DR2&vfn=DR2.Mc.1.13:vs)
 
 1\. It was by Christ's own will that he was exposed to the temptation by the devil, as it was also by his own will that he was exposed to be slain by the limbs of the devil. Had He not so willed, the devil would never have dared to approach him.
 
@@ -516,7 +536,8 @@ He suffered in every sense of his body. Touch was afflicted by the scourging and
 
 # First Wednesday - How Great Was The Sorrow Of Our Lord In His Passion?
 
-> _Attend and see if there be any sorrow like unto my sorrow._ [Lm. 1, 12](https://vulgata.online/bible/Lm.1?ed=DR2&vfn=DR2.Lm.1.12:vs)
+> _Attend and see if there be any sorrow like unto my sorrow._  
+[Lm. 1, 12](https://vulgata.online/bible/Lm.1?ed=DR2&vfn=DR2.Lm.1.12:vs)
 
 Our Lord as He suffered felt really, and in his senses, that pain which is caused by some harmful bodily thing. Lie also felt that interior pain which is caused by the fear of something harmful and which we call sadness. In both these respects the pain suffered by Our Lord was the greatest pain possible in this present life. There are four reasons why this was so.
 
@@ -560,7 +581,8 @@ As Christ owed no debt in payment for which a man must die, but submitted to dea
 
 # First Friday - The Feast Of The Holy Lance And The Nails Of Our Lord
 
-> _One of the soldiers with a spear opened his side, and immediately there came out blood and water._ [Jo. 19, 34](https://vulgata.online/bible/Jo.19?ed=DR2&vfn=DR2.Jo.19.34:vs)
+> _One of the soldiers with a spear opened his side, and immediately there came out blood and water._  
+[Jo. 19, 34](https://vulgata.online/bible/Jo.19?ed=DR2&vfn=DR2.Jo.19.34:vs)
 
 1\. The gospel deliberately says opened and not wounded, because through Our Lord's side there was opened to us the gate of eternal life. _After these things I looked, and behold a gate was opened in heaven_ ([Ap. 4, 1](https://vulgata.online/bible/Ap.4?ed=DR2&vfn=DR2.Ap.4.1:vs)). This is the door opened in the ark, through which enter the animals who will not perish in the flood.
 
@@ -578,7 +600,8 @@ Again, as from the side of Christ asleep in death on the cross there flowed that
 
 # First Saturday - The Love Of God Shown In The Passion Of Christ
 
-> _God commendeth his charity towards us: because when as yet we were sinners, according to the time, Christ died for us._ [Rm. 5, 8](https://vulgata.online/bible/Rm.5?ed=DR2&vfn=DR2.Rm.5.8:vs)
+> _God commendeth his charity towards us: because when as yet we were sinners, according to the time, Christ died for us._  
+[Rm. 5, 8](https://vulgata.online/bible/Rm.5?ed=DR2&vfn=DR2.Rm.5.8:vs)
 
 1\. _Christ died for the ungodly_ ([Rm. 6, 1](https://vulgata.online/bible/Rm.6?ed=DR2&vfn=DR2.Rm.6.1:vs)) This is a great thing if we consider who it is that died, a great thing also if we consider on whose behalf he died. _For scarce for a just man, will one die_ ([Rm. 6, 1](https://vulgata.online/bible/Rm.6?ed=DR2&vfn=DR2.Rm.6.1:vs)), that is to say, that you will hardly find anyone who will die even to set free a man who is innocent, nay even it is said, _The just perisheth, and no man layeth it to heart_ ([Is. 1, 7](https://vulgata.online/bible/Is.1?ed=DR2&vfn=DR2.Is.1.7:vs)).
 
@@ -602,7 +625,8 @@ So great is God's love for us and his grace towards us, that he does more for us
 
 # Second Week In Lent — Sunday - God The Father Delivered Christ To His Passion
 
-> _God spared not even His own Son, but delivered Him up for us all._ [Rm. 8, 32](https://vulgata.online/bible/Rm.8?ed=DR2&vfn=DR2.Rm.8.32:vs)
+> _God spared not even His own Son, but delivered Him up for us all._  
+[Rm. 8, 32](https://vulgata.online/bible/Rm.8?ed=DR2&vfn=DR2.Rm.8.32:vs)
 
 Christ suffered willingly, moved by obedience to His Father. Wherefore, God the Father delivered Christ to his Passion, and this in three ways:
 
@@ -626,7 +650,8 @@ Christ therefore did not owe to death the debt of necessity, but of charity — 
 
 # Second Monday - It Was Fitting That Our Lord Should Suffer At The Hands Of The Gentiles
 
-> _They shall deliver him to the Gentiles to be mocked, and scourged and crucified._ [Mt. 20, 19](https://vulgata.online/bible/Mt.20?ed=DR2&vfn=DR2.Mt.20.19:vs)
+> _They shall deliver him to the Gentiles to be mocked, and scourged and crucified._  
+[Mt. 20, 19](https://vulgata.online/bible/Mt.20?ed=DR2&vfn=DR2.Mt.20.19:vs)
 
 In the very manner of the Passion of Our Lord its effects are foreshadowed. In the first place, the Passion of Our Lord had for its effect the salvation of Jews, many of whom were baptised in his death.
 
@@ -668,7 +693,8 @@ Therefore it is that each individual must seek to be born again through Christ, 
 
 # Second Wednesday - The Passion Of Christ Brought About Our Salvation Because It Was An Act Of Satisfaction
 
-> _He is the propitiation for our sins, and not for ours only but also for those of the whole world._ [1Jo. 2, 2](https://vulgata.online/bible/1Jo.2?ed=DR2&vfn=DR2.1Jo.2.2:vs)
+> _He is the propitiation for our sins, and not for ours only but also for those of the whole world._  
+[1Jo. 2, 2](https://vulgata.online/bible/1Jo.2?ed=DR2&vfn=DR2.1Jo.2.2:vs)
 
 1\. Satisfaction for offenses committed is truly made when there is offered to the person offended a thing which he loves as much as, or more than, he hates the offenses committed.
 
@@ -707,7 +733,8 @@ Whence St. Augustine says, "What is there more suitably received by men, of offe
 
 # Second Friday - Feast Of The Holy Winding Sheet
 
-> _Joseph taking the body, wrapped it up in a clean linen cloth and laid it in his own new monument._ [Mt. 27, 59](https://vulgata.online/bible/Mt.27?ed=DR2&vfn=DR2.Mt.27.59:vs)
+> _Joseph taking the body, wrapped it up in a clean linen cloth and laid it in his own new monument._  
+[Mt. 27, 59](https://vulgata.online/bible/Mt.27?ed=DR2&vfn=DR2.Mt.27.59:vs)
 
 1\. By this _clean linen cloth_ three things are signified in a hidden way, namely:
 
@@ -756,7 +783,8 @@ Therefore it was in regard to God's claims that justice called for man to be red
 
 # Third week in lent — sunday - it is the passion of christ that has freed us from sin
 
-> _He hath loved us and washed us from our sins in his own blood._ [Ap. 1, 5](https://vulgata.online/bible/Ap.1?ed=DR2&vfn=DR2.Ap.1.5:vs)
+> _He hath loved us and washed us from our sins in his own blood._  
+[Ap. 1, 5](https://vulgata.online/bible/Ap.1?ed=DR2&vfn=DR2.Ap.1.5:vs)
 
 The Passion of Christ is the proper cause of the remission of our sins, and that in three ways.
 
@@ -778,7 +806,7 @@ By faith also we make use of the Passion of Christ, in order to receive its frui
 
 # Third Monday - THE PASSION OF CHRIST HAS DELIVERED US FROM THE DEVIL
 
-Our Lord said, as His Passion drew near, _Now shall the princes of this world be cast out. And I, if I be lifted up from the earth, will draw all things to myself_ ([Jo. 12, 31-32](https://vulgata.online/bible/Jo.12?ed=DR2&vfn=DR2.Jo.12.31-32:vs))).
+Our Lord said, as His Passion drew near, _Now shall the princes of this world be cast out. And I, if I be lifted up from the earth, will draw all things to myself_ ([Jo. 12, 31-32](https://vulgata.online/bible/Jo.12?ed=DR2&vfn=DR2.Jo.12.31-32:vs)).
 
 He was lifted up from the earth by His Passion on the cross. Therefore by that Passion the devil was driven out from his dominion over men.
 
@@ -800,7 +828,8 @@ God also allows the devil to deceive men in certain persons, times and places, a
 
 # Third Tuesday - CHRIST IS TRULY OUR REDEEMER
 
-> _You were redeemed with the precious blood of Christ, as of a lamb unspotted and undefiled._ [1Pe. 1, 19](https://vulgata.online/bible/1Pe.1?ed=DR2&vfn=DR2.1Pe.1.19:vs)
+> _You were redeemed with the precious blood of Christ, as of a lamb unspotted and undefiled._  
+[1Pe. 1, 19](https://vulgata.online/bible/1Pe.1?ed=DR2&vfn=DR2.1Pe.1.19:vs)
 
 By the sin of our first parents, the whole human race was alienated from God, as is taught in the second chapter of the epistle to the Ephesians. It was not from God's power that we were thereby cut off, but from that sight of God's face to which His children and His servants are admitted.
 
@@ -820,7 +849,8 @@ The devil had indeed had dominion over us, but unjustly, since what power he had
 
 # Third Wednesday - THE PRICE OF OUR REDEMPTION
 
-> _You are bought with a great price._ [1Co. 6, 20](https://vulgata.online/bible/1Co.6?ed=DR2&vfn=DR2.1Co.6.20:vs)
+> _You are bought with a great price._  
+[1Co. 6, 20](https://vulgata.online/bible/1Co.6?ed=DR2&vfn=DR2.1Co.6.20:vs)
 
 The indignities and sufferings anyone suffers are measured according to the dignity of the person concerned. If a king is struck in the face he suffers a greater indignity than does a private person. But the dignity of Christ is infinite, for He is a divine person. Therefore, any suffering undergone by him, even the least conceivable suffering, is infinite. Any suffering at all, then, undergone by Him, without His death, would have sufficed to redeem the human race.
 
@@ -844,7 +874,8 @@ But, as a matter of fact, Christ would have paid sufficiently for the redemption
 
 # Third Thursday - THE PREACHING OF THE SAMARITAN WOMAN
 
-> _The woman therefore left her water-pot, and went her way into the city._ [Jo. 4, 28](https://vulgata.online/bible/Jo.4?ed=DR2&vfn=DR2.Jo.4.28:vs)
+> _The woman therefore left her water-pot, and went her way into the city._  
+[Jo. 4, 28](https://vulgata.online/bible/Jo.4?ed=DR2&vfn=DR2.Jo.4.28:vs)
 
 This woman, once Christ had instructed her, became an apostle. There are three things which we can gather from what she said and what she did.
 
@@ -876,7 +907,8 @@ _Let us go forth therefore to him without the camp_ ([Hb. 13, 13](https://vulgat
 
 # Third Friday - IT IS BY THE PASSION OF CHRIST THAT WE HAVE BEEN FREED FROM THE PUNISHMENT DUE TO SIN
 
-> _Surely he hath borne our infirmities and carried our sorrows._ [Is. 53, 4](https://vulgata.online/bible/Is.53?ed=DR2&vfn=DR2.Is.53.4:vs)
+> _Surely he hath borne our infirmities and carried our sorrows._  
+[Is. 53, 4](https://vulgata.online/bible/Is.53?ed=DR2&vfn=DR2.Is.53.4:vs)
 
 By the Passion of Christ we are freed from the liability to be punished for sin with the punishment that sin calls for, in two ways, directly and indirectly.
 
@@ -894,7 +926,8 @@ If death, which is a penalty due to sin, continues to subsist, the reason is thi
 
 # Third Saturday - THE PASSION OF CHRIST RECONCILES US TO GOD
 
-> _We were reconciled to God through the death of his son._ [Rm. 5, 10](https://vulgata.online/bible/Rm.5?ed=DR2&vfn=DR2.Rm.5.10:vs)
+> _We were reconciled to God through the death of his son._  
+[Rm. 5, 10](https://vulgata.online/bible/Rm.5?ed=DR2&vfn=DR2.Rm.5.10:vs)
 
 1\. The Passion of Christ brought about our reconciliation to God in two ways.
 
@@ -920,7 +953,8 @@ And inasmuch as Christ, making satisfaction for us by His Passion, brought it ab
 
 # Fourth Week in Lent — Sunday - CHRIST BY HIS PASSION OPENED TO US THE GATES OF HEAVEN
 
-> _We have a confidence in the entering into the holies by the blood of Christ._ [Hb. 10, 19](https://vulgata.online/bible/Hb.10?ed=DR2&vfn=DR2.Hb.10.19:vs)
+> _We have a confidence in the entering into the holies by the blood of Christ._  
+[Hb. 10, 19](https://vulgata.online/bible/Hb.10?ed=DR2&vfn=DR2.Hb.10.19:vs)
 
 The closing of a gate is an obstacle hindering men's entrance. Now men are hindered from entrance to the heavenly kingdom by sin, for Isaias says, It *shall be called the holy way: the unclean shall not pass over it* ([Is. 35, 8](https://vulgata.online/bible/Is.35?ed=DR2&vfn=DR2.Is.35.8:vs)).
 
@@ -938,7 +972,8 @@ Christ by his Passion merited for us an entrance into heaven, and removed what s
 
 # Fourth Monday - CHRIST BY HIS PASSION MERITED TO BE EXALTED
 
-> _He became obedient unto death even to the death of the cross: for which cause God hath exalted him._ [Fm. 2, 8](https://vulgata.online/bible/Fm.2?ed=DR2&vfn=DR2.Fm.2.8:vs)
+> _He became obedient unto death even to the death of the cross: for which cause God hath exalted him._  
+[Fm. 2, 8](https://vulgata.online/bible/Fm.2?ed=DR2&vfn=DR2.Fm.2.8:vs)
 
 Merit is a thing which implies a certain equality of justice. Thus St. Paul says, _To him that worketh the reward is reckoned according to debt_ ([Rm. 4, 4](https://vulgata.online/bible/Rm.4?ed=DR2&vfn=DR2.Rm.4.4:vs)).
 
@@ -954,8 +989,8 @@ Now in His Passion Christ humbled himself below His dignity in four respects:
 Therefore, on account of His Passion, He merited a fourfold exaltation.
 
 1. A glorious resurrection. It is said in the Psalm (Ps. cxxxviii. 1), _Thou hast known my sitting down_, that is, the humiliation of my Passion, _and my rising up_.
-2. An ascension into heaven. Whence it is said, _He descended first into the lower parts of the earth: He that descended is the same also that ascended above all the heavens_ ([Ef. 4, 9-10](https://vulgata.online/bible/Ef.4?ed=DR2&vfn=DR2.Ef.4.9-10:vs))).
-3. To be seated at the right hand of the Father, with His divinity made manifest. Isaias says, _He shall be exalted, and extolled, and shall be exceeding high. As many have been astonished at thee, so shall his visage be inglorious among men, and St. Paul says, He became obedient unto death, even to the death of the cross. For which cause God hath exalted him and hath given him a name which is above all names_ ([Fm. 2, 8-9](https://vulgata.online/bible/Fm.2?ed=DR2&vfn=DR2.Fm.2.8-9:vs))), that is to say, He shall be named God by all, and all shall pay Him reverence as God. And this is why St. Paul adds, _That in the name of Jesus every knee should bow, of those that are in heaven, on earth, and under the earth_ ([Fm. 10, 1](https://vulgata.online/bible/Fm.10?ed=DR2&vfn=DR2.Fm.10.1:vs)).
+2. An ascension into heaven. Whence it is said, _He descended first into the lower parts of the earth: He that descended is the same also that ascended above all the heavens_ ([Ef. 4, 9-10](https://vulgata.online/bible/Ef.4?ed=DR2&vfn=DR2.Ef.4.9-10:vs)).
+3. To be seated at the right hand of the Father, with His divinity made manifest. Isaias says, _He shall be exalted, and extolled, and shall be exceeding high. As many have been astonished at thee, so shall his visage be inglorious among men, and St. Paul says, He became obedient unto death, even to the death of the cross. For which cause God hath exalted him and hath given him a name which is above all names_ ([Fm. 2, 8-9](https://vulgata.online/bible/Fm.2?ed=DR2&vfn=DR2.Fm.2.8-9:vs)), that is to say, He shall be named God by all, and all shall pay Him reverence as God. And this is why St. Paul adds, _That in the name of Jesus every knee should bow, of those that are in heaven, on earth, and under the earth_ ([Fm. 10, 1](https://vulgata.online/bible/Fm.10?ed=DR2&vfn=DR2.Fm.10.1:vs)).
 4. A power of judgment. For it is said, _Thy cause hath been judged as that of the wicked. Cause and judgment thou shalt recover_ ([Job. 36, 17](https://vulgata.online/bible/Job.36?ed=DR2&vfn=DR2.Job.36.17:vs)).
 
 (3 49 6.)
@@ -986,7 +1021,8 @@ Christ truly _suffered for us_, leaving us an example in anxieties, contempts, s
 
 # Fourth Wednesday - THE DIVINE FRIEND
 
-> _His sisters sent to bun saying: Lord, behold, he whom thou lovest is sick._ [Jo. 11, 3](https://vulgata.online/bible/Jo.11?ed=DR2&vfn=DR2.Jo.11.3:vs)
+> _His sisters sent to bun saying: Lord, behold, he whom thou lovest is sick._  
+[Jo. 11, 3](https://vulgata.online/bible/Jo.11?ed=DR2&vfn=DR2.Jo.11.3:vs)
 
 Three things here call for thought.
 
@@ -1002,7 +1038,8 @@ The gospel corrects this when it says, Lord, behold, he whom thou lovest is sick
 
 # Fourth Thursday - THE DEATH OF LAZARUS
 
-> _Lazarus our friend sleepeth_ [Jo. 11, 11](https://vulgata.online/bible/Jo.11?ed=DR2&vfn=DR2.Jo.11.11:vs)
+> _Lazarus our friend sleepeth_  
+[Jo. 11, 11](https://vulgata.online/bible/Jo.11?ed=DR2&vfn=DR2.Jo.11.11:vs)
 
 1\. _Our friend_ — for the many benefits and services he rendered us, and therefore we owe it not to fail in his necessity. _Sleepeth_, therefore we must come to his assistance: _a brother is proved in distress_ ([Pv. 17, 17](https://vulgata.online/bible/Pv.17?ed=DR2&vfn=DR2.Pv.17.17:vs)).
 
@@ -1069,7 +1106,8 @@ The suitability of any particular way for the attainment of a given end is recko
 
 # Passion Week — Sunday - THE PASSION OF CHRIST
 
-> _As Moses lifted up the serpent in the desert so must the Son of Man be lifted up: that whosoever believeth in him may not perish; but may have life everlasting._ [Jo. 3, 14-15](https://vulgata.online/bible/Jo.3?ed=DR2&vfn=DR2.Jo.3.14-15:vs)
+> _As Moses lifted up the serpent in the desert so must the Son of Man be lifted up: that whosoever believeth in him may not perish; but may have life everlasting._  
+[Jo. 3, 14-15](https://vulgata.online/bible/Jo.3?ed=DR2&vfn=DR2.Jo.3.14-15:vs)
 
 We may note here three things.
 
@@ -1112,7 +1150,8 @@ But, by His Passion, Christ opened those gates, and called back the exiles from 
 
 # Passion Tuesday - THE BURIAL OF CHRIST
 
-> _She hath wrought a good work upon me. She in pouring this ointment upon me hath done it for my burial._ [Mt. 26, 10](https://vulgata.online/bible/Mt.26?ed=DR2&vfn=DR2.Mt.26.10:vs) 
+> _She hath wrought a good work upon me. She in pouring this ointment upon me hath done it for my burial._  
+[Mt. 26, 10](https://vulgata.online/bible/Mt.26?ed=DR2&vfn=DR2.Mt.26.10:vs) 
 
 Pilate, before he gave leave for Christ to be buried, made careful inquiry to assure himself that Christ was dead.
 
@@ -1164,7 +1203,8 @@ The showing forth of the body of Christ in the sacrament has about it, it is tru
 
 # Passion Friday - OUR LADY'S SUFFERING IN THE PASSION
 
-> _Thy own soul a sword shall pierce._ [Lc. 2, 35](https://vulgata.online/bible/Lc.2?ed=DR2&vfn=DR2.Lc.2.35:vs)
+> _Thy own soul a sword shall pierce._  
+[Lc. 2, 35](https://vulgata.online/bible/Lc.2?ed=DR2&vfn=DR2.Lc.2.35:vs)
 
 In these words there is noted for us the close association of Our Lady with the Passion of Christ. Four things especially made the Passion most bitter for her.
 
@@ -1190,7 +1230,8 @@ Although Our Lady knew by faith that it was God's will that Christ should suffer
 
 # Passion Saturday - HOW WE, EACH OF US, SHOULD WASH ONE ANOTHER'S FEET
 
-> _If I then being your Lord and Master, have washed your feet; you also ought to wash one another's feet._ [Jo. 13, 14](https://vulgata.online/bible/Jo.13?ed=DR2&vfn=DR2.Jo.13.14:vs)
+> _If I then being your Lord and Master, have washed your feet; you also ought to wash one another's feet._  
+[Jo. 13, 14](https://vulgata.online/bible/Jo.13?ed=DR2&vfn=DR2.Jo.13.14:vs)
 
 Our Lord wishes that His disciples shall imitate His example. He says therefore, _If I, who am the greater_, being your master and the Lord, have washed your feet, you also, all the more who are the less, who are disciples, slaves even, ought to wash one another's feet. _Whosoever will be the greater among you_, let him be your minister. . . . _Even as the Son of 'Man is not come to be ministered unto, but to minister_ ([Mt. 20, 26](https://vulgata.online/bible/Mt.20?ed=DR2&vfn=DR2.Mt.20.26:vs)).
 
@@ -1246,7 +1287,8 @@ _Lord, he said, not only my feet, but also my hands and my head_. As though to s
 
 # Tuesday in Holy Week - CHRIST PREPARING TO WASH THE APOSTLE'S FEET
 
-> _He riseth from supper, and layeth aside his garments and having taken a towel, girded himself._ [Jo. 13, 4](https://vulgata.online/bible/Jo.13?ed=DR2&vfn=DR2.Jo.13.4:vs)
+> _He riseth from supper, and layeth aside his garments and having taken a towel, girded himself._  
+[Jo. 13, 4](https://vulgata.online/bible/Jo.13?ed=DR2&vfn=DR2.Jo.13.4:vs)
 
 1\. Christ, in his lowly office, shows Himself truly to be a servant, in keeping with His own words, _The Son of Man is not come to be ministered, but to minister., and to give His life a redemption for many_ ([Mt. 20, 28](https://vulgata.online/bible/Mt.20?ed=DR2&vfn=DR2.Mt.20.28:vs)).
 
@@ -1268,7 +1310,8 @@ We arc given for our consideration this service of Christ; and in three ways his
 
 # Holy Wednesday - THREE THINGS ARE SYMBOLISED BY THE WASHING OF THE FEET
 
-> _He putteth water into a basin, and began to wash the feet of the disciples, and to wipe them with the towel wherewith he was girded_ [Jo. 13, 5](https://vulgata.online/bible/Jo.13?ed=DR2&vfn=DR2.Jo.13.5:vs)
+> _He putteth water into a basin, and began to wash the feet of the disciples, and to wipe them with the towel wherewith he was girded_  
+[Jo. 13, 5](https://vulgata.online/bible/Jo.13?ed=DR2&vfn=DR2.Jo.13.5:vs)
 
 There are three things which this can be taken to symbolise.
 
