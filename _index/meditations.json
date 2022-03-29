@@ -20205,5 +20205,20 @@
     ],
     "slug": "come-follow-me",
     "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 122,
+    "title": "Free Sacrifice of Liberty",
+    "subTitle": "Wednesday after Fourth Sunday Of Lent",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-18",
+        "priority": 500
+      }
+    ],
+    "slug": "free-sacrifice-of-liberty",
+    "priority": 500
   }
 ]
