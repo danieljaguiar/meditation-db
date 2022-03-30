@@ -19489,7 +19489,7 @@
   {
     "bookId": "imitacao",
     "order": 88,
-    "title": "Que devemos praticar as obras humildes quando somos incapazes para asmais altas",
+    "title": "Que devemos praticar as obras humildes quando somos incapazes para as mais altas",
     "subTitle": "Livro 3 - Capítulo 51",
     "rules": [
       {
@@ -20219,6 +20219,21 @@
       }
     ],
     "slug": "free-sacrifice-of-liberty",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 123,
+    "title": "Supernatural Obdience",
+    "subTitle": "Thursday after Fourth Sunday Of Lent",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-17",
+        "priority": 500
+      }
+    ],
+    "slug": "supernatural-obdience",
     "priority": 500
   }
 ]
