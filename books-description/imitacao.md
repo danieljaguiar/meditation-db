@@ -1,6 +1,10 @@
 A Imitação de Cristo, é um livro devocional católico escrito por volta de 1420, com ênfase na vida interior e afastamento das coisas mundanas. É considerado o livro mais lido na Cristandade depois da Bíblia.
  
-Muitos santos tiveram grande progresso espiritual com sua leitura. São Francisco de Sales, recomenda este livro para meditação em seu livro Filotéia (Introdução à Vida Devota). Santa Teresa de Lisieux nos diz (em História de uma Alma) que "durante muitos anos" este foi o único livro que lhe ajudava a progredir espiritualmente. É conhecido que Santo Inácio de Loyola e São Tomás More também liam com frequência.
+Muitos santos tiveram grande progresso espiritual com sua leitura. 
+
+São Francisco de Sales, recomenda este livro para meditação em seu livro Filotéia (Introdução à Vida Devota), assim como Dom Chautard no "A Alma de Todo Apostolado". 
+
+Santa Teresa de Lisieux nos diz (em História de uma Alma) que "durante muitos anos" este foi o único livro que lhe ajudava a progredir espiritualmente. É conhecido que Santo Inácio de Loyola e São Tomás More também liam com frequência.
  
 É definitivamente um excelente livro para meditação.
  
