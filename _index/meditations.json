@@ -20235,5 +20235,20 @@
     ],
     "slug": "supernatural-obdience",
     "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 124,
+    "title": "Blind Obdience",
+    "subTitle": "Firday after Fourth Sunday Of Lent",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-16",
+        "priority": 500
+      }
+    ],
+    "slug": "blind-obdience",
+    "priority": 500
   }
 ]
