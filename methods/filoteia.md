@@ -1,6 +1,7 @@
 https://pocketterco.com.br/filoteia/
 
-Capítulo II - Breve método de meditação. Primeiro ponto da preparação: pôr-se na presença de Deus
+## Capítulo II - Breve método de meditação. Primeiro ponto da preparação: pôr-se na presença de Deus
+
 Poderá ser, Filotéia, que não saibas como se faz a oração mental; pois, infelizmente, poucos o sabem nos nossos tempos. Por isso torna-se necessário que resuma aqui em algumas regras um método proveitoso, deixando para os bons livros dedicados a esta matéria e principalmente para a prática a tua instrução mais completa.
 A primeira regra tem em vista a preparação, que consiste nestes três pontos: pôr-se na presença de Deus, pedir-lhe o auxílio de suas luzes e inspirações, propor-se o mistério que se quer meditar.
 Quanto ao primeiro ponto, ofereço-te quatro meios principais, que poderão ajudar teu nascente ardor.

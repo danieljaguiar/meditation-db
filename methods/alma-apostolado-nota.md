@@ -2,7 +2,7 @@ A meditação é o braseiro onde se vai reavivar a guarda do coração.
 
 Mediante a fidelidade a esta meditação, todos os demais exercícios de piedade serão vivificados. A alma irá pouco a pouco adquirindo a vigilância e o espírito de oração, isto é, o hábito de recorrer a Deus cada dia com maior frequência.
 
-A união com Deus na meditação gerará uma união íntima com ele, mesmo durante as ocupações mais absorventes.
+A união com Deus na meditação gerará uma união íntima com Ele, mesmo durante as ocupações mais absorventes.
 
 Vivendo a alma assim unida a Nosso Senhor pela guarda do coração atrairá a si cada vez mais os dons do Espírito Santo e as virtudes infusas, e talvez Deus venha a chamá-la a grau mais elevado de oração.
 
