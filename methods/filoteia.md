@@ -16,7 +16,7 @@ A primeira regra tem em vista a preparação, que consiste nestes três pontos:
 
 Quanto ao primeiro ponto, ofereço-te quatro meios principais, que poderão ajudar teu nascente ardor.
 
-###### 1º meio de pôr-se na presença de Deus: Observe a imensidão de Deus
+###### 1º meio: Observe a imensidão de Deus
 
 O primeiro consiste em atender vivamente a imensidade de Deus, que perfeita e essencialmente está presente em todas as coisas e lugares, de maneira que, como os passarinhos, para qualquer região que voem, estão sempre envoltos no ar, assim também nós, em toda parte a que nos dirigimos ou em que estamos, sempre encontramos a Deus presente em nós mesmos e em todas as coisas. Esta verdade é conhecida de todos, mas bem poucos lhe consagram a devida atenção. Os cegos que sabem achar-se na presença de um príncipe, embora não o vejam, conservam-se numa posição respeitosa; mas; porque não o veem, facilmente esquecem a sua presença e, uma vez esquecida, ainda com maior facilidade perdem o respeito que lhe é devido. Ah! Filotéia, não podemos ver a Deus, que está presente em nós; e embora a fé e a razão nos digam que Ele está presente, bem depressa nos esquecemos disso e então agimos como se Ele estivesse longe de nós: pois, conquanto saibamos que Ele está presente em todas as coisas, a falta de atenção produz em nós os mesmos efeitos que se O ignorássemos de todo.
 
@@ -24,15 +24,15 @@ Eis ai a razão por que no começo de nossas orações devemos refletir intensam
 
 Igualmente, sirvamo-nos das palavras de Jacob, que, depois de ter visto a misteriosa escada a que já me referi, exclamou: Quão terrível é este lugar; em verdade Deus está aqui e eu não o sabia. Queria dizer que não tinha refletido bastante, porque não podia ignorar que Deus estivesse presente em toda parte. Eia, pois, Filotéia! Ao te preparares para a oração, dize de todo o coração a ti mesma: Oh! Minha alma, Deus está verdadeiramente aqui presente.
 
-###### 2º meio de pôr-se na presença de Deus: Deus no âmago de tua alma
+###### 2º meio: Deus no âmago de tua alma
 
 O segundo meio de te pores na presença de Deus é pensar que Deus não somente está no lugar onde te achas, mas também que Ele está presente em ti mesma, no âmago de tua alma: que Ele a vivifica, anima e sustenta por Sua divina presença; pois como a alma, estando presente em todo o corpo, reside contudo dum modo especial no coração, assim Deus, estando presente em todas as coisas, O está muito mais em nossa alma, podendo-se até dizer, em certo sentido, que Deus mesmo é a alma. Por isso David chamava a Deus o Deus do seu coração. E São Paulo, neste mesmo sentido, nos diz que em Deus vivemos, nos movemos e somos. E deste modo também este pensamento incitará no teu coração um respeito profundo por Deus, que está em ti tão intimamente presente.
 
-###### 3º meio de pôr-se na presença de Deus: O Filho de Deus, no céu, me vê
+###### 3º meio: O Filho de Deus, no céu, me vê
 
 O terceiro meio, que te poderá ajudar, é considerar que o Filho de Deus, como homem, no céu olha para todas as pessoas do mundo, mas mui particularmente para os cristãos, que são seus filhos e ainda mais para os que estão atualmente em oração, notando se rezam bem ou mal. Nem é isso uma pura imaginação, mas um fato muitíssimo real; pois, conquanto não O possamos ver, corno Santo Estevão em seu martírio, Nosso Senhor tem, entretanto, os Seus olhos em nós,como os tinha nele, e podemos dizer-Lhe alguma coisa semelhante ao que a Esposa dos Cantares disse a seu Esposo: Ele está lá, ei-lo, é ele mesmo; ele está escondido e não o posso ver, mas ele me vê, ele me está olhando.
 
-###### 4º meio de pôr-se na presença de Deus: Representar Jesus Cristo nesse mesmo lugar onde estamos
+###### 4º meio: Representar Jesus Cristo nesse mesmo lugar onde estamos
 
 O quarto meio consiste em nos representarmos Jesus Cristo neste mesmo lugar onde estamos, mais ou menos como costumamos representar-nos os nossos amigos, e dizer: estou imaginando vê-Lo fazendo isso ou aquilo; parece-me vê-Lo, ouvi-Lo. Estando, porém, na igreja, ante o altar do Santíssimo Sacramento, esta presença de Jesus Cristo, Filotéia, não será meramente imaginária, mas muitíssimo real; as espécies ou aparências do pão são como um véu que O esconde a nossos olhos; Ele nos vê e considera realmente, embora a nós O não vejamos em Sua própria forma.
 Dum destes quatro meios, pois, te poderás servir para te pores na presença de Deus e não dos quatro duma vez, e isso mesmo deves fazer brevemente e com simplicidade.
