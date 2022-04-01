@@ -2,12 +2,7 @@ O texto que segue abaixo foi extraído do livro de São Francisco de Sales, cham
 
 Neste site, tomamos a liberdade de usar uma formatação (tipografia, quebra-de-linha) diferente do original. O texto, é o mesmo. 
 
-https://pocketterco.com.br/filoteia/
-
-
 ---
-
-# Breve método de meditação.
 
 Poderá ser, Filotéia, que não saibas como se faz a oração mental; pois, infelizmente, poucos o sabem nos nossos tempos. Por isso torna-se necessário que resuma aqui em algumas regras um método proveitoso, deixando para os bons livros dedicados a esta matéria e principalmente para a prática a tua instrução mais completa.
 
