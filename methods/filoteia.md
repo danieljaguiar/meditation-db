@@ -4,7 +4,6 @@ Neste site, tomamos a liberdade de usar uma formatação (tipografia, quebra-de-
 
 https://pocketterco.com.br/filoteia/
 
-# Table of Contents
 
 ---
 
