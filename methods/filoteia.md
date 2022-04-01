@@ -12,7 +12,7 @@ A primeira regra tem em vista a preparação, que consiste nestes três pontos:
 2. pedir-lhe o auxílio de suas luzes e inspirações, 
 3. propor-se o mistério que se quer meditar.
 
-### 1.1: Por-se na presença de Deus
+#### 1.1. Por-se na presença de Deus
 
 Quanto ao primeiro ponto, ofereço-te quatro meios principais, que poderão ajudar teu nascente ardor.
 
@@ -37,13 +37,13 @@ O terceiro meio, que te poderá ajudar, é considerar que o Filho de Deus, como 
 O quarto meio consiste em nos representarmos Jesus Cristo neste mesmo lugar onde estamos, mais ou menos como costumamos representar-nos os nossos amigos, e dizer: estou imaginando vê-Lo fazendo isso ou aquilo; parece-me vê-Lo, ouvi-Lo. Estando, porém, na igreja, ante o altar do Santíssimo Sacramento, esta presença de Jesus Cristo, Filotéia, não será meramente imaginária, mas muitíssimo real; as espécies ou aparências do pão são como um véu que O esconde a nossos olhos; Ele nos vê e considera realmente, embora a nós O não vejamos em Sua própria forma.
 Dum destes quatro meios, pois, te poderás servir para te pores na presença de Deus e não dos quatro duma vez, e isso mesmo deves fazer brevemente e com simplicidade.
  
-### 1.2: A invocação
+#### 1.2. A invocação
 
 A invocação se faz do modo seguinte: tua alma, sentindo a Deus presente, deve compenetrar-se de um profundo respeito e reputar-se absolutamente indigna de Sua presença; todavia, sabendo que Ele te vê, deves pedir-Lhe a graça de O glorificar nesta meditação. Se quiseres, poderás servir-te de algumas palavras, breves mas ardentes, como estas, que são do profeta-rei: Nunca me arremesses de tua presença, ó meu Deus, e não tires de mim o teu Espírito Santo. Esclarece tua face sobre a terra. Dá-me entendimento e observarei a tua lei e a guardarei de todo o meu coração.
 
 Muito útil é invocares também o teu anjo da guarda e os santos que participaram do mistério que meditas; como, por exemplo, na meditação sobre a morte de Nosso Senhor, a Santíssima Virgem, São João, Santa Madalena e os outros santos e santas e o Bom Ladrão, implorando-lhes que te emprestem os sentimentos que tinham ou, então, na meditação sobre a tua própria morte, a teu anjo da guarda, que estará lá presente. O mesmo deve dizer-se de todos os outros mistérios ou verdades que meditas.
  
-### 1.3: Propor-se um mistério
+#### 1.3. Propor-se um mistério
 
 Existe ainda um terceiro prelúdio da oração mental, o qual, no entanto, não é comum a toda espécie de meditações e se chama geralmente “composição” ou representação do lugar. Consiste numa certa atividade da fantasia, pela qual nos representamos o mistério ou fato que queremos meditar, como se os acontecimentos se estivessem sucedendo realmente ante os nossos olhos. Por exemplo, se queres meditar sobre a morte de Jesus crucificado no Calvário, farás uma ideia de todas as circunstâncias, como os evangelistas no-las descrevem, quanto aos lugares, pessoas, ações e palavras; o mesmo te proporei acerca dos outros objetos que os sentidos percebem, como a morte e o inferno, como já vimos; tratando-se, porém, de objetos inteiramente espirituais, como a grandeza de Deus, a excelência das virtudes, o fim da nossa criação, essa prática não é tão conveniente. É verdade que mesmo aqui se poderia usar de alguma analogia ou comparação, como vemos nas belas parábolas do Filho de Deus; mas isso tem sua dificuldade e eu quisera que te ocupasses com exercícios simples e não cansasses o teu espírito procurando semelhantes pensamentos. A utilidade deste exercício de imaginação consiste em ater a nossa fantasia ao objeto que meditamos, receando que, tão irrequieta como é, nos escape para ir ocupar-se doutros objetos; estava quase a dizer-te que deves proceder com ela, como com um passarinho que se fecha na gaiola ou com um falcão que se acorrenta ao poleiro; para que fique aí.
 
