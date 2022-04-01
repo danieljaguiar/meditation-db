@@ -1,6 +1,6 @@
-O texto que segue abaixo foi extraído do livro de São Francisco de Sales, chamado Filotéia, ou, Introdução da Vida Devota. 
+*O texto que segue abaixo foi extraído do livro de São Francisco de Sales, chamado Filotéia, ou, Introdução da Vida Devota.*
 
-Neste site, tomamos a liberdade de usar uma formatação (tipografia, quebra-de-linha) diferente do original. O texto, é o mesmo. 
+*Neste site, tomamos a liberdade de usar uma formatação (tipografia, quebra-de-linha) diferente do original. O texto, é o mesmo.*
 
 ---
 
