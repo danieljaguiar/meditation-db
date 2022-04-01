@@ -1,5 +1,6 @@
-*O texto que segue abaixo foi extraído do livro de São Francisco de Sales, chamado Filotéia, ou, Introdução da Vida Devota. Neste site, tomamos a liberdade de usar uma formatação (tipografia, quebra-de-linha) diferente do original. O texto, é o mesmo.* ***(Administrador do Meditatione.Online)***
+*O texto abaixo foi extraído do livro de São Francisco de Sales chamado Filotéia, ou, Introdução da Vida Devota. Neste site, tomamos a liberdade de mudar a formatação (tipografia, quebra-de-linha) bem como adicionar cabeçalhos para facilitar a navegação. O texto em si, é como está no original.* ***(Administrador do Meditatione Online)***
 
+---
 ---
 
 Poderá ser, Filotéia, que não saibas como se faz a oração mental; pois, infelizmente, poucos o sabem nos nossos tempos. Por isso torna-se necessário que resuma aqui em algumas regras um método proveitoso, deixando para os bons livros dedicados a esta matéria e principalmente para a prática a tua instrução mais completa.
