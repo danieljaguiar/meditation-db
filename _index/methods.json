@@ -1,10 +1,18 @@
 [
   {
-    "id": "filoteia",
+    "id": "filoteia-pt",
+    "language": "pt",
+    "authorId": "sales",
+    "bookId": "filoteia-pt",
+    "title": "Breve Método de Meditação por São Francisco de Sales",
+    "shortDescription": "Um dos métodos de meditação mais famoso extraído do clássico Filotéia de São Francisco de Sales."
+  },
+  {
+    "id": "afonso",
     "language": "pt",
     "authorId": "alphonsus",
-    "shortTitle": "Breve Método de Meditação",
-    "title": "Breve Método de Meditação por São Francisco de Sales",
-    "shortDescription": "Textos de de Santo Afonso de Ligório organizados pelo Padre Thiago Maria Cristini para serem meditados a cada dia do ano liturgico."
+    "bookId": "afonso-todo-dia",
+    "title": "Modo de fazer Oração Mental segundo Santo Afonso",
+    "shortDescription": "Um método simples e direto mas extremamente eficaz para fazer a meditação (oração mental)."
   }
 ]

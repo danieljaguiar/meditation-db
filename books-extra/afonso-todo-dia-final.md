@@ -1,4 +1,5 @@
-# 3\. Conclusão
+# 3. Conclusão
+
 Enfim, a conclusão da oração compõem-se de três atos:
 
 1º De agradecimento pelas luzes recebidas, e de pedido de perdão das faltas cometidas no tempo da oração:
@@ -18,6 +19,7 @@ Termina-se a oração recomendando a Deus a Santa Igreja, os seus Prelados, as A
 > Senhor, eu Vos recomendo a Santa Igreja, com os seus Prelados, as Almas do Purgatório, a conversão dos pecadores, e todas as minhas necessidades espirituais e temporais bem como as dos meus parentes, amigos e benfeitores.
 
 # Depois da Meditação
+
 Depois da meditação devemos:
 
 1º Conforme o conselho de São Francisco de Sales, fazer um ramalhete de flores afim de cheirá-lo durante o dia, quer dizer, imprimir bem na memória um ou dois pensamentos que mais impressão nos fizeram, para os recordarmos e nos revigorarmos durante o dia.
