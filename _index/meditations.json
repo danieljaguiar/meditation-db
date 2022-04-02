@@ -20265,5 +20265,125 @@
     ],
     "slug": "difficulties-in-obdience",
     "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 126,
+    "title": "Jesus Persecuted",
+    "subTitle": "The First Sunday of The Passion",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-14",
+        "priority": 500
+      }
+    ],
+    "slug": "jesus-persecuted",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 127,
+    "title": "The Value of Suffering",
+    "subTitle": "Monday after First Sunday of The Passion",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-13",
+        "priority": 500
+      }
+    ],
+    "slug": "value-of-suffering",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 128,
+    "title": "Patience",
+    "subTitle": "Tuesday after First Sunday of The Passion",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-12",
+        "priority": 500
+      }
+    ],
+    "slug": "patience",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 129,
+    "title": "The Daily Cross",
+    "subTitle": "Wednesday after First Sunday of The Passion",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-11",
+        "priority": 500
+      }
+    ],
+    "slug": "the-daily-cross",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 130,
+    "title": "Suffering and Abandonment",
+    "subTitle": "Thursday after First Sunday of The Passion",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-10",
+        "priority": 500
+      }
+    ],
+    "slug": "suffering-and-abandonment",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 131,
+    "title": "Seven Sorrows of Mary",
+    "subTitle": "Friday after First Sunday of The Passion",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-9",
+        "priority": 500
+      }
+    ],
+    "slug": "seven-sorrows-of-mary",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 132,
+    "title": "Love of the Corss",
+    "subTitle": "Saturday after First Sunday of The Passion",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-8",
+        "priority": 500
+      }
+    ],
+    "slug": "love-of-the-cross",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 133,
+    "title": "The Triumph of Jesus",
+    "subTitle": "The Second Sunday of The Passion Or Palm Sunday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-7",
+        "priority": 500
+      }
+    ],
+    "slug": "the-triumph-of-jesus",
+    "priority": 500
   }
 ]
