@@ -20250,5 +20250,20 @@
     ],
     "slug": "blind-obdience",
     "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 125,
+    "title": "Difficulties in Obdience",
+    "subTitle": "Saturday after Fourth Sunday Of Lent",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-15",
+        "priority": 500
+      }
+    ],
+    "slug": "difficulties-in-obdience",
+    "priority": 500
   }
 ]
