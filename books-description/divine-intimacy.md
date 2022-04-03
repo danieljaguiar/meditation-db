@@ -1,5 +1,3 @@
-...Pending...
-
 Possibly the most beloved meditation book among catholics in North America, the "Divine Intimacy", carries the Theresian method not only in its format (Presence of God, Meditation, Colloquy), but on every paragraph.
 
 On Authors own words:
