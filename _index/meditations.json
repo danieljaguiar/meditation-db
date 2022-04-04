@@ -20385,5 +20385,110 @@
     ],
     "slug": "the-triumph-of-jesus",
     "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 134,
+    "title": "The Supper at Bethany",
+    "subTitle": "Monday of Holy Week",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-6",
+        "priority": 500
+      }
+    ],
+    "slug": "the-supper-at-bethany",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 135,
+    "title": "The Meek Lamb",
+    "subTitle": "Tuesday of Holy Week",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-5",
+        "priority": 500
+      }
+    ],
+    "slug": "the-meek-lamb",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 136,
+    "title": "The Man of Sorrows",
+    "subTitle": "Wednesday of Holy Week",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-4",
+        "priority": 500
+      }
+    ],
+    "slug": "the-man-of-sorrows",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 137,
+    "title": "The Gift of Love",
+    "subTitle": "Holy Thursday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-3",
+        "priority": 500
+      }
+    ],
+    "slug": "the-gift-of-love",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 138,
+    "title": "The mystery of the Cross",
+    "subTitle": "Good Friday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-2",
+        "priority": 500
+      }
+    ],
+    "slug": "the-mystery-of-the-cross",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 139,
+    "title": "The victory of the Cross",
+    "subTitle": "Holy Saturday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-1",
+        "priority": 500
+      }
+    ],
+    "slug": "the-victory-of-the-cross",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 140,
+    "title": "The Ressurection of The Lord",
+    "subTitle": "Eater Sunday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "0",
+        "priority": 500
+      }
+    ],
+    "slug": "the-ressurection-of-the-lord",
+    "priority": 500
   }
 ]
