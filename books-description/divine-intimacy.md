@@ -12,7 +12,7 @@ What is very notable in this book, is that, instead of proposing the soul to hav
 
 This is not accidental, but it is the very goal of the author:
 
-> Not all meditation books are adapted to souls thirsting for divine intimacy, simply because they are too much imbued with a spirit of fear. Not, indeed, that fear is not profitable for certain souls, but since there are so many books of this type, we judged it timely to publish a collection of meditations in which love would be united to filial, rever¬ ential fear, instead of servile fear, while not denying that this latter can be very salutary. This is also the reason we have by preference emphasized the positive topics of virtue and spiritual progress rather than the negative ones of vice and sin. [^3]
+> Not all meditation books are adapted to souls thirsting for divine intimacy, simply because they are too much imbued with a spirit of fear. Not, indeed, that fear is not profitable for certain souls, but since there are so many books of this type, we judged it timely to publish a collection of meditations in which love would be united to filial, reverential fear, instead of servile fear, while not denying that this latter can be very salutary. This is also the reason we have by preference emphasized the positive topics of virtue and spiritual progress rather than the negative ones of vice and sin. [^3]
 
 [^1]: Divine Intimacy, Tan Books, 1996, pp. 14
 [^2]: Divine Intimacy, Tan Books, 1996, pp. 5

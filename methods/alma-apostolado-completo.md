@@ -57,7 +57,7 @@ Empolgado pela vossa presença viva, ó Jesus, e assim desembaraçado da ordem p
 
 Sois vós, Ó Jesus, que me falais e me ensinais esta verdade. Quero reavivar e aumentar a minha fé no que vós me apresentais como absolutamente certo, pois se funda na vossa veracidade..
 
-E tu, minha alma, não cesses de repetir: Creio. Repete-o ainda com mais fôrça. Como a criança que estuda sua lição, repete numerosíssimas vêzes que aderes a esta doutrina e às suas conseqüências para a tua eternidade [^3]. .. Ó Jesus, isto é verdadeiro, absolutamente verdadeiro. Creio-o firmemente. Quero que êste raio do sol da revelação seja como o farol da minha jornada. Tornai a minha fé ainda mais ardente. Inspirai-me o desejo veemente de viver dêste ideal e santa cólera contra tudo o que se lhe opuser. Quero devorar êste alimento de verdade; quero assimilá-lo.
+E tu, minha alma, não cesses de repetir: Creio. Repete-o ainda com mais fôrça. Como a criança que estuda sua lição, repete numerosíssimas vêzes que aderes a esta doutrina e às suas conseqüências para a tua eternidade [^3]... Ó Jesus, isto é verdadeiro, absolutamente verdadeiro. Creio-o firmemente. Quero que êste raio do sol da revelação seja como o farol da minha jornada. Tornai a minha fé ainda mais ardente. Inspirai-me o desejo veemente de viver dêste ideal e santa cólera contra tudo o que se lhe opuser. Quero devorar êste alimento de verdade; quero assimilá-lo.
 
 Se, entretanto, após alguns minutos passados a excitar minha fé, eu ficar inerte perante a verdade que me é apresentada, não insistirei. Filialmente vos exporei, meu bom Mestre, quanto essa impotência me custa e vos pedirei que a ela suprais.
 
