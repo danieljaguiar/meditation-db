@@ -79,9 +79,9 @@ We would prefer to send you this information by email\
 \*\*\*\*\*\*\
 If you have an FTP program (or emulator), please\
 FTP directly to the Project Gutenberg archives:\
-\[Mac users, do NOT point and click. . .type\]\
+\[Mac users, do NOT point and click... type\]\
 
-ftp uiarchive.cso.uiuc.edu login: anonymous password: your\@login cd etext/etext90 through /etext96 or cd etext/articles \[get suggest gut for more information\] dir \[to see files\] get or mget \[to get files. . .set bin for zip files\] GET INDEX?00.GUT for a list of books and GET NEW GUT for general information and MGET GUT\* for newsletters.
+ftp uiarchive.cso.uiuc.edu login: anonymous password: your\@login cd etext/etext90 through /etext96 or cd etext/articles \[get suggest gut for more information\] dir \[to see files\] get or mget \[to get files... set bin for zip files\] GET INDEX?00.GUT for a list of books and GET NEW GUT for general information and MGET GUT\* for newsletters.
 
 \*\*Information prepared by the Project Gutenberg legal advisor\*\* (Three Pages)
 
