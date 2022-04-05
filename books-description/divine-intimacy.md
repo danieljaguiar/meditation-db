@@ -2,7 +2,7 @@ Possibly the most beloved meditation book among catholics in North America, the 
 
 On Authors own words:
 
-> Teresian spirituality is the spirituality of divine inti¬ macy, 2 that is, it tries to nourish in souls the ideal of intimacy with God and it directs them toward this ideal, principally by means of mental prayer.   Mental prayer should be attuned, therefore, to this great and lofty aspiration. This is the "tone" we have tried to give our meditations, and the title, Divine Intimacy, indicates our intention to help souls as far as possible to attain this great end. [^1]
+> Teresian spirituality is the spirituality of divine intimacy, that is, it tries to nourish in souls the ideal of intimacy with God and it directs them toward this ideal, principally by means of mental prayer.   Mental prayer should be attuned, therefore, to this great and lofty aspiration. This is the "tone" we have tried to give our meditations, and the title, Divine Intimacy, indicates our intention to help souls as far as possible to attain this great end. [^1]
 
 Although the *tone* of meditations are, many times suiting the consacreted souls, it is nevertheless recommended to all, including laity, as noted by Cardinal Angello Dell'Acqua:
 
