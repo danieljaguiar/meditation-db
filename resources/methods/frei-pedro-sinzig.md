@@ -1,8 +1,8 @@
 # Nota do Site
 
-*No começo do seu livro "Breves Meditações para todos os dias do ano" (não disponibilizado no nosso site) o frei Pedro nos propõe um diálogo entre 2 personagens, no qual, um deles,  tenta convencer o outro de que a meditação pode ser feita por todos ([vide aqui](/resources/extras/frei-pedro-sinzig)).*
+*No começo do seu livro "Breves Meditações para todos os dias do ano" (não disponibilizado no nosso site) o frei Pedro Sinzig nos propõe um diálogo entre 2 personagens, no qual, um deles, tenta convencer o outro de que a meditação pode ser feita por todos ([vide aqui](/resources/extras/frei-pedro-sinzig)).*
 
-*Após o diálogo, o método abaixo é apresentado.*.
+*Após o diálogo, o método abaixo é apresentado.*
 
 #  O método
 
@@ -27,3 +27,5 @@ c) Pede seu auxílio para executares os propósitos e implora a intercessão de 
 Achas difícil tudo isto? Experimenta; a prática te ensinará. Um ignorante, dotado de boa vontade, conseguirá fazer meditações mais úteis do que os instruídos que em si mesmos confiarem.
 
 Medita, e viverás!
+
+[Ver as meditações de hoje](/)

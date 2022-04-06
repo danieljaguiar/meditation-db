@@ -1,6 +1,6 @@
 # Nota do Site
 
-*No começo do seu livro "Breves Meditações para todos os dias do ano" (não disponibilizado no nosso site) o frei Pedro nos propõe um diálogo entre 2 personagens, no qual, um deles,  tenta convencer o outro de que a meditação pode ser feita por todos.*
+*No começo do seu livro "Breves Meditações para todos os dias do ano" (não disponibilizado no nosso site) o frei Pedro Sinzig nos propõe um diálogo entre 2 personagens, no qual, um deles,  tenta convencer o outro de que a meditação pode ser feita por todos.*
 
 # O Diálogo
 
@@ -14,7 +14,7 @@
 \- Sim, não é uso geral. Quem estranhará isto? Não disse Jesus: "Muitos são chamados, mas poucos serão escolhidos"? Quem seguir as máximas e os costumes do mundo, verá um dia, com grande susto, que não caminhou no trilho estreito que leva ao céu, e sim na estrada larga que desemboca na eterna perdição.
 
 \- **A meditação parece coisa dispensável.**  
-\- Pelo contrário. O céu não é fruto que por si caia na boca de quem o quer. para empregar séria e constantemente os meios de salvação da alma, é preciso muita e muita reflexão, que faça compenetrar-se da indiscutível verdade: Só uma coisa é necessária!
+\- Pelo contrário. O céu não é fruto que por si caia na boca de quem o quer. Para empregar séria e constantemente os meios de salvação da alma, é preciso muita e muita reflexão, que faça compenetrar-se da indiscutível verdade: Só uma coisa é necessária!
 
 \- **Ainda que quisesse meditar, falta-me tempo.**  
 \- É sério? Deus acaso foi injusto contigo, não te concedendo o tempo para te salvares? Oxalá que francamente confessasses que só para a meditação e outras obras de piedade te falta tempo; que este não falta para o descanso, o recreio, a diversão, a satisfação da própria vontade e, às vezes, o pecado. Ninguém te pede negligenciar trabalhos e obrigações; antes, a meditação, ainda que feita só por minutos, te fará ser mais pontual no cumprimento de todos os deveres.
