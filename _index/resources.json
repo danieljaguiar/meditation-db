@@ -16,5 +16,32 @@
     "bookId": "afonso-todo-dia",
     "title": "Modo de fazer Oração Mental segundo Santo Afonso",
     "shortDescription": "Um método simples e direto mas extremamente eficaz para fazer a meditação (oração mental)."
+  },
+  {
+    "id": "alma-apostolado-nota",
+    "type": "extras",
+    "language": "pt",
+    "authorId": "chautard",
+    "bookId": "alma-todo-apostolado",
+    "title": "Alternativas quando não é possível meditar",
+    "shortDescription": "Dom Chautard descorre sobre 10 alternativas à meditação quando há a impossibilidade de se faze-la em um determinado dia."
+  },
+  {
+    "id": "divine-intimacy",
+    "type": "explanations",
+    "language": "en",
+    "authorId": "gabriel",
+    "bookId": "divine-intimacy",
+    "title": "Mental Prayer in the Theresian Method by Father Gabriel",
+    "shortDescription": "Father Gabriel give us a short explanation on what is Mental Prayer (meditation) according to the Theresian Method."
+  },
+  {
+    "id": "alma-apostolado-completo",
+    "type": "methods",
+    "language": "pt",
+    "authorId": "chautard",
+    "bookId": "alma-todo-apostolado",
+    "title": "Método Longo de Meditação por Dom Chautard (para religiosos)",
+    "shortDescription": "Dom Chautard incita o clero a fazer meditação de forma completa e rica no livro A Alma de todo apostolado."
   }
 ]
