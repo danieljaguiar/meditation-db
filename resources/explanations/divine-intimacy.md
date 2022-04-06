@@ -8,6 +8,4 @@ In these words St. Teresa reveals the affective spirit of mental prayer which is
 
 In these words St. Teresa reveals the affective spirit of mental prayer which is its special characteristic. It is “ friendly intercourse, ” and exchange of “ mutual benevolence” between the soul and God, during which the soul “ converses intimately ” with God—intimacy, as we know, is the fruit of love—and the soul speaks with Him whose love she knows. Each element of the definition contains the idea of love, but at the end the Saint mentions that the soul ought also to “ know ” and be conscious of God’s love for her : this is the part which the intellect plays in prayer. Therefore, according to St. Teresa, there is an exercise of both the intellect and the will in mental prayer : the intellect seeks to convince the soul that God loves her and wishes to be loved by her; the will, responding to the divine invitation, loves. That is all. There could be no clearer concept of prayer. But how translate it into practice? This is the task of the method. 
 
-
-
 [^1]: Father Gabriel of St. Mary Magdalen, o.c.d., Little Catechism of Prayer, translated by the Discalced Carmelite Nuns of Concord, New Hampshire, 1949. 

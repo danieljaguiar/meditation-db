@@ -1,6 +1,7 @@
 [
   {
-    "id": "filoteia-pt",
+    "id": "francisco-de-sales-filoteia-pt",
+    "type": "method",
     "language": "pt",
     "authorId": "sales",
     "bookId": "filoteia-pt",
@@ -8,7 +9,8 @@
     "shortDescription": "Um dos métodos de meditação mais famoso extraído do clássico Filotéia de São Francisco de Sales."
   },
   {
-    "id": "afonso",
+    "id": "afonso-de-ligorio",
+    "type": "method",
     "language": "pt",
     "authorId": "alphonsus",
     "bookId": "afonso-todo-dia",
