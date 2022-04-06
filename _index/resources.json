@@ -1,7 +1,7 @@
 [
   {
     "id": "francisco-de-sales-filoteia-pt",
-    "type": "method",
+    "type": "methods",
     "language": "pt",
     "authorId": "sales",
     "bookId": "filoteia-pt",
@@ -10,7 +10,7 @@
   },
   {
     "id": "afonso-de-ligorio",
-    "type": "method",
+    "type": "methods",
     "language": "pt",
     "authorId": "alphonsus",
     "bookId": "afonso-todo-dia",
