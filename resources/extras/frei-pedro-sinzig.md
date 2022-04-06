@@ -22,7 +22,7 @@
 \- **Mas não posso; falta-me a prática, ocorrem-me mil distrações.**  
 \- Deus exigirá de ti o que não podes? Ao filho amoroso não custa pensar no pai, e tu serias incapaz de conversar com Deus? Pensar em seus benefícios, na encarnação, vida e morte de Jesus? Nos últimos momentos que te esperam: morte, juízo, inferno ou céu? \- Não te assustem as distrações. O demônio não se oporia ao que te traz vantagens inestimáveis?... Para que Deus te ajude e conforma-te com sua santa vontade, quer te deixe saborear as doçuras de sua presença, quer te prove por aparente desamparo.
 
-\- **E como poderei meditar?**
+\- **E como poderei meditar?**  
 \- Se não preferes outro método, poderá servir-te o seguinte... 
 
-[Método de Meditação segundo Frei Pedro Sinzig](/methods/frei-pedro-sinzig)
+[Método de Meditação segundo Frei Pedro Sinzig](/resources/methods/frei-pedro-sinzig)

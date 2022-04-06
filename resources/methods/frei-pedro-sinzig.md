@@ -1,7 +1,7 @@
 
 # Nota do Site
 
-*No começo do seu livro "Breves Meditações para todos os dias do ano" (não disponívelazado no nosso site) o frei Pedro nos propõe um diálogo entre 2 personagens, os quais um deles,  tenta ser convencer o outro de que meditar é que pode ser feito por todos este diálogo está dispónivel [aqui](/extras/frei-pedro-sinzig). Após o diálogo, o método abaixo é apresentado.*.
+*No começo do seu livro "Breves Meditações para todos os dias do ano" (não disponívelazado no nosso site) o frei Pedro nos propõe um diálogo entre 2 personagens, os quais um deles,  tenta ser convencer o outro de que meditar é que pode ser feito por todos este diálogo está dispónivel [aqui](/resources/extras/frei-pedro-sinzig). Após o diálogo, o método abaixo é apresentado.*.
 
 #  O método
 
