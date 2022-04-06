@@ -1,10 +1,10 @@
 
-## Nota do Site
+# Nota do Site
 Ao explicar a meditação católica no seu execelente livro "A Alma de todo apostolado" Dom Chautard nos apresenta uma longa nota de rodapé aonde propõe 10 alternativas para quando não se pode fazer a meditação. 
 
 O que se segue é uma nota de rodapé que ocupa cerca de 3 páginas, apresentada aqui, como um artigo.
 
-## Introdução
+# Introdução
 
 A meditação é o braseiro onde se vai reavivar a guarda do coração.
 
@@ -20,13 +20,13 @@ Antes de falar da oração afetiva, primeiro grau das orações mais elevadas as
 
 Resumamos este piedoso autor:
 
-## 1a Maneira
+# 1ª Maneira
 
 Tomar um livro espiritual (Nôvo Testamento ou Imitação) - ler algumas linhas com intervalos - meditar um pouco no que se leu, procurar penetrar-lhe o sentido e gravá-lo no espírito. - Tirar daí qualquer afeto santo, amor ou penitência, etc., e propor praticar qualquer virtude que mais agrade.
 
 Evitar ler muito ou o meditar muito. - Demorar-se em cada pausa, enquanto o espírito nela encontrar entretenimento agradável e útil.
 
-## 2a Maneira
+# 2ª Maneira
 
 Tomar qualquer expressão da Escritura Sagrada, ou qualquer oração vocal: Pater, Ave, Credo, por exemplo, pronunciá-la, demorar-se em cada palavra, tirar-se dela diversos sentimentos de piedade nos, quais se demore enquanto neles se achar gosto.
 
@@ -34,29 +34,29 @@ No fim, pedir a Deus alguma graça ou virtude, segundo o assunto meditado.
 
 Não muito se demorar, com repugnância e enfado, numa palavra: quando nela ja não se encontrar com que deleitar-se, passe-se docemente a outra. - Quando se sentir tocado por algum sentimento bom, demorar-se enquanto ele dura, sem estar com desejo de passar adiante. Não é necessário fazer sempre atos novos, basta algumas vêzes conservar-se perante Deus ruminando em silêncio as palavras já meditadas, ou saboreando os sentimentos que elas produzirem no coração.
 
-## 3a Maneira
+# 3ª Maneira
 
 Quando o assunto preparado não fornece entretenimento suficiente, fazer atos de fé, adoração, ação de graças, esperança, amor, etc, dando-lhes a extensão que se quiser e demorando-se um pouco em cada um para o saborear.
 
-## 4a Maneira
+# 4ª Maneira
 
 Quando não mais se souber meditar nem produzir afetos (impotência e esterilidade), protestar perante Deus que se tem a intenção de fazer tantos atos de contrição, por exemplo, quantas vêzes se respirar, se fizerem passar as contas de terço entre os dedos ou se pronunciar qualquer oração curta.
 
 Renovar de quando em quando este protesto. Se Deus der outro qualquer bom sentimento, recebê-lo com humildade e demorar-se nele.
 
-## 5a Maneira
+# 5ª Maneira
 
 Nas penas e nas securas, estando-se estéril e impotente para pensar ou operar, abandonar-se generosamente ao sofrimento sem se inquietar nem fazer esforço para sair dele, sem fazer outros atos senão este abandono de si mesmo nas mãos de Deus para sofrer essa provação e todas aquelas que a êle aprouverem.
 
 Ou então unir a oração à agonia de nosso Senhor no Horto e ao seu desamparo na cruz. - Persuadir-se que nela se está cravado com o próprio Salvador e animar-se com o exemplo dele e lá se conservar e a sofrer constantemente até a morte.
 
-## 6a Maneira
+# 6ª Maneira
 
 Revista do próprio Interior. - Reconhecer as próprias faltas, paixões, fraquezas, enfermidades, impotências, misérias, nada. - Adrar os juízos de Deus acerca do estado em que a pessoa se encontra. - Submeter-se à sua santa vontade. - Bendizê-lo igualmente tanto pelos castigos da sua justiça como pelos favores da sua misericórdia. - Humilhar-se perante a sua suprema Majestade. - Confessar-lhe sinceramente as próprias infidelidades e pecados e pedir-Lhe perdão. - Retratar os próprios erros e juízos falsos. - Detestar todo o mal que se fez e propor corrigir se para o futuro.
 
 Esta oração é sobremaneira livre e recebe toda sorte de afetos; Pode-se fazer em qualquer ocasião, sobretudo após um acidente inesperado para submeter aos castigos da justiça de Deus, ou após o embaraço da ação para voltar ao recolhimento.
 
-## 7a Maneira
+# 7ª Maneira
 
 Viva representação dos fins últimos. Considerar-se, na agonia entre o tempo e a eternidade - entre a vida passada e o julgamento
 de Deus. - Que quereria ter feito? - Como quereria ter vivido? Pena que se sentirá. - Recordar-se dos pecados, desregramentos, abuso das graças. - Como se quereria ter procedido em tal ou tal ocasião? - Propor remediar eficazmente o que causar motivos de temor.
@@ -68,7 +68,7 @@ Quanto mais viva for a representação, tanto mais proveitosa a meditação ser�
 É necessária esta morte mística para descarnar a alma e ressuscitá-la, isto é, libertar-se da corrupção do vício é preciso passar por este
 purgatório para se chegar ao gozo de Deus nesta vida.
 
-## 8a Maneira
+# 8ª Maneira
 
 Aplicação do Espírito a Jesus Cristo no Santíssimo Sacramento.
 
@@ -84,7 +84,7 @@ Terminar pela comunhão espiritual.
 
 Meditação excelente - sobretudo pela visita ao Santíssimo Sacramento. Torná-la familiar, porque a nossa felicidade nesta vida depende da da nossa união à Jesus Cristo no Santíssimo Sacramento.
 
-## 9a Maneira
+# 9ª Maneira
 
 Faz-se em nome de Jesus Cristo. - Excita a nossa confiança em Deus e faz-nos entrar no espírito e nos sentimentos de Nosso Senhor.
 
@@ -94,7 +94,7 @@ Portanto, aparecer perante Deus, ou para adorá-Lo, ou para amá-Lo, ou para o l
 
 Neste espírtto, recitar o oficio divino.
 
-## 10a Maneira
+# 10ª Maneira
 
 Simples atenção à presença de Deus e meditação.
 

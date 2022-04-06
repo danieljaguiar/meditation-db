@@ -1,4 +1,4 @@
-# II. Que deve ser minha meditação?
+# Que deve ser minha meditação?
 
 *Ascensio mentis in Deum* [^14]. "O subir desta sorte, diz Santo Tomás, como é ato da razão não especulatíva mas, prática, supõe os atos da vontade". 
 
