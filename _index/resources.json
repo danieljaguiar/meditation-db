@@ -2,6 +2,7 @@
   {
     "id": "francisco-de-sales-filoteia-pt",
     "type": "methods",
+    "slug": "francisco-de-sales-filoteia-pt",
     "language": "pt",
     "authorId": "sales",
     "bookId": "filoteia-pt",
@@ -12,6 +13,7 @@
   {
     "id": "afonso-de-ligorio",
     "type": "methods",
+    "slug": "afonso-de-ligorio",
     "language": "pt",
     "authorId": "alphonsus",
     "bookId": "afonso-todo-dia",
@@ -22,6 +24,7 @@
   {
     "id": "alma-apostolado-nota",
     "type": "extras",
+    "slug": "alma-apostolado-nota",
     "language": "pt",
     "authorId": "chautard",
     "bookId": "alma-todo-apostolado",
@@ -32,6 +35,7 @@
   {
     "id": "divine-intimacy",
     "type": "explanations",
+    "slug": "divine-intimacy",
     "language": "en",
     "authorId": "gabriel",
     "bookId": "divine-intimacy",
@@ -42,11 +46,34 @@
   {
     "id": "alma-apostolado-completo",
     "type": "methods",
+    "slug": "alma-apostolado-completo",
     "language": "pt",
     "authorId": "chautard",
     "bookId": "alma-todo-apostolado",
     "makeToc": true,
     "title": "Método Longo de Meditação por Dom Chautard (para religiosos)",
     "shortDescription": "Dom Chautard incita o clero a fazer meditação de forma completa e rica no livro A Alma de todo apostolado."
+  },
+  {
+    "id": "frei-pedro-sinzig",
+    "type": "extras",
+    "slug": "frei-pedro-sinzig",
+    "language": "pt",
+    "authorId": "",
+    "bookId": "",
+    "makeToc": false,
+    "title": "Diálogo sobre a meditação",
+    "shortDescription": "Frei Pedro Sinzig propõe um diálogo entre 2 pessoas, as quais uma, tenta convencer que todos podem meditar."
+  },
+  {
+    "id": "frei-pedro-sinzig",
+    "type": "methods",
+    "slug": "frei-pedro-sinzig",
+    "language": "pt",
+    "authorId": "",
+    "bookId": "",
+    "makeToc": false,
+    "title": "Método de Meditação segundo o Frei Pedro Sinzig",
+    "shortDescription": "Frei Pedro Sinzig propõe um método verdadeiramente simples e direto para fazer a Meditação Católica."
   }
 ]

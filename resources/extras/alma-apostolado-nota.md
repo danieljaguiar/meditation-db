@@ -1,8 +1,9 @@
 
 # Nota do Site
-Ao explicar a meditação católica no seu execelente livro "A Alma de todo apostolado" Dom Chautard nos apresenta uma longa nota de rodapé aonde propõe 10 alternativas para quando não se pode fazer a meditação. 
 
-O que se segue é uma nota de rodapé que ocupa cerca de 3 páginas, apresentada aqui, como um artigo.
+*Ao explicar a meditação católica no seu execelente livro "A Alma de todo apostolado" Dom Chautard nos apresenta uma longa nota de rodapé aonde propõe 10 alternativas para quando não se pode fazer a meditação. *
+
+*O que se segue é uma nota de rodapé que ocupa cerca de 3 páginas, apresentada aqui, como um artigo.*
 
 # Introdução
 
