@@ -20490,5 +20490,20 @@
     ],
     "slug": "the-ressurection-of-the-lord",
     "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 141,
+    "title": "Stay with us",
+    "subTitle": "Easter Monday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "1",
+        "priority": 500
+      }
+    ],
+    "slug": "stay-with-us",
+    "priority": 500
   }
 ]
