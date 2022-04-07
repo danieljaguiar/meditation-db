@@ -75,5 +75,16 @@
     "makeToc": false,
     "title": "Método de Meditação segundo o Frei Pedro Sinzig",
     "shortDescription": "Frei Pedro Sinzig propõe um método verdadeiramente simples e direto para fazer a Meditação Católica."
+  },
+  {
+    "id": "little-catechism",
+    "type": "extras",
+    "slug": "little-catechism",
+    "language": "en",
+    "authorId": "gabriel",
+    "bookId": "",
+    "makeToc": true,
+    "title": "Little Catechism of the life of prayer",
+    "shortDescription": "In a simple question/answer format, Father Gabriel give us a catechesis in the life of prayer."
   }
 ]
