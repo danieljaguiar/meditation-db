@@ -20505,5 +20505,20 @@
     ],
     "slug": "stay-with-us",
     "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 142,
+    "title": "Whom seek you?",
+    "subTitle": "Easter Tuesday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "2",
+        "priority": 500
+      }
+    ],
+    "slug": "whom-seek-you",
+    "priority": 500
   }
 ]
