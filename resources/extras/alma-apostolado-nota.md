@@ -53,7 +53,7 @@ Ou então unir a oração à agonia de nosso Senhor no Horto e ao seu desamparo 
 
 # 6ª Maneira
 
-Revista do próprio Interior. - Reconhecer as próprias faltas, paixões, fraquezas, enfermidades, impotências, misérias, nada. - Adrar os juízos de Deus acerca do estado em que a pessoa se encontra. - Submeter-se à sua santa vontade. - Bendizê-lo igualmente tanto pelos castigos da sua justiça como pelos favores da sua misericórdia. - Humilhar-se perante a sua suprema Majestade. - Confessar-lhe sinceramente as próprias infidelidades e pecados e pedir-Lhe perdão. - Retratar os próprios erros e juízos falsos. - Detestar todo o mal que se fez e propor corrigir se para o futuro.
+Revista do próprio Interior. - Reconhecer as próprias faltas, paixões, fraquezas, enfermidades, impotências, misérias, nada. - Adorar os juízos de Deus acerca do estado em que a pessoa se encontra. - Submeter-se à sua santa vontade. - Bendizê-lo igualmente tanto pelos castigos da sua justiça como pelos favores da sua misericórdia. - Humilhar-se perante a sua suprema Majestade. - Confessar-lhe sinceramente as próprias infidelidades e pecados e pedir-Lhe perdão. - Retratar os próprios erros e juízos falsos. - Detestar todo o mal que se fez e propor corrigir se para o futuro.
 
 Esta oração é sobremaneira livre e recebe toda sorte de afetos; Pode-se fazer em qualquer ocasião, sobretudo após um acidente inesperado para submeter aos castigos da justiça de Deus, ou após o embaraço da ação para voltar ao recolhimento.
 
@@ -73,13 +73,13 @@ purgatório para se chegar ao gozo de Deus nesta vida.
 
 Aplicação do Espírito a Jesus Cristo no Santíssimo Sacramento.
 
-Saudar Nosso Senhor no santíssimo Sacramento com todo o respeito que a presença real exige, unir-se a êle e a todas as suas divinas operações na Eucaristia onde não cessa de adorar, louvar, amar a seu Pai em nome de todos os homens, e em estado de vítima.
+Saudar Nosso Senhor no Santíssimo Sacramento com todo o respeito que a presença real exige, unir-se a êle e a todas as suas divinas operações na Eucaristia onde não cessa de adorar, louvar, amar a seu Pai em nome de todos os homens, e em estado de vítima.
 
 Conceber o seu recolhimento, vida oculta, privação de tudo, obediência, humildade, etc. - Excitar-se à imitação dessas virtudes e propor faz nas ocasiões.
 
 Oferecer Jesus Cristo ao Pai Eterno, como única vítima digna dêle e pela qual nós podemos render-lhe, homenagem, reconhecer os seus benefícios, satisfazer a sua justiça e obrigar a sua misericórdia a socorrer-nos.
 
-Oferecer-se a si mesmo para lhe sacrificar o ser, vida, empregos. Apresentar-lhe um ato de virtude que se proponha fazer: qualquer mortificação que se esteja ·resolvido a praticar para se vencer; e isto pelos mesmos fins pelos quais nosso Senhor se imola no santíssimo sacramento. - Fazer esta oblação com desejo ardente de aumentar, tanto quanto se for capaz, a glória que Ele presta a seu Pai neste augusto mistério.
+Oferecer-se a si mesmo para lhe sacrificar o ser, vida, empregos. Apresentar-lhe um ato de virtude que se proponha fazer: qualquer mortificação que se esteja resolvido a praticar para se vencer; e isto pelos mesmos fins pelos quais nosso Senhor se imola no Santíssimo Sacramento. - Fazer esta oblação com desejo ardente de aumentar, tanto quanto se for capaz, a glória que Ele presta a seu Pai neste augusto mistério.
 
 Terminar pela comunhão espiritual.
 
