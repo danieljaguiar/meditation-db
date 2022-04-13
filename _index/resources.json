@@ -1,43 +1,46 @@
 [
   {
-    "id": "francisco-de-sales-filoteia-pt",
     "type": "methods",
     "slug": "francisco-de-sales-filoteia-pt",
     "language": "pt",
     "authorId": "sales",
+    "tempName": "",
     "bookId": "filoteia-pt",
     "makeToc": true,
     "title": "Breve Método de Meditação por São Francisco de Sales",
-    "shortDescription": "Um dos métodos de meditação mais famoso extraído do clássico Filotéia de São Francisco de Sales."
+    "shortDescription": "Um dos métodos de meditação mais famoso extraído do clássico Filotéia de São Francisco de Sales.",
+    "quote": ""
   },
   {
-    "id": "afonso-de-ligorio",
     "type": "methods",
     "slug": "afonso-de-ligorio",
     "language": "pt",
     "authorId": "alphonsus",
+    "tempName": "",
     "bookId": "afonso-todo-dia",
     "makeToc": true,
     "title": "Modo de fazer Oração Mental segundo Santo Afonso",
-    "shortDescription": "Um método simples e direto mas extremamente eficaz para fazer a meditação (oração mental)."
+    "shortDescription": "Um método simples e direto mas extremamente eficaz para fazer a meditação (oração mental).",
+    "quote": ""
   },
   {
-    "id": "alma-apostolado-nota",
     "type": "extras",
     "slug": "alma-apostolado-nota",
     "language": "pt",
     "authorId": "chautard",
+    "tempName": "",
     "bookId": "alma-todo-apostolado",
     "makeToc": true,
     "title": "Alternativas quando não é possível fazer a meditação",
-    "shortDescription": "Dom Chautard descorre sobre 10 alternativas à meditação quando há a impossibilidade de se faze-la em um determinado dia."
+    "shortDescription": "Dom Chautard descorre sobre 10 alternativas à meditação quando há a impossibilidade de se faze-la em um determinado dia.",
+    "quote": ""
   },
   {
-    "id": "divine-intimacy",
     "type": "definitions",
     "slug": "divine-intimacy",
     "language": "en",
     "authorId": "gabriel",
+    "tempName": "",
     "bookId": "divine-intimacy",
     "makeToc": false,
     "title": "Mental Prayer in the Theresian Method by Father Gabriel",
@@ -45,47 +48,63 @@
     "quote": "Mental prayer is indispensable to the spiritual life; normally it is, so to speak, its very breath (...) it is  \"friendly intercourse\" and exchange of \"mutual benevolence\" between the soul and God, during which the soul \"converses intimately\" with God-intimacy, as we know, is the fruit of love — and the soul speaks with Him whose love she knows."
   },
   {
-    "id": "alma-apostolado-completo",
     "type": "methods",
     "slug": "alma-apostolado-completo",
     "language": "pt",
     "authorId": "chautard",
+    "tempName": "",
     "bookId": "alma-todo-apostolado",
     "makeToc": true,
     "title": "Método Longo de Meditação por Dom Chautard (para religiosos)",
-    "shortDescription": "Dom Chautard incita o clero a fazer meditação de forma completa e rica no livro A Alma de todo apostolado."
+    "shortDescription": "Dom Chautard incita o clero a fazer meditação de forma completa e rica no livro A Alma de todo apostolado.",
+    "quote": ""
   },
   {
-    "id": "frei-pedro-sinzig",
     "type": "extras",
     "slug": "frei-pedro-sinzig",
     "language": "pt",
     "authorId": "",
+    "tempName": "Frei Pedro Sinzig",
     "bookId": "",
     "makeToc": false,
     "title": "Diálogo sobre a meditação",
-    "shortDescription": "Frei Pedro Sinzig propõe um diálogo entre 2 pessoas, as quais uma, tenta convencer que todos podem meditar."
+    "shortDescription": "Frei Pedro Sinzig propõe um diálogo entre 2 pessoas, as quais uma, tenta convencer que todos podem meditar.",
+    "quote": ""
   },
   {
-    "id": "frei-pedro-sinzig",
     "type": "methods",
     "slug": "frei-pedro-sinzig",
     "language": "pt",
     "authorId": "",
+    "tempName": "Frei Pedro Sinzig",
     "bookId": "",
     "makeToc": false,
     "title": "Método de Meditação segundo o Frei Pedro Sinzig",
-    "shortDescription": "Frei Pedro Sinzig propõe um método verdadeiramente simples e direto para fazer a Meditação Católica."
+    "shortDescription": "Frei Pedro Sinzig propõe um método verdadeiramente simples e direto para fazer a Meditação Católica.",
+    "quote": ""
   },
   {
-    "id": "little-catechism",
     "type": "extras",
     "slug": "little-catechism",
     "language": "en",
     "authorId": "gabriel",
+    "tempName": "",
     "bookId": "",
     "makeToc": true,
     "title": "Little Catechism of the life of prayer",
-    "shortDescription": "In a simple question/answer format, Father Gabriel give us a catechesis in the life of prayer."
+    "shortDescription": "In a simple question/answer format, Father Gabriel give us a catechesis in the life of prayer.",
+    "quote": ""
+  },
+  {
+    "type": "definitions",
+    "slug": "royo-marin",
+    "language": "pt",
+    "authorId": "",
+    "tempName": "Padre Antonio Royo Marín",
+    "bookId": "",
+    "makeToc": true,
+    "title": "pending",
+    "shortDescription": "pending",
+    "quote": "A meditação discursiva pode definir-se como a aplicação racional da mente a uma verdade sobrenatural para nos convencermos dela e nos movermos a amá-la e praticá-la com a ajuda de graça. O exame detalhado da definição nos dará a conhecer os elementos fundamentais deste modo de oração."
   }
 ]
