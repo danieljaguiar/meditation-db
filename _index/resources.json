@@ -34,14 +34,15 @@
   },
   {
     "id": "divine-intimacy",
-    "type": "explanations",
+    "type": "definition",
     "slug": "divine-intimacy",
     "language": "en",
     "authorId": "gabriel",
     "bookId": "divine-intimacy",
     "makeToc": false,
     "title": "Mental Prayer in the Theresian Method by Father Gabriel",
-    "shortDescription": "Father Gabriel give us a short explanation on what is Mental Prayer (meditation) according to the Theresian Method."
+    "shortDescription": "Father Gabriel give us a short explanation on what is Mental Prayer (meditation) according to the Theresian Method.",
+    "quote": "Mental prayer is indispensable to the spiritual life; normally it is, so to speak, its very breath."
   },
   {
     "id": "alma-apostolado-completo",
