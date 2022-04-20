@@ -20521,21 +20521,19 @@
     "slug": "whom-seek-you",
     "priority": 500
   },
-  [
-    {
-      "bookId": "divine-intimacy",
-      "order": 143,
-      "title": "The Living Water",
-      "subTitle": "Easter Wednesday",
-      "rules": [
-        {
-          "type": "easter",
-          "value": "3",
-          "priority": 500
-        }
-      ],
-      "slug": "the-living-water",
-      "priority": 500
-    }
-  ]
+  {
+    "bookId": "divine-intimacy",
+    "order": 143,
+    "title": "The Living Water",
+    "subTitle": "Easter Wednesday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "3",
+        "priority": 500
+      }
+    ],
+    "slug": "the-living-water",
+    "priority": 500
+  }
 ]
