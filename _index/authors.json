@@ -166,5 +166,26 @@
         }
       }
     ]
+  },
+  {
+    "id": "chautard",
+    "localizations": [
+      {
+        "language": "en",
+        "value": {
+          "shortName": "Dom Chautard",
+          "name": "Dom Jean-Baptiste Chautard OCSO",
+          "description": "Trappist monk of very rich spirituality, known for the famous work 'L'Âme de tout apostolat' (The Soul of All Apostolate), bedside book of Pope Saint Pius X."
+        }
+      },
+      {
+        "language": "pt",
+        "value": {
+          "shortName": "Dom Chautard",
+          "name": "Dom Jean-Baptiste Chautard",
+          "description": "Monge Trapista de riquíssima espiritualidade, conhecido pela obra célebre 'L'Âme de tout apostolat' (A Alma de Todo Apostolado), livro de cabeceira do Papa Santo Pio X."
+        }
+      }
+    ]
   }
 ]
