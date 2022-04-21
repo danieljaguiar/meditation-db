@@ -103,5 +103,26 @@
         }
       }
     ]
+  },
+  {
+    "id": "sales",
+    "localizations": [
+      {
+        "language": "en",
+        "value": {
+          "shortName": "St. Francis de Sales",
+          "name": "Saint Francis de Sales",
+          "description": "Bishop, Saint and Doctor of the Church, famous for his deep faith, gentle approach to religous division."
+        }
+      },
+      {
+        "language": "pt",
+        "value": {
+          "shortName": "St. Francisco de Sales",
+          "name": "São Francisco de Sales",
+          "description": "Bispo, Santo e Doutor da Igreja, famoso por sua fé e espiritualidade profunda, bem como sua gentileza no trato de divisões da igreja."
+        }
+      }
+    ]
   }
 ]
