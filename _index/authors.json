@@ -131,7 +131,7 @@
       {
         "language": "en",
         "value": {
-          "shortName": "Fr. Pedro Sinzig",
+          "shortName": "B. Pedro Sinzig",
           "name": "Brother Pedro Sinzig",
           "description": "A Franciscan brother, artist, musicist and writer, lived in Brazil from 1876 to 1952."
         }
@@ -142,6 +142,27 @@
           "shortName": "Fr. Pedro Sinzig",
           "name": "Frei Pedro Sinzig",
           "description": "Membro dos Franscicano, artista, musicista e escritor, viveu no Brasil de 1876 a 1952."
+        }
+      }
+    ]
+  },
+  {
+    "id": "royo-marin",
+    "localizations": [
+      {
+        "language": "en",
+        "value": {
+          "shortName": "Fr. Royo Marín",
+          "name": "Father Antonio Royo Marin",
+          "description": "Spanish Dominican priest and theologian. He was an influential theologian and moralist, specially as a Thomist."
+        }
+      },
+      {
+        "language": "pt",
+        "value": {
+          "shortName": "Pe. Royo Marín",
+          "name": "Padre Antonio Royo Marín",
+          "description": "Padre e teólogo dominicano espanhol. Ele foi um influente teólogo e moralista, especialmente como Tomista."
         }
       }
     ]
