@@ -124,5 +124,26 @@
         }
       }
     ]
+  },
+  {
+    "id": "sinzig",
+    "localizations": [
+      {
+        "language": "en",
+        "value": {
+          "shortName": "Fr. Pedro Sinzig",
+          "name": "Brother Pedro Sinzig",
+          "description": "A Franciscan brother, artist, musicist and writer, lived in Brazil from 1876 to 1952."
+        }
+      },
+      {
+        "language": "pt",
+        "value": {
+          "shortName": "Fr. Pedro Sinzig",
+          "name": "Frei Pedro Sinzig",
+          "description": "Membro dos Franscicano, artista, musicista e escritor, viveu no Brasil de 1876 a 1952."
+        }
+      }
+    ]
   }
 ]
