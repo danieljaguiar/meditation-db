@@ -1,18 +1,6 @@
 [
   {
     "type": "definitions",
-    "order": 3,
-    "authorId": "gabriel",
-    "title": "Mental Prayer in the Theresian Method",
-    "language": "en",
-    "slug": "divine-intimacy",
-    "bookId": "divine-intimacy",
-    "makeToc": false,
-    "description": "Father Gabriel give us a short explanation on what is Mental Prayer (meditation) according to the Theresian Method.",
-    "quote": "it is  \"friendly intercourse\" and exchange of \"mutual benevolence\" between the soul and God, during which the soul \"converses intimately\" with God-intimacy, as we know, is the fruit of love — and the soul speaks with Him whose love she knows."
-  },
-  {
-    "type": "definitions",
     "order": 1,
     "authorId": "royo-marin",
     "title": "A meditação (definição)",
@@ -34,6 +22,18 @@
     "makeToc": false,
     "description": "No começo do seu livro \"Breves Meditações para todos os dias do ano\" (não disponibilizado no nosso site) o frei Pedro Sinzig nos propõe um diálogo entre 2 personagens, no qual, um deles,  tenta convencer o outro de que a meditação pode ser feita por todos.",
     "quote": "Meditar é conversar com Deus, é refletir sobre as verdades da Santa Religião, é conhecer-se mais a si mesmo, é tomar boas resoluções, é antecipar a ocupação celestial"
+  },
+  {
+    "type": "definitions",
+    "order": 3,
+    "authorId": "gabriel",
+    "title": "Mental Prayer in the Theresian Method",
+    "language": "en",
+    "slug": "divine-intimacy",
+    "bookId": "divine-intimacy",
+    "makeToc": false,
+    "description": "Father Gabriel give us a short explanation on what is Mental Prayer (meditation) according to the Theresian Method.",
+    "quote": "it is  \"friendly intercourse\" and exchange of \"mutual benevolence\" between the soul and God, during which the soul \"converses intimately\" with God-intimacy, as we know, is the fruit of love — and the soul speaks with Him whose love she knows."
   },
   {
     "type": "extras",
@@ -61,42 +61,6 @@
   },
   {
     "type": "methods",
-    "order": 3,
-    "authorId": "alphonsus",
-    "title": "Método simples para Oração Mental",
-    "language": "pt",
-    "slug": "afonso-de-ligorio",
-    "bookId": "afonso-todo-dia",
-    "makeToc": true,
-    "description": "Um método simples e direto mas extremamente eficaz para fazer a meditação (oração mental).",
-    "quote": ""
-  },
-  {
-    "type": "methods",
-    "order": 4,
-    "authorId": "chautard",
-    "title": "Para padres",
-    "language": "pt",
-    "slug": "alma-apostolado-completo",
-    "bookId": "alma-todo-apostolado",
-    "makeToc": true,
-    "description": "Dom Chautard incita o clero a fazer meditação de forma completa e rica no livro A Alma de todo apostolado.",
-    "quote": ""
-  },
-  {
-    "type": "methods",
-    "order": 2,
-    "authorId": "royo-marin",
-    "title": "Análise dos principais Métodos",
-    "language": "pt",
-    "slug": "royo-marin",
-    "bookId": "",
-    "makeToc": true,
-    "description": "No seu livro \"Teologia da Perfeição Cristã\" o padre faz uma excelente análise dos métodos de meditação católica. Ele divide os métodos de uma forma temporal e também os agrupa por estilo.",
-    "quote": "A meditação discursiva pode definir-se como a aplicação racional da mente a uma verdade sobrenatural para nos convencermos dela e nos movermos a amá-la e praticá-la com a ajuda de graça."
-  },
-  {
-    "type": "methods",
     "order": 1,
     "authorId": "sales",
     "title": "O famoso método do Filotéia",
@@ -109,9 +73,45 @@
   },
   {
     "type": "methods",
+    "order": 2,
+    "authorId": "royo-marin",
+    "title": "Análise histórica dos principais métodos de meditação",
+    "language": "pt",
+    "slug": "royo-marin",
+    "bookId": "",
+    "makeToc": true,
+    "description": "No seu livro \"Teologia da Perfeição Cristã\" o padre faz uma excelente análise dos métodos de meditação católica. Ele divide os métodos de uma forma temporal e também os agrupa por estilo.",
+    "quote": "A meditação discursiva pode definir-se como a aplicação racional da mente a uma verdade sobrenatural para nos convencermos dela e nos movermos a amá-la e praticá-la com a ajuda de graça."
+  },
+  {
+    "type": "methods",
+    "order": 3,
+    "authorId": "alphonsus",
+    "title": "Método sucinto e objetivo de meditação",
+    "language": "pt",
+    "slug": "afonso-de-ligorio",
+    "bookId": "afonso-todo-dia",
+    "makeToc": true,
+    "description": "Um método simples e direto mas extremamente eficaz para fazer a meditação (oração mental).",
+    "quote": ""
+  },
+  {
+    "type": "methods",
     "order": 5,
+    "authorId": "chautard",
+    "title": "Oração mental para padres",
+    "language": "pt",
+    "slug": "alma-apostolado-completo",
+    "bookId": "alma-todo-apostolado",
+    "makeToc": true,
+    "description": "Dom Chautard incita o clero a fazer meditação de forma completa e rica no livro A Alma de todo apostolado.",
+    "quote": ""
+  },
+  {
+    "type": "methods",
+    "order": 4,
     "authorId": "sinzig",
-    "title": "O curto Método de Meditação",
+    "title": "O breve método de meditação",
     "language": "pt",
     "slug": "frei-pedro-sinzig",
     "bookId": "",
