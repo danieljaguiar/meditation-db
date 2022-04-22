@@ -36,4 +36,4 @@ Com razão, pois, afirma Santo Afonso de Ligório que a oração mental é incom
 
 Embora seu exercício diário e prolongado é absolutamente indispensável, está muito longe de sê-lo o método ou procedimento concreto que deva seguir. Vamos examinar esta questão.
 
-[O método de fazer meditação segundo padre Royo Marín](/resources/methods/royo-marin)
+[O método de fazer meditação segundo padre Royo Marín](/learn/methods/royo-marin)
