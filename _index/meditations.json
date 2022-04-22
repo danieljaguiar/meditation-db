@@ -20535,5 +20535,50 @@
     ],
     "slug": "the-living-water",
     "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 144,
+    "title": "God Invites All Souls",
+    "subTitle": "Easter Thrusday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "4",
+        "priority": 500
+      }
+    ],
+    "slug": "invites-all-souls",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 145,
+    "title": "Our Preparation",
+    "subTitle": "Easter Friday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "5",
+        "priority": 500
+      }
+    ],
+    "slug": "our-preparation",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 146,
+    "title": "Prayer",
+    "subTitle": "Easter Saturday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "6",
+        "priority": 500
+      }
+    ],
+    "slug": "prayer",
+    "priority": 500
   }
 ]
