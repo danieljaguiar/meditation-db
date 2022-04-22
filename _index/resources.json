@@ -1,26 +1,13 @@
 [
   {
     "type": "methods",
-    "slug": "francisco-de-sales-filoteia-pt",
-    "language": "pt",
-    "authorId": "sales",
-    "tempAuthorName": "",
-    "bookId": "filoteia-pt",
-    "makeToc": true,
-    "title": "Breve Método de Meditação por São Francisco de Sales",
-    "shortDescription": "Um dos métodos de meditação mais famoso extraído do clássico Filotéia de São Francisco de Sales.",
-    "quote": ""
-  },
-  {
-    "type": "methods",
     "slug": "afonso-de-ligorio",
     "language": "pt",
     "authorId": "alphonsus",
-    "tempAuthorName": "",
     "bookId": "afonso-todo-dia",
-    "makeToc": true,
+    "makeToc": "TRUE",
     "title": "Modo de fazer Oração Mental segundo Santo Afonso",
-    "shortDescription": "Um método simples e direto mas extremamente eficaz para fazer a meditação (oração mental).",
+    "description": "Um método simples e direto mas extremamente eficaz para fazer a meditação (oração mental).",
     "quote": ""
   },
   {
@@ -28,11 +15,21 @@
     "slug": "alma-apostolado-nota",
     "language": "pt",
     "authorId": "chautard",
-    "tempAuthorName": "",
     "bookId": "alma-todo-apostolado",
-    "makeToc": true,
+    "makeToc": "TRUE",
     "title": "Alternativas quando não é possível fazer a meditação",
-    "shortDescription": "Dom Chautard descorre sobre 10 alternativas à meditação quando há a impossibilidade de se faze-la em um determinado dia.",
+    "description": "Dom Chautard descorre sobre 10 alternativas à meditação quando há a impossibilidade de se faze-la em um determinado dia.",
+    "quote": ""
+  },
+  {
+    "type": "methods",
+    "slug": "alma-apostolado-completo",
+    "language": "pt",
+    "authorId": "chautard",
+    "bookId": "alma-todo-apostolado",
+    "makeToc": "TRUE",
+    "title": "Método Longo de Meditação por Dom Chautard (para religiosos)",
+    "description": "Dom Chautard incita o clero a fazer meditação de forma completa e rica no livro A Alma de todo apostolado.",
     "quote": ""
   },
   {
@@ -40,57 +37,21 @@
     "slug": "divine-intimacy",
     "language": "en",
     "authorId": "gabriel",
-    "tempAuthorName": "",
     "bookId": "divine-intimacy",
-    "makeToc": false,
+    "makeToc": "FALSE",
     "title": "Mental Prayer in the Theresian Method by Father Gabriel",
-    "shortDescription": "Father Gabriel give us a short explanation on what is Mental Prayer (meditation) according to the Theresian Method.",
+    "description": "Father Gabriel give us a short explanation on what is Mental Prayer (meditation) according to the Theresian Method.",
     "quote": "it is  \"friendly intercourse\" and exchange of \"mutual benevolence\" between the soul and God, during which the soul \"converses intimately\" with God-intimacy, as we know, is the fruit of love — and the soul speaks with Him whose love she knows."
-  },
-  {
-    "type": "methods",
-    "slug": "alma-apostolado-completo",
-    "language": "pt",
-    "authorId": "chautard",
-    "tempAuthorName": "",
-    "bookId": "alma-todo-apostolado",
-    "makeToc": true,
-    "title": "Método Longo de Meditação por Dom Chautard (para religiosos)",
-    "shortDescription": "Dom Chautard incita o clero a fazer meditação de forma completa e rica no livro A Alma de todo apostolado.",
-    "quote": ""
-  },
-  {
-    "type": "definitions",
-    "slug": "frei-pedro-sinzig",
-    "language": "pt",
-    "authorId": "sinzig",
-    "bookId": "",
-    "makeToc": false,
-    "title": "Diálogo sobre a meditação",
-    "shortDescription": "No começo do seu livro \"Breves Meditações para todos os dias do ano\" (não disponibilizado no nosso site) o frei Pedro Sinzig nos propõe um diálogo entre 2 personagens, no qual, um deles,  tenta convencer o outro de que a meditação pode ser feita por todos.",
-    "quote": "Meditar é conversar com Deus, é refletir sobre as verdades da Santa Religião, é conhecer-se mais a si mesmo, é tomar boas resoluções, é antecipar a ocupação celestial"
-  },
-  {
-    "type": "methods",
-    "slug": "frei-pedro-sinzig",
-    "language": "pt",
-    "authorId": "sinzig",
-    "bookId": "",
-    "makeToc": false,
-    "title": "Método de Meditação segundo o Frei Pedro Sinzig",
-    "shortDescription": "No começo do seu livro \"Breves Meditações para todos os dias do ano\" (não disponibilizado no nosso site) o frei Pedro Sinzig nos propõe um diálogo entre 2 personagens, no qual, um deles,  tenta convencer o outro de que a meditação pode ser feita por todos.",
-    "quote": ""
   },
   {
     "type": "extras",
     "slug": "little-catechism",
     "language": "en",
     "authorId": "gabriel",
-    "tempAuthorName": "",
     "bookId": "",
-    "makeToc": true,
+    "makeToc": "TRUE",
     "title": "Little Catechism of the life of prayer",
-    "shortDescription": "In a simple question/answer format, Father Gabriel give us a catechesis in the life of prayer.",
+    "description": "In a simple question/answer format, Father Gabriel give us a catechesis in the life of prayer.",
     "quote": ""
   },
   {
@@ -99,9 +60,53 @@
     "language": "pt",
     "authorId": "royo-marin",
     "bookId": "",
-    "makeToc": true,
-    "title": "pending",
-    "shortDescription": "pending",
+    "makeToc": "TRUE",
+    "title": "Segundo grau de oração: a meditação (definição)",
+    "description": "No seu livro \"Teologia da Perfeição Cristã\" o padre dedica um capítulo sobre a meditação entitulado \"Segundo grau de oração: a meditação\" no qual, talvez, exista uma das melhores e mais claras definições do que é a Meditação Católica.",
     "quote": "A meditação discursiva pode definir-se como a aplicação racional da mente a uma verdade sobrenatural para nos convencermos dela e nos movermos a amá-la e praticá-la com a ajuda de graça."
+  },
+  {
+    "type": "methods",
+    "slug": "royo-marin",
+    "language": "pt",
+    "authorId": "royo-marin",
+    "bookId": "",
+    "makeToc": "TRUE",
+    "title": "Segundo grau de oração: a meditação (método)",
+    "description": "No seu livro \"Teologia da Perfeição Cristã\" o padre faz uma excelente análise dos métodos de meditação católica. Ele divide os métodos de uma forma temporal e também os agrupa por estilo.",
+    "quote": "A meditação discursiva pode definir-se como a aplicação racional da mente a uma verdade sobrenatural para nos convencermos dela e nos movermos a amá-la e praticá-la com a ajuda de graça."
+  },
+  {
+    "type": "methods",
+    "slug": "francisco-de-sales-filoteia-pt",
+    "language": "pt",
+    "authorId": "sales",
+    "bookId": "filoteia-pt",
+    "makeToc": "TRUE",
+    "title": "Breve Método de Meditação por São Francisco de Sales",
+    "description": "Um dos métodos de meditação mais famoso extraído do clássico Filotéia de São Francisco de Sales.",
+    "quote": ""
+  },
+  {
+    "type": "definitions",
+    "slug": "frei-pedro-sinzig",
+    "language": "pt",
+    "authorId": "sinzig",
+    "bookId": "",
+    "makeToc": "FALSE",
+    "title": "Diálogo sobre a meditação",
+    "description": "No começo do seu livro \"Breves Meditações para todos os dias do ano\" (não disponibilizado no nosso site) o frei Pedro Sinzig nos propõe um diálogo entre 2 personagens, no qual, um deles,  tenta convencer o outro de que a meditação pode ser feita por todos.",
+    "quote": "Meditar é conversar com Deus, é refletir sobre as verdades da Santa Religião, é conhecer-se mais a si mesmo, é tomar boas resoluções, é antecipar a ocupação celestial"
+  },
+  {
+    "type": "methods",
+    "slug": "frei-pedro-sinzig",
+    "language": "pt",
+    "authorId": "sinzig",
+    "bookId": "",
+    "makeToc": "FALSE",
+    "title": "Método de Meditação segundo o Frei Pedro Sinzig",
+    "description": "No começo do seu livro \"Breves Meditações para todos os dias do ano\" (não disponibilizado no nosso site) o frei Pedro Sinzig nos propõe um diálogo entre 2 personagens, no qual, um deles,  tenta convencer o outro de que a meditação pode ser feita por todos.",
+    "quote": ""
   }
 ]
