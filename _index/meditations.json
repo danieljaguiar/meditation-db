@@ -20580,5 +20580,80 @@
     ],
     "slug": "prayer",
     "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 147,
+    "title": "The Paschal Harvest",
+    "subTitle": "Sunday - First Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "7",
+        "priority": 500
+      }
+    ],
+    "slug": "the-paschal-harvest",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 148,
+    "title": "Vocal Prayer",
+    "subTitle": "Monday - First Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "8",
+        "priority": 500
+      }
+    ],
+    "slug": "vocal-prayer",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 149,
+    "title": "Meditative Reading",
+    "subTitle": "Tuesday - First Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "9",
+        "priority": 500
+      }
+    ],
+    "slug": "meditative-reading",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 150,
+    "title": "Meditation",
+    "subTitle": "Wednesday - First Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "10",
+        "priority": 500
+      }
+    ],
+    "slug": "meditation",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 151,
+    "title": "Intimate converse with God",
+    "subTitle": "Thursday - First Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "11",
+        "priority": 500
+      }
+    ],
+    "slug": "intimate-converse-with-god",
+    "priority": 500
   }
 ]
