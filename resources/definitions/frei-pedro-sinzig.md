@@ -1,9 +1,3 @@
-# Nota do Site
-
-*No começo do seu livro "Breves Meditações para todos os dias do ano" (não disponibilizado no nosso site) o frei Pedro Sinzig nos propõe um diálogo entre 2 personagens, no qual, um deles,  tenta convencer o outro de que a meditação pode ser feita por todos.*
-
-# O Diálogo
-
 \- **Eu meditar?!**  
 \- E por que não? Meditar é conversar com Deus, é refletir sobre as verdades da Santa Religião, é conhecer-se mais a si mesmo, é tomar boas resoluções, é antecipar a ocupação celestial, e isto te poderá ser alheio?
 
