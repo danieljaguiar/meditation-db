@@ -1829,7 +1829,7 @@
   {
     "bookId": "afonso-todo-dia",
     "order": 148,
-    "title": "Jesus ora no Horto e sua sangue",
+    "title": "Jesus ora no Horto e seu sangue",
     "subTitle": "Quarta-feira da Quinta Semana da Quaresma",
     "rules": [
       {
@@ -1838,7 +1838,7 @@
         "priority": 500
       }
     ],
-    "slug": "jesus-ora-no-horto-e-sua-sangue",
+    "slug": "jesus-ora-no-horto-e-seu-sangue",
     "priority": 500
   },
   {
@@ -14202,2983 +14202,93 @@
     "priority": 500
   },
   {
-    "bookId": "imitation",
-    "order": 1,
-    "title": "Of the imitation of Christ, and of contempt of the world and all its vanities",
-    "subTitle": "Book 1 - Chapter I",
+    "bookId": "divine-intimacy",
+    "order": 119,
+    "title": "The Multiplication Of The Loaves",
+    "subTitle": "Fourth Sunday Of Lent",
     "rules": [
       {
-        "type": "fixedDate",
-        "value": "1-1",
+        "type": "easter",
+        "value": "-21",
         "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "4-25",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "8-16",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "12-7",
-        "priority": 500
-      }
-    ],
-    "slug": "book-1-chapter-i",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 2,
-    "title": "Of thinking humbly of oneself",
-    "subTitle": "Book 1 - Chapter II",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "1-2",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "4-26",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "8-17",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "12-8",
-        "priority": 500
-      }
-    ],
-    "slug": "book-1-chapter-ii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 3,
-    "title": "Of the knowledge of truth",
-    "subTitle": "Book 1 - Chapter III",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "1-3",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "4-27",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "8-18",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "12-9",
-        "priority": 500
-      }
-    ],
-    "slug": "book-1-chapter-iii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 4,
-    "title": "Of prudence in action",
-    "subTitle": "Book 1 - Chapter IV",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "1-4",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "4-28",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "8-19",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "12-10",
-        "priority": 500
-      }
-    ],
-    "slug": "book-1-chapter-iv",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 5,
-    "title": "Of the reading of Holy Scriptures",
-    "subTitle": "Book 1 - Chapter V",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "1-5",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "4-29",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "8-20",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "12-11",
-        "priority": 500
-      }
-    ],
-    "slug": "book-1-chapter-v",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 6,
-    "title": "Of inordinate affections",
-    "subTitle": "Book 1 - Chapter VI",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "1-6",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "4-30",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "8-21",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "12-12",
-        "priority": 500
-      }
-    ],
-    "slug": "book-1-chapter-vi",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 7,
-    "title": "Of fleeing from vain hope and pride",
-    "subTitle": "Book 1 - Chapter VII",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "1-7",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "5-1",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "8-22",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "12-13",
-        "priority": 500
-      }
-    ],
-    "slug": "book-1-chapter-vii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 8,
-    "title": "Of the danger of too much familiarity",
-    "subTitle": "Book 1 - Chapter VIII",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "1-8",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "5-2",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "8-23",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "12-14",
-        "priority": 500
-      }
-    ],
-    "slug": "book-1-chapter-viii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 9,
-    "title": "Of obedience and subjection",
-    "subTitle": "Book 1 - Chapter IX",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "1-9",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "5-3",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "8-24",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "12-15",
-        "priority": 500
-      }
-    ],
-    "slug": "book-1-chapter-ix",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 10,
-    "title": "Of the danger of superfluity of words",
-    "subTitle": "Book 1 - Chapter X",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "1-10",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "5-4",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "8-25",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "12-16",
-        "priority": 500
-      }
-    ],
-    "slug": "book-1-chapter-x",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 11,
-    "title": "Of seeking peace of mind and of spiritual progress",
-    "subTitle": "Book 1 - Chapter XI",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "1-11",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "5-5",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "8-26",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "12-17",
-        "priority": 500
-      }
-    ],
-    "slug": "book-1-chapter-xi",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 12,
-    "title": "Of the uses of adversity",
-    "subTitle": "Book 1 - Chapter XII",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "1-12",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "5-6",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "8-27",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "12-18",
-        "priority": 500
-      }
-    ],
-    "slug": "book-1-chapter-xii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 13,
-    "title": "Of resisting temptation",
-    "subTitle": "Book 1 - Chapter XIII",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "1-13",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "5-7",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "8-28",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "12-19",
-        "priority": 500
-      }
-    ],
-    "slug": "book-1-chapter-xiii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 14,
-    "title": "On avoiding rash judgment",
-    "subTitle": "Book 1 - Chapter XIV",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "1-14",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "5-8",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "8-29",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "12-20",
-        "priority": 500
-      }
-    ],
-    "slug": "book-1-chapter-xiv",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 15,
-    "title": "Of works of charity",
-    "subTitle": "Book 1 - Chapter XV",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "1-15",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "5-9",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "8-30",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "12-21",
-        "priority": 500
-      }
-    ],
-    "slug": "book-1-chapter-xv",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 16,
-    "title": "Of bearing with the faults of others",
-    "subTitle": "Book 1 - Chapter XVI",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "1-16",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "5-10",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "8-31",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "12-22",
-        "priority": 500
-      }
-    ],
-    "slug": "book-1-chapter-xvi",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 17,
-    "title": "Of a religious life",
-    "subTitle": "Book 1 - Chapter XVII",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "1-17",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "5-11",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "9-1",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "12-23",
-        "priority": 500
-      }
-    ],
-    "slug": "book-1-chapter-xvii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 18,
-    "title": "Of the example of the Holy Fathers",
-    "subTitle": "Book 1 - Chapter XVIII",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "1-18",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "5-12",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "9-2",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "12-24",
-        "priority": 500
-      }
-    ],
-    "slug": "book-1-chapter-xviii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 19,
-    "title": "Of the exercises of a religious man",
-    "subTitle": "Book 1 - Chapter XIX",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "1-19",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "5-13",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "9-3",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "12-25",
-        "priority": 500
-      }
-    ],
-    "slug": "book-1-chapter-xix",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 20,
-    "title": "Of the love of solitude and silence",
-    "subTitle": "Book 1 - Chapter XX",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "1-20",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "5-14",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "9-4",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "12-26",
-        "priority": 500
-      }
-    ],
-    "slug": "book-1-chapter-xx",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 21,
-    "title": "Of compunction of heart",
-    "subTitle": "Book 1 - Chapter XXI",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "1-21",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "5-15",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "9-5",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "12-27",
-        "priority": 500
-      }
-    ],
-    "slug": "book-1-chapter-xxi",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 22,
-    "title": "On the contemplation of human misery",
-    "subTitle": "Book 1 - Chapter XXII",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "1-22",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "5-16",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "9-6",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "12-28",
-        "priority": 500
-      }
-    ],
-    "slug": "book-1-chapter-xxii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 23,
-    "title": "Of meditation upon death",
-    "subTitle": "Book 1 - Chapter XXIII",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "1-23",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "5-17",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "9-7",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "12-29",
-        "priority": 500
-      }
-    ],
-    "slug": "book-1-chapter-xxiii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 24,
-    "title": "Of the judgment and punishment of the wicked",
-    "subTitle": "Book 1 - Chapter XXIV",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "1-24",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "5-18",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "9-8",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "12-30",
-        "priority": 500
-      }
-    ],
-    "slug": "book-1-chapter-xxiv",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 25,
-    "title": "Of the zealous amendment of our whole life",
-    "subTitle": "Book 1 - Chapter XXV",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "1-25",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "5-19",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "9-9",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "12-31",
-        "priority": 500
-      }
-    ],
-    "slug": "book-1-chapter-xxv",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 26,
-    "title": "Of the inward life",
-    "subTitle": "Book 2 - Chapter I",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "1-26",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "5-20",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "9-10",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "2-29",
-        "priority": 500
-      }
-    ],
-    "slug": "book-2-chapter-i",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 27,
-    "title": "Of lowly submission",
-    "subTitle": "Book 2 - Chapter II",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "1-27",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "5-21",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "9-11",
-        "priority": 500
-      }
-    ],
-    "slug": "book-2-chapter-ii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 28,
-    "title": "Of the good, peaceable man",
-    "subTitle": "Book 2 - Chapter III",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "1-28",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "5-22",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "9-12",
-        "priority": 500
-      }
-    ],
-    "slug": "book-2-chapter-iii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 29,
-    "title": "Of a pure mind and simple intention",
-    "subTitle": "Book 2 - Chapter IV",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "1-29",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "5-23",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "9-13",
-        "priority": 500
-      }
-    ],
-    "slug": "book-2-chapter-iv",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 30,
-    "title": "Of self-esteem",
-    "subTitle": "Book 2 - Chapter V",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "1-30",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "5-24",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "9-14",
-        "priority": 500
-      }
-    ],
-    "slug": "book-2-chapter-v",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 31,
-    "title": "Of the joy of a good conscience",
-    "subTitle": "Book 2 - Chapter VI",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "1-31",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "5-25",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "9-15",
-        "priority": 500
-      }
-    ],
-    "slug": "book-2-chapter-vi",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 32,
-    "title": "Of loving Jesus above all things",
-    "subTitle": "Book 2 - Chapter VII",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "2-1",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "5-26",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "9-16",
-        "priority": 500
-      }
-    ],
-    "slug": "book-2-chapter-vii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 33,
-    "title": "Of the intimate love of Jesus",
-    "subTitle": "Book 2 - Chapter VIII",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "2-2",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "5-27",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "9-17",
-        "priority": 500
-      }
-    ],
-    "slug": "book-2-chapter-viii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 34,
-    "title": "Of the lack of all comfort",
-    "subTitle": "Book 2 - Chapter IX",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "2-3",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "5-28",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "9-18",
-        "priority": 500
-      }
-    ],
-    "slug": "book-2-chapter-ix",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 35,
-    "title": "Of gratitude for the Grace of God",
-    "subTitle": "Book 2 - Chapter X",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "2-4",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "5-29",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "9-19",
-        "priority": 500
-      }
-    ],
-    "slug": "book-2-chapter-x",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 36,
-    "title": "Of the fewness of those who love the Cross of Jesus",
-    "subTitle": "Book 2 - Chapter XI",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "2-5",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "5-30",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "9-20",
-        "priority": 500
-      }
-    ],
-    "slug": "book-2-chapter-xi",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 37,
-    "title": "Of the royal way of the Holy Cross",
-    "subTitle": "Book 2 - Chapter XII",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "2-6",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "5-31",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "9-21",
-        "priority": 500
-      }
-    ],
-    "slug": "book-2-chapter-xii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 38,
-    "title": "Of the inward voice of Christ to the faithful soul",
-    "subTitle": "Book 3 - Chapter I",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "2-7",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "6-1",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "9-22",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-i",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 39,
-    "title": "What the truth saith inwardly without noise of words",
-    "subTitle": "Book 3 - Chapter II",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "2-8",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "6-2",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "9-23",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-ii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 40,
-    "title": "How all the words of God are to be heard with humility, and how many consider them not",
-    "subTitle": "Book 3 - Chapter III",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "2-9",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "6-3",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "9-24",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-iii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 41,
-    "title": "How we must walk in truth and humility before God",
-    "subTitle": "Book 3 - Chapter IV",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "2-10",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "6-4",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "9-25",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-iv",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 42,
-    "title": "Of the wonderful power of the Divine Love",
-    "subTitle": "Book 3 - Chapter V",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "2-11",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "6-5",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "9-26",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-v",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 43,
-    "title": "Of the proving of the true lover",
-    "subTitle": "Book 3 - Chapter VI",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "2-12",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "6-6",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "9-27",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-vi",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 44,
-    "title": "Of hiding our grace under the guard of humility",
-    "subTitle": "Book 3 - Chapter VII",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "2-13",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "6-7",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "9-28",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-vii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 45,
-    "title": "Of a low estimation of self in the sight of God",
-    "subTitle": "Book 3 - Chapter VIII",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "2-14",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "6-8",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "9-29",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-viii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 46,
-    "title": "That all things are to be referred to God, as the final end",
-    "subTitle": "Book 3 - Chapter IX",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "2-15",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "6-9",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "9-30",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-ix",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 47,
-    "title": "That it is sweet to despise the world and to serve God",
-    "subTitle": "Book 3 - Chapter X",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "2-16",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "6-10",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "10-1",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-x",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 48,
-    "title": "That the desires of the heart are to be examined and governed",
-    "subTitle": "Book 3 - Chapter XI",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "2-17",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "6-11",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "10-2",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-xi",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 49,
-    "title": "Of the inward growth of patience, and of the struggle against evil desires",
-    "subTitle": "Book 3 - Chapter XII",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "2-18",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "6-12",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "10-3",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-xii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 50,
-    "title": "Of the obedience of one in lowly subjection after the example of Jesus Christ",
-    "subTitle": "Book 3 - Chapter XIII",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "2-19",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "6-13",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "10-4",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-xiii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 51,
-    "title": "Of meditation upon the hidden judgments of God, that we may not be lifted up because of our well-doing",
-    "subTitle": "Book 3 - Chapter XIV",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "2-20",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "6-14",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "10-5",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-xiv",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 52,
-    "title": "How we must stand and speak, in everything that we desire",
-    "subTitle": "Book 3 - Chapter XV",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "2-21",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "6-15",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "10-6",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-xv",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 53,
-    "title": "That true solace is to be sought in God alone",
-    "subTitle": "Book 3 - Chapter XVI",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "2-22",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "6-16",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "10-7",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-xvi",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 54,
-    "title": "That all care is to be cast upon God",
-    "subTitle": "Book 3 - Chapter XVII",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "2-23",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "6-17",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "10-8",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-xvii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 55,
-    "title": "That temporal miseries are to be borne patiently after the example of Christ",
-    "subTitle": "Book 3 - Chapter XVIII",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "2-24",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "6-18",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "10-9",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-xviii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 56,
-    "title": "Of bearing injuries, and who shall be approved as truly patient",
-    "subTitle": "Book 3 - Chapter XIX",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "2-25",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "6-19",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "10-10",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-xix",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 57,
-    "title": "Of confession of our infirmity and of the miseries of this life",
-    "subTitle": "Book 3 - Chapter XX",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "2-26",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "6-20",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "10-11",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-xx",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 58,
-    "title": "That we must rest in God above all goods and gifts",
-    "subTitle": "Book 3 - Chapter XXI",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "2-27",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "6-21",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "10-12",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-xxi",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 59,
-    "title": "Of the recollection of God\\'s manifold benefits",
-    "subTitle": "Book 3 - Chapter XXII",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "2-28",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "6-22",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "10-13",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-xxii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 60,
-    "title": "Of four things which bring great peace",
-    "subTitle": "Book 3 - Chapter XXIII",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "3-1",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "6-23",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "10-14",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-xxiii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 61,
-    "title": "Of avoiding of curious inquiry into the life of another",
-    "subTitle": "Book 3 - Chapter XXIV",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "3-2",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "6-24",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "10-15",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-xxiv",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 62,
-    "title": "Wherein firm peace of heart and true profit consist",
-    "subTitle": "Book 3 - Chapter XXV",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "3-3",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "6-25",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "10-16",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-xxv",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 63,
-    "title": "Of the exaltation of a free spirit, which humble prayer more deserveth than doth frequent reading",
-    "subTitle": "Book 3 - Chapter XXVI",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "3-4",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "6-26",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "10-17",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-xxvi",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 64,
-    "title": "That personal love greatly hindereth from the highest good",
-    "subTitle": "Book 3 - Chapter XXVII",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "3-5",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "6-27",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "10-18",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-xxvii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 65,
-    "title": "Against the tongues of detractors",
-    "subTitle": "Book 3 - Chapter XXVIII",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "3-6",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "6-28",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "10-19",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-xxviii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 66,
-    "title": "How when tribulation cometh we must call upon and bless God",
-    "subTitle": "Book 3 - Chapter XXIX",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "3-7",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "6-29",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "10-20",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-xxix",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 67,
-    "title": "Of seeking divine help, and the confidence of obtaining grace",
-    "subTitle": "Book 3 - Chapter XXX",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "3-8",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "6-30",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "10-21",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-xxx",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 68,
-    "title": "Of the neglect of every creature, that the Creator may be found",
-    "subTitle": "Book 3 - Chapter XXXI",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "3-9",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "7-1",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "10-22",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-xxxi",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 69,
-    "title": "Of self-denial and the casting away all selfishness",
-    "subTitle": "Book 3 - Chapter XXXII",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "3-10",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "7-2",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "10-23",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-xxxii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 70,
-    "title": "Of instability of the heart, and of directing the aim towards God",
-    "subTitle": "Book 3 - Chapter XXXIII",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "3-11",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "7-3",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "10-24",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-xxxiii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 71,
-    "title": "That to him who loveth God is sweet above all things and in all things",
-    "subTitle": "Book 3 - Chapter XXXIV",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "3-12",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "7-4",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "10-25",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-xxxiv",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 72,
-    "title": "That there is no security against temptation in this life",
-    "subTitle": "Book 3 - Chapter XXXV",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "3-13",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "7-5",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "10-26",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-xxxv",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 73,
-    "title": "Against vain judgments of men",
-    "subTitle": "Book 3 - Chapter XXXVI",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "3-14",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "7-6",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "10-27",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-xxxvi",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 74,
-    "title": "Of pure and entire resignation of self, for the obtaining liberty of heart",
-    "subTitle": "Book 3 - Chapter XXXVII",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "3-15",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "7-7",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "10-28",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-xxxvii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 75,
-    "title": "Of a good government in external things, and of having recourse to God in dangers",
-    "subTitle": "Book 3 - Chapter XXXVIII",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "3-16",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "7-8",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "10-29",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-xxxviii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 76,
-    "title": "That man must not be immersed in business",
-    "subTitle": "Book 3 - Chapter XXXIX",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "3-17",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "7-9",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "10-30",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-xxxix",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 77,
-    "title": "That man hath no good in himself, and nothing whereof to glory",
-    "subTitle": "Book 3 - Chapter XL",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "3-18",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "7-10",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "10-31",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-xl",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 78,
-    "title": "Of contempt of all temporal honour",
-    "subTitle": "Book 3 - Chapter XLI",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "3-19",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "7-11",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "11-1",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-xli",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 79,
-    "title": "That our peace is not to be placed in men",
-    "subTitle": "Book 3 - Chapter XLII",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "3-20",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "7-12",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "11-2",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-xlii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 80,
-    "title": "Against vain and worldly knowledge",
-    "subTitle": "Book 3 - Chapter XLIII",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "3-21",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "7-13",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "11-3",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-xliii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 81,
-    "title": "Of not troubling ourselves about outward things",
-    "subTitle": "Book 3 - Chapter XLIV",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "3-22",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "7-14",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "11-4",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-xliv",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 82,
-    "title": "That we must not believe everyone, and that we are prone to fall in our words",
-    "subTitle": "Book 3 - Chapter XLV",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "3-23",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "7-15",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "11-5",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-xlv",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 83,
-    "title": "Of having confidence in God when evil words are cast at us",
-    "subTitle": "Book 3 - Chapter XLVI",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "3-24",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "7-16",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "11-6",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-xlvi",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 84,
-    "title": "That all troubles are to be endured for the sake of eternal life",
-    "subTitle": "Book 3 - Chapter XLVII",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "3-25",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "7-17",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "11-7",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-xlvii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 85,
-    "title": "Of the day of eternity and of the straitnesses of this life",
-    "subTitle": "Book 3 - Chapter XLVIII",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "3-26",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "7-18",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "11-8",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-xlviii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 86,
-    "title": "Of the desire after eternal life, and how great blessings are promised to those who strive",
-    "subTitle": "Book 3 - Chapter XLIX",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "3-27",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "7-19",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "11-9",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-xlix",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 87,
-    "title": "How a desolate man ought to commit himself into the hands of God",
-    "subTitle": "Book 3 - Chapter L",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "3-28",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "7-20",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "11-10",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-l",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 88,
-    "title": "That we must give ourselves to humble works when we are unequal to those that are lofty",
-    "subTitle": "Book 3 - Chapter LI",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "3-29",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "7-21",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "11-11",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-li",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 89,
-    "title": "That a man ought not to reckon himself worthy of consolation, but more worthy of chastisement",
-    "subTitle": "Book 3 - Chapter LII",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "3-30",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "7-22",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "11-12",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-lii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 90,
-    "title": "That the Grace of God doth not join itself to those who mind earthly things",
-    "subTitle": "Book 3 - Chapter LIII",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "3-31",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "7-23",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "11-13",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-liii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 91,
-    "title": "Of the diverse motions of Nature and of Grace",
-    "subTitle": "Book 3 - Chapter LIV",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "4-1",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "7-24",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "11-14",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-liv",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 92,
-    "title": "Of the corruption of Nature and the efficacy of Divine Grace",
-    "subTitle": "Book 3 - Chapter LV",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "4-2",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "7-25",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "11-15",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-lv",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 93,
-    "title": "That we ought to deny ourselves, and to imitate Christ by means of the Cross",
-    "subTitle": "Book 3 - Chapter LVI",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "4-3",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "7-26",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "11-16",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-lvi",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 94,
-    "title": "That a man must not be too much cast down when he falleth into some faults",
-    "subTitle": "Book 3 - Chapter LVII",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "4-4",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "7-27",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "11-17",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-lvii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 95,
-    "title": "Of deeper matters, and God\\'s hidden judgments which are not to be inquired into",
-    "subTitle": "Book 3 - Chapter LVIII",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "4-5",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "7-28",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "11-18",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-lviii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 96,
-    "title": "That all hope and trust is to be fixed in God alone",
-    "subTitle": "Book 3 - Chapter LIX",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "4-6",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "7-29",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "11-19",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-lix",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 97,
-    "title": "With how great reverence Christ must be received",
-    "subTitle": "Book 3 - Chapter I",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "4-7",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "7-30",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "11-20",
-        "priority": 500
-      }
-    ],
-    "slug": "book-3-chapter-i",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 98,
-    "title": "That the greatness and charity of God is shown to men in the Sacrament",
-    "subTitle": "Book 4 - Chapter II",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "4-8",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "7-31",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "11-21",
-        "priority": 500
-      }
-    ],
-    "slug": "book-4-chapter-ii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 99,
-    "title": "That it is profitable to Communicate often",
-    "subTitle": "Book 4 - Chapter III",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "4-9",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "8-1",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "11-22",
-        "priority": 500
-      }
-    ],
-    "slug": "book-4-chapter-iii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 100,
-    "title": "That many good gifts are bestowed upon those who Communicate devoutly",
-    "subTitle": "Book 4 - Chapter IV",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "4-10",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "8-2",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "11-23",
-        "priority": 500
-      }
-    ],
-    "slug": "book-4-chapter-iv",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 101,
-    "title": "Of the dignity of this Sacrament, and of the office of the priest",
-    "subTitle": "Book 4 - Chapter V",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "4-11",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "8-3",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "11-24",
-        "priority": 500
-      }
-    ],
-    "slug": "book-4-chapter-v",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 102,
-    "title": "An inquiry concerning preparation for Communion",
-    "subTitle": "Book 4 - Chapter VI",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "4-12",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "8-4",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "11-25",
-        "priority": 500
-      }
-    ],
-    "slug": "book-4-chapter-vi",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 103,
-    "title": "Of the examination of conscience, and purpose of amendment",
-    "subTitle": "Book 4 - Chapter VII",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "4-13",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "8-5",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "11-26",
-        "priority": 500
-      }
-    ],
-    "slug": "book-4-chapter-vii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 104,
-    "title": "Of the oblation of Christ upon the cross, and of resignation of self",
-    "subTitle": "Book 4 - Chapter VIII",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "4-14",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "8-6",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "11-27",
-        "priority": 500
-      }
-    ],
-    "slug": "book-4-chapter-viii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 105,
-    "title": "That we ought to offer ourselves and all that is ours to God, and to pray for all",
-    "subTitle": "Book 4 - Chapter IX",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "4-15",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "8-7",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "11-28",
-        "priority": 500
-      }
-    ],
-    "slug": "book-4-chapter-ix",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 106,
-    "title": "That Holy Communion is not lightly to be omitted",
-    "subTitle": "Book 4 - Chapter X",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "4-16",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "8-8",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "11-29",
-        "priority": 500
-      }
-    ],
-    "slug": "book-4-chapter-x",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 107,
-    "title": "That the Body and Blood of Christ and the Holy Scriptures are most necessary to a faithful soul",
-    "subTitle": "Book 4 - Chapter XI",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "4-17",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "8-9",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "11-30",
-        "priority": 500
-      }
-    ],
-    "slug": "book-4-chapter-xi",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 108,
-    "title": "That he who is about to Communicate with Christ ought to prepare himself with great diligence",
-    "subTitle": "Book 4 - Chapter XII",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "4-18",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "8-10",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "12-1",
-        "priority": 500
-      }
-    ],
-    "slug": "book-4-chapter-xii",
-    "priority": 500
-  },
-  {
-    "bookId": "imitation",
-    "order": 109,
-    "title": "That the devout soul ought with the whole heart to yearn after union with Christ in the Sacrament",
-    "subTitle": "Book 4 - Chapter XIII",
-    "rules": [
-      {
-        "type": "fixedDate",
-        "value": "4-19",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "8-11",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "12-2",
-        "priority": 500
       }
     ],
-    "slug": "book-4-chapter-xiii",
+    "slug": "multiplication-of-the-loaves",
     "priority": 500
   },
   {
-    "bookId": "imitation",
-    "order": 110,
-    "title": "Of the fervent desire of certain devout persons to receive the Body and Blood of Christ",
-    "subTitle": "Book 4 - Chapter XIV",
+    "bookId": "divine-intimacy",
+    "order": 120,
+    "title": "The Value of Obdience",
+    "subTitle": "Monday after Fourth Sunday Of Lent",
     "rules": [
-      {
-        "type": "fixedDate",
-        "value": "4-20",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "8-12",
-        "priority": 500
-      },
       {
-        "type": "fixedDate",
-        "value": "12-3",
+        "type": "easter",
+        "value": "-20",
         "priority": 500
       }
     ],
-    "slug": "book-4-chapter-xiv",
+    "slug": "the-value-of-the-obdience",
     "priority": 500
   },
   {
-    "bookId": "imitation",
-    "order": 111,
-    "title": "That the grace of devotion is acquired by humility and self-denial",
-    "subTitle": "Book 4 - Chapter XV",
+    "bookId": "divine-intimacy",
+    "order": 121,
+    "title": "Come, follow Me",
+    "subTitle": "Tuesday after Fourth Sunday Of Lent",
     "rules": [
-      {
-        "type": "fixedDate",
-        "value": "4-21",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "8-13",
-        "priority": 500
-      },
       {
-        "type": "fixedDate",
-        "value": "12-4",
+        "type": "easter",
+        "value": "-19",
         "priority": 500
       }
     ],
-    "slug": "book-4-chapter-xv",
+    "slug": "come-follow-me",
     "priority": 500
   },
   {
-    "bookId": "imitation",
-    "order": 112,
-    "title": "That we ought to lay open our necessities to Christ and to require His Grace",
-    "subTitle": "Book 4 - Chapter XVI",
+    "bookId": "divine-intimacy",
+    "order": 122,
+    "title": "Free Sacrifice of Liberty",
+    "subTitle": "Wednesday after Fourth Sunday Of Lent",
     "rules": [
-      {
-        "type": "fixedDate",
-        "value": "4-22",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "8-14",
-        "priority": 500
-      },
       {
-        "type": "fixedDate",
-        "value": "12-5",
+        "type": "easter",
+        "value": "-18",
         "priority": 500
       }
     ],
-    "slug": "book-4-chapter-xvi",
+    "slug": "free-sacrifice-of-liberty",
     "priority": 500
   },
   {
-    "bookId": "imitation",
-    "order": 113,
-    "title": "Of fervent love and vehement desire of receiving Christ",
-    "subTitle": "Book 4 - Chapter XVII",
+    "bookId": "divine-intimacy",
+    "order": 123,
+    "title": "Supernatural Obdience",
+    "subTitle": "Thursday after Fourth Sunday Of Lent",
     "rules": [
-      {
-        "type": "fixedDate",
-        "value": "4-23",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "8-15",
-        "priority": 500
-      },
       {
-        "type": "fixedDate",
-        "value": "12-6",
+        "type": "easter",
+        "value": "-17",
         "priority": 500
       }
     ],
-    "slug": "book-4-chapter-xvii",
+    "slug": "supernatural-obdience",
     "priority": 500
   },
   {
-    "bookId": "imitation",
-    "order": 114,
-    "title": "That a man should not be a curious searcher of the Sacrament, but a humble imitator of Christ, submitting his sense to holy faith",
-    "subTitle": "Book 4 - Chapter XVIII",
+    "bookId": "divine-intimacy",
+    "order": 124,
+    "title": "Blind Obdience",
+    "subTitle": "Firday after Fourth Sunday Of Lent",
     "rules": [
-      {
-        "type": "fixedDate",
-        "value": "4-24",
-        "priority": 500
-      },
-      {
-        "type": "fixedDate",
-        "value": "8-16",
-        "priority": 500
-      },
       {
-        "type": "fixedDate",
-        "value": "12-7",
+        "type": "easter",
+        "value": "-16",
         "priority": 500
       }
     ],
-    "slug": "book-4-chapter-xviii",
+    "slug": "blind-obdience",
     "priority": 500
   },
   {
@@ -20162,93 +17272,2983 @@
     "priority": 500
   },
   {
-    "bookId": "divine-intimacy",
-    "order": 119,
-    "title": "The Multiplication Of The Loaves",
-    "subTitle": "Fourth Sunday Of Lent",
+    "bookId": "imitation",
+    "order": 1,
+    "title": "Of the imitation of Christ, and of contempt of the world and all its vanities",
+    "subTitle": "Book 1 - Chapter I",
     "rules": [
       {
-        "type": "easter",
-        "value": "-21",
+        "type": "fixedDate",
+        "value": "1-1",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "4-25",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "8-16",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "12-7",
         "priority": 500
       }
     ],
-    "slug": "multiplication-of-the-loaves",
+    "slug": "book-1-chapter-i",
     "priority": 500
   },
   {
-    "bookId": "divine-intimacy",
-    "order": 120,
-    "title": "The Value of Obdience",
-    "subTitle": "Monday after Fourth Sunday Of Lent",
+    "bookId": "imitation",
+    "order": 2,
+    "title": "Of thinking humbly of oneself",
+    "subTitle": "Book 1 - Chapter II",
     "rules": [
       {
-        "type": "easter",
-        "value": "-20",
+        "type": "fixedDate",
+        "value": "1-2",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "4-26",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "8-17",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "12-8",
         "priority": 500
       }
     ],
-    "slug": "the-value-of-the-obdience",
+    "slug": "book-1-chapter-ii",
     "priority": 500
   },
   {
-    "bookId": "divine-intimacy",
-    "order": 121,
-    "title": "Come, follow Me",
-    "subTitle": "Tuesday after Fourth Sunday Of Lent",
+    "bookId": "imitation",
+    "order": 3,
+    "title": "Of the knowledge of truth",
+    "subTitle": "Book 1 - Chapter III",
     "rules": [
       {
-        "type": "easter",
-        "value": "-19",
+        "type": "fixedDate",
+        "value": "1-3",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "4-27",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "8-18",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "12-9",
         "priority": 500
       }
     ],
-    "slug": "come-follow-me",
+    "slug": "book-1-chapter-iii",
     "priority": 500
   },
   {
-    "bookId": "divine-intimacy",
-    "order": 122,
-    "title": "Free Sacrifice of Liberty",
-    "subTitle": "Wednesday after Fourth Sunday Of Lent",
+    "bookId": "imitation",
+    "order": 4,
+    "title": "Of prudence in action",
+    "subTitle": "Book 1 - Chapter IV",
     "rules": [
       {
-        "type": "easter",
-        "value": "-18",
+        "type": "fixedDate",
+        "value": "1-4",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "4-28",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "8-19",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "12-10",
         "priority": 500
       }
     ],
-    "slug": "free-sacrifice-of-liberty",
+    "slug": "book-1-chapter-iv",
     "priority": 500
   },
   {
-    "bookId": "divine-intimacy",
-    "order": 123,
-    "title": "Supernatural Obdience",
-    "subTitle": "Thursday after Fourth Sunday Of Lent",
+    "bookId": "imitation",
+    "order": 5,
+    "title": "Of the reading of Holy Scriptures",
+    "subTitle": "Book 1 - Chapter V",
     "rules": [
       {
-        "type": "easter",
-        "value": "-17",
+        "type": "fixedDate",
+        "value": "1-5",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "4-29",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "8-20",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "12-11",
         "priority": 500
       }
     ],
-    "slug": "supernatural-obdience",
+    "slug": "book-1-chapter-v",
     "priority": 500
   },
   {
-    "bookId": "divine-intimacy",
-    "order": 124,
-    "title": "Blind Obdience",
-    "subTitle": "Firday after Fourth Sunday Of Lent",
+    "bookId": "imitation",
+    "order": 6,
+    "title": "Of inordinate affections",
+    "subTitle": "Book 1 - Chapter VI",
     "rules": [
       {
-        "type": "easter",
-        "value": "-16",
+        "type": "fixedDate",
+        "value": "1-6",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "4-30",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "8-21",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "12-12",
         "priority": 500
       }
     ],
-    "slug": "blind-obdience",
+    "slug": "book-1-chapter-vi",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 7,
+    "title": "Of fleeing from vain hope and pride",
+    "subTitle": "Book 1 - Chapter VII",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "1-7",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "5-1",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "8-22",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "12-13",
+        "priority": 500
+      }
+    ],
+    "slug": "book-1-chapter-vii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 8,
+    "title": "Of the danger of too much familiarity",
+    "subTitle": "Book 1 - Chapter VIII",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "1-8",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "5-2",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "8-23",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "12-14",
+        "priority": 500
+      }
+    ],
+    "slug": "book-1-chapter-viii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 9,
+    "title": "Of obedience and subjection",
+    "subTitle": "Book 1 - Chapter IX",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "1-9",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "5-3",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "8-24",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "12-15",
+        "priority": 500
+      }
+    ],
+    "slug": "book-1-chapter-ix",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 10,
+    "title": "Of the danger of superfluity of words",
+    "subTitle": "Book 1 - Chapter X",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "1-10",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "5-4",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "8-25",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "12-16",
+        "priority": 500
+      }
+    ],
+    "slug": "book-1-chapter-x",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 11,
+    "title": "Of seeking peace of mind and of spiritual progress",
+    "subTitle": "Book 1 - Chapter XI",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "1-11",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "5-5",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "8-26",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "12-17",
+        "priority": 500
+      }
+    ],
+    "slug": "book-1-chapter-xi",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 12,
+    "title": "Of the uses of adversity",
+    "subTitle": "Book 1 - Chapter XII",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "1-12",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "5-6",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "8-27",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "12-18",
+        "priority": 500
+      }
+    ],
+    "slug": "book-1-chapter-xii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 13,
+    "title": "Of resisting temptation",
+    "subTitle": "Book 1 - Chapter XIII",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "1-13",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "5-7",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "8-28",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "12-19",
+        "priority": 500
+      }
+    ],
+    "slug": "book-1-chapter-xiii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 14,
+    "title": "On avoiding rash judgment",
+    "subTitle": "Book 1 - Chapter XIV",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "1-14",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "5-8",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "8-29",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "12-20",
+        "priority": 500
+      }
+    ],
+    "slug": "book-1-chapter-xiv",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 15,
+    "title": "Of works of charity",
+    "subTitle": "Book 1 - Chapter XV",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "1-15",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "5-9",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "8-30",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "12-21",
+        "priority": 500
+      }
+    ],
+    "slug": "book-1-chapter-xv",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 16,
+    "title": "Of bearing with the faults of others",
+    "subTitle": "Book 1 - Chapter XVI",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "1-16",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "5-10",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "8-31",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "12-22",
+        "priority": 500
+      }
+    ],
+    "slug": "book-1-chapter-xvi",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 17,
+    "title": "Of a religious life",
+    "subTitle": "Book 1 - Chapter XVII",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "1-17",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "5-11",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "9-1",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "12-23",
+        "priority": 500
+      }
+    ],
+    "slug": "book-1-chapter-xvii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 18,
+    "title": "Of the example of the Holy Fathers",
+    "subTitle": "Book 1 - Chapter XVIII",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "1-18",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "5-12",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "9-2",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "12-24",
+        "priority": 500
+      }
+    ],
+    "slug": "book-1-chapter-xviii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 19,
+    "title": "Of the exercises of a religious man",
+    "subTitle": "Book 1 - Chapter XIX",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "1-19",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "5-13",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "9-3",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "12-25",
+        "priority": 500
+      }
+    ],
+    "slug": "book-1-chapter-xix",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 20,
+    "title": "Of the love of solitude and silence",
+    "subTitle": "Book 1 - Chapter XX",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "1-20",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "5-14",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "9-4",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "12-26",
+        "priority": 500
+      }
+    ],
+    "slug": "book-1-chapter-xx",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 21,
+    "title": "Of compunction of heart",
+    "subTitle": "Book 1 - Chapter XXI",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "1-21",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "5-15",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "9-5",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "12-27",
+        "priority": 500
+      }
+    ],
+    "slug": "book-1-chapter-xxi",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 22,
+    "title": "On the contemplation of human misery",
+    "subTitle": "Book 1 - Chapter XXII",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "1-22",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "5-16",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "9-6",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "12-28",
+        "priority": 500
+      }
+    ],
+    "slug": "book-1-chapter-xxii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 23,
+    "title": "Of meditation upon death",
+    "subTitle": "Book 1 - Chapter XXIII",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "1-23",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "5-17",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "9-7",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "12-29",
+        "priority": 500
+      }
+    ],
+    "slug": "book-1-chapter-xxiii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 24,
+    "title": "Of the judgment and punishment of the wicked",
+    "subTitle": "Book 1 - Chapter XXIV",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "1-24",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "5-18",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "9-8",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "12-30",
+        "priority": 500
+      }
+    ],
+    "slug": "book-1-chapter-xxiv",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 25,
+    "title": "Of the zealous amendment of our whole life",
+    "subTitle": "Book 1 - Chapter XXV",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "1-25",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "5-19",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "9-9",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "12-31",
+        "priority": 500
+      }
+    ],
+    "slug": "book-1-chapter-xxv",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 26,
+    "title": "Of the inward life",
+    "subTitle": "Book 2 - Chapter I",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "1-26",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "5-20",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "9-10",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "2-29",
+        "priority": 500
+      }
+    ],
+    "slug": "book-2-chapter-i",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 27,
+    "title": "Of lowly submission",
+    "subTitle": "Book 2 - Chapter II",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "1-27",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "5-21",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "9-11",
+        "priority": 500
+      }
+    ],
+    "slug": "book-2-chapter-ii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 28,
+    "title": "Of the good, peaceable man",
+    "subTitle": "Book 2 - Chapter III",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "1-28",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "5-22",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "9-12",
+        "priority": 500
+      }
+    ],
+    "slug": "book-2-chapter-iii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 29,
+    "title": "Of a pure mind and simple intention",
+    "subTitle": "Book 2 - Chapter IV",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "1-29",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "5-23",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "9-13",
+        "priority": 500
+      }
+    ],
+    "slug": "book-2-chapter-iv",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 30,
+    "title": "Of self-esteem",
+    "subTitle": "Book 2 - Chapter V",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "1-30",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "5-24",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "9-14",
+        "priority": 500
+      }
+    ],
+    "slug": "book-2-chapter-v",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 31,
+    "title": "Of the joy of a good conscience",
+    "subTitle": "Book 2 - Chapter VI",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "1-31",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "5-25",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "9-15",
+        "priority": 500
+      }
+    ],
+    "slug": "book-2-chapter-vi",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 32,
+    "title": "Of loving Jesus above all things",
+    "subTitle": "Book 2 - Chapter VII",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "2-1",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "5-26",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "9-16",
+        "priority": 500
+      }
+    ],
+    "slug": "book-2-chapter-vii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 33,
+    "title": "Of the intimate love of Jesus",
+    "subTitle": "Book 2 - Chapter VIII",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "2-2",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "5-27",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "9-17",
+        "priority": 500
+      }
+    ],
+    "slug": "book-2-chapter-viii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 34,
+    "title": "Of the lack of all comfort",
+    "subTitle": "Book 2 - Chapter IX",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "2-3",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "5-28",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "9-18",
+        "priority": 500
+      }
+    ],
+    "slug": "book-2-chapter-ix",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 35,
+    "title": "Of gratitude for the Grace of God",
+    "subTitle": "Book 2 - Chapter X",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "2-4",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "5-29",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "9-19",
+        "priority": 500
+      }
+    ],
+    "slug": "book-2-chapter-x",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 36,
+    "title": "Of the fewness of those who love the Cross of Jesus",
+    "subTitle": "Book 2 - Chapter XI",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "2-5",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "5-30",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "9-20",
+        "priority": 500
+      }
+    ],
+    "slug": "book-2-chapter-xi",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 37,
+    "title": "Of the royal way of the Holy Cross",
+    "subTitle": "Book 2 - Chapter XII",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "2-6",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "5-31",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "9-21",
+        "priority": 500
+      }
+    ],
+    "slug": "book-2-chapter-xii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 38,
+    "title": "Of the inward voice of Christ to the faithful soul",
+    "subTitle": "Book 3 - Chapter I",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "2-7",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "6-1",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "9-22",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-i",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 39,
+    "title": "What the truth saith inwardly without noise of words",
+    "subTitle": "Book 3 - Chapter II",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "2-8",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "6-2",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "9-23",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-ii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 40,
+    "title": "How all the words of God are to be heard with humility, and how many consider them not",
+    "subTitle": "Book 3 - Chapter III",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "2-9",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "6-3",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "9-24",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-iii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 41,
+    "title": "How we must walk in truth and humility before God",
+    "subTitle": "Book 3 - Chapter IV",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "2-10",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "6-4",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "9-25",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-iv",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 42,
+    "title": "Of the wonderful power of the Divine Love",
+    "subTitle": "Book 3 - Chapter V",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "2-11",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "6-5",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "9-26",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-v",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 43,
+    "title": "Of the proving of the true lover",
+    "subTitle": "Book 3 - Chapter VI",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "2-12",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "6-6",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "9-27",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-vi",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 44,
+    "title": "Of hiding our grace under the guard of humility",
+    "subTitle": "Book 3 - Chapter VII",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "2-13",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "6-7",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "9-28",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-vii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 45,
+    "title": "Of a low estimation of self in the sight of God",
+    "subTitle": "Book 3 - Chapter VIII",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "2-14",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "6-8",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "9-29",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-viii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 46,
+    "title": "That all things are to be referred to God, as the final end",
+    "subTitle": "Book 3 - Chapter IX",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "2-15",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "6-9",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "9-30",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-ix",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 47,
+    "title": "That it is sweet to despise the world and to serve God",
+    "subTitle": "Book 3 - Chapter X",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "2-16",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "6-10",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "10-1",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-x",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 48,
+    "title": "That the desires of the heart are to be examined and governed",
+    "subTitle": "Book 3 - Chapter XI",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "2-17",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "6-11",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "10-2",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-xi",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 49,
+    "title": "Of the inward growth of patience, and of the struggle against evil desires",
+    "subTitle": "Book 3 - Chapter XII",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "2-18",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "6-12",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "10-3",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-xii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 50,
+    "title": "Of the obedience of one in lowly subjection after the example of Jesus Christ",
+    "subTitle": "Book 3 - Chapter XIII",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "2-19",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "6-13",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "10-4",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-xiii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 51,
+    "title": "Of meditation upon the hidden judgments of God, that we may not be lifted up because of our well-doing",
+    "subTitle": "Book 3 - Chapter XIV",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "2-20",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "6-14",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "10-5",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-xiv",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 52,
+    "title": "How we must stand and speak, in everything that we desire",
+    "subTitle": "Book 3 - Chapter XV",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "2-21",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "6-15",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "10-6",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-xv",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 53,
+    "title": "That true solace is to be sought in God alone",
+    "subTitle": "Book 3 - Chapter XVI",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "2-22",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "6-16",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "10-7",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-xvi",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 54,
+    "title": "That all care is to be cast upon God",
+    "subTitle": "Book 3 - Chapter XVII",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "2-23",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "6-17",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "10-8",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-xvii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 55,
+    "title": "That temporal miseries are to be borne patiently after the example of Christ",
+    "subTitle": "Book 3 - Chapter XVIII",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "2-24",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "6-18",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "10-9",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-xviii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 56,
+    "title": "Of bearing injuries, and who shall be approved as truly patient",
+    "subTitle": "Book 3 - Chapter XIX",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "2-25",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "6-19",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "10-10",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-xix",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 57,
+    "title": "Of confession of our infirmity and of the miseries of this life",
+    "subTitle": "Book 3 - Chapter XX",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "2-26",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "6-20",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "10-11",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-xx",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 58,
+    "title": "That we must rest in God above all goods and gifts",
+    "subTitle": "Book 3 - Chapter XXI",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "2-27",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "6-21",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "10-12",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-xxi",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 59,
+    "title": "Of the recollection of God\\'s manifold benefits",
+    "subTitle": "Book 3 - Chapter XXII",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "2-28",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "6-22",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "10-13",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-xxii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 60,
+    "title": "Of four things which bring great peace",
+    "subTitle": "Book 3 - Chapter XXIII",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "3-1",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "6-23",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "10-14",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-xxiii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 61,
+    "title": "Of avoiding of curious inquiry into the life of another",
+    "subTitle": "Book 3 - Chapter XXIV",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "3-2",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "6-24",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "10-15",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-xxiv",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 62,
+    "title": "Wherein firm peace of heart and true profit consist",
+    "subTitle": "Book 3 - Chapter XXV",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "3-3",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "6-25",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "10-16",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-xxv",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 63,
+    "title": "Of the exaltation of a free spirit, which humble prayer more deserveth than doth frequent reading",
+    "subTitle": "Book 3 - Chapter XXVI",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "3-4",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "6-26",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "10-17",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-xxvi",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 64,
+    "title": "That personal love greatly hindereth from the highest good",
+    "subTitle": "Book 3 - Chapter XXVII",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "3-5",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "6-27",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "10-18",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-xxvii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 65,
+    "title": "Against the tongues of detractors",
+    "subTitle": "Book 3 - Chapter XXVIII",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "3-6",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "6-28",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "10-19",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-xxviii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 66,
+    "title": "How when tribulation cometh we must call upon and bless God",
+    "subTitle": "Book 3 - Chapter XXIX",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "3-7",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "6-29",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "10-20",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-xxix",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 67,
+    "title": "Of seeking divine help, and the confidence of obtaining grace",
+    "subTitle": "Book 3 - Chapter XXX",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "3-8",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "6-30",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "10-21",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-xxx",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 68,
+    "title": "Of the neglect of every creature, that the Creator may be found",
+    "subTitle": "Book 3 - Chapter XXXI",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "3-9",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "7-1",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "10-22",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-xxxi",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 69,
+    "title": "Of self-denial and the casting away all selfishness",
+    "subTitle": "Book 3 - Chapter XXXII",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "3-10",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "7-2",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "10-23",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-xxxii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 70,
+    "title": "Of instability of the heart, and of directing the aim towards God",
+    "subTitle": "Book 3 - Chapter XXXIII",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "3-11",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "7-3",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "10-24",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-xxxiii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 71,
+    "title": "That to him who loveth God is sweet above all things and in all things",
+    "subTitle": "Book 3 - Chapter XXXIV",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "3-12",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "7-4",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "10-25",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-xxxiv",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 72,
+    "title": "That there is no security against temptation in this life",
+    "subTitle": "Book 3 - Chapter XXXV",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "3-13",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "7-5",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "10-26",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-xxxv",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 73,
+    "title": "Against vain judgments of men",
+    "subTitle": "Book 3 - Chapter XXXVI",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "3-14",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "7-6",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "10-27",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-xxxvi",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 74,
+    "title": "Of pure and entire resignation of self, for the obtaining liberty of heart",
+    "subTitle": "Book 3 - Chapter XXXVII",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "3-15",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "7-7",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "10-28",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-xxxvii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 75,
+    "title": "Of a good government in external things, and of having recourse to God in dangers",
+    "subTitle": "Book 3 - Chapter XXXVIII",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "3-16",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "7-8",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "10-29",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-xxxviii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 76,
+    "title": "That man must not be immersed in business",
+    "subTitle": "Book 3 - Chapter XXXIX",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "3-17",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "7-9",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "10-30",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-xxxix",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 77,
+    "title": "That man hath no good in himself, and nothing whereof to glory",
+    "subTitle": "Book 3 - Chapter XL",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "3-18",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "7-10",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "10-31",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-xl",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 78,
+    "title": "Of contempt of all temporal honour",
+    "subTitle": "Book 3 - Chapter XLI",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "3-19",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "7-11",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "11-1",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-xli",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 79,
+    "title": "That our peace is not to be placed in men",
+    "subTitle": "Book 3 - Chapter XLII",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "3-20",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "7-12",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "11-2",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-xlii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 80,
+    "title": "Against vain and worldly knowledge",
+    "subTitle": "Book 3 - Chapter XLIII",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "3-21",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "7-13",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "11-3",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-xliii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 81,
+    "title": "Of not troubling ourselves about outward things",
+    "subTitle": "Book 3 - Chapter XLIV",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "3-22",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "7-14",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "11-4",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-xliv",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 82,
+    "title": "That we must not believe everyone, and that we are prone to fall in our words",
+    "subTitle": "Book 3 - Chapter XLV",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "3-23",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "7-15",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "11-5",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-xlv",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 83,
+    "title": "Of having confidence in God when evil words are cast at us",
+    "subTitle": "Book 3 - Chapter XLVI",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "3-24",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "7-16",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "11-6",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-xlvi",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 84,
+    "title": "That all troubles are to be endured for the sake of eternal life",
+    "subTitle": "Book 3 - Chapter XLVII",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "3-25",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "7-17",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "11-7",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-xlvii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 85,
+    "title": "Of the day of eternity and of the straitnesses of this life",
+    "subTitle": "Book 3 - Chapter XLVIII",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "3-26",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "7-18",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "11-8",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-xlviii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 86,
+    "title": "Of the desire after eternal life, and how great blessings are promised to those who strive",
+    "subTitle": "Book 3 - Chapter XLIX",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "3-27",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "7-19",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "11-9",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-xlix",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 87,
+    "title": "How a desolate man ought to commit himself into the hands of God",
+    "subTitle": "Book 3 - Chapter L",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "3-28",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "7-20",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "11-10",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-l",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 88,
+    "title": "That we must give ourselves to humble works when we are unequal to those that are lofty",
+    "subTitle": "Book 3 - Chapter LI",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "3-29",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "7-21",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "11-11",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-li",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 89,
+    "title": "That a man ought not to reckon himself worthy of consolation, but more worthy of chastisement",
+    "subTitle": "Book 3 - Chapter LII",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "3-30",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "7-22",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "11-12",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-lii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 90,
+    "title": "That the Grace of God doth not join itself to those who mind earthly things",
+    "subTitle": "Book 3 - Chapter LIII",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "3-31",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "7-23",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "11-13",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-liii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 91,
+    "title": "Of the diverse motions of Nature and of Grace",
+    "subTitle": "Book 3 - Chapter LIV",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "4-1",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "7-24",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "11-14",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-liv",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 92,
+    "title": "Of the corruption of Nature and the efficacy of Divine Grace",
+    "subTitle": "Book 3 - Chapter LV",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "4-2",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "7-25",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "11-15",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-lv",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 93,
+    "title": "That we ought to deny ourselves, and to imitate Christ by means of the Cross",
+    "subTitle": "Book 3 - Chapter LVI",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "4-3",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "7-26",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "11-16",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-lvi",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 94,
+    "title": "That a man must not be too much cast down when he falleth into some faults",
+    "subTitle": "Book 3 - Chapter LVII",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "4-4",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "7-27",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "11-17",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-lvii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 95,
+    "title": "Of deeper matters, and God\\'s hidden judgments which are not to be inquired into",
+    "subTitle": "Book 3 - Chapter LVIII",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "4-5",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "7-28",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "11-18",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-lviii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 96,
+    "title": "That all hope and trust is to be fixed in God alone",
+    "subTitle": "Book 3 - Chapter LIX",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "4-6",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "7-29",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "11-19",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-lix",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 97,
+    "title": "With how great reverence Christ must be received",
+    "subTitle": "Book 3 - Chapter I",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "4-7",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "7-30",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "11-20",
+        "priority": 500
+      }
+    ],
+    "slug": "book-3-chapter-i",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 98,
+    "title": "That the greatness and charity of God is shown to men in the Sacrament",
+    "subTitle": "Book 4 - Chapter II",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "4-8",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "7-31",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "11-21",
+        "priority": 500
+      }
+    ],
+    "slug": "book-4-chapter-ii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 99,
+    "title": "That it is profitable to Communicate often",
+    "subTitle": "Book 4 - Chapter III",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "4-9",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "8-1",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "11-22",
+        "priority": 500
+      }
+    ],
+    "slug": "book-4-chapter-iii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 100,
+    "title": "That many good gifts are bestowed upon those who Communicate devoutly",
+    "subTitle": "Book 4 - Chapter IV",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "4-10",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "8-2",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "11-23",
+        "priority": 500
+      }
+    ],
+    "slug": "book-4-chapter-iv",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 101,
+    "title": "Of the dignity of this Sacrament, and of the office of the priest",
+    "subTitle": "Book 4 - Chapter V",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "4-11",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "8-3",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "11-24",
+        "priority": 500
+      }
+    ],
+    "slug": "book-4-chapter-v",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 102,
+    "title": "An inquiry concerning preparation for Communion",
+    "subTitle": "Book 4 - Chapter VI",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "4-12",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "8-4",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "11-25",
+        "priority": 500
+      }
+    ],
+    "slug": "book-4-chapter-vi",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 103,
+    "title": "Of the examination of conscience, and purpose of amendment",
+    "subTitle": "Book 4 - Chapter VII",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "4-13",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "8-5",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "11-26",
+        "priority": 500
+      }
+    ],
+    "slug": "book-4-chapter-vii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 104,
+    "title": "Of the oblation of Christ upon the cross, and of resignation of self",
+    "subTitle": "Book 4 - Chapter VIII",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "4-14",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "8-6",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "11-27",
+        "priority": 500
+      }
+    ],
+    "slug": "book-4-chapter-viii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 105,
+    "title": "That we ought to offer ourselves and all that is ours to God, and to pray for all",
+    "subTitle": "Book 4 - Chapter IX",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "4-15",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "8-7",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "11-28",
+        "priority": 500
+      }
+    ],
+    "slug": "book-4-chapter-ix",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 106,
+    "title": "That Holy Communion is not lightly to be omitted",
+    "subTitle": "Book 4 - Chapter X",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "4-16",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "8-8",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "11-29",
+        "priority": 500
+      }
+    ],
+    "slug": "book-4-chapter-x",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 107,
+    "title": "That the Body and Blood of Christ and the Holy Scriptures are most necessary to a faithful soul",
+    "subTitle": "Book 4 - Chapter XI",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "4-17",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "8-9",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "11-30",
+        "priority": 500
+      }
+    ],
+    "slug": "book-4-chapter-xi",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 108,
+    "title": "That he who is about to Communicate with Christ ought to prepare himself with great diligence",
+    "subTitle": "Book 4 - Chapter XII",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "4-18",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "8-10",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "12-1",
+        "priority": 500
+      }
+    ],
+    "slug": "book-4-chapter-xii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 109,
+    "title": "That the devout soul ought with the whole heart to yearn after union with Christ in the Sacrament",
+    "subTitle": "Book 4 - Chapter XIII",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "4-19",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "8-11",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "12-2",
+        "priority": 500
+      }
+    ],
+    "slug": "book-4-chapter-xiii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 110,
+    "title": "Of the fervent desire of certain devout persons to receive the Body and Blood of Christ",
+    "subTitle": "Book 4 - Chapter XIV",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "4-20",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "8-12",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "12-3",
+        "priority": 500
+      }
+    ],
+    "slug": "book-4-chapter-xiv",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 111,
+    "title": "That the grace of devotion is acquired by humility and self-denial",
+    "subTitle": "Book 4 - Chapter XV",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "4-21",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "8-13",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "12-4",
+        "priority": 500
+      }
+    ],
+    "slug": "book-4-chapter-xv",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 112,
+    "title": "That we ought to lay open our necessities to Christ and to require His Grace",
+    "subTitle": "Book 4 - Chapter XVI",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "4-22",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "8-14",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "12-5",
+        "priority": 500
+      }
+    ],
+    "slug": "book-4-chapter-xvi",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 113,
+    "title": "Of fervent love and vehement desire of receiving Christ",
+    "subTitle": "Book 4 - Chapter XVII",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "4-23",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "8-15",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "12-6",
+        "priority": 500
+      }
+    ],
+    "slug": "book-4-chapter-xvii",
+    "priority": 500
+  },
+  {
+    "bookId": "imitation",
+    "order": 114,
+    "title": "That a man should not be a curious searcher of the Sacrament, but a humble imitator of Christ, submitting his sense to holy faith",
+    "subTitle": "Book 4 - Chapter XVIII",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "4-24",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "8-16",
+        "priority": 500
+      },
+      {
+        "type": "fixedDate",
+        "value": "12-7",
+        "priority": 500
+      }
+    ],
+    "slug": "book-4-chapter-xviii",
     "priority": 500
   },
   {
@@ -20654,6 +20654,171 @@
       }
     ],
     "slug": "intimate-converse-with-god",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 152,
+    "title": "Prayer of Recollection",
+    "subTitle": "Friday - First Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "12",
+        "priority": 500
+      }
+    ],
+    "slug": "prayer-of-recollection",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 153,
+    "title": "Aridity",
+    "subTitle": "Saturday - First Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "13",
+        "priority": 500
+      }
+    ],
+    "slug": "aridity",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 154,
+    "title": "The Good Shepherd",
+    "subTitle": "Sunday - Second Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "14",
+        "priority": 500
+      }
+    ],
+    "slug": "the-good-shepherd",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 155,
+    "title": "Aridity and Progress",
+    "subTitle": "Monday - Second Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "15",
+        "priority": 500
+      }
+    ],
+    "slug": "aridity-and-progress",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 156,
+    "title": "Energetic Resolve",
+    "subTitle": "Tuesday - Second Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "16",
+        "priority": 500
+      }
+    ],
+    "slug": "energetic-resolve",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 157,
+    "title": "Aridity and Contemplation",
+    "subTitle": "Wednesday - Second Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "17",
+        "priority": 500
+      }
+    ],
+    "slug": "aridity-and-contemplation",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 158,
+    "title": "Loving attention to God",
+    "subTitle": "Thursday - Second Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "18",
+        "priority": 500
+      }
+    ],
+    "slug": "loving-attention",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 159,
+    "title": "Practical Conduct",
+    "subTitle": "Friday - Second Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "19",
+        "priority": 500
+      }
+    ],
+    "slug": "practical-conduct",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 160,
+    "title": "The life of prayer",
+    "subTitle": "Saturday - Second Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "20",
+        "priority": 500
+      }
+    ],
+    "slug": "life-of-prayer",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 161,
+    "title": "God's Pilgrims",
+    "subTitle": "Third Sunday After Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "21",
+        "priority": 500
+      }
+    ],
+    "slug": "pilgrims",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 162,
+    "title": "Practice of the Presence of God",
+    "subTitle": "Monday - Third Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "22",
+        "priority": 500
+      }
+    ],
+    "slug": "practice-of-the-presence",
     "priority": 500
   }
 ]
