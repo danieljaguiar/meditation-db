@@ -11,6 +11,15 @@
     "shortDescription": "Textos de de Santo Afonso de Ligório organizados pelo Padre Thiago Maria Cristini para serem meditados a cada dia do ano liturgico."
   },
   {
+    "id": "alphonsus-every-day",
+    "language": "en",
+    "priority": 100,
+    "authorId": "alphonsus",
+    "shortTitle": "Meditations for every day of the year",
+    "title": "Meditations of Saint Alphonsus of Liguori for every day of the year",
+    "shortDescription": "Texts from Saint Alphonsus of Liguori organized by Father Thiago Maria Cristini to be meditated on every day of the liturgical year."
+  },
+  {
     "id": "breviario-confianca",
     "language": "pt",
     "priority": 200,

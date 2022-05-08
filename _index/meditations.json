@@ -20820,5 +20820,74 @@
     ],
     "slug": "practice-of-the-presence",
     "priority": 500
+  },
+  {
+    "bookId": "alphonsus-every-day",
+    "order": 67,
+    "title": "The goods of this world cannot make you happy",
+    "subTitle": "Segunda-feira da Terceira Semana depois da Epifania",
+    "rules": [],
+    "slug": "os-bens-do-mundo-nao-nos-podem-fazer-felizes",
+    "priority": 500
+  },
+  {
+    "bookId": "alphonsus-every-day",
+    "order": 255,
+    "title": "Most Blessed Mary, Role Model of Obedience",
+    "subTitle": "Saturday of the sixth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "90",
+        "priority": 500
+      }
+    ],
+    "slug": "mary-model-of-obedience",
+    "priority": 500
+  },
+  {
+    "bookId": "alphonsus-every-day",
+    "order": 263,
+    "title": "False prophets and the need for good works",
+    "subTitle": "Sunday of the eigth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "98",
+        "priority": 500
+      }
+    ],
+    "slug": "false-prophets-good-works",
+    "priority": 500
+  },
+  {
+    "bookId": "alphonsus-every-day",
+    "order": 268,
+    "title": "Meditating in The Passion of Christ is a school of Divine Love",
+    "subTitle": "Friday after of the eigth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "103",
+        "priority": 500
+      }
+    ],
+    "slug": "passion-of-christ-school-of-love",
+    "priority": 500
+  },
+  {
+    "bookId": "alphonsus-every-day",
+    "order": 270,
+    "title": "The unjust steward and the day of reckoning",
+    "subTitle": "Sunday after of the ninth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "105",
+        "priority": 500
+      }
+    ],
+    "slug": "unjust-steward-day-reckoning",
+    "priority": 500
   }
 ]
