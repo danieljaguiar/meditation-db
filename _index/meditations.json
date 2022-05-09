@@ -20889,5 +20889,110 @@
     ],
     "slug": "unjust-steward-day-reckoning",
     "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 163,
+    "title": "The spirit of faith",
+    "subTitle": "Tuesday - Third Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "23",
+        "priority": 500
+      }
+    ],
+    "slug": "the-spirit-of-faith",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 164,
+    "title": "Liturgical Prayer",
+    "subTitle": "Wednesday - Third Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "24",
+        "priority": 500
+      }
+    ],
+    "slug": "liturgical-prayer",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 165,
+    "title": "Holy Mass",
+    "subTitle": "Thursday - Third Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "25",
+        "priority": 500
+      }
+    ],
+    "slug": "holy-mass",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 166,
+    "title": "Participating in Holy Mass",
+    "subTitle": "Friday - Third Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "26",
+        "priority": 500
+      }
+    ],
+    "slug": "participating-in-holy-mass",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 167,
+    "title": "The Divine Office",
+    "subTitle": "Saturday - Third Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "27",
+        "priority": 500
+      }
+    ],
+    "slug": "the-divine-office",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 168,
+    "title": "The Great Promise",
+    "subTitle": "Forth Sunday After Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "28",
+        "priority": 500
+      }
+    ],
+    "slug": "the-great-promise",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 169,
+    "title": "Mary Our Guide and Model",
+    "subTitle": "Monday - Fourth Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "29",
+        "priority": 500
+      }
+    ],
+    "slug": "mary-our-guide-and-model",
+    "priority": 500
   }
 ]
