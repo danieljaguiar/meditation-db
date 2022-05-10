@@ -20994,5 +20994,22 @@
     ],
     "slug": "mary-our-guide-and-model",
     "priority": 500
+  },
+  [
+  {
+    "bookId": "alphonsus-every-day",
+    "order": 188,
+    "title": "The nothingness of the world's goods",
+    "subTitle": "Tuesday of the Fourth Week after Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "23",
+        "priority": 500
+      }
+    ],
+    "slug": "o-nada-dos-bens-do-mundo",
+    "priority": 500
   }
+]
 ]
