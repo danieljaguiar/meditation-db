@@ -6837,7 +6837,7 @@
     "bookId": "afonso-todo-dia",
     "order": 506,
     "title": "Jesus nasce Menino",
-    "subTitle": "1ª Meditação",
+    "subTitle": "Meditação Alternativa",
     "rules": [],
     "slug": "jesus-nasce-menino",
     "priority": 500
@@ -6846,7 +6846,7 @@
     "bookId": "afonso-todo-dia",
     "order": 507,
     "title": "Da vida oculta de Jesus no Santíssimo Sacramento",
-    "subTitle": "2ª Meditação",
+    "subTitle": "Meditação Alternativa",
     "rules": [],
     "slug": "da-vida-oculta-de-jesus-no-santissimo-sacramento",
     "priority": 500
@@ -6855,7 +6855,7 @@
     "bookId": "afonso-todo-dia",
     "order": 508,
     "title": "Da Oração Dominical",
-    "subTitle": "3ª Meditação",
+    "subTitle": "Meditação Alternativa",
     "rules": [],
     "slug": "da-oracao-dominical",
     "priority": 500
@@ -6864,7 +6864,7 @@
     "bookId": "afonso-todo-dia",
     "order": 509,
     "title": "Continuação da explicação da Oração Dominical",
-    "subTitle": "4ª Meditação",
+    "subTitle": "Meditação Alternativa",
     "rules": [],
     "slug": "continuacao-da-explicacao-da-oracao-dominical",
     "priority": 500
@@ -6873,7 +6873,7 @@
     "bookId": "afonso-todo-dia",
     "order": 510,
     "title": "Formosura de Maria Santíssima",
-    "subTitle": "5ª Meditação",
+    "subTitle": "Meditação Alternativa",
     "rules": [],
     "slug": "formosura-de-maria-santissima",
     "priority": 500
@@ -6882,7 +6882,7 @@
     "bookId": "afonso-todo-dia",
     "order": 511,
     "title": "Do grande mal que fazem os que ocultam os Pecados na Confissão",
-    "subTitle": "6ª Meditação",
+    "subTitle": "Meditação Alternativa",
     "rules": [],
     "slug": "ocultam-os-pecados-na-confissao",
     "priority": 500
@@ -6891,8 +6891,14 @@
     "bookId": "afonso-todo-dia",
     "order": 512,
     "title": "Da Fugida das Ocasiões",
-    "subTitle": "7ª Meditação",
-    "rules": [],
+    "subTitle": "Meditação Alternativa",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "108",
+        "priority": 600
+      }
+    ],
     "slug": "da-fugida-das-ocasioes",
     "priority": 500
   },
@@ -6900,7 +6906,7 @@
     "bookId": "afonso-todo-dia",
     "order": 513,
     "title": "Tormentos interiores do Pecador",
-    "subTitle": "8ª Meditação",
+    "subTitle": "Meditação Alternativa",
     "rules": [],
     "slug": "tormentos-interiores-do-pecador",
     "priority": 500
@@ -6909,8 +6915,14 @@
     "bookId": "afonso-todo-dia",
     "order": 514,
     "title": "A morte é para o Justo o fim de perigos",
-    "subTitle": "9ª Meditação",
-    "rules": [],
+    "subTitle": "Meditação Alternativa",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "30",
+        "priority": 600
+      }
+    ],
     "slug": "a-morte-e-para-o-justo-o-fim-de-perigos",
     "priority": 500
   },
@@ -6918,8 +6930,14 @@
     "bookId": "afonso-todo-dia",
     "order": 515,
     "title": "Do amor a Deus",
-    "subTitle": "10ª Meditação",
-    "rules": [],
+    "subTitle": "Meditação Alternativa",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "134",
+        "priority": 600
+      }
+    ],
     "slug": "do-amor-a-deus",
     "priority": 500
   },
@@ -6927,8 +6945,14 @@
     "bookId": "afonso-todo-dia",
     "order": 516,
     "title": "Estada amorosa de Jesus no Santíssimo Sacramento",
-    "subTitle": "11ª Meditação",
-    "rules": [],
+    "subTitle": "Meditação Alternativa",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "200",
+        "priority": 600
+      }
+    ],
     "slug": "estada-amorosa-de-jesus-no-santissimo-sacramento",
     "priority": 500
   },
@@ -6936,7 +6960,7 @@
     "bookId": "afonso-todo-dia",
     "order": 517,
     "title": "Maria Santíssima é cheia de Graça",
-    "subTitle": "12ª Meditação",
+    "subTitle": "Meditação Alternativa",
     "rules": [],
     "slug": "maria-santissima-e-cheia-de-graca",
     "priority": 500
@@ -6945,8 +6969,14 @@
     "bookId": "afonso-todo-dia",
     "order": 518,
     "title": "Deus deve ser o nosso único fim",
-    "subTitle": "13ª Meditação",
-    "rules": [],
+    "subTitle": "Meditação Alternativa",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "52",
+        "priority": 600
+      }
+    ],
     "slug": "deus-deve-ser-o-nosso-unico-fim",
     "priority": 500
   },
@@ -6954,7 +6984,7 @@
     "bookId": "afonso-todo-dia",
     "order": 519,
     "title": "A Misericórdia de Deus e as Ilusões do Pecador",
-    "subTitle": "14ª Meditação",
+    "subTitle": "Meditação Alternativa",
     "rules": [],
     "slug": "a-misericordia-de-deus-e-as-ilusoes-do-pecador",
     "priority": 500
@@ -6963,8 +6993,14 @@
     "bookId": "afonso-todo-dia",
     "order": 520,
     "title": "Do grande meio para vencer as Tentações",
-    "subTitle": "15ª Meditação",
-    "rules": [],
+    "subTitle": "Meditação Alternativa",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "80",
+        "priority": 600
+      }
+    ],
     "slug": "do-grande-meio-para-vencer-as-tentacoes",
     "priority": 500
   },
@@ -6972,7 +7008,7 @@
     "bookId": "afonso-todo-dia",
     "order": 521,
     "title": "Mágoas tardias da Alma negligente na hora da Morte",
-    "subTitle": "16ª Meditação",
+    "subTitle": "Meditação Alternativa",
     "rules": [],
     "slug": "magoas-tardias-da-alma-negligente-na-hora-da-morte",
     "priority": 500
@@ -6981,7 +7017,7 @@
     "bookId": "afonso-todo-dia",
     "order": 522,
     "title": "Quem ama a Deus, não deve temer a Morte",
-    "subTitle": "17ª Meditação",
+    "subTitle": "Meditação Alternativa",
     "rules": [],
     "slug": "quem-ama-a-deus-nao-deve-temer-a-morte",
     "priority": 500
@@ -6990,8 +7026,14 @@
     "bookId": "afonso-todo-dia",
     "order": 523,
     "title": "O Justo morre numa Paz Dulcíssima",
-    "subTitle": "18ª Meditação",
-    "rules": [],
+    "subTitle": "Meditação Alternativa",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "93",
+        "priority": 600
+      }
+    ],
     "slug": "o-justo-morre-numa-paz-dulcissima",
     "priority": 500
   },
@@ -6999,7 +7041,7 @@
     "bookId": "afonso-todo-dia",
     "order": 524,
     "title": "Meios para se Preparar para a Morte",
-    "subTitle": "19ª Meditação",
+    "subTitle": "Meditação Alternativa",
     "rules": [],
     "slug": "meios-para-se-preparar-para-a-morte",
     "priority": 500
@@ -7008,7 +7050,7 @@
     "bookId": "afonso-todo-dia",
     "order": 525,
     "title": "Protestação para a Boa Morte",
-    "subTitle": "20ª Meditação",
+    "subTitle": "Meditação Alternativa",
     "rules": [],
     "slug": "protestacao-para-a-boa-morte",
     "priority": 500
@@ -7017,8 +7059,14 @@
     "bookId": "afonso-todo-dia",
     "order": 526,
     "title": "Meios para conservar a Graça de Deus",
-    "subTitle": "21ª Meditação",
-    "rules": [],
+    "subTitle": "Meditação Alternativa",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "162",
+        "priority": 600
+      }
+    ],
     "slug": "meios-para-conservar-a-graca-de-deus",
     "priority": 500
   },
@@ -7026,7 +7074,7 @@
     "bookId": "afonso-todo-dia",
     "order": 527,
     "title": "Das Enfermidades",
-    "subTitle": "22ª Meditação",
+    "subTitle": "Meditação Alternativa",
     "rules": [],
     "slug": "das-enfermidades",
     "priority": 500
@@ -20993,6 +21041,21 @@
       }
     ],
     "slug": "mary-our-guide-and-model",
+    "priority": 500
+  },
+  {
+    "bookId": "alphonsus-every-day",
+    "order": 188,
+    "title": "The nothingness of the world's goods",
+    "subTitle": "Tuesday of the Fourth Week after Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "23",
+        "priority": 500
+      }
+    ],
+    "slug": "o-nada-dos-bens-do-mundo",
     "priority": 500
   }
 ]
