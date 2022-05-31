@@ -7080,6 +7080,90 @@
     "priority": 500
   },
   {
+    "bookId": "alphonsus-every-day",
+    "order": 67,
+    "title": "The goods of this world cannot make you happy",
+    "subTitle": "Segunda-feira da Terceira Semana depois da Epifania",
+    "rules": [],
+    "slug": "goods-of-this-world-cannot-make-you-happy",
+    "priority": 500
+  },
+  {
+    "bookId": "alphonsus-every-day",
+    "order": 188,
+    "title": "The nothingness of the world's goods",
+    "subTitle": "Tuesday of the Fourth Week after Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "23",
+        "priority": 500
+      }
+    ],
+    "slug": "o-nada-dos-bens-do-mundo",
+    "priority": 500
+  },
+  {
+    "bookId": "alphonsus-every-day",
+    "order": 255,
+    "title": "Most Blessed Mary, Role Model of Obedience",
+    "subTitle": "Saturday of the sixth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "90",
+        "priority": 500
+      }
+    ],
+    "slug": "mary-model-of-obedience",
+    "priority": 500
+  },
+  {
+    "bookId": "alphonsus-every-day",
+    "order": 263,
+    "title": "False prophets and the need for good works",
+    "subTitle": "Sunday of the eigth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "98",
+        "priority": 500
+      }
+    ],
+    "slug": "false-prophets-good-works",
+    "priority": 500
+  },
+  {
+    "bookId": "alphonsus-every-day",
+    "order": 268,
+    "title": "Meditating in The Passion of Christ is a school of Divine Love",
+    "subTitle": "Friday after of the eigth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "103",
+        "priority": 500
+      }
+    ],
+    "slug": "passion-of-christ-school-of-love",
+    "priority": 500
+  },
+  {
+    "bookId": "alphonsus-every-day",
+    "order": 270,
+    "title": "The unjust steward and the day of reckoning",
+    "subTitle": "Sunday after of the ninth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "105",
+        "priority": 500
+      }
+    ],
+    "slug": "unjust-steward-day-reckoning",
+    "priority": 500
+  },
+  {
     "bookId": "aquinas-lent",
     "order": 1,
     "title": "The work of the vineyard",
@@ -8026,7 +8110,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 1,
+    "order": 18,
     "title": "A morte",
     "subTitle": "Quarta-Feira de Cinzas",
     "rules": [
@@ -8041,7 +8125,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 2,
+    "order": 19,
     "title": "O jejum",
     "subTitle": "Quinta-Feira depois das Cinzas",
     "rules": [
@@ -8056,7 +8140,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 3,
+    "order": 20,
     "title": "A coroa de espinhos",
     "subTitle": "Sexta-Feira depois das Cinzas",
     "rules": [
@@ -8071,7 +8155,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 4,
+    "order": 21,
     "title": "O grão de trigo",
     "subTitle": "Sábado depois das Cinzas",
     "rules": [
@@ -8086,7 +8170,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 5,
+    "order": 22,
     "title": "A tentação de Cristo",
     "subTitle": "Primeiro Domingo da Quaresma",
     "rules": [
@@ -8101,7 +8185,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 6,
+    "order": 23,
     "title": "Cristo devia ser tentado no deserto",
     "subTitle": "Segunda-Feira depois do primeiro Domingo da Quaresma",
     "rules": [
@@ -8116,7 +8200,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 7,
+    "order": 24,
     "title": "De que modo Cristo sofreu todos os sofrimentos",
     "subTitle": "Terça-Feira depois do primeiro Domingo da Quaresma",
     "rules": [
@@ -8131,7 +8215,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 8,
+    "order": 25,
     "title": "A imensidade da dor da Paixão de Cristo",
     "subTitle": "Quarta-Feira depois do primeiro Domingo da Quaresma",
     "rules": [
@@ -8146,7 +8230,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 9,
+    "order": 26,
     "title": "Foi conveniente Cristo ser crucificado entre ladrões",
     "subTitle": "Quinta Feira depois do primeiro Domingo da Quaresma",
     "rules": [
@@ -8161,7 +8245,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 10,
+    "order": 27,
     "title": "Na festa da lança e dos cravos de Nosso Senhor",
     "subTitle": "Sexta-Feira depois do primeiro Domingo da Quaresma",
     "rules": [
@@ -8176,7 +8260,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 11,
+    "order": 28,
     "title": "A Caridade de Deus na Paixão de Cristo",
     "subTitle": "Sábado depois do primeiro Domingo da Quaresma",
     "rules": [
@@ -8191,7 +8275,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 12,
+    "order": 29,
     "title": "Se Deus Pai entregou Cristo à Paixão",
     "subTitle": "Segundo Domingo da Quaresma",
     "rules": [
@@ -8206,7 +8290,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 13,
+    "order": 30,
     "title": "Se foi conveniente que Cristo sofresse da parte dos gentios",
     "subTitle": "Segunda-Feira depois do segundo Domingo da Quaresma",
     "rules": [
@@ -8221,7 +8305,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 14,
+    "order": 31,
     "title": "A Paixão de Cristo causou a nossa salvação a modo de mérito",
     "subTitle": "Terça-Feira depois do segundo Domingo da Quaresma",
     "rules": [
@@ -8236,7 +8320,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 15,
+    "order": 32,
     "title": "A Paixão de Cristo causou nossa salvação a modo de satisfação",
     "subTitle": "Quarta-Feira depois do segundo Domingo da Quaresma",
     "rules": [
@@ -8251,7 +8335,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 16,
+    "order": 33,
     "title": "A Paixão de Cristo se realizou a modo de sacrifício",
     "subTitle": "Quinta-Feira depois do segundo Domingo da Quaresma",
     "rules": [
@@ -8266,7 +8350,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 17,
+    "order": 34,
     "title": "O Santo Sudário",
     "subTitle": "Sexta-Feira depois do segundo Domingo da Quaresma",
     "rules": [
@@ -8281,7 +8365,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 18,
+    "order": 35,
     "title": "A Paixão de Cristo obrou nossa salvação a modo de Redenção.",
     "subTitle": "Sábado depois do segundo Domingo da Quaresma",
     "rules": [
@@ -8296,7 +8380,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 19,
+    "order": 36,
     "title": "Pela Paixão somos liberados do pecado",
     "subTitle": "Terceiro Domingo da Quaresma",
     "rules": [
@@ -8311,7 +8395,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 20,
+    "order": 37,
     "title": "Pela Paixão fomos libertados do poder do diabo",
     "subTitle": "Segunda-Feira depois do terceiro Domingo da Quaresma",
     "rules": [
@@ -8326,7 +8410,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 21,
+    "order": 38,
     "title": "Cristo, o verdadeiro Redentor",
     "subTitle": "Terça-Feira depois do terceiro Domingo da Quaresma",
     "rules": [
@@ -8341,7 +8425,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 22,
+    "order": 39,
     "title": "O Preço da Nossa Redenção",
     "subTitle": "Quarta-Feira depois do terceiro Domingo da Quaresma",
     "rules": [
@@ -8356,7 +8440,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 23,
+    "order": 40,
     "title": "A pregação da samaritana",
     "subTitle": "Quinta-Feira depois da terceiro semana da Quaresma",
     "rules": [
@@ -8371,7 +8455,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 24,
+    "order": 41,
     "title": "Pela Paixão fomos liberados da pena do pecado.",
     "subTitle": "Sexta-Feira depois do terceiro Domingo da Quaresma",
     "rules": [
@@ -8386,7 +8470,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 25,
+    "order": 42,
     "title": "Pela Paixão fomos reconciliados com Deus",
     "subTitle": "Sábado depois do terceiro Domingo da Quaresma",
     "rules": [
@@ -8401,7 +8485,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 26,
+    "order": 43,
     "title": "Cristo com sua paixão abriu a porta do céu",
     "subTitle": "Quarto Domingo da Quaresma",
     "rules": [
@@ -8416,7 +8500,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 27,
+    "order": 44,
     "title": "Cristo mereceu, pela sua paixão, ser exaltado",
     "subTitle": "Segunda-Feira depois do quarto Domingo da Quaresma",
     "rules": [
@@ -8431,7 +8515,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 28,
+    "order": 45,
     "title": "O exemplo de Cristo crucificado",
     "subTitle": "Terça-Feira depois do quarto Domingo da Quaresma",
     "rules": [
@@ -8446,7 +8530,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 29,
+    "order": 46,
     "title": "O amigo divino",
     "subTitle": "Quarta-Feira depois do quarto Domingo da Quaresma",
     "rules": [
@@ -8461,7 +8545,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 30,
+    "order": 47,
     "title": "A morte de Lázaro",
     "subTitle": "Quinta-Feira depois do quarto Domingo da Quaresma",
     "rules": [
@@ -8476,7 +8560,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 31,
+    "order": 48,
     "title": "O Preciosíssimo Sangue de Nosso Senhor",
     "subTitle": "Sexta-Feira depois do quarto Domingo da Quaresma",
     "rules": [
@@ -8491,7 +8575,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 32,
+    "order": 49,
     "title": "O modo mais conveniente para a liberação do gênero humano",
     "subTitle": "Sábado depois do quarto Domingo da Quaresma",
     "rules": [
@@ -8506,7 +8590,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 33,
+    "order": 50,
     "title": "A Paixão de Cristo",
     "subTitle": "Primeiro Domingo da Paixão",
     "rules": [
@@ -8521,7 +8605,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 34,
+    "order": 51,
     "title": "A Paixão de Cristo é remédio contra todos os pecados",
     "subTitle": "Segunda-Feira depois do primeiro Domingo da Paixão",
     "rules": [
@@ -8536,7 +8620,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 35,
+    "order": 52,
     "title": "O Sepulcro de Cristo",
     "subTitle": "Terça-Feira depois do primeiro Domingo da Paixão",
     "rules": [
@@ -8551,7 +8635,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 36,
+    "order": 53,
     "title": "O Sepulcro Espiritual",
     "subTitle": "Quarta-Feira depois do primeiro Domingo da Paixão",
     "rules": [
@@ -8566,7 +8650,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 37,
+    "order": 54,
     "title": "O Sinal maior do amor de Cristo",
     "subTitle": "Quinta-Feira depois do primeiro Domingo da Paixão",
     "rules": [
@@ -8581,7 +8665,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 38,
+    "order": 55,
     "title": "A compaixão de Nossa Senhora",
     "subTitle": "Sexta-Feira depois do primeiro Domingo da Paixão",
     "rules": [
@@ -8596,7 +8680,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 39,
+    "order": 56,
     "title": "De que modo devemos lavar os pés uns dos outros?",
     "subTitle": "Sábado depois do primeiro Domingo da Paixão",
     "rules": [
@@ -8611,7 +8695,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 40,
+    "order": 57,
     "title": "Utilidade da Paixão de Cristo como exemplo",
     "subTitle": "Domingo de Ramos",
     "rules": [
@@ -8626,7 +8710,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 41,
+    "order": 58,
     "title": "Necessidade de uma perfeita purificação",
     "subTitle": "Segunda-Feira Santa",
     "rules": [
@@ -8641,7 +8725,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 42,
+    "order": 59,
     "title": "Preparação de Cristo ao Lava-Pés",
     "subTitle": "Terça-Feira Santa",
     "rules": [
@@ -8656,7 +8740,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 43,
+    "order": 60,
     "title": "Três ensinamentos místicos no Lava-Pés",
     "subTitle": "Quarta-Feira Santa",
     "rules": [
@@ -8671,7 +8755,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 44,
+    "order": 61,
     "title": "A ceia do Senhor",
     "subTitle": "Quinta-Feira Santa",
     "rules": [
@@ -8686,7 +8770,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 45,
+    "order": 62,
     "title": "A morte de Cristo",
     "subTitle": "Sexta-Feira Santa",
     "rules": [
@@ -8701,7 +8785,7 @@
   },
   {
     "bookId": "aquino-quaresma",
-    "order": 46,
+    "order": 63,
     "title": "Utilidade da descida de Cristo aos infernos",
     "subTitle": "Sábado Santo",
     "rules": [
@@ -14337,6 +14421,681 @@
       }
     ],
     "slug": "blind-obdience",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 125,
+    "title": "Difficulties in Obdience",
+    "subTitle": "Saturday after Fourth Sunday Of Lent",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-15",
+        "priority": 500
+      }
+    ],
+    "slug": "difficulties-in-obdience",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 126,
+    "title": "Jesus Persecuted",
+    "subTitle": "The First Sunday of The Passion",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-14",
+        "priority": 500
+      }
+    ],
+    "slug": "jesus-persecuted",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 127,
+    "title": "The Value of Suffering",
+    "subTitle": "Monday after First Sunday of The Passion",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-13",
+        "priority": 500
+      }
+    ],
+    "slug": "value-of-suffering",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 128,
+    "title": "Patience",
+    "subTitle": "Tuesday after First Sunday of The Passion",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-12",
+        "priority": 500
+      }
+    ],
+    "slug": "patience",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 129,
+    "title": "The Daily Cross",
+    "subTitle": "Wednesday after First Sunday of The Passion",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-11",
+        "priority": 500
+      }
+    ],
+    "slug": "the-daily-cross",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 130,
+    "title": "Suffering and Abandonment",
+    "subTitle": "Thursday after First Sunday of The Passion",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-10",
+        "priority": 500
+      }
+    ],
+    "slug": "suffering-and-abandonment",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 131,
+    "title": "Seven Sorrows of Mary",
+    "subTitle": "Friday after First Sunday of The Passion",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-9",
+        "priority": 500
+      }
+    ],
+    "slug": "seven-sorrows-of-mary",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 132,
+    "title": "Love of the Corss",
+    "subTitle": "Saturday after First Sunday of The Passion",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-8",
+        "priority": 500
+      }
+    ],
+    "slug": "love-of-the-cross",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 133,
+    "title": "The Triumph of Jesus",
+    "subTitle": "The Second Sunday of The Passion Or Palm Sunday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-7",
+        "priority": 500
+      }
+    ],
+    "slug": "the-triumph-of-jesus",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 134,
+    "title": "The Supper at Bethany",
+    "subTitle": "Monday of Holy Week",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-6",
+        "priority": 500
+      }
+    ],
+    "slug": "the-supper-at-bethany",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 135,
+    "title": "The Meek Lamb",
+    "subTitle": "Tuesday of Holy Week",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-5",
+        "priority": 500
+      }
+    ],
+    "slug": "the-meek-lamb",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 136,
+    "title": "The Man of Sorrows",
+    "subTitle": "Wednesday of Holy Week",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-4",
+        "priority": 500
+      }
+    ],
+    "slug": "the-man-of-sorrows",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 137,
+    "title": "The Gift of Love",
+    "subTitle": "Holy Thursday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-3",
+        "priority": 500
+      }
+    ],
+    "slug": "the-gift-of-love",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 138,
+    "title": "The mystery of the Cross",
+    "subTitle": "Good Friday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-2",
+        "priority": 500
+      }
+    ],
+    "slug": "the-mystery-of-the-cross",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 139,
+    "title": "The victory of the Cross",
+    "subTitle": "Holy Saturday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-1",
+        "priority": 500
+      }
+    ],
+    "slug": "the-victory-of-the-cross",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 140,
+    "title": "The Ressurection of The Lord",
+    "subTitle": "Eater Sunday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "0",
+        "priority": 500
+      }
+    ],
+    "slug": "the-ressurection-of-the-lord",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 141,
+    "title": "Stay with us",
+    "subTitle": "Easter Monday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "1",
+        "priority": 500
+      }
+    ],
+    "slug": "stay-with-us",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 142,
+    "title": "Whom seek you?",
+    "subTitle": "Easter Tuesday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "2",
+        "priority": 500
+      }
+    ],
+    "slug": "whom-seek-you",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 143,
+    "title": "The Living Water",
+    "subTitle": "Easter Wednesday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "3",
+        "priority": 500
+      }
+    ],
+    "slug": "the-living-water",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 144,
+    "title": "God Invites All Souls",
+    "subTitle": "Easter Thrusday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "4",
+        "priority": 500
+      }
+    ],
+    "slug": "invites-all-souls",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 145,
+    "title": "Our Preparation",
+    "subTitle": "Easter Friday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "5",
+        "priority": 500
+      }
+    ],
+    "slug": "our-preparation",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 146,
+    "title": "Prayer",
+    "subTitle": "Easter Saturday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "6",
+        "priority": 500
+      }
+    ],
+    "slug": "prayer",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 147,
+    "title": "The Paschal Harvest",
+    "subTitle": "Sunday - First Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "7",
+        "priority": 500
+      }
+    ],
+    "slug": "the-paschal-harvest",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 148,
+    "title": "Vocal Prayer",
+    "subTitle": "Monday - First Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "8",
+        "priority": 500
+      }
+    ],
+    "slug": "vocal-prayer",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 149,
+    "title": "Meditative Reading",
+    "subTitle": "Tuesday - First Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "9",
+        "priority": 500
+      }
+    ],
+    "slug": "meditative-reading",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 150,
+    "title": "Meditation",
+    "subTitle": "Wednesday - First Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "10",
+        "priority": 500
+      }
+    ],
+    "slug": "meditation",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 151,
+    "title": "Intimate converse with God",
+    "subTitle": "Thursday - First Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "11",
+        "priority": 500
+      }
+    ],
+    "slug": "intimate-converse-with-god",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 152,
+    "title": "Prayer of Recollection",
+    "subTitle": "Friday - First Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "12",
+        "priority": 500
+      }
+    ],
+    "slug": "prayer-of-recollection",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 153,
+    "title": "Aridity",
+    "subTitle": "Saturday - First Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "13",
+        "priority": 500
+      }
+    ],
+    "slug": "aridity",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 154,
+    "title": "The Good Shepherd",
+    "subTitle": "Sunday - Second Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "14",
+        "priority": 500
+      }
+    ],
+    "slug": "the-good-shepherd",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 155,
+    "title": "Aridity and Progress",
+    "subTitle": "Monday - Second Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "15",
+        "priority": 500
+      }
+    ],
+    "slug": "aridity-and-progress",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 156,
+    "title": "Energetic Resolve",
+    "subTitle": "Tuesday - Second Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "16",
+        "priority": 500
+      }
+    ],
+    "slug": "energetic-resolve",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 157,
+    "title": "Aridity and Contemplation",
+    "subTitle": "Wednesday - Second Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "17",
+        "priority": 500
+      }
+    ],
+    "slug": "aridity-and-contemplation",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 158,
+    "title": "Loving attention to God",
+    "subTitle": "Thursday - Second Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "18",
+        "priority": 500
+      }
+    ],
+    "slug": "loving-attention",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 159,
+    "title": "Practical Conduct",
+    "subTitle": "Friday - Second Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "19",
+        "priority": 500
+      }
+    ],
+    "slug": "practical-conduct",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 160,
+    "title": "The life of prayer",
+    "subTitle": "Saturday - Second Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "20",
+        "priority": 500
+      }
+    ],
+    "slug": "life-of-prayer",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 161,
+    "title": "God's Pilgrims",
+    "subTitle": "Third Sunday After Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "21",
+        "priority": 500
+      }
+    ],
+    "slug": "pilgrims",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 162,
+    "title": "Practice of the Presence of God",
+    "subTitle": "Monday - Third Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "22",
+        "priority": 500
+      }
+    ],
+    "slug": "practice-of-the-presence",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 163,
+    "title": "The spirit of faith",
+    "subTitle": "Tuesday - Third Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "23",
+        "priority": 500
+      }
+    ],
+    "slug": "the-spirit-of-faith",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 164,
+    "title": "Liturgical Prayer",
+    "subTitle": "Wednesday - Third Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "24",
+        "priority": 500
+      }
+    ],
+    "slug": "liturgical-prayer",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 165,
+    "title": "Holy Mass",
+    "subTitle": "Thursday - Third Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "25",
+        "priority": 500
+      }
+    ],
+    "slug": "holy-mass",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 166,
+    "title": "Participating in Holy Mass",
+    "subTitle": "Friday - Third Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "26",
+        "priority": 500
+      }
+    ],
+    "slug": "participating-in-holy-mass",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 167,
+    "title": "The Divine Office",
+    "subTitle": "Saturday - Third Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "27",
+        "priority": 500
+      }
+    ],
+    "slug": "the-divine-office",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 168,
+    "title": "The Great Promise",
+    "subTitle": "Forth Sunday After Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "28",
+        "priority": 500
+      }
+    ],
+    "slug": "the-great-promise",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 169,
+    "title": "Mary Our Guide and Model",
+    "subTitle": "Monday - Fourth Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "29",
+        "priority": 500
+      }
+    ],
+    "slug": "mary-our-guide-and-model",
     "priority": 500
   },
   {
@@ -20297,765 +21056,6 @@
       }
     ],
     "slug": "book-4-chapter-xviii",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 125,
-    "title": "Difficulties in Obdience",
-    "subTitle": "Saturday after Fourth Sunday Of Lent",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "-15",
-        "priority": 500
-      }
-    ],
-    "slug": "difficulties-in-obdience",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 126,
-    "title": "Jesus Persecuted",
-    "subTitle": "The First Sunday of The Passion",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "-14",
-        "priority": 500
-      }
-    ],
-    "slug": "jesus-persecuted",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 127,
-    "title": "The Value of Suffering",
-    "subTitle": "Monday after First Sunday of The Passion",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "-13",
-        "priority": 500
-      }
-    ],
-    "slug": "value-of-suffering",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 128,
-    "title": "Patience",
-    "subTitle": "Tuesday after First Sunday of The Passion",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "-12",
-        "priority": 500
-      }
-    ],
-    "slug": "patience",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 129,
-    "title": "The Daily Cross",
-    "subTitle": "Wednesday after First Sunday of The Passion",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "-11",
-        "priority": 500
-      }
-    ],
-    "slug": "the-daily-cross",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 130,
-    "title": "Suffering and Abandonment",
-    "subTitle": "Thursday after First Sunday of The Passion",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "-10",
-        "priority": 500
-      }
-    ],
-    "slug": "suffering-and-abandonment",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 131,
-    "title": "Seven Sorrows of Mary",
-    "subTitle": "Friday after First Sunday of The Passion",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "-9",
-        "priority": 500
-      }
-    ],
-    "slug": "seven-sorrows-of-mary",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 132,
-    "title": "Love of the Corss",
-    "subTitle": "Saturday after First Sunday of The Passion",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "-8",
-        "priority": 500
-      }
-    ],
-    "slug": "love-of-the-cross",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 133,
-    "title": "The Triumph of Jesus",
-    "subTitle": "The Second Sunday of The Passion Or Palm Sunday",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "-7",
-        "priority": 500
-      }
-    ],
-    "slug": "the-triumph-of-jesus",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 134,
-    "title": "The Supper at Bethany",
-    "subTitle": "Monday of Holy Week",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "-6",
-        "priority": 500
-      }
-    ],
-    "slug": "the-supper-at-bethany",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 135,
-    "title": "The Meek Lamb",
-    "subTitle": "Tuesday of Holy Week",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "-5",
-        "priority": 500
-      }
-    ],
-    "slug": "the-meek-lamb",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 136,
-    "title": "The Man of Sorrows",
-    "subTitle": "Wednesday of Holy Week",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "-4",
-        "priority": 500
-      }
-    ],
-    "slug": "the-man-of-sorrows",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 137,
-    "title": "The Gift of Love",
-    "subTitle": "Holy Thursday",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "-3",
-        "priority": 500
-      }
-    ],
-    "slug": "the-gift-of-love",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 138,
-    "title": "The mystery of the Cross",
-    "subTitle": "Good Friday",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "-2",
-        "priority": 500
-      }
-    ],
-    "slug": "the-mystery-of-the-cross",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 139,
-    "title": "The victory of the Cross",
-    "subTitle": "Holy Saturday",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "-1",
-        "priority": 500
-      }
-    ],
-    "slug": "the-victory-of-the-cross",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 140,
-    "title": "The Ressurection of The Lord",
-    "subTitle": "Eater Sunday",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "0",
-        "priority": 500
-      }
-    ],
-    "slug": "the-ressurection-of-the-lord",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 141,
-    "title": "Stay with us",
-    "subTitle": "Easter Monday",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "1",
-        "priority": 500
-      }
-    ],
-    "slug": "stay-with-us",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 142,
-    "title": "Whom seek you?",
-    "subTitle": "Easter Tuesday",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "2",
-        "priority": 500
-      }
-    ],
-    "slug": "whom-seek-you",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 143,
-    "title": "The Living Water",
-    "subTitle": "Easter Wednesday",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "3",
-        "priority": 500
-      }
-    ],
-    "slug": "the-living-water",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 144,
-    "title": "God Invites All Souls",
-    "subTitle": "Easter Thrusday",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "4",
-        "priority": 500
-      }
-    ],
-    "slug": "invites-all-souls",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 145,
-    "title": "Our Preparation",
-    "subTitle": "Easter Friday",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "5",
-        "priority": 500
-      }
-    ],
-    "slug": "our-preparation",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 146,
-    "title": "Prayer",
-    "subTitle": "Easter Saturday",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "6",
-        "priority": 500
-      }
-    ],
-    "slug": "prayer",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 147,
-    "title": "The Paschal Harvest",
-    "subTitle": "Sunday - First Week after Octave of Easter",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "7",
-        "priority": 500
-      }
-    ],
-    "slug": "the-paschal-harvest",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 148,
-    "title": "Vocal Prayer",
-    "subTitle": "Monday - First Week after Octave of Easter",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "8",
-        "priority": 500
-      }
-    ],
-    "slug": "vocal-prayer",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 149,
-    "title": "Meditative Reading",
-    "subTitle": "Tuesday - First Week after Octave of Easter",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "9",
-        "priority": 500
-      }
-    ],
-    "slug": "meditative-reading",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 150,
-    "title": "Meditation",
-    "subTitle": "Wednesday - First Week after Octave of Easter",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "10",
-        "priority": 500
-      }
-    ],
-    "slug": "meditation",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 151,
-    "title": "Intimate converse with God",
-    "subTitle": "Thursday - First Week after Octave of Easter",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "11",
-        "priority": 500
-      }
-    ],
-    "slug": "intimate-converse-with-god",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 152,
-    "title": "Prayer of Recollection",
-    "subTitle": "Friday - First Week after Octave of Easter",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "12",
-        "priority": 500
-      }
-    ],
-    "slug": "prayer-of-recollection",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 153,
-    "title": "Aridity",
-    "subTitle": "Saturday - First Week after Octave of Easter",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "13",
-        "priority": 500
-      }
-    ],
-    "slug": "aridity",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 154,
-    "title": "The Good Shepherd",
-    "subTitle": "Sunday - Second Week after Octave of Easter",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "14",
-        "priority": 500
-      }
-    ],
-    "slug": "the-good-shepherd",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 155,
-    "title": "Aridity and Progress",
-    "subTitle": "Monday - Second Week after Octave of Easter",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "15",
-        "priority": 500
-      }
-    ],
-    "slug": "aridity-and-progress",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 156,
-    "title": "Energetic Resolve",
-    "subTitle": "Tuesday - Second Week after Octave of Easter",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "16",
-        "priority": 500
-      }
-    ],
-    "slug": "energetic-resolve",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 157,
-    "title": "Aridity and Contemplation",
-    "subTitle": "Wednesday - Second Week after Octave of Easter",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "17",
-        "priority": 500
-      }
-    ],
-    "slug": "aridity-and-contemplation",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 158,
-    "title": "Loving attention to God",
-    "subTitle": "Thursday - Second Week after Octave of Easter",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "18",
-        "priority": 500
-      }
-    ],
-    "slug": "loving-attention",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 159,
-    "title": "Practical Conduct",
-    "subTitle": "Friday - Second Week after Octave of Easter",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "19",
-        "priority": 500
-      }
-    ],
-    "slug": "practical-conduct",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 160,
-    "title": "The life of prayer",
-    "subTitle": "Saturday - Second Week after Octave of Easter",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "20",
-        "priority": 500
-      }
-    ],
-    "slug": "life-of-prayer",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 161,
-    "title": "God's Pilgrims",
-    "subTitle": "Third Sunday After Easter",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "21",
-        "priority": 500
-      }
-    ],
-    "slug": "pilgrims",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 162,
-    "title": "Practice of the Presence of God",
-    "subTitle": "Monday - Third Week after Octave of Easter",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "22",
-        "priority": 500
-      }
-    ],
-    "slug": "practice-of-the-presence",
-    "priority": 500
-  },
-  {
-    "bookId": "alphonsus-every-day",
-    "order": 67,
-    "title": "The goods of this world cannot make you happy",
-    "subTitle": "Segunda-feira da Terceira Semana depois da Epifania",
-    "rules": [],
-    "slug": "goods-of-this-world-cannot-make-you-happy",
-    "priority": 500
-  },
-  {
-    "bookId": "alphonsus-every-day",
-    "order": 255,
-    "title": "Most Blessed Mary, Role Model of Obedience",
-    "subTitle": "Saturday of the sixth week after Pentecost",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "90",
-        "priority": 500
-      }
-    ],
-    "slug": "mary-model-of-obedience",
-    "priority": 500
-  },
-  {
-    "bookId": "alphonsus-every-day",
-    "order": 263,
-    "title": "False prophets and the need for good works",
-    "subTitle": "Sunday of the eigth week after Pentecost",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "98",
-        "priority": 500
-      }
-    ],
-    "slug": "false-prophets-good-works",
-    "priority": 500
-  },
-  {
-    "bookId": "alphonsus-every-day",
-    "order": 268,
-    "title": "Meditating in The Passion of Christ is a school of Divine Love",
-    "subTitle": "Friday after of the eigth week after Pentecost",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "103",
-        "priority": 500
-      }
-    ],
-    "slug": "passion-of-christ-school-of-love",
-    "priority": 500
-  },
-  {
-    "bookId": "alphonsus-every-day",
-    "order": 270,
-    "title": "The unjust steward and the day of reckoning",
-    "subTitle": "Sunday after of the ninth week after Pentecost",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "105",
-        "priority": 500
-      }
-    ],
-    "slug": "unjust-steward-day-reckoning",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 163,
-    "title": "The spirit of faith",
-    "subTitle": "Tuesday - Third Week after Octave of Easter",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "23",
-        "priority": 500
-      }
-    ],
-    "slug": "the-spirit-of-faith",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 164,
-    "title": "Liturgical Prayer",
-    "subTitle": "Wednesday - Third Week after Octave of Easter",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "24",
-        "priority": 500
-      }
-    ],
-    "slug": "liturgical-prayer",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 165,
-    "title": "Holy Mass",
-    "subTitle": "Thursday - Third Week after Octave of Easter",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "25",
-        "priority": 500
-      }
-    ],
-    "slug": "holy-mass",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 166,
-    "title": "Participating in Holy Mass",
-    "subTitle": "Friday - Third Week after Octave of Easter",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "26",
-        "priority": 500
-      }
-    ],
-    "slug": "participating-in-holy-mass",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 167,
-    "title": "The Divine Office",
-    "subTitle": "Saturday - Third Week after Octave of Easter",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "27",
-        "priority": 500
-      }
-    ],
-    "slug": "the-divine-office",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 168,
-    "title": "The Great Promise",
-    "subTitle": "Forth Sunday After Easter",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "28",
-        "priority": 500
-      }
-    ],
-    "slug": "the-great-promise",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 169,
-    "title": "Mary Our Guide and Model",
-    "subTitle": "Monday - Fourth Week after Octave of Easter",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "29",
-        "priority": 500
-      }
-    ],
-    "slug": "mary-our-guide-and-model",
-    "priority": 500
-  },
-  {
-    "bookId": "alphonsus-every-day",
-    "order": 188,
-    "title": "The nothingness of the world's goods",
-    "subTitle": "Tuesday of the Fourth Week after Easter",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "23",
-        "priority": 500
-      }
-    ],
-    "slug": "o-nada-dos-bens-do-mundo",
     "priority": 500
   }
 ]
