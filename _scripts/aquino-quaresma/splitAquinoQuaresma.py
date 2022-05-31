@@ -16,7 +16,7 @@ try:
 except OSError:
     pass
 
-count_file = 0
+count_file = 17
 
 with open(initial_path + "full - 012 - manulFixes.md", encoding="utf-8") as fullFile:
     lines = fullFile.readlines()
