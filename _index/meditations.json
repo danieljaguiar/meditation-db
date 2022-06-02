@@ -15099,6 +15099,186 @@
     "priority": 500
   },
   {
+    "bookId": "divine-intimacy",
+    "order": 170,
+    "title": "The Handmaid of the Lord",
+    "subTitle": "Tuesday - Fourth Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "30",
+        "priority": 500
+      }
+    ],
+    "slug": "the-handmaid-of-the-lord",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 171,
+    "title": "Spouse of the Holy Spirit",
+    "subTitle": "Wednesday - Fourth Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "31",
+        "priority": 500
+      }
+    ],
+    "slug": "spouse-of-holy-spirit",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 172,
+    "title": "The Mother of God",
+    "subTitle": "Thursday - Fourth Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "32",
+        "priority": 500
+      }
+    ],
+    "slug": "the-mother-of",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 173,
+    "title": "Our Mother",
+    "subTitle": "Friday - Fourth Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "33",
+        "priority": 500
+      }
+    ],
+    "slug": "our-mother",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 174,
+    "title": "The Marian Life",
+    "subTitle": "Saturday - Fourth Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "34",
+        "priority": 500
+      }
+    ],
+    "slug": "the-marian-life",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 175,
+    "title": "Efficacious Prayer",
+    "subTitle": "Fifth Sunday After Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "35",
+        "priority": 500
+      }
+    ],
+    "slug": "efficacious-prayer",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 176,
+    "title": "Mary's Humility",
+    "subTitle": "Monday - Fifth Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "36",
+        "priority": 500
+      }
+    ],
+    "slug": "mary-humility",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 177,
+    "title": "Mary's Faith",
+    "subTitle": "Tuesday - Fifth Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "37",
+        "priority": 500
+      }
+    ],
+    "slug": "mary-faith",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 178,
+    "title": "Mary's Hope",
+    "subTitle": "Wednesday - Fifth Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "38",
+        "priority": 500
+      }
+    ],
+    "slug": "mary-hope",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 179,
+    "title": "The Ascension of Our Lord",
+    "subTitle": "Thursday - Fifth Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "39",
+        "priority": 500
+      }
+    ],
+    "slug": "the-ascension",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 180,
+    "title": "The Growth of Charity in Mary",
+    "subTitle": "Friday - Fifth Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "40",
+        "priority": 500
+      }
+    ],
+    "slug": "growth-charity-mary",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 181,
+    "title": "Mary and Fraternal Charity",
+    "subTitle": "Saturday - Fifth Week after Octave of Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "41",
+        "priority": 500
+      }
+    ],
+    "slug": "mary-fraternal-charity",
+    "priority": 500
+  },
+  {
     "bookId": "imitacao",
     "order": 1,
     "title": "Da imitação de Cristo e desprezo de todas as vaidades do mundo",
@@ -21056,6 +21236,96 @@
       }
     ],
     "slug": "book-4-chapter-xviii",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 182,
+    "title": "Waiting",
+    "subTitle": "Sunday After Ascension",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "42",
+        "priority": 500
+      }
+    ],
+    "slug": "waiting",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 183,
+    "title": "Mary's Prayer",
+    "subTitle": "Monday after Ascension`s Sunday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "43",
+        "priority": 500
+      }
+    ],
+    "slug": "mary-prayer",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 184,
+    "title": "Mary's Apostolate",
+    "subTitle": "Tuesday after Ascension`s Sunday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "44",
+        "priority": 500
+      }
+    ],
+    "slug": "mary-apostolate",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 185,
+    "title": "Mary Our Mediatrix",
+    "subTitle": "Wednesday after Ascension`s Sunday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "45",
+        "priority": 500
+      }
+    ],
+    "slug": "mary-mediatrix",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 186,
+    "title": "The Holy Spirit",
+    "subTitle": "Thursday after Ascension`s Sunday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "46",
+        "priority": 500
+      }
+    ],
+    "slug": "the-holy-spirit",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 187,
+    "title": "The Spirit of Christ",
+    "subTitle": "Friday after Ascension`s Sunday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "47",
+        "priority": 500
+      }
+    ],
+    "slug": "the-spirit-of-christ",
     "priority": 500
   }
 ]
