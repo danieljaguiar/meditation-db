@@ -15279,6 +15279,216 @@
     "priority": 500
   },
   {
+    "bookId": "divine-intimacy",
+    "order": 182,
+    "title": "Waiting",
+    "subTitle": "Sunday After Ascension",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "42",
+        "priority": 500
+      }
+    ],
+    "slug": "waiting",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 183,
+    "title": "Mary's Prayer",
+    "subTitle": "Monday after Ascension`s Sunday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "43",
+        "priority": 500
+      }
+    ],
+    "slug": "mary-prayer",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 184,
+    "title": "Mary's Apostolate",
+    "subTitle": "Tuesday after Ascension`s Sunday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "44",
+        "priority": 500
+      }
+    ],
+    "slug": "mary-apostolate",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 185,
+    "title": "Mary Our Mediatrix",
+    "subTitle": "Wednesday after Ascension`s Sunday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "45",
+        "priority": 500
+      }
+    ],
+    "slug": "mary-mediatrix",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 186,
+    "title": "The Holy Spirit",
+    "subTitle": "Thursday after Ascension`s Sunday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "46",
+        "priority": 500
+      }
+    ],
+    "slug": "the-holy-spirit",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 187,
+    "title": "The Spirit of Christ",
+    "subTitle": "Friday after Ascension`s Sunday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "47",
+        "priority": 500
+      }
+    ],
+    "slug": "the-spirit-of-christ",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 188,
+    "title": "Sweet Guest of the Soul",
+    "subTitle": "Saturday after Ascension`s Sunday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "48",
+        "priority": 500
+      }
+    ],
+    "slug": "sweet-guest",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 189,
+    "title": "The descent of the Holy Spirit",
+    "subTitle": "Pentecost Sunday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "49",
+        "priority": 500
+      }
+    ],
+    "slug": "descent-holy-spirit",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 190,
+    "title": "The action of the Holy Spirit",
+    "subTitle": "Monday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "50",
+        "priority": 500
+      }
+    ],
+    "slug": "action-of-holy-spirit",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 191,
+    "title": "The initatives of the Holy Spirit",
+    "subTitle": "Tuesday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "51",
+        "priority": 500
+      }
+    ],
+    "slug": "initatives-holy-spirit",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 192,
+    "title": "Our cooperation",
+    "subTitle": "Wednesday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "52",
+        "priority": 500
+      }
+    ],
+    "slug": "our-cooperation",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 193,
+    "title": "Conformity with Christ trhough the action of the Holy Spirit",
+    "subTitle": "Thursday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "53",
+        "priority": 500
+      }
+    ],
+    "slug": "conformity",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 194,
+    "title": "The way of the cross",
+    "subTitle": "Friday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "54",
+        "priority": 500
+      }
+    ],
+    "slug": "way-of-the-cross",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 195,
+    "title": "The gifts of the Holy Spirit",
+    "subTitle": "Saturday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "55",
+        "priority": 500
+      }
+    ],
+    "slug": "gifts-holy-spirit",
+    "priority": 500
+  },
+  {
     "bookId": "imitacao",
     "order": 1,
     "title": "Da imitação de Cristo e desprezo de todas as vaidades do mundo",
@@ -21236,96 +21446,6 @@
       }
     ],
     "slug": "book-4-chapter-xviii",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 182,
-    "title": "Waiting",
-    "subTitle": "Sunday After Ascension",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "42",
-        "priority": 500
-      }
-    ],
-    "slug": "waiting",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 183,
-    "title": "Mary's Prayer",
-    "subTitle": "Monday after Ascension`s Sunday",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "43",
-        "priority": 500
-      }
-    ],
-    "slug": "mary-prayer",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 184,
-    "title": "Mary's Apostolate",
-    "subTitle": "Tuesday after Ascension`s Sunday",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "44",
-        "priority": 500
-      }
-    ],
-    "slug": "mary-apostolate",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 185,
-    "title": "Mary Our Mediatrix",
-    "subTitle": "Wednesday after Ascension`s Sunday",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "45",
-        "priority": 500
-      }
-    ],
-    "slug": "mary-mediatrix",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 186,
-    "title": "The Holy Spirit",
-    "subTitle": "Thursday after Ascension`s Sunday",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "46",
-        "priority": 500
-      }
-    ],
-    "slug": "the-holy-spirit",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 187,
-    "title": "The Spirit of Christ",
-    "subTitle": "Friday after Ascension`s Sunday",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "47",
-        "priority": 500
-      }
-    ],
-    "slug": "the-spirit-of-christ",
     "priority": 500
   }
 ]
