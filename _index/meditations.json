@@ -21447,5 +21447,215 @@
     ],
     "slug": "book-4-chapter-xviii",
     "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 196,
+    "title": "Feast of the most Holy Trinity",
+    "subTitle": "First Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "56",
+        "priority": 500
+      }
+    ],
+    "slug": "feast-most-holy-trinity",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 197,
+    "title": "The virtues and the gifts",
+    "subTitle": "Monday of First week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "57",
+        "priority": 500
+      }
+    ],
+    "slug": "virtues-gifts",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 198,
+    "title": "The Holy Spirit and Prayer",
+    "subTitle": "Tuesday of First week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "58",
+        "priority": 500
+      }
+    ],
+    "slug": "holy-spirit-prayer",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 199,
+    "title": "The Holy Spirit and Activity",
+    "subTitle": "Wednesday of First week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "59",
+        "priority": 500
+      }
+    ],
+    "slug": "holy-spirit-activity",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 200,
+    "title": "Feast of Corpus Christ",
+    "subTitle": "Thrusday after the feast of the most Holy Trinity",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "60",
+        "priority": 500
+      }
+    ],
+    "slug": "corpus-christi",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 201,
+    "title": "The Real Presence",
+    "subTitle": "Friday of First week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "61",
+        "priority": 500
+      }
+    ],
+    "slug": "real-presence",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 202,
+    "title": "The Mystery of Faith",
+    "subTitle": "Saturday of First week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "62",
+        "priority": 500
+      }
+    ],
+    "slug": "mystery-of-faith",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 203,
+    "title": "The invitation to the banquet",
+    "subTitle": "Second Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "63",
+        "priority": 500
+      }
+    ],
+    "slug": "invitation-banquet",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 204,
+    "title": "Mystery of Hope",
+    "subTitle": "Monday of the second week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "64",
+        "priority": 500
+      }
+    ],
+    "slug": "mystery-of-hope",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 205,
+    "title": "Mystery of Love",
+    "subTitle": "Tuesday of the second week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "65",
+        "priority": 500
+      }
+    ],
+    "slug": "mystery-of-love",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 206,
+    "title": "The sacrament of union",
+    "subTitle": "Wednesday of the second week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "66",
+        "priority": 500
+      }
+    ],
+    "slug": "sacrament-of-union",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 207,
+    "title": "Let us prepare for union",
+    "subTitle": "Thrusday after the feast of the most Holy Trinity",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "67",
+        "priority": 500
+      }
+    ],
+    "slug": "prepare-for-union",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 208,
+    "title": "Feast of the most Sacred Heart of Jesus",
+    "subTitle": "Friday of the second week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "68",
+        "priority": 500
+      }
+    ],
+    "slug": "most-sacred-heart",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 209,
+    "title": "Devotion of the Sacred Heart of Jesus",
+    "subTitle": "Saturday of the second week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "69",
+        "priority": 500
+      }
+    ],
+    "slug": "devotion-sacred-heart",
+    "priority": 500
   }
 ]
