@@ -21657,5 +21657,20 @@
     ],
     "slug": "devotion-sacred-heart",
     "priority": 500
+  },
+  {
+    "bookId": "alphonsus-every-day",
+    "order": 218,
+    "title": "Respect due to the dignity of priesthood",
+    "subTitle": "Thursday of Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "53",
+        "priority": 500
+      }
+    ],
+    "slug": "respect-priesthood",
+    "priority": 500
   }
 ]
