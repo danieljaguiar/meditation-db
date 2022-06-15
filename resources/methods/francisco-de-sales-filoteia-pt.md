@@ -33,7 +33,7 @@ O segundo meio de te pores na presença de Deus é pensar que Deus não somente 
 
 ###### 3º meio: O Filho de Deus, no céu, me vê
 
-O terceiro meio, que te poderá ajudar, é considerar que o Filho de Deus, como homem, no céu olha para todas as pessoas do mundo, mas mui particularmente para os cristãos, que são seus filhos e ainda mais para os que estão atualmente em oração, notando se rezam bem ou mal. Nem é isso uma pura imaginação, mas um fato muitíssimo real; pois, conquanto não O possamos ver, corno Santo Estevão em seu martírio, Nosso Senhor tem, entretanto, os Seus olhos em nós,como os tinha nele, e podemos dizer-Lhe alguma coisa semelhante ao que a Esposa dos Cantares disse a seu Esposo: Ele está lá, ei-lo, é ele mesmo; ele está escondido e não o posso ver, mas ele me vê, ele me está olhando.
+O terceiro meio, que te poderá ajudar, é considerar que o Filho de Deus, como homem, no céu olha para todas as pessoas do mundo, mas mui particularmente para os cristãos, que são seus filhos e ainda mais para os que estão atualmente em oração, notando se rezam bem ou mal. Nem é isso uma pura imaginação, mas um fato muitíssimo real; pois, conquanto não O possamos ver, como Santo Estevão em seu martírio, Nosso Senhor tem, entretanto, os Seus olhos em nós,como os tinha nele, e podemos dizer-Lhe alguma coisa semelhante ao que a Esposa dos Cantares disse a seu Esposo: Ele está lá, ei-lo, é ele mesmo; ele está escondido e não o posso ver, mas ele me vê, ele me está olhando.
 
 ###### 4º meio: Representar Jesus Cristo nesse mesmo lugar onde estamos
 
