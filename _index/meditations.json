@@ -21672,5 +21672,35 @@
     ],
     "slug": "respect-priesthood",
     "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 210,
+    "title": "Merciful Love",
+    "subTitle": "Third Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "70",
+        "priority": 500
+      }
+    ],
+    "slug": "merciful-love",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 211,
+    "title": "Returning Love for Love",
+    "subTitle": "Monday of the third week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "71",
+        "priority": 500
+      }
+    ],
+    "slug": "love-for-love",
+    "priority": 500
   }
 ]
