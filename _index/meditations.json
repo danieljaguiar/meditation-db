@@ -21702,5 +21702,80 @@
     ],
     "slug": "love-for-love",
     "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 212,
+    "title": "Consecration to the Sacred Heart of Jesus",
+    "subTitle": "Tuesday of the third week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "72",
+        "priority": 500
+      }
+    ],
+    "slug": "consecration-sacred-heart",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 213,
+    "title": "Reparation",
+    "subTitle": "Wednesday of the third week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "73",
+        "priority": 500
+      }
+    ],
+    "slug": "reparation",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 214,
+    "title": "The Heart of Jesus our model",
+    "subTitle": "Thrusday after the feast of the most Holy Trinity",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "74",
+        "priority": 500
+      }
+    ],
+    "slug": "our-model",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 215,
+    "title": "The Heart of Jesus our refuge",
+    "subTitle": "Friday of the third week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "75",
+        "priority": 500
+      }
+    ],
+    "slug": "our-refuge",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 216,
+    "title": "The Sacred Heart and The Eucharist",
+    "subTitle": "Saturday of the third week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "76",
+        "priority": 500
+      }
+    ],
+    "slug": "sacred-heart-eucharist",
+    "priority": 500
   }
 ]
