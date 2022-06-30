@@ -21777,5 +21777,110 @@
     ],
     "slug": "sacred-heart-eucharist",
     "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 217,
+    "title": "Firm Confidence",
+    "subTitle": "Fourth Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "77",
+        "priority": 500
+      }
+    ],
+    "slug": "firm-confidence",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 218,
+    "title": "Abiding in Christ",
+    "subTitle": "Monday of the fourth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "78",
+        "priority": 500
+      }
+    ],
+    "slug": "abiding",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 219,
+    "title": "From the Eucharist to the Trinity",
+    "subTitle": "Tuesday of the fourth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "79",
+        "priority": 500
+      }
+    ],
+    "slug": "eucharist-to-trinity",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 220,
+    "title": "The mystery of the Trinity",
+    "subTitle": "Wednesday of the fourth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "80",
+        "priority": 500
+      }
+    ],
+    "slug": "mystery-trinity",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 221,
+    "title": "In the presence of the Trinity",
+    "subTitle": "Thrusday after the feast of the most Holy Trinity",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "81",
+        "priority": 500
+      }
+    ],
+    "slug": "presence-of-trinity",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 222,
+    "title": "The Trinity within us",
+    "subTitle": "Friday of the fourth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "82",
+        "priority": 500
+      }
+    ],
+    "slug": "trinity-within-us",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 223,
+    "title": "Effusion of the Trinity in the soul",
+    "subTitle": "Saturday of the fourth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "83",
+        "priority": 500
+      }
+    ],
+    "slug": "trinity-in-the-soul",
+    "priority": 500
   }
 ]
