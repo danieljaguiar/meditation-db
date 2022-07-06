@@ -21882,5 +21882,22 @@
     ],
     "slug": "trinity-in-the-soul",
     "priority": 500
-  }
+  },
+  [
+    {
+      "bookId": "breviary-trust",
+      "order": 187,
+      "title": "Quo Vadis?",
+      "subTitle": "July 5th",
+      "rules": [
+        {
+          "type": "fixedDate",
+          "value": "7-5",
+          "priority": 500
+        }
+      ],
+      "slug": "quo-vadis",
+      "priority": 500
+    }
+  ]
 ]
