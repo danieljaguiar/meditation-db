@@ -21883,7 +21883,6 @@
     "slug": "trinity-in-the-soul",
     "priority": 500
   },
-  [
     {
       "bookId": "breviary-trust",
       "order": 187,
@@ -21899,5 +21898,4 @@
       "slug": "quo-vadis",
       "priority": 500
     }
-  ]
 ]
