@@ -5722,7 +5722,13 @@
     "order": 411,
     "title": "O fim do mundo e o procedimento dos bons católicos em tempo de perseguição",
     "subTitle": "Domingo da Vigésima quinta e última semana depois de Pentecostes",
-    "rules": [],
+    "rules": [
+      {
+        "type": "easter",
+        "value": "217",
+        "priority": 500
+      }
+    ],
     "slug": "fim-do-mundo-e-bons-catolicos",
     "priority": 500
   },
@@ -5734,7 +5740,7 @@
     "rules": [
       {
         "type": "easter",
-        "value": "217",
+        "value": "218",
         "priority": 500
       }
     ],
@@ -5749,7 +5755,7 @@
     "rules": [
       {
         "type": "easter",
-        "value": "218",
+        "value": "219",
         "priority": 500
       }
     ],
@@ -5764,7 +5770,7 @@
     "rules": [
       {
         "type": "easter",
-        "value": "219",
+        "value": "220",
         "priority": 500
       }
     ],
@@ -5779,7 +5785,7 @@
     "rules": [
       {
         "type": "easter",
-        "value": "220",
+        "value": "221",
         "priority": 500
       }
     ],
@@ -5794,7 +5800,7 @@
     "rules": [
       {
         "type": "easter",
-        "value": "221",
+        "value": "222",
         "priority": 500
       }
     ],
@@ -5809,7 +5815,7 @@
     "rules": [
       {
         "type": "easter",
-        "value": "222",
+        "value": "223",
         "priority": 500
       }
     ],
