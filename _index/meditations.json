@@ -5470,7 +5470,13 @@
     "order": 383,
     "title": "Virtudes praticadas pelo leproso e pelo centurião",
     "subTitle": "Domingo da Terceira Semana que sobrou depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphanyLeft",
+        "value": "217",
+        "priority": 500
+      }
+    ],
     "slug": "virtudes-praticadas-pelo-leproso-e-pelo-centuriao",
     "priority": 500
   },
@@ -5479,7 +5485,13 @@
     "order": 384,
     "title": "Misericórdia de Deus em acolher os pecadores arrependidos",
     "subTitle": "Segunda-feira da Terceira Semana que sobrou depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphanyLeft",
+        "value": "218",
+        "priority": 500
+      }
+    ],
     "slug": "misericordia-de-deus-em-acolher-os-pecadores-arrependidos",
     "priority": 500
   },
@@ -5488,7 +5500,13 @@
     "order": 385,
     "title": "A glória e o poder no leito da morte",
     "subTitle": "Terça-feira da Terceira Semana que sobrou depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphanyLeft",
+        "value": "219",
+        "priority": 500
+      }
+    ],
     "slug": "a-gloria-e-o-poder-no-leito-da-morte",
     "priority": 500
   },
@@ -5497,7 +5515,13 @@
     "order": 386,
     "title": "Só em Deus se acha a verdadeira felicidade",
     "subTitle": "Quarta-feira da Terceira Semana que sobrou depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphanyLeft",
+        "value": "220",
+        "priority": 500
+      }
+    ],
     "slug": "so-em-deus-se-acha-a-verdadeira-felicidade",
     "priority": 500
   },
@@ -5506,7 +5530,13 @@
     "order": 387,
     "title": "Excelência da Santíssima Eucaristia",
     "subTitle": "Quinta-feira da Terceira Semana que sobrou depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphanyLeft",
+        "value": "221",
+        "priority": 500
+      }
+    ],
     "slug": "excelencia-da-santissima-eucaristia",
     "priority": 500
   },
@@ -5515,7 +5545,13 @@
     "order": 388,
     "title": "Suspiros de amor ao pé do Crucifixo",
     "subTitle": "Sexta-feira da Terceira Semana que sobrou depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphanyLeft",
+        "value": "222",
+        "priority": 500
+      }
+    ],
     "slug": "suspiros-de-amor-ao-pe-do-crucifixo",
     "priority": 500
   },
@@ -5524,7 +5560,13 @@
     "order": 389,
     "title": "Prática da Devoção à Maria Santíssima",
     "subTitle": "Sábado da Terceira Semana que sobrou depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphanyLeft",
+        "value": "223",
+        "priority": 500
+      }
+    ],
     "slug": "pratica-da-devocao-a-maria-santissima",
     "priority": 500
   },
@@ -5533,7 +5575,13 @@
     "order": 390,
     "title": "A barca na tempestade e o grande meio para não naufragar",
     "subTitle": "Domingo da Quarta Semana que sobrou depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphanyLeft",
+        "value": "224",
+        "priority": 500
+      }
+    ],
     "slug": "a-barca-na-tempestade-e-o-grande-meio-para-nao-naufragar",
     "priority": 500
   },
@@ -5542,7 +5590,13 @@
     "order": 391,
     "title": "Loucura dos Pecadores",
     "subTitle": "Segunda-feira da Quarta Semana que sobrou depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphanyLeft",
+        "value": "225",
+        "priority": 500
+      }
+    ],
     "slug": "loucura-dos-pecadores",
     "priority": 500
   },
@@ -5551,7 +5605,13 @@
     "order": 392,
     "title": "É preciso estarmos sempre prontos para morrer",
     "subTitle": "Terça-feira da Quarta Semana que sobrou depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphanyLeft",
+        "value": "226",
+        "priority": 500
+      }
+    ],
     "slug": "e-preciso-estarmos-sempre-prontos-para-morrer",
     "priority": 500
   },
@@ -5560,7 +5620,13 @@
     "order": 393,
     "title": "O que faz o réprobo no Inferno",
     "subTitle": "Quarta-feira da Quarta Semana que sobrou depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphanyLeft",
+        "value": "227",
+        "priority": 500
+      }
+    ],
     "slug": "o-que-faz-o-reprobo-no-inferno",
     "priority": 500
   },
@@ -5569,7 +5635,13 @@
     "order": 394,
     "title": "Jesus, no Santíssimo Sacramento, espera-nos com extrema misericórdia",
     "subTitle": "Quinta-feira da Quarta Semana que sobrou depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphanyLeft",
+        "value": "228",
+        "priority": 500
+      }
+    ],
     "slug": "jesus-no-santissimo-sacramento-esperanos-com-extrema-misericordia",
     "priority": 500
   },
@@ -5578,7 +5650,13 @@
     "order": 395,
     "title": "Frutos que produz a meditação de Jesus Crucificado",
     "subTitle": "Sexta-feira da Quarta Semana que sobrou depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphanyLeft",
+        "value": "229",
+        "priority": 500
+      }
+    ],
     "slug": "frutos-que-produz-a-meditacao-de-jesus-crucificado",
     "priority": 500
   },
@@ -5587,7 +5665,13 @@
     "order": 396,
     "title": "Da confiança no patrocínio de Maria Santíssima",
     "subTitle": "Sábado da Quarta Semana que sobrou depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphanyLeft",
+        "value": "230",
+        "priority": 500
+      }
+    ],
     "slug": "da-confianca-no-patrocinio-de-maria-santissima",
     "priority": 500
   },
@@ -5596,7 +5680,13 @@
     "order": 397,
     "title": "A parábola do joio e a Igreja Católica",
     "subTitle": "Domingo da Quinta Semana que sobrou depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphanyLeft",
+        "value": "231",
+        "priority": 500
+      }
+    ],
     "slug": "a-parabola-do-joio-e-a-igreja-catolica",
     "priority": 500
   },
@@ -5605,7 +5695,13 @@
     "order": 398,
     "title": "A notícia da Morte",
     "subTitle": "Segunda-feira da Quinta Semana que sobrou depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphanyLeft",
+        "value": "232",
+        "priority": 500
+      }
+    ],
     "slug": "a-noticia-da-morte",
     "priority": 500
   },
@@ -5614,7 +5710,13 @@
     "order": 399,
     "title": "Das Securas Espirituais",
     "subTitle": "Terça-feira da Quinta Semana que sobrou depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphanyLeft",
+        "value": "233",
+        "priority": 500
+      }
+    ],
     "slug": "das-securas-espirituais",
     "priority": 500
   },
@@ -5623,7 +5725,13 @@
     "order": 400,
     "title": "Desespero dos réprobos no Inferno",
     "subTitle": "Quarta-feira da Quinta Semana que sobrou depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphanyLeft",
+        "value": "234",
+        "priority": 500
+      }
+    ],
     "slug": "desespero-dos-reprobos-no-inferno",
     "priority": 500
   },
@@ -5632,7 +5740,13 @@
     "order": 401,
     "title": "A Santíssima Eucaristia, nossa força contra os nossos inimigos",
     "subTitle": "Quinta-feira da Quinta Semana que sobrou depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphanyLeft",
+        "value": "235",
+        "priority": 500
+      }
+    ],
     "slug": "a-santissima-eucaristia-nossa-forca-contra-os-nossos-inimigos",
     "priority": 500
   },
@@ -5641,7 +5755,13 @@
     "order": 402,
     "title": "Das ignomínias que Jesus Cristo sofreu na sua Paixão",
     "subTitle": "Sexta-feira da Quinta Semana que sobrou depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphanyLeft",
+        "value": "236",
+        "priority": 500
+      }
+    ],
     "slug": "das-ignominias-que-jesus-cristo-sofreu-na-sua-paixao",
     "priority": 500
   },
@@ -5650,7 +5770,13 @@
     "order": 403,
     "title": "Maria Santíssima livra os seus devotos do inferno",
     "subTitle": "Sábado da Quinta Semana que sobrou depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphanyLeft",
+        "value": "237",
+        "priority": 500
+      }
+    ],
     "slug": "maria-santissima-livra-os-seus-devotos-do-inferno",
     "priority": 500
   },
@@ -5659,7 +5785,13 @@
     "order": 404,
     "title": "O grão de Mostarda e a Igreja Católica",
     "subTitle": "Domingo da Sexta Semana que sobrou depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphanyLeft",
+        "value": "238",
+        "priority": 500
+      }
+    ],
     "slug": "o-grao-de-mostarda-e-a-igreja-catolica",
     "priority": 500
   },
@@ -5668,7 +5800,13 @@
     "order": 405,
     "title": "Da perfeita resignação com a vontade divina",
     "subTitle": "Segunda-feira da Sexta Semana que sobrou depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphanyLeft",
+        "value": "239",
+        "priority": 500
+      }
+    ],
     "slug": "da-perfeita-resignacao-com-a-vontade-divina",
     "priority": 500
   },
@@ -5677,7 +5815,13 @@
     "order": 406,
     "title": "A Salvação é o nosso único negócio",
     "subTitle": "Terça-feira da Sexta Semana que sobrou depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphanyLeft",
+        "value": "240",
+        "priority": 500
+      }
+    ],
     "slug": "a-salvacao-e-o-nosso-unico-negocio",
     "priority": 500
   },
@@ -5686,7 +5830,13 @@
     "order": 407,
     "title": "Para nos prepararmos para a morte não devemos esperar pelo último momento",
     "subTitle": "Quarta-feira da Sexta Semana que sobrou depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphanyLeft",
+        "value": "241",
+        "priority": 500
+      }
+    ],
     "slug": "nao-devemos-esperar-pelo-ultimo-momento",
     "priority": 500
   },
@@ -5695,7 +5845,13 @@
     "order": 408,
     "title": "Jesus no Santíssimo Sacramento, nosso Consolador",
     "subTitle": "Quinta-feira da Sexta Semana que sobrou depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphanyLeft",
+        "value": "242",
+        "priority": 500
+      }
+    ],
     "slug": "jesus-no-santissimo-sacramento-nosso-consolador",
     "priority": 500
   },
@@ -5704,7 +5860,13 @@
     "order": 409,
     "title": "Amor excessivo de Jesus Cristo para com os homens",
     "subTitle": "Sexta-feira da Sexta Semana que sobrou depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphanyLeft",
+        "value": "243",
+        "priority": 500
+      }
+    ],
     "slug": "amor-excessivo-de-jesus-cristo-para-com-os-homens",
     "priority": 500
   },
@@ -5713,7 +5875,13 @@
     "order": 410,
     "title": "Maria Santíssima socorre os seus devotos no purgatório",
     "subTitle": "Sábado da Sexta Semana que sobrou depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphanyLeft",
+        "value": "244",
+        "priority": 500
+      }
+    ],
     "slug": "maria-santissima-socorre-os-seus-devotos-no-purgatorio",
     "priority": 500
   },
@@ -5724,8 +5892,8 @@
     "subTitle": "Domingo da Vigésima quinta e última semana depois de Pentecostes",
     "rules": [
       {
-        "type": "easter",
-        "value": "217",
+        "type": "advent",
+        "value": "-7",
         "priority": 500
       }
     ],
@@ -5739,8 +5907,8 @@
     "subTitle": "Segunda-feira da Vigésima quinta e última semana depois de Pentecostes",
     "rules": [
       {
-        "type": "easter",
-        "value": "218",
+        "type": "advent",
+        "value": "-6",
         "priority": 500
       }
     ],
@@ -5754,8 +5922,8 @@
     "subTitle": "Terça-feira da Vigésima quinta e última semana depois de Pentecostes",
     "rules": [
       {
-        "type": "easter",
-        "value": "219",
+        "type": "advent",
+        "value": "-5",
         "priority": 500
       }
     ],
@@ -5769,8 +5937,8 @@
     "subTitle": "Quarta-feira da Vigésima quinta e última semana depois de Pentecostes",
     "rules": [
       {
-        "type": "easter",
-        "value": "220",
+        "type": "advent",
+        "value": "-4",
         "priority": 500
       }
     ],
@@ -5784,8 +5952,8 @@
     "subTitle": "Quinta-feira da Vigésima quinta e última semana depois de Pentecostes",
     "rules": [
       {
-        "type": "easter",
-        "value": "221",
+        "type": "advent",
+        "value": "-3",
         "priority": 500
       }
     ],
@@ -5799,8 +5967,8 @@
     "subTitle": "Sexta-feira da Vigésima quinta e última semana depois de Pentecostes",
     "rules": [
       {
-        "type": "easter",
-        "value": "222",
+        "type": "advent",
+        "value": "-2",
         "priority": 500
       }
     ],
@@ -5814,8 +5982,8 @@
     "subTitle": "Sábado da Vigésima quinta e última semana depois de Pentecostes",
     "rules": [
       {
-        "type": "easter",
-        "value": "223",
+        "type": "advent",
+        "value": "-1",
         "priority": 500
       }
     ],
