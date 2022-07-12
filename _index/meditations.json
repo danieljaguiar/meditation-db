@@ -4,7 +4,13 @@
     "order": 1,
     "title": "A temeridade do pecador e o dia do Juízo",
     "subTitle": "Domingo da Primeira Semana do Advento",
-    "rules": [],
+    "rules": [
+      {
+        "type": "advent",
+        "value": "1",
+        "priority": 500
+      }
+    ],
     "slug": "a-temeridade-do-pecador-e-o-dia-do-juizo",
     "priority": 500
   },
@@ -13,7 +19,13 @@
     "order": 2,
     "title": "O pecado de Adão e o amor de Deus pelos homens",
     "subTitle": "Segunda-feira da Primeira Semana do Advento",
-    "rules": [],
+    "rules": [
+      {
+        "type": "advent",
+        "value": "2",
+        "priority": 500
+      }
+    ],
     "slug": "o-pecado-de-adao-e-o-amor-de-deus-pelos-homens",
     "priority": 500
   },
@@ -22,7 +34,13 @@
     "order": 3,
     "title": "O decreto da Encarnação do Verbo",
     "subTitle": "Terça-feira da Primeira Semana do Advento",
-    "rules": [],
+    "rules": [
+      {
+        "type": "advent",
+        "value": "3",
+        "priority": 500
+      }
+    ],
     "slug": "o-decreto-da-encarnacao-do-verbo",
     "priority": 500
   },
@@ -31,7 +49,13 @@
     "order": 4,
     "title": "O Verbo se faz homem na plenitude dos tempos",
     "subTitle": "Quarta-feira da Primeira Semana do Advento",
-    "rules": [],
+    "rules": [
+      {
+        "type": "advent",
+        "value": "4",
+        "priority": 500
+      }
+    ],
     "slug": "o-verbo-se-faz-homem-na-plenitude-dos-tempos",
     "priority": 500
   },
@@ -40,7 +64,13 @@
     "order": 5,
     "title": "Jesus ilumina o mundo e glorifica a Deus",
     "subTitle": "Quinta-feira da Primeira Semana do Advento",
-    "rules": [],
+    "rules": [
+      {
+        "type": "advent",
+        "value": "5",
+        "priority": 500
+      }
+    ],
     "slug": "jesus-ilumina-o-mundo-e-glorifica-a-deus",
     "priority": 500
   },
@@ -49,7 +79,13 @@
     "order": 6,
     "title": "Quais sejam os que na verdade seguem a Jesus Cristo",
     "subTitle": "Sexta-feira da Primeira Semana do Advento",
-    "rules": [],
+    "rules": [
+      {
+        "type": "advent",
+        "value": "6",
+        "priority": 500
+      }
+    ],
     "slug": "quais-sejam-os-que-na-verdade-seguem-a-jesus-cristo",
     "priority": 500
   },
@@ -58,7 +94,13 @@
     "order": 7,
     "title": "Inefável dignidade de Maria Santíssima",
     "subTitle": "Sábado da Primeira Semana do Advento",
-    "rules": [],
+    "rules": [
+      {
+        "type": "advent",
+        "value": "7",
+        "priority": 500
+      }
+    ],
     "slug": "inefavel-dignidade-de-maria-santissima",
     "priority": 500
   },
@@ -67,7 +109,13 @@
     "order": 8,
     "title": "O encarceramento de João e a utilidade das tribulações",
     "subTitle": "Domingo da Segunda Semana do Advento",
-    "rules": [],
+    "rules": [
+      {
+        "type": "advent",
+        "value": "8",
+        "priority": 500
+      }
+    ],
     "slug": "o-encarceramento-de-joao-e-a-utilidade-das-tribulacoes",
     "priority": 500
   },
@@ -76,7 +124,13 @@
     "order": 9,
     "title": "Deus entrega o próprio Filho à morte para nos dar a vida",
     "subTitle": "Segunda-feira da Segunda Semana do Advento",
-    "rules": [],
+    "rules": [
+      {
+        "type": "advent",
+        "value": "9",
+        "priority": 500
+      }
+    ],
     "slug": "deus-entrega-o-proprio-filho",
     "priority": 500
   },
@@ -85,7 +139,13 @@
     "order": 10,
     "title": "Retrato de um homem que acaba de passar a outra vida",
     "subTitle": "Terça-feira da Segunda Semana do Advento",
-    "rules": [],
+    "rules": [
+      {
+        "type": "advent",
+        "value": "10",
+        "priority": 500
+      }
+    ],
     "slug": "retrato-de-um-homem-que-acaba-de-passar-a-outra-vida",
     "priority": 500
   },
@@ -94,7 +154,13 @@
     "order": 11,
     "title": "Amor que o Filho de Deus nos mostrou na Redenção",
     "subTitle": "Quarta-feira da Segunda Semana do Advento",
-    "rules": [],
+    "rules": [
+      {
+        "type": "advent",
+        "value": "11",
+        "priority": 500
+      }
+    ],
     "slug": "amor-que-o-filho-de-deus-nos-mostrou-na-redencao",
     "priority": 500
   },
@@ -103,7 +169,13 @@
     "order": 12,
     "title": "Jesus, Homem de dores desde o seio de sua Mãe",
     "subTitle": "Quinta-feira da Segunda Semana do Advento",
-    "rules": [],
+    "rules": [
+      {
+        "type": "advent",
+        "value": "12",
+        "priority": 500
+      }
+    ],
     "slug": "jesus-homem-de-dores-desde-o-seio-de-sua-mae",
     "priority": 500
   },
@@ -112,7 +184,13 @@
     "order": 13,
     "title": "Na Cruz acha-se a nossa salvação",
     "subTitle": "Sexta-feira da Segunda Semana do Advento",
-    "rules": [],
+    "rules": [
+      {
+        "type": "advent",
+        "value": "13",
+        "priority": 500
+      }
+    ],
     "slug": "na-cruz-achase-a-nossa-salvacao",
     "priority": 500
   },
@@ -121,7 +199,13 @@
     "order": 14,
     "title": "Maria Santíssima, modelo de paciência",
     "subTitle": "Sábado da Segunda Semana do Advento",
-    "rules": [],
+    "rules": [
+      {
+        "type": "advent",
+        "value": "14",
+        "priority": 500
+      }
+    ],
     "slug": "maria-santissima-modelo-de-paciencia",
     "priority": 500
   },
@@ -130,7 +214,13 @@
     "order": 15,
     "title": "O testemunho de São João Batista e a modéstia cristã",
     "subTitle": "Domingo da Terceira Semana do Advento",
-    "rules": [],
+    "rules": [
+      {
+        "type": "advent",
+        "value": "15",
+        "priority": 500
+      }
+    ],
     "slug": "o-testemunho-de-sao-joao-batista-e-a-modestia-crista",
     "priority": 500
   },
@@ -139,7 +229,13 @@
     "order": 16,
     "title": "Jesus Menino toma sobre si todos os pecados dos homens",
     "subTitle": "Segunda-feira da Terceira Semana do Advento",
-    "rules": [],
+    "rules": [
+      {
+        "type": "advent",
+        "value": "16",
+        "priority": 500
+      }
+    ],
     "slug": "jesus-menino-toma-sobre-si-todos-os-pecados-dos-homens",
     "priority": 500
   },
@@ -148,7 +244,13 @@
     "order": 17,
     "title": "No inferno sofre-se sempre",
     "subTitle": "Terça-feira da Terceira Semana do Advento",
-    "rules": [],
+    "rules": [
+      {
+        "type": "advent",
+        "value": "17",
+        "priority": 500
+      }
+    ],
     "slug": "no-inferno-sofrese-sempre",
     "priority": 500
   },
@@ -157,7 +259,13 @@
     "order": 18,
     "title": "Jesus, fonte de graças",
     "subTitle": "Quarta-feira da Terceira Semana do Advento",
-    "rules": [],
+    "rules": [
+      {
+        "type": "advent",
+        "value": "18",
+        "priority": 500
+      }
+    ],
     "slug": "jesus-fonte-de-gracas",
     "priority": 500
   },
@@ -166,7 +274,13 @@
     "order": 19,
     "title": "Jesus atribulado durante toda a sua vida",
     "subTitle": "Quinta-feira da Terceira Semana do Advento",
-    "rules": [],
+    "rules": [
+      {
+        "type": "advent",
+        "value": "19",
+        "priority": 500
+      }
+    ],
     "slug": "jesus-atribulado-durante-toda-a-sua-vida",
     "priority": 500
   },
@@ -5617,7 +5731,13 @@
     "order": 412,
     "title": "Em que coisas nos devemos conformar com a vontade divina",
     "subTitle": "Segunda-feira da Vigésima quinta e última semana depois de Pentecostes",
-    "rules": [],
+    "rules": [
+      {
+        "type": "easter",
+        "value": "217",
+        "priority": 500
+      }
+    ],
     "slug": "em-que-coisas-nos-devemos-conformar-com-a-vontade-divina",
     "priority": 500
   },
@@ -5626,7 +5746,13 @@
     "order": 413,
     "title": "Na morte tudo acaba",
     "subTitle": "Terça-feira da Vigésima quinta e última semana depois de Pentecostes",
-    "rules": [],
+    "rules": [
+      {
+        "type": "easter",
+        "value": "218",
+        "priority": 500
+      }
+    ],
     "slug": "na-morte-tudo-acaba",
     "priority": 500
   },
@@ -5635,7 +5761,13 @@
     "order": 414,
     "title": "A pena da perda de Deus é o que faz o inferno",
     "subTitle": "Quarta-feira da Vigésima quinta e última semana depois de Pentecostes",
-    "rules": [],
+    "rules": [
+      {
+        "type": "easter",
+        "value": "219",
+        "priority": 500
+      }
+    ],
     "slug": "a-pena-que-faz-o-inferno",
     "priority": 500
   },
@@ -5644,7 +5776,13 @@
     "order": 415,
     "title": "Da assistência à Santa Missa",
     "subTitle": "Quinta-feira da Vigésima quinta e última semana depois de Pentecostes",
-    "rules": [],
+    "rules": [
+      {
+        "type": "easter",
+        "value": "220",
+        "priority": 500
+      }
+    ],
     "slug": "da-assistencia-a-santa-missa",
     "priority": 500
   },
@@ -5653,7 +5791,13 @@
     "order": 416,
     "title": "A Paixão de Jesus Cristo, nossa Consolação",
     "subTitle": "Sexta-feira da Vigésima quinta e última semana depois de Pentecostes",
-    "rules": [],
+    "rules": [
+      {
+        "type": "easter",
+        "value": "221",
+        "priority": 500
+      }
+    ],
     "slug": "a-paixao-de-jesus-cristo-nossa-consolacao",
     "priority": 500
   },
@@ -5662,7 +5806,13 @@
     "order": 417,
     "title": "Maria Santíssima conduz os seus servos ao paraíso",
     "subTitle": "Sábado da Vigésima quinta e última semana depois de Pentecostes",
-    "rules": [],
+    "rules": [
+      {
+        "type": "easter",
+        "value": "222",
+        "priority": 500
+      }
+    ],
     "slug": "maria-santissima-conduz-os-seus-servos-ao-paraiso",
     "priority": 500
   },
@@ -14531,7 +14681,7 @@
   {
     "bookId": "divine-intimacy",
     "order": 132,
-    "title": "Love of the Corss",
+    "title": "Love of the Cross",
     "subTitle": "Saturday after First Sunday of The Passion",
     "rules": [
       {
@@ -15486,6 +15636,216 @@
       }
     ],
     "slug": "gifts-holy-spirit",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 196,
+    "title": "Feast of the most Holy Trinity",
+    "subTitle": "First Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "56",
+        "priority": 500
+      }
+    ],
+    "slug": "feast-most-holy-trinity",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 197,
+    "title": "The virtues and the gifts",
+    "subTitle": "Monday of First week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "57",
+        "priority": 500
+      }
+    ],
+    "slug": "virtues-gifts",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 198,
+    "title": "The Holy Spirit and Prayer",
+    "subTitle": "Tuesday of First week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "58",
+        "priority": 500
+      }
+    ],
+    "slug": "holy-spirit-prayer",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 199,
+    "title": "The Holy Spirit and Activity",
+    "subTitle": "Wednesday of First week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "59",
+        "priority": 500
+      }
+    ],
+    "slug": "holy-spirit-activity",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 200,
+    "title": "Feast of Corpus Christ",
+    "subTitle": "Thrusday after the feast of the most Holy Trinity",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "60",
+        "priority": 500
+      }
+    ],
+    "slug": "corpus-christi",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 201,
+    "title": "The Real Presence",
+    "subTitle": "Friday of First week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "61",
+        "priority": 500
+      }
+    ],
+    "slug": "real-presence",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 202,
+    "title": "The Mystery of Faith",
+    "subTitle": "Saturday of First week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "62",
+        "priority": 500
+      }
+    ],
+    "slug": "mystery-of-faith",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 203,
+    "title": "The invitation to the banquet",
+    "subTitle": "Second Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "63",
+        "priority": 500
+      }
+    ],
+    "slug": "invitation-banquet",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 204,
+    "title": "Mystery of Hope",
+    "subTitle": "Monday of the second week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "64",
+        "priority": 500
+      }
+    ],
+    "slug": "mystery-of-hope",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 205,
+    "title": "Mystery of Love",
+    "subTitle": "Tuesday of the second week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "65",
+        "priority": 500
+      }
+    ],
+    "slug": "mystery-of-love",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 206,
+    "title": "The sacrament of union",
+    "subTitle": "Wednesday of the second week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "66",
+        "priority": 500
+      }
+    ],
+    "slug": "sacrament-of-union",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 207,
+    "title": "Let us prepare for union",
+    "subTitle": "Thrusday after the feast of the most Holy Trinity",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "67",
+        "priority": 500
+      }
+    ],
+    "slug": "prepare-for-union",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 208,
+    "title": "Feast of the most Sacred Heart of Jesus",
+    "subTitle": "Friday of the second week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "68",
+        "priority": 500
+      }
+    ],
+    "slug": "most-sacred-heart",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 209,
+    "title": "Devotion of the Sacred Heart of Jesus",
+    "subTitle": "Saturday of the second week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "69",
+        "priority": 500
+      }
+    ],
+    "slug": "devotion-sacred-heart",
     "priority": 500
   },
   {
@@ -21449,216 +21809,6 @@
     "priority": 500
   },
   {
-    "bookId": "divine-intimacy",
-    "order": 196,
-    "title": "Feast of the most Holy Trinity",
-    "subTitle": "First Sunday after Pentecost",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "56",
-        "priority": 500
-      }
-    ],
-    "slug": "feast-most-holy-trinity",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 197,
-    "title": "The virtues and the gifts",
-    "subTitle": "Monday of First week after Pentecost",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "57",
-        "priority": 500
-      }
-    ],
-    "slug": "virtues-gifts",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 198,
-    "title": "The Holy Spirit and Prayer",
-    "subTitle": "Tuesday of First week after Pentecost",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "58",
-        "priority": 500
-      }
-    ],
-    "slug": "holy-spirit-prayer",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 199,
-    "title": "The Holy Spirit and Activity",
-    "subTitle": "Wednesday of First week after Pentecost",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "59",
-        "priority": 500
-      }
-    ],
-    "slug": "holy-spirit-activity",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 200,
-    "title": "Feast of Corpus Christ",
-    "subTitle": "Thrusday after the feast of the most Holy Trinity",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "60",
-        "priority": 500
-      }
-    ],
-    "slug": "corpus-christi",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 201,
-    "title": "The Real Presence",
-    "subTitle": "Friday of First week after Pentecost",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "61",
-        "priority": 500
-      }
-    ],
-    "slug": "real-presence",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 202,
-    "title": "The Mystery of Faith",
-    "subTitle": "Saturday of First week after Pentecost",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "62",
-        "priority": 500
-      }
-    ],
-    "slug": "mystery-of-faith",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 203,
-    "title": "The invitation to the banquet",
-    "subTitle": "Second Sunday after Pentecost",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "63",
-        "priority": 500
-      }
-    ],
-    "slug": "invitation-banquet",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 204,
-    "title": "Mystery of Hope",
-    "subTitle": "Monday of the second week after Pentecost",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "64",
-        "priority": 500
-      }
-    ],
-    "slug": "mystery-of-hope",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 205,
-    "title": "Mystery of Love",
-    "subTitle": "Tuesday of the second week after Pentecost",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "65",
-        "priority": 500
-      }
-    ],
-    "slug": "mystery-of-love",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 206,
-    "title": "The sacrament of union",
-    "subTitle": "Wednesday of the second week after Pentecost",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "66",
-        "priority": 500
-      }
-    ],
-    "slug": "sacrament-of-union",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 207,
-    "title": "Let us prepare for union",
-    "subTitle": "Thrusday after the feast of the most Holy Trinity",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "67",
-        "priority": 500
-      }
-    ],
-    "slug": "prepare-for-union",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 208,
-    "title": "Feast of the most Sacred Heart of Jesus",
-    "subTitle": "Friday of the second week after Pentecost",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "68",
-        "priority": 500
-      }
-    ],
-    "slug": "most-sacred-heart",
-    "priority": 500
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 209,
-    "title": "Devotion of the Sacred Heart of Jesus",
-    "subTitle": "Saturday of the second week after Pentecost",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "69",
-        "priority": 500
-      }
-    ],
-    "slug": "devotion-sacred-heart",
-    "priority": 500
-  },
-  {
     "bookId": "alphonsus-every-day",
     "order": 218,
     "title": "Respect due to the dignity of priesthood",
@@ -21883,19 +22033,19 @@
     "slug": "trinity-in-the-soul",
     "priority": 500
   },
-    {
-      "bookId": "breviary-trust",
-      "order": 187,
-      "title": "Quo Vadis?",
-      "subTitle": "July 5th",
-      "rules": [
-        {
-          "type": "fixedDate",
-          "value": "7-5",
-          "priority": 500
-        }
-      ],
-      "slug": "quo-vadis-domine",
-      "priority": 500
-    }
+  {
+    "bookId": "breviary-trust",
+    "order": 187,
+    "title": "Quo Vadis?",
+    "subTitle": "July 5th",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "7-5",
+        "priority": 500
+      }
+    ],
+    "slug": "quo-vadis",
+    "priority": 500
+  }
 ]
