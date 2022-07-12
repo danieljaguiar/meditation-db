@@ -7,7 +7,7 @@
     "rules": [
       {
         "type": "advent",
-        "value": "1",
+        "value": "0",
         "priority": 500
       }
     ],
@@ -22,7 +22,7 @@
     "rules": [
       {
         "type": "advent",
-        "value": "2",
+        "value": "1",
         "priority": 500
       }
     ],
@@ -37,7 +37,7 @@
     "rules": [
       {
         "type": "advent",
-        "value": "3",
+        "value": "2",
         "priority": 500
       }
     ],
@@ -52,7 +52,7 @@
     "rules": [
       {
         "type": "advent",
-        "value": "4",
+        "value": "3",
         "priority": 500
       }
     ],
@@ -67,7 +67,7 @@
     "rules": [
       {
         "type": "advent",
-        "value": "5",
+        "value": "4",
         "priority": 500
       }
     ],
@@ -82,7 +82,7 @@
     "rules": [
       {
         "type": "advent",
-        "value": "6",
+        "value": "5",
         "priority": 500
       }
     ],
@@ -97,7 +97,7 @@
     "rules": [
       {
         "type": "advent",
-        "value": "7",
+        "value": "6",
         "priority": 500
       }
     ],
@@ -112,7 +112,7 @@
     "rules": [
       {
         "type": "advent",
-        "value": "8",
+        "value": "7",
         "priority": 500
       }
     ],
@@ -127,7 +127,7 @@
     "rules": [
       {
         "type": "advent",
-        "value": "9",
+        "value": "8",
         "priority": 500
       }
     ],
@@ -142,7 +142,7 @@
     "rules": [
       {
         "type": "advent",
-        "value": "10",
+        "value": "9",
         "priority": 500
       }
     ],
@@ -157,7 +157,7 @@
     "rules": [
       {
         "type": "advent",
-        "value": "11",
+        "value": "10",
         "priority": 500
       }
     ],
@@ -172,7 +172,7 @@
     "rules": [
       {
         "type": "advent",
-        "value": "12",
+        "value": "11",
         "priority": 500
       }
     ],
@@ -187,7 +187,7 @@
     "rules": [
       {
         "type": "advent",
-        "value": "13",
+        "value": "12",
         "priority": 500
       }
     ],
@@ -202,7 +202,7 @@
     "rules": [
       {
         "type": "advent",
-        "value": "14",
+        "value": "13",
         "priority": 500
       }
     ],
@@ -217,7 +217,7 @@
     "rules": [
       {
         "type": "advent",
-        "value": "15",
+        "value": "14",
         "priority": 500
       }
     ],
@@ -232,7 +232,7 @@
     "rules": [
       {
         "type": "advent",
-        "value": "16",
+        "value": "15",
         "priority": 500
       }
     ],
@@ -247,7 +247,7 @@
     "rules": [
       {
         "type": "advent",
-        "value": "17",
+        "value": "16",
         "priority": 500
       }
     ],
@@ -262,7 +262,7 @@
     "rules": [
       {
         "type": "advent",
-        "value": "18",
+        "value": "17",
         "priority": 500
       }
     ],
@@ -277,7 +277,7 @@
     "rules": [
       {
         "type": "advent",
-        "value": "19",
+        "value": "18",
         "priority": 500
       }
     ],
