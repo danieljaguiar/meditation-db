@@ -748,7 +748,13 @@
     "order": 51,
     "title": "Solicitude maternal de Maria para com Jesus Cristo",
     "subTitle": "Sábado da oitava da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "-1",
+        "priority": 500
+      }
+    ],
     "slug": "solicitude-maternal-de-maria-para-com-jesus-cristo",
     "priority": 500
   },
@@ -7525,7 +7531,13 @@
     "order": 507,
     "title": "Da vida oculta de Jesus no Santíssimo Sacramento",
     "subTitle": "Meditação Alternativa",
-    "rules": [],
+    "rules": [
+      {
+        "type": "easter",
+        "value": "200",
+        "priority": 500
+      }
+    ],
     "slug": "da-vida-oculta-de-jesus-no-santissimo-sacramento",
     "priority": 500
   },
@@ -7585,7 +7597,13 @@
     "order": 513,
     "title": "Tormentos interiores do Pecador",
     "subTitle": "Meditação Alternativa",
-    "rules": [],
+    "rules": [
+      {
+        "type": "easter",
+        "value": "108",
+        "priority": 500
+      }
+    ],
     "slug": "tormentos-interiores-do-pecador",
     "priority": 500
   },
@@ -7639,7 +7657,13 @@
     "order": 517,
     "title": "Maria Santíssima é cheia de Graça",
     "subTitle": "Meditação Alternativa",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "34",
+        "priority": 500
+      }
+    ],
     "slug": "maria-santissima-e-cheia-de-graca",
     "priority": 500
   },
@@ -7663,7 +7687,13 @@
     "order": 519,
     "title": "A Misericórdia de Deus e as Ilusões do Pecador",
     "subTitle": "Meditação Alternativa",
-    "rules": [],
+    "rules": [
+      {
+        "type": "easter",
+        "value": "134",
+        "priority": 500
+      }
+    ],
     "slug": "a-misericordia-de-deus-e-as-ilusoes-do-pecador",
     "priority": 500
   },
@@ -7696,7 +7726,13 @@
     "order": 522,
     "title": "Quem ama a Deus, não deve temer a Morte",
     "subTitle": "Meditação Alternativa",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "10",
+        "priority": 500
+      }
+    ],
     "slug": "quem-ama-a-deus-nao-deve-temer-a-morte",
     "priority": 500
   },
@@ -7729,7 +7765,13 @@
     "order": 525,
     "title": "Protestação para a Boa Morte",
     "subTitle": "Meditação Alternativa",
-    "rules": [],
+    "rules": [
+      {
+        "type": "easter",
+        "value": "93",
+        "priority": 500
+      }
+    ],
     "slug": "protestacao-para-a-boa-morte",
     "priority": 500
   },
@@ -7753,7 +7795,13 @@
     "order": 527,
     "title": "Das Enfermidades",
     "subTitle": "Meditação Alternativa",
-    "rules": [],
+    "rules": [
+      {
+        "type": "easter",
+        "value": "162",
+        "priority": 500
+      }
+    ],
     "slug": "das-enfermidades",
     "priority": 500
   },
