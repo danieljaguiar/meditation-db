@@ -757,7 +757,13 @@
     "order": 52,
     "title": "Perda de Jesus no Templo",
     "subTitle": "Domingo da Primeira Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "0",
+        "priority": 500
+      }
+    ],
     "slug": "perda-de-jesus-no-templo",
     "priority": 500
   },
@@ -766,7 +772,13 @@
     "order": 53,
     "title": "Fim do homem",
     "subTitle": "Segunda-feira da Primeira Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "1",
+        "priority": 500
+      }
+    ],
     "slug": "fim-do-homem",
     "priority": 500
   },
@@ -775,7 +787,13 @@
     "order": 54,
     "title": "Hei de morrer um dia",
     "subTitle": "Terça-feira da Primeira Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "2",
+        "priority": 500
+      }
+    ],
     "slug": "hei-de-morrer-um-dia",
     "priority": 500
   },
@@ -784,7 +802,13 @@
     "order": 55,
     "title": "A eternidade do inferno é terrível, mas justa",
     "subTitle": "Quarta-feira da Primeira Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "3",
+        "priority": 500
+      }
+    ],
     "slug": "a-eternidade-do-inferno-e-terrivel-mas-justa",
     "priority": 500
   },
@@ -793,7 +817,13 @@
     "order": 56,
     "title": "Exemplos que nos da Jesus Menino",
     "subTitle": "Quinta-feira da Primeira Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "4",
+        "priority": 500
+      }
+    ],
     "slug": "exemplos-que-nos-da-jesus-menino",
     "priority": 500
   },
@@ -802,7 +832,13 @@
     "order": 57,
     "title": "Fuga de Jesus para o Egito",
     "subTitle": "Sexta-feira da Primeira Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "5",
+        "priority": 500
+      }
+    ],
     "slug": "fuga-de-jesus-para-o-egito",
     "priority": 500
   },
@@ -811,7 +847,13 @@
     "order": 58,
     "title": "Maria Santíssima, modelo de fé",
     "subTitle": "Sábado da Primeira Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "6",
+        "priority": 500
+      }
+    ],
     "slug": "maria-santissima-modelo-de-fe",
     "priority": 500
   },
@@ -820,7 +862,13 @@
     "order": 59,
     "title": "Desejo que Jesus teve de sofrer por nós",
     "subTitle": "Domingo da Segunda Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "7",
+        "priority": 500
+      }
+    ],
     "slug": "desejo-que-jesus-teve-de-sofrer-por-nos",
     "priority": 500
   },
@@ -829,7 +877,13 @@
     "order": 60,
     "title": "O amor vence tudo",
     "subTitle": "Segunda-feira da Segunda Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "8",
+        "priority": 500
+      }
+    ],
     "slug": "o-amor-vence-tudo",
     "priority": 500
   },
@@ -838,7 +892,13 @@
     "order": 61,
     "title": "Remorsos e desejos de um pecador moribundo",
     "subTitle": "Terça-feira da Segunda Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "9",
+        "priority": 500
+      }
+    ],
     "slug": "remorsos-e-desejos-de-um-pecador-moribundo",
     "priority": 500
   },
@@ -847,7 +907,13 @@
     "order": 62,
     "title": "Morte feliz dos religiosos",
     "subTitle": "Quarta-feira da Segunda Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "10",
+        "priority": 500
+      }
+    ],
     "slug": "morte-feliz-dos-religiosos",
     "priority": 500
   },
@@ -856,7 +922,13 @@
     "order": 63,
     "title": "Estada de Jesus no Egito",
     "subTitle": "Quinta-feira da Segunda Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "11",
+        "priority": 500
+      }
+    ],
     "slug": "estada-de-jesus-no-egito",
     "priority": 500
   },
@@ -865,7 +937,13 @@
     "order": 64,
     "title": "Volta de Jesus do Egito",
     "subTitle": "Sexta-feira da Segunda Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "12",
+        "priority": 500
+      }
+    ],
     "slug": "volta-de-jesus-do-egito",
     "priority": 500
   },
@@ -874,7 +952,13 @@
     "order": 65,
     "title": "Santo Afonso, modelo de devoção a Maria Santíssima",
     "subTitle": "Sábado da Segunda Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "13",
+        "priority": 500
+      }
+    ],
     "slug": "santo-afonso-modelo-de-devocao-a-maria-santissima",
     "priority": 500
   },
@@ -883,7 +967,13 @@
     "order": 66,
     "title": "O Centurião e os homens de meia fé",
     "subTitle": "Domingo da Terceira Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "14",
+        "priority": 500
+      }
+    ],
     "slug": "o-centuriao-e-os-homens-de-meia-fe",
     "priority": 500
   },
@@ -892,7 +982,13 @@
     "order": 67,
     "title": "Os bens do mundo não nos podem fazer felizes",
     "subTitle": "Segunda-feira da Terceira Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "15",
+        "priority": 500
+      }
+    ],
     "slug": "os-bens-do-mundo-nao-nos-podem-fazer-felizes",
     "priority": 500
   },
@@ -901,7 +997,13 @@
     "order": 68,
     "title": "Vinda do divino Juiz e exame no Juízo Final",
     "subTitle": "Terça-feira da Terceira Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "16",
+        "priority": 500
+      }
+    ],
     "slug": "vinda-do-divino-juiz-e-exame-no-juizo-final",
     "priority": 500
   },
@@ -910,7 +1012,13 @@
     "order": 69,
     "title": "Quanto é cara a Deus a alma que se lhe entrega toda",
     "subTitle": "Quarta-feira da Terceira Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "17",
+        "priority": 500
+      }
+    ],
     "slug": "quanto-e-cara-a-alma-que-se-entrega",
     "priority": 500
   },
@@ -919,7 +1027,13 @@
     "order": 70,
     "title": "Jesus na casa de Nazaré",
     "subTitle": "Quinta-feira da Terceira Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "18",
+        "priority": 500
+      }
+    ],
     "slug": "jesus-na-casa-de-nazare",
     "priority": 500
   },
@@ -928,7 +1042,13 @@
     "order": 71,
     "title": "Jesus cresce em idade, em sabedoria, e em graça",
     "subTitle": "Sexta-feira da Terceira Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "19",
+        "priority": 500
+      }
+    ],
     "slug": "jesus-cresce-em-idade-em-sabedoria-e-em-graca",
     "priority": 500
   },
@@ -937,7 +1057,13 @@
     "order": 72,
     "title": "Da confiança em Maria, Rainha de misericórdia",
     "subTitle": "Sábado da Terceira Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "20",
+        "priority": 500
+      }
+    ],
     "slug": "da-confianca-em-maria-rainha-de-misericordia",
     "priority": 500
   },
@@ -946,7 +1072,13 @@
     "order": 73,
     "title": "A barca na tempestade e a Igreja Católica",
     "subTitle": "Domingo da Quarta Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "21",
+        "priority": 500
+      }
+    ],
     "slug": "a-barca-na-tempestade-e-a-igreja-catolica",
     "priority": 500
   },
@@ -955,7 +1087,13 @@
     "order": 74,
     "title": "Incerteza da hora da morte",
     "subTitle": "Segunda-feira da Quarta Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "22",
+        "priority": 500
+      }
+    ],
     "slug": "incerteza-da-hora-da-morte",
     "priority": 500
   },
@@ -964,7 +1102,13 @@
     "order": 75,
     "title": "Do fogo do inferno",
     "subTitle": "Terça-feira da Quarta Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "23",
+        "priority": 500
+      }
+    ],
     "slug": "do-fogo-do-inferno",
     "priority": 500
   },
@@ -973,7 +1117,13 @@
     "order": 76,
     "title": "Qual será o gozo dos Bem-aventurados no paraíso",
     "subTitle": "Quarta-feira da Quarta Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "24",
+        "priority": 500
+      }
+    ],
     "slug": "qual-sera-o-gozo-dos-bemaventurados-no-paraiso",
     "priority": 500
   },
@@ -982,7 +1132,13 @@
     "order": 77,
     "title": "Devemos esperar tudo pelos merecimentos de Jesus Cristo",
     "subTitle": "Quinta-feira da Quarta Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "25",
+        "priority": 500
+      }
+    ],
     "slug": "devemos-esperar-tudo-pelos-merecimentos-de-jesus-cristo",
     "priority": 500
   },
@@ -991,7 +1147,13 @@
     "order": 78,
     "title": "Jesus quis sofrer afim de ganhar os nossos corações",
     "subTitle": "Sexta-feira da Quarta Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "26",
+        "priority": 500
+      }
+    ],
     "slug": "jesus-quis-sofrer-afim-de-ganhar-os-nossos-coracoes",
     "priority": 500
   },
@@ -1000,7 +1162,13 @@
     "order": 79,
     "title": "Maria Santíssima, modelo de esperança",
     "subTitle": "Sábado da Quarta Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "27",
+        "priority": 500
+      }
+    ],
     "slug": "maria-santissima-modelo-de-esperanca",
     "priority": 500
   },
@@ -1009,7 +1177,13 @@
     "order": 80,
     "title": "A parábola do joio e a conduta de Deus para com os pecadores",
     "subTitle": "Domingo da Quinta Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "28",
+        "priority": 500
+      }
+    ],
     "slug": "parabola-do-joio-conduta-para-com-pecadores",
     "priority": 500
   },
@@ -1018,7 +1192,13 @@
     "order": 81,
     "title": "Sejamos peregrinos sobre a terra",
     "subTitle": "Segunda-feira da Quinta Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "29",
+        "priority": 500
+      }
+    ],
     "slug": "sejamos-peregrinos-sobre-a-terra",
     "priority": 500
   },
@@ -1027,7 +1207,13 @@
     "order": 82,
     "title": "Loucos os pecadores",
     "subTitle": "Terça-feira da Quinta Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "30",
+        "priority": 500
+      }
+    ],
     "slug": "loucos-os-pecadores",
     "priority": 500
   },
@@ -1036,7 +1222,13 @@
     "order": 83,
     "title": "O pecador abandonado por Deus",
     "subTitle": "Quarta-feira da Quinta Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "31",
+        "priority": 500
+      }
+    ],
     "slug": "o-pecador-abandonado-por-deus",
     "priority": 500
   },
@@ -1045,7 +1237,13 @@
     "order": 84,
     "title": "Amor que Deus mostrou aos homens no mistério da Encarnação",
     "subTitle": "Quinta-feira da Quinta Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "32",
+        "priority": 500
+      }
+    ],
     "slug": "amor-que-deus-mostrou-aos-homens-no-misterio-da-encarnacao",
     "priority": 500
   },
@@ -1054,7 +1252,13 @@
     "order": 85,
     "title": "A pena mais grave do Menino Jesus",
     "subTitle": "Sexta-feira da Quinta Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "33",
+        "priority": 500
+      }
+    ],
     "slug": "a-pena-mais-grave-do-menino-jesus",
     "priority": 500
   },
@@ -1063,7 +1267,13 @@
     "order": 86,
     "title": "Quanto os religiosos devem confiar no patrocínio de Maria",
     "subTitle": "Sábado da Quinta Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "34",
+        "priority": 500
+      }
+    ],
     "slug": "quanto-os-religiosos-devem-confiar-no-patrocinio-de-maria",
     "priority": 500
   },
@@ -1072,7 +1282,13 @@
     "order": 87,
     "title": "A parábola do fermento e os efeitos da graça santificante",
     "subTitle": "Domingo da Sexta Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "35",
+        "priority": 500
+      }
+    ],
     "slug": "a-parabola-do-fermento-e-os-efeitos-da-graca-santificante",
     "priority": 500
   },
@@ -1081,7 +1297,13 @@
     "order": 88,
     "title": "Necessidade da oração mental",
     "subTitle": "Segunda-feira da Sexta Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "36",
+        "priority": 500
+      }
+    ],
     "slug": "necessidade-da-oracao-mental",
     "priority": 500
   },
@@ -1090,7 +1312,13 @@
     "order": 89,
     "title": "Paciência de Deus em esperar que o pecador faça penitência",
     "subTitle": "Terça-feira da Sexta Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "37",
+        "priority": 500
+      }
+    ],
     "slug": "paciencia-de-deus-em-esperar-que-o-pecador-faca-penitencia",
     "priority": 500
   },
@@ -1099,7 +1327,13 @@
     "order": 90,
     "title": "Momento da morte",
     "subTitle": "Quarta-feira da Sexta Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "38",
+        "priority": 500
+      }
+    ],
     "slug": "momento-da-morte",
     "priority": 500
   },
@@ -1108,7 +1342,13 @@
     "order": 91,
     "title": "Amor de Deus em fazer-se homem",
     "subTitle": "Quinta-feira da Sexta Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "39",
+        "priority": 500
+      }
+    ],
     "slug": "amor-de-deus-em-fazerse-homem",
     "priority": 500
   },
@@ -1117,7 +1357,13 @@
     "order": 92,
     "title": "Amor de Deus em fazer-se criança",
     "subTitle": "Sexta-feira da Sexta Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "40",
+        "priority": 500
+      }
+    ],
     "slug": "amor-de-deus-em-fazerse-crianca",
     "priority": 500
   },
@@ -1126,7 +1372,13 @@
     "order": 93,
     "title": "Vantagens das Congregações de Maria Santíssima",
     "subTitle": "Sábado da Sexta Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "41",
+        "priority": 500
+      }
+    ],
     "slug": "vantagens-das-congregacoes-de-maria-santissima",
     "priority": 500
   },
@@ -6289,7 +6541,13 @@
     "order": 438,
     "title": "Solenidade do Santíssimo Redentor",
     "subTitle": "Terceiro domingo de Julho",
-    "rules": [],
+    "rules": [
+      {
+        "type": "ordinal",
+        "value": "3-0-7",
+        "priority": 500
+      }
+    ],
     "slug": "solenidade-do-santissimo-redentor",
     "priority": 500
   },
@@ -6628,7 +6886,13 @@
     "order": 461,
     "title": "Suspiros pela Pátria Celeste",
     "subTitle": "Outra meditação para a tarde do mesmo dia",
-    "rules": [],
+    "rules": [
+      {
+        "type": "ordinal",
+        "value": "3-0-7",
+        "priority": 500
+      }
+    ],
     "slug": "suspiros-pela-patria-celeste",
     "priority": 500
   },
@@ -6697,7 +6961,13 @@
     "order": 466,
     "title": "A Devoção ao Sagrado Coração, Seta Reservada",
     "subTitle": "1ª Sexta-feira de Janeiro",
-    "rules": [],
+    "rules": [
+      {
+        "type": "ordinal",
+        "value": "1-5-1",
+        "priority": 500
+      }
+    ],
     "slug": "a-devocao-ao-sagrado-coracao-seta-reservada",
     "priority": 500
   },
@@ -6706,7 +6976,13 @@
     "order": 467,
     "title": "Recompensa da devoção ao Sagrado Coração: a Perseverança",
     "subTitle": "1ª Sexta-feira de Fevereiro",
-    "rules": [],
+    "rules": [
+      {
+        "type": "ordinal",
+        "value": "1-5-2",
+        "priority": 500
+      }
+    ],
     "slug": "recompensa-da-devocao-ao-sagrado-coracao-a-perseveranca",
     "priority": 500
   },
@@ -6715,7 +6991,13 @@
     "order": 468,
     "title": "Meio de nos unirmos ao Sagrado Coração: a Boa Intenção",
     "subTitle": "1ª Sexta-feira de Março",
-    "rules": [],
+    "rules": [
+      {
+        "type": "ordinal",
+        "value": "1-5-3",
+        "priority": 500
+      }
+    ],
     "slug": "meio-de-nos-unirmos-ao-sagrado-coracao-a-boa-intencao",
     "priority": 500
   },
@@ -6724,7 +7006,13 @@
     "order": 469,
     "title": "O Sagrado Coração, Reservatório de Graças",
     "subTitle": "1ª Sexta-feira de Abril",
-    "rules": [],
+    "rules": [
+      {
+        "type": "ordinal",
+        "value": "1-5-4",
+        "priority": 500
+      }
+    ],
     "slug": "o-sagrado-coracao-reservatorio-de-gracas",
     "priority": 500
   },
@@ -6733,7 +7021,13 @@
     "order": 470,
     "title": "O Coração de Jesus, Vítima Voluntária",
     "subTitle": "1ª Sexta-feira de Maio",
-    "rules": [],
+    "rules": [
+      {
+        "type": "ordinal",
+        "value": "1-5-5",
+        "priority": 500
+      }
+    ],
     "slug": "o-coracao-de-jesus-vitima-voluntaria",
     "priority": 500
   },
@@ -6742,7 +7036,13 @@
     "order": 471,
     "title": "Apostolado Perpétuo do Coração de Jesus",
     "subTitle": "1ª Sexta-feira de Junho",
-    "rules": [],
+    "rules": [
+      {
+        "type": "ordinal",
+        "value": "1-5-6",
+        "priority": 500
+      }
+    ],
     "slug": "apostolado-perpetuo-do-coracao-de-jesus",
     "priority": 500
   },
@@ -6751,7 +7051,13 @@
     "order": 472,
     "title": "Coração de Jesus, modelo de Humildade",
     "subTitle": "1ª Sexta-feira de Julho",
-    "rules": [],
+    "rules": [
+      {
+        "type": "ordinal",
+        "value": "1-5-7",
+        "priority": 500
+      }
+    ],
     "slug": "coracao-de-jesus-modelo-de-humildade",
     "priority": 500
   },
@@ -6760,7 +7066,13 @@
     "order": 473,
     "title": "O Coração de Jesus, modelo de Mansidão",
     "subTitle": "1ª Sexta-feira de Agosto",
-    "rules": [],
+    "rules": [
+      {
+        "type": "ordinal",
+        "value": "1-5-8",
+        "priority": 500
+      }
+    ],
     "slug": "o-coracao-de-jesus-modelo-de-mansidao",
     "priority": 500
   },
@@ -6769,7 +7081,13 @@
     "order": 474,
     "title": "O Coração de Jesus, Amigo das Almas Castas",
     "subTitle": "1ª Sexta-feira de Setembro",
-    "rules": [],
+    "rules": [
+      {
+        "type": "ordinal",
+        "value": "1-5-9",
+        "priority": 500
+      }
+    ],
     "slug": "o-coracao-de-jesus-amigo-das-almas-castas",
     "priority": 500
   },
@@ -6778,7 +7096,13 @@
     "order": 475,
     "title": "O Coração de Jesus, Centro dos Corações",
     "subTitle": "1ª Sexta-feira de Outubro",
-    "rules": [],
+    "rules": [
+      {
+        "type": "ordinal",
+        "value": "1-5-10",
+        "priority": 500
+      }
+    ],
     "slug": "o-coracao-de-jesus-centro-dos-coracoes",
     "priority": 500
   },
@@ -6787,7 +7111,13 @@
     "order": 476,
     "title": "O Coração de Jesus, modelo de Conformidade com a Vontade de Deus",
     "subTitle": "1ª Sexta-feira de Novembro",
-    "rules": [],
+    "rules": [
+      {
+        "type": "ordinal",
+        "value": "1-5-11",
+        "priority": 500
+      }
+    ],
     "slug": "o-coracao-de-jesus-modelo-de-conformidade",
     "priority": 500
   },
@@ -6796,7 +7126,13 @@
     "order": 477,
     "title": "O Coração de Jesus, modelo de Fidelidade",
     "subTitle": "1ª Sexta-feira de Dezembro",
-    "rules": [],
+    "rules": [
+      {
+        "type": "ordinal",
+        "value": "1-5-12",
+        "priority": 500
+      }
+    ],
     "slug": "o-coracao-de-jesus-modelo-de-fidelidade",
     "priority": 500
   },
@@ -6955,7 +7291,13 @@
     "order": 489,
     "title": "Da viagem de São José e Maria Santíssima a Belém, onde nasceu Jesus",
     "subTitle": "1ª Quarta-feira de Março",
-    "rules": [],
+    "rules": [
+      {
+        "type": "ordinal",
+        "value": "1-3-3",
+        "priority": 500
+      }
+    ],
     "slug": "viagem-sao-jose-maria-santissima-a-belem",
     "priority": 500
   },
@@ -6964,7 +7306,13 @@
     "order": 490,
     "title": "Fuga para o Egito",
     "subTitle": "2ª Quarta-feira de Março",
-    "rules": [],
+    "rules": [
+      {
+        "type": "ordinal",
+        "value": "2-3-3",
+        "priority": 500
+      }
+    ],
     "slug": "fuga-para-o-egito",
     "priority": 500
   },
@@ -6973,7 +7321,13 @@
     "order": 491,
     "title": "Da volta do Egito e da perda de Jesus no Templo",
     "subTitle": "3ª Quarta-feira de Março",
-    "rules": [],
+    "rules": [
+      {
+        "type": "ordinal",
+        "value": "3-3-3",
+        "priority": 500
+      }
+    ],
     "slug": "da-volta-do-egito-e-da-perda-de-jesus-no-templo",
     "priority": 500
   },
