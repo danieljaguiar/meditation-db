@@ -22623,5 +22623,110 @@
     ],
     "slug": "quo-vadis",
     "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 224,
+    "title": "Fraternal Harmony",
+    "subTitle": "Fifth Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "84",
+        "priority": 500
+      }
+    ],
+    "slug": "fraternal-harmony",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 225,
+    "title": "Living with the Trinity",
+    "subTitle": "Monday of the fifth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "85",
+        "priority": 500
+      }
+    ],
+    "slug": "living-with-the-trinity",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 226,
+    "title": "The Glory of The Most Holy Trinity",
+    "subTitle": "Tuesday of the fifth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "86",
+        "priority": 500
+      }
+    ],
+    "slug": "glory-of-most-holy",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 227,
+    "title": "The Divine Perfections",
+    "subTitle": "Wednesday of the fifth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "87",
+        "priority": 500
+      }
+    ],
+    "slug": "divine-perfections",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 228,
+    "title": "The Divine Essence",
+    "subTitle": "Thrusday after the feast of the most Holy Trinity",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "88",
+        "priority": 500
+      }
+    ],
+    "slug": "divine-essence",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 229,
+    "title": "Divine Simplicity",
+    "subTitle": "Friday of the fifth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "89",
+        "priority": 500
+      }
+    ],
+    "slug": "divine-simplicity",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 230,
+    "title": "The immutability and eternity of God",
+    "subTitle": "Saturday of the fifth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "90",
+        "priority": 500
+      }
+    ],
+    "slug": "immutability-eternity",
+    "priority": 500
   }
 ]
