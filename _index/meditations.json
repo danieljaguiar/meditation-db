@@ -22728,5 +22728,110 @@
     ],
     "slug": "immutability-eternity",
     "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 231,
+    "title": "The compassion of Jesus",
+    "subTitle": "Sixth Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "91",
+        "priority": 500
+      }
+    ],
+    "slug": "the-compassion",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 232,
+    "title": "God's Inifinite Goodness",
+    "subTitle": "Monday of the sixth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "92",
+        "priority": 500
+      }
+    ],
+    "slug": "infinite-goodness",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 233,
+    "title": "God's Inifinite Goodness is Diffusive",
+    "subTitle": "Tuesday of the sixth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "93",
+        "priority": 500
+      }
+    ],
+    "slug": "goodness-is-diffusive",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 234,
+    "title": "Infinite Wisdom",
+    "subTitle": "Wednesday of the sixth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "94",
+        "priority": 500
+      }
+    ],
+    "slug": "infinite-wisdom",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 235,
+    "title": "Infinite Love",
+    "subTitle": "Thrusday after the feast of the most Holy Trinity",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "95",
+        "priority": 500
+      }
+    ],
+    "slug": "infinite-love",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 236,
+    "title": "Infinite Mercy",
+    "subTitle": "Friday of the sixth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "96",
+        "priority": 500
+      }
+    ],
+    "slug": "infinite-mercy",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 237,
+    "title": "Infinite Justice",
+    "subTitle": "Saturday of the sixth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "97",
+        "priority": 500
+      }
+    ],
+    "slug": "infinite-justice",
+    "priority": 500
   }
 ]
