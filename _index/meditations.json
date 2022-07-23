@@ -22833,5 +22833,110 @@
     ],
     "slug": "infinite-justice",
     "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 238,
+    "title": "The fruits of life",
+    "subTitle": "Seventh Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "98",
+        "priority": 500
+      }
+    ],
+    "slug": "fruits-of-life",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 239,
+    "title": "Divine Providence",
+    "subTitle": "Monday of the seventh week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "99",
+        "priority": 500
+      }
+    ],
+    "slug": "divine-providence",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 240,
+    "title": "Divine Omnipotence",
+    "subTitle": "Tuesday of the seventh week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "100",
+        "priority": 500
+      }
+    ],
+    "slug": "divine-omnipotence",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 241,
+    "title": "Faith",
+    "subTitle": "Wednesday of the seventh week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "101",
+        "priority": 500
+      }
+    ],
+    "slug": "faith",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 242,
+    "title": "The obscure light of faith",
+    "subTitle": "Thrusday after the feast of the most Holy Trinity",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "102",
+        "priority": 500
+      }
+    ],
+    "slug": "obscure-light",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 243,
+    "title": "The power of faith",
+    "subTitle": "Friday of the seventh week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "103",
+        "priority": 500
+      }
+    ],
+    "slug": "power-faith",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 244,
+    "title": "Faith in Practice",
+    "subTitle": "Saturday of the seventh week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "104",
+        "priority": 500
+      }
+    ],
+    "slug": "faith-practice",
+    "priority": 500
   }
 ]
