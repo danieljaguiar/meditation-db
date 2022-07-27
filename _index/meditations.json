@@ -22938,5 +22938,110 @@
     ],
     "slug": "faith-practice",
     "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 245,
+    "title": "Our Riches",
+    "subTitle": "Eighth Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "105",
+        "priority": 500
+      }
+    ],
+    "slug": "our-riches",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 246,
+    "title": "Hope",
+    "subTitle": "Monday of the eighth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "106",
+        "priority": 500
+      }
+    ],
+    "slug": "hope",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 247,
+    "title": "The motive for Hope",
+    "subTitle": "Tuesday of the eighth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "107",
+        "priority": 500
+      }
+    ],
+    "slug": "motive-for-hope",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 248,
+    "title": "The test of Hope",
+    "subTitle": "Wednesday of the eighth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "108",
+        "priority": 500
+      }
+    ],
+    "slug": "test-of-hope",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 249,
+    "title": "Boundless Hope",
+    "subTitle": "Thrusday after the feast of the most Holy Trinity",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "109",
+        "priority": 500
+      }
+    ],
+    "slug": "boundless-hope",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 250,
+    "title": "Charity",
+    "subTitle": "Friday of the eighth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "110",
+        "priority": 500
+      }
+    ],
+    "slug": "charity",
+    "priority": 500
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 251,
+    "title": "The love of Friendship",
+    "subTitle": "Saturday of the eighth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "111",
+        "priority": 500
+      }
+    ],
+    "slug": "love-of-friendship",
+    "priority": 500
   }
 ]
