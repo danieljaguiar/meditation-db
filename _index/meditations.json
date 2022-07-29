@@ -23043,5 +23043,103 @@
     ],
     "slug": "love-of-friendship",
     "priority": 500
+  },
+  {
+    "order": "divine-intimacy",
+    "title": 252,
+    "subTitle": "Correspondence with grace",
+    "rules": "Ninth Sunday after Pentecost",
+    "slug": [
+      {
+        "type": "easter",
+        "value": "112",
+        "priority": 500
+      }
+    ],
+    "priority": "correspondence-grace"
+  },
+  {
+    "order": "divine-intimacy",
+    "title": 253,
+    "subTitle": "The precept of charity",
+    "rules": "Monday of the ninth week after Pentecost",
+    "slug": [
+      {
+        "type": "easter",
+        "value": "113",
+        "priority": 500
+      }
+    ],
+    "priority": "precept-charity"
+  },
+  {
+    "order": "divine-intimacy",
+    "title": 254,
+    "subTitle": "The excellence of charity",
+    "rules": "Tuesday of the ninth week after Pentecost",
+    "slug": [
+      {
+        "type": "easter",
+        "value": "114",
+        "priority": 500
+      }
+    ],
+    "priority": "excellence-of-charity"
+  },
+  {
+    "order": "divine-intimacy",
+    "title": 255,
+    "subTitle": "The act of love",
+    "rules": "Wednesday of the ninth week after Pentecost",
+    "slug": [
+      {
+        "type": "easter",
+        "value": "115",
+        "priority": 500
+      }
+    ],
+    "priority": "act-of-love"
+  },
+  {
+    "order": "divine-intimacy",
+    "title": 256,
+    "subTitle": "The life of love",
+    "rules": "Thrusday after the feast of the most Holy Trinity",
+    "slug": [
+      {
+        "type": "easter",
+        "value": "116",
+        "priority": 500
+      }
+    ],
+    "priority": "life-of-love"
+  },
+  {
+    "order": "divine-intimacy",
+    "title": 257,
+    "subTitle": "Fraternal Charity",
+    "rules": "Friday of the ninth week after Pentecost",
+    "slug": [
+      {
+        "type": "easter",
+        "value": "117",
+        "priority": 500
+      }
+    ],
+    "priority": "fraternal-charity"
+  },
+  {
+    "order": "divine-intimacy",
+    "title": 258,
+    "subTitle": "The motive for fraternal charity",
+    "rules": "Saturday of the ninth week after Pentecost",
+    "slug": [
+      {
+        "type": "easter",
+        "value": "118",
+        "priority": 500
+      }
+    ],
+    "priority": "motive-for-fraternal-charity"
   }
 ]
