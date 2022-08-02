@@ -60,35 +60,6 @@ for meditation in meditations:
             new_tag_list.append({"name": tag_from_meditation, "counts": [{
                                 "language": language, "count": 1}]})
 
-        #         if not tag_from_list["count"]:
-        #             tag_from_list["name"]["count"] = [{"language": language, "count": 1}]
-        #             tag_updated = True
-
-        # tag_in_new_list = [
-        #     item for item in new_tag_list if item["name"] == tag_from_meditation]
-
-        # if tag_in_new_list and len(tag_in_new_list) >= 1:
-        #     temp_tag = tag_in_new_list[0]
-
-        #     language_count = [
-        #         lcount for lcount in temp_tag["languageCount"] if lcount["language"] == language]
-
-        #     if language_count and len(language_count) >= 1:
-
-        #         temp_count = language_count[0]
-
-        #         temp_count = {"language": language,
-        #                       "count": temp_count["count"] + 1}
-        #     else:
-        #         temp_tag["languageCount"].append(
-        #             {"language": language, "count": 1})
-
-        # else:
-        #     new_tag_list.append({"name": tag_from_meditation, "languageCount": [{
-        #                         "language": language, "count": 1}]})
-
-
-print(new_tag_list)
 
 output_path = "./_index/tags.json"
 

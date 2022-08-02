@@ -10,7 +10,8 @@
                 "language": "en",
                 "count": 1
             }
-        ]
+        ],
+        "en": 1
     },
     {
         "name": "Adam",
@@ -41,7 +42,8 @@
                 "language": "en",
                 "count": 110
             }
-        ]
+        ],
+        "en": 1
     },
     {
         "name": "OurLady",
@@ -54,7 +56,8 @@
                 "language": "en",
                 "count": 18
             }
-        ]
+        ],
+        "en": 1
     },
     {
         "name": "Tribulation",
@@ -67,7 +70,8 @@
                 "language": "en",
                 "count": 2
             }
-        ]
+        ],
+        "en": 1
     },
     {
         "name": "Crucification",
@@ -80,7 +84,8 @@
                 "language": "en",
                 "count": 4
             }
-        ]
+        ],
+        "en": 1
     },
     {
         "name": "Death",
@@ -93,7 +98,8 @@
                 "language": "en",
                 "count": 2
             }
-        ]
+        ],
+        "en": 1
     },
     {
         "name": "Redemption",
@@ -106,7 +112,8 @@
                 "language": "en",
                 "count": 2
             }
-        ]
+        ],
+        "en": 1
     },
     {
         "name": "GodsLove",
@@ -119,7 +126,8 @@
                 "language": "en",
                 "count": 2
             }
-        ]
+        ],
+        "en": 1
     },
     {
         "name": "Patience",
@@ -132,7 +140,8 @@
                 "language": "en",
                 "count": 1
             }
-        ]
+        ],
+        "en": 1
     },
     {
         "name": "Hell",
@@ -154,7 +163,8 @@
                 "language": "en",
                 "count": 35
             }
-        ]
+        ],
+        "en": 1
     },
     {
         "name": "Procastination",
@@ -176,7 +186,8 @@
                 "language": "en",
                 "count": 1
             }
-        ]
+        ],
+        "en": 1
     },
     {
         "name": "SoulFirst-Materialistic",
@@ -189,7 +200,8 @@
                 "language": "en",
                 "count": 3
             }
-        ]
+        ],
+        "en": 1
     },
     {
         "name": "Disease",
@@ -202,7 +214,8 @@
                 "language": "en",
                 "count": 2
             }
-        ]
+        ],
+        "en": 1
     },
     {
         "name": "ReligiousLife",
@@ -215,7 +228,8 @@
                 "language": "en",
                 "count": 1
             }
-        ]
+        ],
+        "en": 1
     },
     {
         "name": "Faith",
@@ -228,7 +242,8 @@
                 "language": "en",
                 "count": 2
             }
-        ]
+        ],
+        "en": 1
     },
     {
         "name": "Church",
@@ -259,7 +274,8 @@
                 "language": "en",
                 "count": 1
             }
-        ]
+        ],
+        "en": 1
     },
     {
         "name": "Suffering",
@@ -272,7 +288,8 @@
                 "language": "en",
                 "count": 4
             }
-        ]
+        ],
+        "en": 1
     },
     {
         "name": "Sinner",
@@ -294,7 +311,8 @@
                 "language": "en",
                 "count": 5
             }
-        ]
+        ],
+        "en": 1
     },
     {
         "name": "Penitence",
@@ -307,7 +325,8 @@
                 "language": "en",
                 "count": 1
             }
-        ]
+        ],
+        "en": 1
     },
     {
         "name": "Obdience",
@@ -320,7 +339,8 @@
                 "language": "en",
                 "count": 6
             }
-        ]
+        ],
+        "en": 1
     },
     {
         "name": "Mass",
@@ -333,7 +353,8 @@
                 "language": "en",
                 "count": 3
             }
-        ]
+        ],
+        "en": 1
     },
     {
         "name": "Carnival",
@@ -364,7 +385,8 @@
                 "language": "en",
                 "count": 3
             }
-        ]
+        ],
+        "en": 1
     },
     {
         "name": "BlessedSacrament",
@@ -377,7 +399,8 @@
                 "language": "en",
                 "count": 10
             }
-        ]
+        ],
+        "en": 1
     },
     {
         "name": "SaintJoseph",
@@ -435,7 +458,8 @@
                 "language": "en",
                 "count": 2
             }
-        ]
+        ],
+        "en": 1
     },
     {
         "name": "Prayer",
@@ -448,7 +472,8 @@
                 "language": "en",
                 "count": 6
             }
-        ]
+        ],
+        "en": 1
     },
     {
         "name": "Condemnation",
@@ -470,7 +495,8 @@
                 "language": "en",
                 "count": 2
             }
-        ]
+        ],
+        "en": 1
     },
     {
         "name": "SaintAlphonsus",
@@ -501,7 +527,8 @@
                 "language": "en",
                 "count": 2
             }
-        ]
+        ],
+        "en": 1
     },
     {
         "name": "SoulFirst-Countrism",
@@ -514,7 +541,8 @@
                 "language": "en",
                 "count": 1
             }
-        ]
+        ],
+        "en": 1
     },
     {
         "name": "Mercy",
@@ -527,7 +555,8 @@
                 "language": "en",
                 "count": 1
             }
-        ]
+        ],
+        "en": 1
     },
     {
         "name": "happiness",
@@ -558,7 +587,8 @@
                 "language": "pt",
                 "count": 1
             }
-        ]
+        ],
+        "pt": 1
     },
     {
         "name": "Gossip",
