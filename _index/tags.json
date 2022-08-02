@@ -1,602 +1,232 @@
 [
     {
         "name": "Judgement",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 18
-            },
-            {
-                "language": "en",
-                "count": 1
-            }
-        ],
+        "pt": 18,
         "en": 1
     },
     {
         "name": "Adam",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 1
-            }
-        ]
+        "pt": 1
     },
     {
         "name": "Incarnation",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 7
-            }
-        ]
+        "pt": 7
     },
     {
         "name": "Pending",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 444
-            },
-            {
-                "language": "en",
-                "count": 110
-            }
-        ],
-        "en": 1
+        "pt": 444,
+        "en": 110
     },
     {
         "name": "OurLady",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 107
-            },
-            {
-                "language": "en",
-                "count": 18
-            }
-        ],
-        "en": 1
+        "pt": 107,
+        "en": 18
     },
     {
         "name": "Tribulation",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 28
-            },
-            {
-                "language": "en",
-                "count": 2
-            }
-        ],
-        "en": 1
+        "pt": 28,
+        "en": 2
     },
     {
         "name": "Crucification",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 10
-            },
-            {
-                "language": "en",
-                "count": 4
-            }
-        ],
-        "en": 1
+        "pt": 10,
+        "en": 4
     },
     {
         "name": "Death",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 42
-            },
-            {
-                "language": "en",
-                "count": 2
-            }
-        ],
-        "en": 1
+        "pt": 42,
+        "en": 2
     },
     {
         "name": "Redemption",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 3
-            },
-            {
-                "language": "en",
-                "count": 2
-            }
-        ],
-        "en": 1
+        "pt": 3,
+        "en": 2
     },
     {
         "name": "GodsLove",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 34
-            },
-            {
-                "language": "en",
-                "count": 2
-            }
-        ],
-        "en": 1
+        "pt": 34,
+        "en": 2
     },
     {
         "name": "Patience",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 3
-            },
-            {
-                "language": "en",
-                "count": 1
-            }
-        ],
+        "pt": 3,
         "en": 1
     },
     {
         "name": "Hell",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 12
-            }
-        ]
+        "pt": 12
     },
     {
         "name": "Passion",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 63
-            },
-            {
-                "language": "en",
-                "count": 35
-            }
-        ],
-        "en": 1
+        "pt": 63,
+        "en": 35
     },
     {
         "name": "Procastination",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 3
-            }
-        ]
+        "pt": 3
     },
     {
         "name": "Humility",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 3
-            },
-            {
-                "language": "en",
-                "count": 1
-            }
-        ],
+        "pt": 3,
         "en": 1
     },
     {
         "name": "SoulFirst-Materialistic",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 14
-            },
-            {
-                "language": "en",
-                "count": 3
-            }
-        ],
-        "en": 1
+        "pt": 14,
+        "en": 3
     },
     {
         "name": "Disease",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 17
-            },
-            {
-                "language": "en",
-                "count": 2
-            }
-        ],
-        "en": 1
+        "pt": 17,
+        "en": 2
     },
     {
         "name": "ReligiousLife",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 15
-            },
-            {
-                "language": "en",
-                "count": 1
-            }
-        ],
+        "pt": 15,
         "en": 1
     },
     {
         "name": "Faith",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 1
-            },
-            {
-                "language": "en",
-                "count": 2
-            }
-        ],
-        "en": 1
+        "pt": 1,
+        "en": 2
     },
     {
         "name": "Church",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 3
-            }
-        ]
+        "pt": 3
     },
     {
         "name": "Heaven",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 9
-            }
-        ]
+        "pt": 9
     },
     {
         "name": "Hope",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 5
-            },
-            {
-                "language": "en",
-                "count": 1
-            }
-        ],
+        "pt": 5,
         "en": 1
     },
     {
         "name": "Suffering",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 19
-            },
-            {
-                "language": "en",
-                "count": 4
-            }
-        ],
-        "en": 1
+        "pt": 19,
+        "en": 4
     },
     {
         "name": "Sinner",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 31
-            }
-        ]
+        "pt": 31
     },
     {
         "name": "Meditation",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 7
-            },
-            {
-                "language": "en",
-                "count": 5
-            }
-        ],
-        "en": 1
+        "pt": 7,
+        "en": 5
     },
     {
         "name": "Penitence",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 7
-            },
-            {
-                "language": "en",
-                "count": 1
-            }
-        ],
+        "pt": 7,
         "en": 1
     },
     {
         "name": "Obdience",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 5
-            },
-            {
-                "language": "en",
-                "count": 6
-            }
-        ],
-        "en": 1
+        "pt": 5,
+        "en": 6
     },
     {
         "name": "Mass",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 8
-            },
-            {
-                "language": "en",
-                "count": 3
-            }
-        ],
-        "en": 1
+        "pt": 8,
+        "en": 3
     },
     {
         "name": "Carnival",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 2
-            }
-        ]
+        "pt": 2
     },
     {
         "name": "Trust",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 1
-            }
-        ]
+        "pt": 1
     },
     {
         "name": "Temptation",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 11
-            },
-            {
-                "language": "en",
-                "count": 3
-            }
-        ],
-        "en": 1
+        "pt": 11,
+        "en": 3
     },
     {
         "name": "BlessedSacrament",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 33
-            },
-            {
-                "language": "en",
-                "count": 10
-            }
-        ],
-        "en": 1
+        "pt": 33,
+        "en": 10
     },
     {
         "name": "SaintJoseph",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 6
-            }
-        ]
+        "pt": 6
     },
     {
         "name": "Confession",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 3
-            }
-        ]
+        "pt": 3
     },
     {
         "name": "Purgatory",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 3
-            }
-        ]
+        "pt": 3
     },
     {
         "name": "SoulFirst",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 9
-            }
-        ]
+        "pt": 9
     },
     {
         "name": "GodsWill",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 10
-            }
-        ]
+        "pt": 10
     },
     {
         "name": "Charity",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 3
-            },
-            {
-                "language": "en",
-                "count": 2
-            }
-        ],
-        "en": 1
+        "pt": 3,
+        "en": 2
     },
     {
         "name": "Prayer",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 6
-            },
-            {
-                "language": "en",
-                "count": 6
-            }
-        ],
-        "en": 1
+        "pt": 6,
+        "en": 6
     },
     {
         "name": "Condemnation",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 2
-            }
-        ]
+        "pt": 2
     },
     {
         "name": "Salvation",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 10
-            },
-            {
-                "language": "en",
-                "count": 2
-            }
-        ],
-        "en": 1
+        "pt": 10,
+        "en": 2
     },
     {
         "name": "SaintAlphonsus",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 2
-            }
-        ]
+        "pt": 2
     },
     {
         "name": "Wrath",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 1
-            }
-        ]
+        "pt": 1
     },
     {
         "name": "GoodWorks",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 1
-            },
-            {
-                "language": "en",
-                "count": 2
-            }
-        ],
-        "en": 1
+        "pt": 1,
+        "en": 2
     },
     {
         "name": "SoulFirst-Countrism",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 5
-            },
-            {
-                "language": "en",
-                "count": 1
-            }
-        ],
+        "pt": 5,
         "en": 1
     },
     {
         "name": "Mercy",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 2
-            },
-            {
-                "language": "en",
-                "count": 1
-            }
-        ],
+        "pt": 2,
         "en": 1
     },
     {
         "name": "happiness",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 1
-            }
-        ]
+        "pt": 1
     },
     {
         "name": "Saints",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 38
-            }
-        ]
+        "pt": 38
     },
     {
         "name": "Apostolate",
-        "counts": [
-            {
-                "language": "en",
-                "count": 2
-            },
-            {
-                "language": "pt",
-                "count": 1
-            }
-        ],
+        "en": 2,
         "pt": 1
     },
     {
         "name": "Gossip",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 2
-            }
-        ]
+        "pt": 2
     }
 ]

@@ -39,26 +39,17 @@ for meditation in meditations:
                 language_index = -1
 
                 tag_updated = True
+                print(tag_from_list)
 
-                language_updated = False
-
-                for language_count in tag_from_list["counts"]:
-                    language_index = language_index + 1
-
-                    if language_count["language"] == language:
-                        # Tag from meditation was found already in the tag list
-                        new_tag_list[tag_list_index]["counts"][language_index]["count"] = new_tag_list[
-                            tag_list_index]["counts"][language_index]["count"] + 1
-                        language_updated = True
-
-                if language_updated == False:
-                    # We have a tag, but no count for this language
-                    new_tag_list[tag_list_index]["counts"].append(
-                        {"language": language, "count": 1})
+                if language in tag_from_list:
+                    new_tag_list[tag_list_index][language] = new_tag_list[tag_list_index][language] + 1
+                else:
+                    new_tag_list[tag_list_index][language] = 1
 
         if tag_updated == False:
-            new_tag_list.append({"name": tag_from_meditation, "counts": [{
-                                "language": language, "count": 1}]})
+            new_entry = {"name": tag_from_meditation}
+            new_entry[language] = 1
+            new_tag_list.append(new_entry)
 
 
 output_path = "./_index/tags.json"
