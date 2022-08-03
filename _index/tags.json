@@ -1,572 +1,1109 @@
 [
-    {
-        "name": "Judgement",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 18
-            },
-            {
-                "language": "en",
-                "count": 1
-            }
-        ]
-    },
-    {
-        "name": "Adam",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 1
-            }
-        ]
-    },
-    {
-        "name": "Incarnation",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 7
-            }
-        ]
-    },
-    {
-        "name": "Pending",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 444
-            },
-            {
-                "language": "en",
-                "count": 110
-            }
-        ]
-    },
-    {
-        "name": "OurLady",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 107
-            },
-            {
-                "language": "en",
-                "count": 18
-            }
-        ]
-    },
-    {
-        "name": "Tribulation",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 28
-            },
-            {
-                "language": "en",
-                "count": 2
-            }
-        ]
-    },
-    {
-        "name": "Crucification",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 10
-            },
-            {
-                "language": "en",
-                "count": 4
-            }
-        ]
-    },
-    {
-        "name": "Death",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 42
-            },
-            {
-                "language": "en",
-                "count": 2
-            }
-        ]
-    },
-    {
-        "name": "Redemption",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 3
-            },
-            {
-                "language": "en",
-                "count": 2
-            }
-        ]
-    },
-    {
-        "name": "GodsLove",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 34
-            },
-            {
-                "language": "en",
-                "count": 2
-            }
-        ]
-    },
-    {
-        "name": "Patience",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 3
-            },
-            {
-                "language": "en",
-                "count": 1
-            }
-        ]
-    },
-    {
-        "name": "Hell",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 12
-            }
-        ]
-    },
-    {
-        "name": "Passion",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 63
-            },
-            {
-                "language": "en",
-                "count": 35
-            }
-        ]
-    },
-    {
-        "name": "Procastination",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 3
-            }
-        ]
-    },
-    {
-        "name": "Humility",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 3
-            },
-            {
-                "language": "en",
-                "count": 1
-            }
-        ]
-    },
-    {
-        "name": "SoulFirst-Materialistic",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 14
-            },
-            {
-                "language": "en",
-                "count": 3
-            }
-        ]
-    },
-    {
-        "name": "Disease",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 17
-            },
-            {
-                "language": "en",
-                "count": 2
-            }
-        ]
-    },
-    {
-        "name": "ReligiousLife",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 15
-            },
-            {
-                "language": "en",
-                "count": 1
-            }
-        ]
-    },
-    {
-        "name": "Faith",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 1
-            },
-            {
-                "language": "en",
-                "count": 2
-            }
-        ]
-    },
-    {
-        "name": "Church",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 3
-            }
-        ]
-    },
-    {
-        "name": "Heaven",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 9
-            }
-        ]
-    },
-    {
-        "name": "Hope",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 5
-            },
-            {
-                "language": "en",
-                "count": 1
-            }
-        ]
-    },
-    {
-        "name": "Suffering",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 19
-            },
-            {
-                "language": "en",
-                "count": 4
-            }
-        ]
-    },
-    {
-        "name": "Sinner",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 31
-            }
-        ]
-    },
-    {
-        "name": "Meditation",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 7
-            },
-            {
-                "language": "en",
-                "count": 5
-            }
-        ]
-    },
-    {
-        "name": "Penitence",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 7
-            },
-            {
-                "language": "en",
-                "count": 1
-            }
-        ]
-    },
-    {
-        "name": "Obdience",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 5
-            },
-            {
-                "language": "en",
-                "count": 6
-            }
-        ]
-    },
-    {
-        "name": "Mass",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 8
-            },
-            {
-                "language": "en",
-                "count": 3
-            }
-        ]
-    },
-    {
-        "name": "Carnival",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 2
-            }
-        ]
-    },
-    {
-        "name": "Trust",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 1
-            }
-        ]
-    },
-    {
-        "name": "Temptation",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 11
-            },
-            {
-                "language": "en",
-                "count": 3
-            }
-        ]
-    },
-    {
-        "name": "BlessedSacrament",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 33
-            },
-            {
-                "language": "en",
-                "count": 10
-            }
-        ]
-    },
-    {
-        "name": "SaintJoseph",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 6
-            }
-        ]
-    },
-    {
-        "name": "Confession",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 3
-            }
-        ]
-    },
-    {
-        "name": "Purgatory",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 3
-            }
-        ]
-    },
-    {
-        "name": "SoulFirst",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 9
-            }
-        ]
-    },
-    {
-        "name": "GodsWill",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 10
-            }
-        ]
-    },
-    {
-        "name": "Charity",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 3
-            },
-            {
-                "language": "en",
-                "count": 2
-            }
-        ]
-    },
-    {
-        "name": "Prayer",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 6
-            },
-            {
-                "language": "en",
-                "count": 6
-            }
-        ]
-    },
-    {
-        "name": "Condemnation",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 2
-            }
-        ]
-    },
-    {
-        "name": "Salvation",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 10
-            },
-            {
-                "language": "en",
-                "count": 2
-            }
-        ]
-    },
-    {
-        "name": "SaintAlphonsus",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 2
-            }
-        ]
-    },
-    {
-        "name": "Wrath",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 1
-            }
-        ]
-    },
-    {
-        "name": "GoodWorks",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 1
-            },
-            {
-                "language": "en",
-                "count": 2
-            }
-        ]
-    },
-    {
-        "name": "SoulFirst-Countrism",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 5
-            },
-            {
-                "language": "en",
-                "count": 1
-            }
-        ]
-    },
-    {
-        "name": "Mercy",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 2
-            },
-            {
-                "language": "en",
-                "count": 1
-            }
-        ]
-    },
-    {
-        "name": "happiness",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 1
-            }
-        ]
-    },
-    {
-        "name": "Saints",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 38
-            }
-        ]
-    },
-    {
-        "name": "Apostolate",
-        "counts": [
-            {
-                "language": "en",
-                "count": 2
-            },
-            {
-                "language": "pt",
-                "count": 1
-            }
-        ]
-    },
-    {
-        "name": "Gossip",
-        "counts": [
-            {
-                "language": "pt",
-                "count": 2
-            }
-        ]
-    }
+  {
+    "name": "Judgement",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 18
+      },
+      {
+        "language": "en",
+        "count": 1
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Judgment",
+        "description": "Judgment of the individual after death and at the end of time"
+      },
+      {
+        "language": "pt",
+        "title": "Julgamento",
+        "description": "Julgamente do indivíduo após a morte e no fim dos tempos"
+      }
+    ]
+  },
+  {
+    "name": "Sinner",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 32
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Sinner",
+        "description": "About sin and the sinner"
+      },
+      {
+        "language": "pt",
+        "title": "Pecador",
+        "description": "Sobre o pecado e o pecador"
+      }
+    ]
+  },
+  {
+    "name": "Incarnation",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 7
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Incarnation",
+        "description": "The Incarnation of Our Lord Jesus Christ"
+      },
+      {
+        "language": "pt",
+        "title": "Encarnação",
+        "description": "A encarnação de Nosso Senhor Jesus Cristo"
+      }
+    ]
+  },
+  {
+    "name": "Pending",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 444
+      },
+      {
+        "language": "en",
+        "count": 110
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Pending",
+        "description": "Pending"
+      },
+      {
+        "language": "pt",
+        "title": "Pending",
+        "description": "Pending"
+      }
+    ]
+  },
+  {
+    "name": "OurLady",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 107
+      },
+      {
+        "language": "en",
+        "count": 18
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Our Lady",
+        "description": "Meditations on the Mother of God"
+      },
+      {
+        "language": "pt",
+        "title": "Nossa Senhora",
+        "description": "Meditações sobre a Mãe de Deus"
+      }
+    ]
+  },
+  {
+    "name": "Tribulation",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 28
+      },
+      {
+        "language": "en",
+        "count": 2
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Tribulation",
+        "description": "Dealing with tribulations"
+      },
+      {
+        "language": "pt",
+        "title": "Tribulação",
+        "description": "Momentos de Tribulação"
+      }
+    ]
+  },
+  {
+    "name": "Crucification",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 10
+      },
+      {
+        "language": "en",
+        "count": 4
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Crucifixion",
+        "description": "To better meditate on the crucifixion"
+      },
+      {
+        "language": "pt",
+        "title": "Crucificação",
+        "description": "Para meditar melhor na crucificação"
+      }
+    ]
+  },
+  {
+    "name": "Death",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 42
+      },
+      {
+        "language": "en",
+        "count": 2
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Death",
+        "description": "How to prepare for death"
+      },
+      {
+        "language": "pt",
+        "title": "Morte",
+        "description": "Como se preparar para a morte"
+      }
+    ]
+  },
+  {
+    "name": "Redemption",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 3
+      },
+      {
+        "language": "en",
+        "count": 2
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Redemption",
+        "description": "The redemption of our sins through Our Lord Jesus Christ"
+      },
+      {
+        "language": "pt",
+        "title": "Redenção",
+        "description": "A redenção dos nossos pecados por Nosso Senhor Jesus Cristo"
+      }
+    ]
+  },
+  {
+    "name": "GodsLove",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 35
+      },
+      {
+        "language": "en",
+        "count": 2
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Love",
+        "description": "Meditations on God's Love for Us"
+      },
+      {
+        "language": "pt",
+        "title": "Amor",
+        "description": "Meditações sobre o amor de Deus para conosco"
+      }
+    ]
+  },
+  {
+    "name": "Patience",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 3
+      },
+      {
+        "language": "en",
+        "count": 1
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Patience",
+        "description": "Patience with crosses, tribulations, etc."
+      },
+      {
+        "language": "pt",
+        "title": "Paciência",
+        "description": "A paciencia com cruzes, tribulações, etc"
+      }
+    ]
+  },
+  {
+    "name": "Hell",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 12
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Hell",
+        "description": "The terror and anguish in hell"
+      },
+      {
+        "language": "pt",
+        "title": "Inferno",
+        "description": "O terror e as angustias do inferno"
+      }
+    ]
+  },
+  {
+    "name": "Passion",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 63
+      },
+      {
+        "language": "en",
+        "count": 35
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Passion",
+        "description": "The Passion of Our Lord Jesus Christ"
+      },
+      {
+        "language": "pt",
+        "title": "Paixão",
+        "description": "A paixão de Nosso Senhor Jesus Cristo"
+      }
+    ]
+  },
+  {
+    "name": "Procastination",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 3
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Procastination",
+        "description": "Wasting valuable time"
+      },
+      {
+        "language": "pt",
+        "title": "Procastinação",
+        "description": "A perca do tempo valioso"
+      }
+    ]
+  },
+  {
+    "name": "Detachment",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 17
+      },
+      {
+        "language": "en",
+        "count": 3
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Detachment",
+        "description": "Detachment from the world, money, friends, family, places and yourself"
+      },
+      {
+        "language": "pt",
+        "title": "Desapego",
+        "description": "Despego do mundo, dinheiros, amigos, família, lugares e de si mesmo"
+      }
+    ]
+  },
+  {
+    "name": "Disease",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 17
+      },
+      {
+        "language": "en",
+        "count": 2
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Disease",
+        "description": "Illnesses as an occasion for sanctification"
+      },
+      {
+        "language": "pt",
+        "title": "Doença",
+        "description": "As doenças como ocasião de santificação"
+      }
+    ]
+  },
+  {
+    "name": "ReligiousLife",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 15
+      },
+      {
+        "language": "en",
+        "count": 1
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Religious Life",
+        "description": "Meditations for Religious"
+      },
+      {
+        "language": "pt",
+        "title": "Vida Religiosa",
+        "description": "Meditações para os religiosos"
+      }
+    ]
+  },
+  {
+    "name": "Faith",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 1
+      },
+      {
+        "language": "en",
+        "count": 2
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Faith",
+        "description": "The virtue of Faith"
+      },
+      {
+        "language": "pt",
+        "title": "Fé",
+        "description": "A virtude da fé"
+      }
+    ]
+  },
+  {
+    "name": "Church",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 3
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Church",
+        "description": "The Greatness of the Catholic Church"
+      },
+      {
+        "language": "pt",
+        "title": "Igreja",
+        "description": "A grandeza da igreja Católica"
+      }
+    ]
+  },
+  {
+    "name": "Heaven",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 9
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Heaven",
+        "description": "The sweets of heaven"
+      },
+      {
+        "language": "pt",
+        "title": "Paraíso",
+        "description": "As doçuras do paraíso"
+      }
+    ]
+  },
+  {
+    "name": "Hope",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 5
+      },
+      {
+        "language": "en",
+        "count": 1
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Hope",
+        "description": "The virtue of Hope"
+      },
+      {
+        "language": "pt",
+        "title": "Esperança",
+        "description": "A virtude da esperança"
+      }
+    ]
+  },
+  {
+    "name": "Suffering",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 19
+      },
+      {
+        "language": "en",
+        "count": 4
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Suffering",
+        "description": "Agony, persecution and pain"
+      },
+      {
+        "language": "pt",
+        "title": "Sofrimento",
+        "description": "Agonia, perseguição e dores"
+      }
+    ]
+  },
+  {
+    "name": "Meditation",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 7
+      },
+      {
+        "language": "en",
+        "count": 5
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Meditation",
+        "description": "Meditations on Meditation"
+      },
+      {
+        "language": "pt",
+        "title": "Meditação",
+        "description": "Meditações sobre a meditação"
+      }
+    ]
+  },
+  {
+    "name": "Penitence",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 7
+      },
+      {
+        "language": "en",
+        "count": 1
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Penance",
+        "description": "The benefits of penance"
+      },
+      {
+        "language": "pt",
+        "title": "Penitência",
+        "description": "Os benefícios da pentiencia"
+      }
+    ]
+  },
+  {
+    "name": "Obdience",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 5
+      },
+      {
+        "language": "en",
+        "count": 6
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Obedience",
+        "description": "Models of obedience"
+      },
+      {
+        "language": "pt",
+        "title": "Obediência",
+        "description": "Modelos de obdiencia"
+      }
+    ]
+  },
+  {
+    "name": "Mass",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 8
+      },
+      {
+        "language": "en",
+        "count": 3
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Mass",
+        "description": "The Holy Mass and its benefits"
+      },
+      {
+        "language": "pt",
+        "title": "Missa",
+        "description": "A santa Missa e seus beneficios"
+      }
+    ]
+  },
+  {
+    "name": "Carnival",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 2
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Carnival",
+        "description": "Against the sins in the Carnival"
+      },
+      {
+        "language": "pt",
+        "title": "Carnaval",
+        "description": "Contra os pecados do carnaval"
+      }
+    ]
+  },
+  {
+    "name": "Trust",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 1
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Confidence",
+        "description": "Trust in God"
+      },
+      {
+        "language": "pt",
+        "title": "Confiança",
+        "description": "A confiança em Deus"
+      }
+    ]
+  },
+  {
+    "name": "Temptation",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 11
+      },
+      {
+        "language": "en",
+        "count": 3
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Temptation",
+        "description": "About the temptations that afflict us"
+      },
+      {
+        "language": "pt",
+        "title": "Tentação",
+        "description": "Sobre as tentações que nos aflige"
+      }
+    ]
+  },
+  {
+    "name": "BlessedSacrament",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 33
+      },
+      {
+        "language": "en",
+        "count": 10
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Blessed Sacrament",
+        "description": "To increase devotion to the Holy Eucharist"
+      },
+      {
+        "language": "pt",
+        "title": "Santíssimo Sacramento",
+        "description": "Para aumentar a devoção a santa eucaristia"
+      }
+    ]
+  },
+  {
+    "name": "SaintJoseph",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 6
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Saint Joseph",
+        "description": "On the life and virtues of Saint Joseph"
+      },
+      {
+        "language": "pt",
+        "title": "São José",
+        "description": "Sobre a vida e virtudes de São José"
+      }
+    ]
+  },
+  {
+    "name": "Confession",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 3
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Confession",
+        "description": "Of the importance of Confession"
+      },
+      {
+        "language": "pt",
+        "title": "Confissão",
+        "description": "Da importancia confissão"
+      }
+    ]
+  },
+  {
+    "name": "Purgatory",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 3
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Purgatory",
+        "description": "The Souls in Purgatory"
+      },
+      {
+        "language": "pt",
+        "title": "Purgatório",
+        "description": "As almas do purgatório"
+      }
+    ]
+  },
+  {
+    "name": "SoulFirst",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 11
+      },
+      {
+        "language": "en",
+        "count": 1
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Soul First",
+        "description": "The supremacy of the soul over the body"
+      },
+      {
+        "language": "pt",
+        "title": "Alma Primeiro",
+        "description": "A supremacia da alma perante o corpo"
+      }
+    ]
+  },
+  {
+    "name": "GodsWill",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 10
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "God's will",
+        "description": "Conformity to God's Will"
+      },
+      {
+        "language": "pt",
+        "title": "A vontade de Deus",
+        "description": "Conformidade com a vontade de Deus"
+      }
+    ]
+  },
+  {
+    "name": "Charity",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 3
+      },
+      {
+        "language": "en",
+        "count": 2
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Charity",
+        "description": "The virtue of Charity"
+      },
+      {
+        "language": "pt",
+        "title": "Caridade",
+        "description": "A verdadeira caridade por amor de Deus"
+      }
+    ]
+  },
+  {
+    "name": "Prayer",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 6
+      },
+      {
+        "language": "en",
+        "count": 6
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Prayer",
+        "description": "The power of prayer"
+      },
+      {
+        "language": "pt",
+        "title": "Oração",
+        "description": "O poder da oração"
+      }
+    ]
+  },
+  {
+    "name": "Condemnation",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 2
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Condemnation",
+        "description": "The pains of those condemned to eternal death"
+      },
+      {
+        "language": "pt",
+        "title": "Condenação",
+        "description": "As dores dos condenados a morte eterna"
+      }
+    ]
+  },
+  {
+    "name": "Salvation",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 10
+      },
+      {
+        "language": "en",
+        "count": 2
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Salvation",
+        "description": "The salvation brought to us by Our Lord Jesus Christ"
+      },
+      {
+        "language": "pt",
+        "title": "Salvação",
+        "description": "A salvação nos trazida por Nosso Senhor Jesus Cristo"
+      }
+    ]
+  },
+  {
+    "name": "SaintAlphonsus",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 2
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Saint Alfonso",
+        "description": "On the virtues of Saint Alphonsus"
+      },
+      {
+        "language": "pt",
+        "title": "Santo Afonso",
+        "description": "Sobre as virtudes de Santo Afonso"
+      }
+    ]
+  },
+  {
+    "name": "Wrath",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 1
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Fury",
+        "description": "Against the sins of wrath"
+      },
+      {
+        "language": "pt",
+        "title": "Ira",
+        "description": "Contra os pecados da ira"
+      }
+    ]
+  },
+  {
+    "name": "GoodWorks",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 1
+      },
+      {
+        "language": "en",
+        "count": 2
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Good Works",
+        "description": "The need for good works"
+      },
+      {
+        "language": "pt",
+        "title": "Boas Obras",
+        "description": "A necessidade de boas obras"
+      }
+    ]
+  },
+  {
+    "name": "HiddenLife",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 3
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Hidden Life",
+        "description": "The hidden, withdrawn and lonely life"
+      },
+      {
+        "language": "pt",
+        "title": "Vida Oculta",
+        "description": "A vida oculta, recolhida e solitária"
+      }
+    ]
+  },
+  {
+    "name": "Mercy",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 2
+      },
+      {
+        "language": "en",
+        "count": 1
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Gods Mercy",
+        "description": "God's Mercy"
+      },
+      {
+        "language": "pt",
+        "title": "Misericórdia",
+        "description": "A misericordia de Deus"
+      }
+    ]
+  },
+  {
+    "name": "Saints",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 38
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Saints",
+        "description": "Meditations on the lives of different saints"
+      },
+      {
+        "language": "pt",
+        "title": "Santos",
+        "description": "Meditações sobre a vida de diversos santos"
+      }
+    ]
+  },
+  {
+    "name": "Apostolate",
+    "counts": [
+      {
+        "language": "en",
+        "count": 2
+      },
+      {
+        "language": "pt",
+        "count": 1
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Apostolate",
+        "description": "Doing apostolate for love of God"
+      },
+      {
+        "language": "pt",
+        "title": "Apostolado",
+        "description": "A importancia do apostolado por amor a Deus"
+      }
+    ]
+  },
+  {
+    "name": "Persecution",
+    "counts": [
+      {
+        "language": "pt",
+        "count": 3
+      },
+      {
+        "language": "en",
+        "count": 1
+      }
+    ],
+    "localization": [
+      {
+        "language": "en",
+        "title": "Persecution",
+        "description": "How to deal with the difficult life of persecution"
+      },
+      {
+        "language": "pt",
+        "title": "Perseguição",
+        "description": "Como lidar com a vida díficil de perseguições"
+      }
+    ]
+  }
 ]

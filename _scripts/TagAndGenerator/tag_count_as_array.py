@@ -5,6 +5,8 @@ import json
 from string import Template
 from tokenize import String
 
+tags_translations = open('./_index/tags_translations.json', encoding="utf-8")
+localizations = json.load(tags_translations)
 
 books_file = open('./_index/books.json', encoding="utf-8")
 books = json.load(books_file)
@@ -57,8 +59,20 @@ for meditation in meditations:
                         {"language": language, "count": 1})
 
         if tag_updated == False:
+            loc_array = [
+                loc for loc in localizations if loc if loc["name"] == tag_from_meditation]
+
+            loc_for_newentry = []
+
+            if loc_array and len(loc_array) > 0:
+                loc = loc_array[0]
+                loc_for_newentry.append(
+                    {"language": "en", "title": loc["title_en"], "description": loc["desc_en"]})
+                loc_for_newentry.append(
+                    {"language": "pt", "title": loc["title_pt"], "description": loc["desc_pt"]})
+
             new_tag_list.append({"name": tag_from_meditation, "counts": [{
-                                "language": language, "count": 1}]})
+                                "language": language, "count": 1}], "localization": loc_for_newentry})
 
 
 output_path = "./_index/tags.json"

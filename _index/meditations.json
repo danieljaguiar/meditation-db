@@ -29,7 +29,7 @@
     ],
     "slug": "o-pecado-de-adao-e-o-amor-de-deus-pelos-homens",
     "priority": 500,
-    "tags": ["Adam", "", ""]
+    "tags": ["Sinner", "", ""]
   },
   {
     "bookId": "afonso-todo-dia",
@@ -759,7 +759,7 @@
     ],
     "slug": "da-vida-humilde-e-desprezada-que-jesus-levou-desde-a-meninice",
     "priority": 500,
-    "tags": ["Humility", "", ""]
+    "tags": ["Detachment", "", ""]
   },
   {
     "bookId": "afonso-todo-dia",
@@ -823,7 +823,7 @@
     ],
     "slug": "perda-de-jesus-no-templo",
     "priority": 500,
-    "tags": ["SoulFirst-Materialistic", "", ""]
+    "tags": ["Detachment", "", ""]
   },
   {
     "bookId": "afonso-todo-dia",
@@ -1063,7 +1063,7 @@
     ],
     "slug": "os-bens-do-mundo-nao-nos-podem-fazer-felizes",
     "priority": 500,
-    "tags": ["SoulFirst-Materialistic", "", ""]
+    "tags": ["Detachment", "", ""]
   },
   {
     "bookId": "afonso-todo-dia",
@@ -2775,7 +2775,7 @@
     ],
     "slug": "vaidade-do-mundo",
     "priority": 500,
-    "tags": ["SoulFirst-Materialistic", "SoulFirst-Materialistic", ""]
+    "tags": ["Detachment", "", ""]
   },
   {
     "bookId": "afonso-todo-dia",
@@ -2999,7 +2999,7 @@
     ],
     "slug": "o-nada-dos-bens-do-mundo",
     "priority": 500,
-    "tags": ["SoulFirst-Materialistic", "", ""]
+    "tags": ["Detachment", "", ""]
   },
   {
     "bookId": "afonso-todo-dia",
@@ -3239,7 +3239,7 @@
     ],
     "slug": "o-dia-da-desilusao",
     "priority": 500,
-    "tags": ["SoulFirst-Materialistic", "Death", ""]
+    "tags": ["SoulFirst", "Death", "Detachment"]
   },
   {
     "bookId": "afonso-todo-dia",
@@ -3991,7 +3991,7 @@
     ],
     "slug": "o-grande-segredo-para-viver-bem",
     "priority": 500,
-    "tags": ["SoulFirst-Materialistic", "", ""]
+    "tags": ["Detachment", "", ""]
   },
   {
     "bookId": "afonso-todo-dia",
@@ -4087,7 +4087,7 @@
     ],
     "slug": "as-turbas-famintas-e-a-vaidade-dos-bens-terrestres",
     "priority": 500,
-    "tags": ["SoulFirst-Materialistic", "", ""]
+    "tags": ["Detachment", "SoulFirst", ""]
   },
   {
     "bookId": "afonso-todo-dia",
@@ -4631,7 +4631,7 @@
     ],
     "slug": "maria-santissima-modelo-de-humildade",
     "priority": 500,
-    "tags": ["Humility", "OurLady", ""]
+    "tags": ["Detachment", "OurLady", ""]
   },
   {
     "bookId": "afonso-todo-dia",
@@ -4775,7 +4775,7 @@
     ],
     "slug": "necessidade-da-mansidao-e-da-humildade-para-o-religioso",
     "priority": 500,
-    "tags": ["ReligiousLife", "Humility", ""]
+    "tags": ["ReligiousLife", "Detachment", ""]
   },
   {
     "bookId": "afonso-todo-dia",
@@ -5479,7 +5479,7 @@
     ],
     "slug": "da-vida-retirada",
     "priority": 500,
-    "tags": ["SoulFirst-Countrism", "", ""]
+    "tags": ["Detachment", "", ""]
   },
   {
     "bookId": "afonso-todo-dia",
@@ -5543,7 +5543,7 @@
     ],
     "slug": "maria-santissima-modelo-da-vida-solitaria-e-recolhida",
     "priority": 500,
-    "tags": ["SoulFirst-Countrism", "OurLady", ""]
+    "tags": ["HiddenLife", "OurLady", ""]
   },
   {
     "bookId": "afonso-todo-dia",
@@ -5575,7 +5575,7 @@
     ],
     "slug": "do-amor-a-solidao",
     "priority": 500,
-    "tags": ["SoulFirst-Countrism", "", ""]
+    "tags": ["HiddenLife", "", ""]
   },
   {
     "bookId": "afonso-todo-dia",
@@ -5687,7 +5687,7 @@
     ],
     "slug": "da-solidao-do-coracao",
     "priority": 500,
-    "tags": ["SoulFirst-Countrism", "", ""]
+    "tags": ["HiddenLife", "", ""]
   },
   {
     "bookId": "afonso-todo-dia",
@@ -6167,7 +6167,7 @@
     ],
     "slug": "so-em-deus-se-acha-a-verdadeira-felicidade",
     "priority": 500,
-    "tags": ["happiness", "", ""]
+    "tags": ["GodsLove", "", ""]
   },
   {
     "bookId": "afonso-todo-dia",
@@ -6487,7 +6487,7 @@
     ],
     "slug": "a-salvacao-e-o-nosso-unico-negocio",
     "priority": 500,
-    "tags": ["Salvation", "SoulFirst-Materialistic", ""]
+    "tags": ["Salvation", "Detachment", ""]
   },
   {
     "bookId": "afonso-todo-dia",
@@ -7681,7 +7681,7 @@
     ],
     "slug": "pobreza-do-menino-jesus",
     "priority": 500,
-    "tags": ["SoulFirst-Materialistic", "", ""]
+    "tags": ["Detachment", "", ""]
   },
   {
     "bookId": "afonso-todo-dia",
@@ -8337,7 +8337,7 @@
     "rules": [],
     "slug": "goods-of-this-world-cannot-make-you-happy",
     "priority": 500,
-    "tags": ["SoulFirst-Materialistic", "", ""]
+    "tags": ["Detachment", "", ""]
   },
   {
     "bookId": "alphonsus-every-day",
@@ -8353,7 +8353,7 @@
     ],
     "slug": "o-nada-dos-bens-do-mundo",
     "priority": 500,
-    "tags": ["SoulFirst-Materialistic", "", ""]
+    "tags": ["Detachment", "", ""]
   },
   {
     "bookId": "alphonsus-every-day",
@@ -11393,7 +11393,7 @@
     ],
     "slug": "a-alma-primeiro-o-corpo-depois",
     "priority": 500,
-    "tags": ["SoulFirst-Materialistic", "SoulFirst", ""]
+    "tags": ["Detachment", "SoulFirst", ""]
   },
   {
     "bookId": "breviario-confianca",
@@ -13153,7 +13153,7 @@
     ],
     "slug": "quo-vadis",
     "priority": 500,
-    "tags": ["SoulFirst-Countrism", "", ""]
+    "tags": ["Persecution", "", ""]
   },
   {
     "bookId": "breviario-confianca",
@@ -16049,7 +16049,7 @@
     ],
     "slug": "soul-first-then-body",
     "priority": 500,
-    "tags": ["SoulFirst-Materialistic", "Disease", ""]
+    "tags": ["SoulFirst", "Disease", ""]
   },
   {
     "bookId": "breviary-trust",
@@ -16993,7 +16993,7 @@
     ],
     "slug": "mary-humility",
     "priority": 500,
-    "tags": ["OurLady", "Humility", ""]
+    "tags": ["OurLady", "Detachment", ""]
   },
   {
     "bookId": "divine-intimacy",
@@ -17552,7 +17552,7 @@
     ],
     "slug": "livro-1-capitulo-1",
     "priority": 500,
-    "tags": ["SoulFirst-Materialistic", "", ""]
+    "tags": ["Detachment", "", ""]
   },
   {
     "bookId": "imitacao",
@@ -17707,7 +17707,7 @@
     ],
     "slug": "livro-1-capitulo-6",
     "priority": 500,
-    "tags": ["SoulFirst-Materialistic", "", ""]
+    "tags": ["Detachment", "", ""]
   },
   {
     "bookId": "imitacao",
@@ -17893,7 +17893,7 @@
     ],
     "slug": "livro-1-capitulo-12",
     "priority": 500,
-    "tags": ["Gossip", "", ""]
+    "tags": ["Persecution", "", ""]
   },
   {
     "bookId": "imitacao",
@@ -17955,7 +17955,7 @@
     ],
     "slug": "livro-1-capitulo-14",
     "priority": 500,
-    "tags": ["Gossip", "", ""]
+    "tags": ["Persecution", "", ""]
   },
   {
     "bookId": "imitacao",
@@ -18873,7 +18873,7 @@
     ],
     "slug": "livro-3-capitulo-10",
     "priority": 500,
-    "tags": ["SoulFirst-Materialistic", "", ""]
+    "tags": ["Detachment", "", ""]
   },
   {
     "bookId": "imitacao",
@@ -23965,7 +23965,7 @@
     ],
     "slug": "quo-vadis",
     "priority": 500,
-    "tags": ["SoulFirst-Countrism", "", ""]
+    "tags": ["Persecution", "", ""]
   },
   {
     "bookId": "divine-intimacy",
