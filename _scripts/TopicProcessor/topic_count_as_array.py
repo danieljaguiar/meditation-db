@@ -24,7 +24,7 @@ for meditation in meditations:
 
     language = book_from_meditation[0]["language"]
 
-    for tag_from_meditation in meditation["tags"]:
+    for tag_from_meditation in meditation["topics"]:
         # print("-------------------------------------")
         # print(new_tag_list)
         if tag_from_meditation == "":
@@ -48,7 +48,7 @@ for meditation in meditations:
                 for language_count in tag_from_list["languageCount"]:
                     language_index = language_index + 1
 
-                    if language_count["language"] == language:
+                    if language_count["key"] == language:
                         # Tag from meditation was found already in the tag list
                         new_tag_list[tag_list_index]["languageCount"][language_index]["count"] = new_tag_list[
                             tag_list_index]["languageCount"][language_index]["count"] + 1
@@ -57,7 +57,7 @@ for meditation in meditations:
                 if language_updated == False:
                     # We have a tag, but no count for this language
                     new_tag_list[tag_list_index]["languageCount"].append(
-                        {"language": language, "count": 1})
+                        {"key": language, "count": 1})
 
                 book_index = -1
                 book_updated = False
@@ -65,7 +65,7 @@ for meditation in meditations:
                 for book_count in tag_from_list["bookCount"]:
                     book_index = book_index + 1
 
-                    if book_count["bookId"] == meditation["bookId"]:
+                    if book_count["key"] == meditation["bookId"]:
                         # Tag from meditation was found already in the tag list
                         new_tag_list[tag_list_index]["bookCount"][book_index]["count"] = new_tag_list[
                             tag_list_index]["bookCount"][book_index]["count"] + 1
@@ -74,7 +74,7 @@ for meditation in meditations:
                 if book_updated == False:
                     # We have a tag, but no count for this book
                     new_tag_list[tag_list_index]["bookCount"].append(
-                        {"bookId": meditation["bookId"], "count": 1})
+                        {"key": meditation["bookId"], "count": 1})
 
         if tag_updated == False:
             loc_array = [
@@ -85,16 +85,16 @@ for meditation in meditations:
             if loc_array and len(loc_array) > 0:
                 loc = loc_array[0]
                 loc_for_newentry.append(
-                    {"language": "en", "title": loc["title_en"], "description": loc["desc_en"]})
+                    {"key": "en", "title": loc["title_en"], "description": loc["desc_en"]})
                 loc_for_newentry.append(
-                    {"language": "pt", "title": loc["title_pt"], "description": loc["desc_pt"]})
+                    {"key": "pt", "title": loc["title_pt"], "description": loc["desc_pt"]})
 
             new_tag_list.append({
                 "name": tag_from_meditation,
                 "bookCount": [
-                    {"bookId": meditation["bookId"], "count": 1}
+                    {"key": meditation["bookId"], "count": 1}
                 ],
-                "languageCount": [{"language": language, "count": 1}], "localization": loc_for_newentry})
+                "languageCount": [{"key": language, "count": 1}], "localization": loc_for_newentry})
 
 
 output_path = "./_index/topics.json"

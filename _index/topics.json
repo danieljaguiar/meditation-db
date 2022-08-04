@@ -3,32 +3,32 @@
         "name": "Judgement",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 18
             },
             {
-                "bookId": "alphonsus-every-day",
+                "key": "alphonsus-every-day",
                 "count": 1
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 18
             },
             {
-                "language": "en",
+                "key": "en",
                 "count": 1
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Judgment",
                 "description": "Judgment of the individual after death and at the end of time"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Julgamento",
                 "description": "Julgamente do indivíduo após a morte e no fim dos tempos"
             }
@@ -38,28 +38,28 @@
         "name": "Sinner",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 30
             },
             {
-                "bookId": "imitacao",
+                "key": "imitacao",
                 "count": 2
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 32
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Sinner",
                 "description": "About sin and the sinner"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Pecador",
                 "description": "Sobre o pecado e o pecador"
             }
@@ -69,24 +69,24 @@
         "name": "Incarnation",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 7
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 7
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Incarnation",
                 "description": "The Incarnation of Our Lord Jesus Christ"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Encarnação",
                 "description": "A encarnação de Nosso Senhor Jesus Cristo"
             }
@@ -96,52 +96,52 @@
         "name": "Pending",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 104
             },
             {
-                "bookId": "aquinas-lent",
+                "key": "aquinas-lent",
                 "count": 17
             },
             {
-                "bookId": "aquino-quaresma",
+                "key": "aquino-quaresma",
                 "count": 4
             },
             {
-                "bookId": "breviario-confianca",
+                "key": "breviario-confianca",
                 "count": 310
             },
             {
-                "bookId": "breviary-trust",
+                "key": "breviary-trust",
                 "count": 1
             },
             {
-                "bookId": "divine-intimacy",
+                "key": "divine-intimacy",
                 "count": 92
             },
             {
-                "bookId": "imitacao",
+                "key": "imitacao",
                 "count": 26
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 444
             },
             {
-                "language": "en",
+                "key": "en",
                 "count": 110
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Pending",
                 "description": "Pending"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Pending",
                 "description": "Pending"
             }
@@ -151,48 +151,48 @@
         "name": "OurLady",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 84
             },
             {
-                "bookId": "alphonsus-every-day",
+                "key": "alphonsus-every-day",
                 "count": 1
             },
             {
-                "bookId": "aquinas-lent",
+                "key": "aquinas-lent",
                 "count": 1
             },
             {
-                "bookId": "aquino-quaresma",
+                "key": "aquino-quaresma",
                 "count": 1
             },
             {
-                "bookId": "breviario-confianca",
+                "key": "breviario-confianca",
                 "count": 22
             },
             {
-                "bookId": "divine-intimacy",
+                "key": "divine-intimacy",
                 "count": 16
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 107
             },
             {
-                "language": "en",
+                "key": "en",
                 "count": 18
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Our Lady",
                 "description": "Meditations on the Mother of God"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Nossa Senhora",
                 "description": "Meditações sobre a Mãe de Deus"
             }
@@ -202,40 +202,40 @@
         "name": "Tribulation",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 21
             },
             {
-                "bookId": "breviario-confianca",
+                "key": "breviario-confianca",
                 "count": 7
             },
             {
-                "bookId": "breviary-trust",
+                "key": "breviary-trust",
                 "count": 1
             },
             {
-                "bookId": "divine-intimacy",
+                "key": "divine-intimacy",
                 "count": 1
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 28
             },
             {
-                "language": "en",
+                "key": "en",
                 "count": 2
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Tribulation",
                 "description": "Dealing with tribulations"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Tribulação",
                 "description": "Momentos de Tribulação"
             }
@@ -245,44 +245,44 @@
         "name": "Crucification",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 5
             },
             {
-                "bookId": "aquinas-lent",
+                "key": "aquinas-lent",
                 "count": 2
             },
             {
-                "bookId": "aquino-quaresma",
+                "key": "aquino-quaresma",
                 "count": 3
             },
             {
-                "bookId": "divine-intimacy",
+                "key": "divine-intimacy",
                 "count": 2
             },
             {
-                "bookId": "imitacao",
+                "key": "imitacao",
                 "count": 2
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 10
             },
             {
-                "language": "en",
+                "key": "en",
                 "count": 4
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Crucifixion",
                 "description": "To better meditate on the crucifixion"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Crucificação",
                 "description": "Para meditar melhor na crucificação"
             }
@@ -292,44 +292,44 @@
         "name": "Death",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 40
             },
             {
-                "bookId": "alphonsus-every-day",
+                "key": "alphonsus-every-day",
                 "count": 1
             },
             {
-                "bookId": "aquinas-lent",
+                "key": "aquinas-lent",
                 "count": 1
             },
             {
-                "bookId": "aquino-quaresma",
+                "key": "aquino-quaresma",
                 "count": 1
             },
             {
-                "bookId": "imitacao",
+                "key": "imitacao",
                 "count": 1
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 42
             },
             {
-                "language": "en",
+                "key": "en",
                 "count": 2
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Death",
                 "description": "How to prepare for death"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Morte",
                 "description": "Como se preparar para a morte"
             }
@@ -339,36 +339,36 @@
         "name": "Redemption",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 1
             },
             {
-                "bookId": "aquinas-lent",
+                "key": "aquinas-lent",
                 "count": 2
             },
             {
-                "bookId": "aquino-quaresma",
+                "key": "aquino-quaresma",
                 "count": 2
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 3
             },
             {
-                "language": "en",
+                "key": "en",
                 "count": 2
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Redemption",
                 "description": "The redemption of our sins through Our Lord Jesus Christ"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Redenção",
                 "description": "A redenção dos nossos pecados por Nosso Senhor Jesus Cristo"
             }
@@ -378,44 +378,44 @@
         "name": "GodsLove",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 27
             },
             {
-                "bookId": "aquinas-lent",
+                "key": "aquinas-lent",
                 "count": 2
             },
             {
-                "bookId": "aquino-quaresma",
+                "key": "aquino-quaresma",
                 "count": 2
             },
             {
-                "bookId": "breviario-confianca",
+                "key": "breviario-confianca",
                 "count": 1
             },
             {
-                "bookId": "imitacao",
+                "key": "imitacao",
                 "count": 5
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 35
             },
             {
-                "language": "en",
+                "key": "en",
                 "count": 2
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Love",
                 "description": "Meditations on God's Love for Us"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Amor",
                 "description": "Meditações sobre o amor de Deus para conosco"
             }
@@ -425,36 +425,36 @@
         "name": "Patience",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 2
             },
             {
-                "bookId": "breviario-confianca",
+                "key": "breviario-confianca",
                 "count": 1
             },
             {
-                "bookId": "divine-intimacy",
+                "key": "divine-intimacy",
                 "count": 1
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 3
             },
             {
-                "language": "en",
+                "key": "en",
                 "count": 1
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Patience",
                 "description": "Patience with crosses, tribulations, etc."
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Paciência",
                 "description": "A paciencia com cruzes, tribulações, etc"
             }
@@ -464,24 +464,24 @@
         "name": "Hell",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 12
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 12
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Hell",
                 "description": "The terror and anguish in hell"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Inferno",
                 "description": "O terror e as angustias do inferno"
             }
@@ -491,44 +491,44 @@
         "name": "Passion",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 32
             },
             {
-                "bookId": "alphonsus-every-day",
+                "key": "alphonsus-every-day",
                 "count": 1
             },
             {
-                "bookId": "aquinas-lent",
+                "key": "aquinas-lent",
                 "count": 33
             },
             {
-                "bookId": "aquino-quaresma",
+                "key": "aquino-quaresma",
                 "count": 31
             },
             {
-                "bookId": "divine-intimacy",
+                "key": "divine-intimacy",
                 "count": 1
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 63
             },
             {
-                "language": "en",
+                "key": "en",
                 "count": 35
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Passion",
                 "description": "The Passion of Our Lord Jesus Christ"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Paixão",
                 "description": "A paixão de Nosso Senhor Jesus Cristo"
             }
@@ -538,28 +538,28 @@
         "name": "Procastination",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 2
             },
             {
-                "bookId": "breviario-confianca",
+                "key": "breviario-confianca",
                 "count": 1
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 3
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Procastination",
                 "description": "Wasting valuable time"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Procastinação",
                 "description": "A perca do tempo valioso"
             }
@@ -569,44 +569,44 @@
         "name": "Detachment",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 13
             },
             {
-                "bookId": "alphonsus-every-day",
+                "key": "alphonsus-every-day",
                 "count": 2
             },
             {
-                "bookId": "breviario-confianca",
+                "key": "breviario-confianca",
                 "count": 1
             },
             {
-                "bookId": "divine-intimacy",
+                "key": "divine-intimacy",
                 "count": 1
             },
             {
-                "bookId": "imitacao",
+                "key": "imitacao",
                 "count": 3
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 17
             },
             {
-                "language": "en",
+                "key": "en",
                 "count": 3
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Detachment",
                 "description": "Detachment from the world, money, friends, family, places and yourself"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Desapego",
                 "description": "Despego do mundo, dinheiros, amigos, família, lugares e de si mesmo"
             }
@@ -616,44 +616,44 @@
         "name": "Disease",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 5
             },
             {
-                "bookId": "aquinas-lent",
+                "key": "aquinas-lent",
                 "count": 1
             },
             {
-                "bookId": "aquino-quaresma",
+                "key": "aquino-quaresma",
                 "count": 1
             },
             {
-                "bookId": "breviario-confianca",
+                "key": "breviario-confianca",
                 "count": 11
             },
             {
-                "bookId": "breviary-trust",
+                "key": "breviary-trust",
                 "count": 1
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 17
             },
             {
-                "language": "en",
+                "key": "en",
                 "count": 2
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Disease",
                 "description": "Illnesses as an occasion for sanctification"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Doença",
                 "description": "As doenças como ocasião de santificação"
             }
@@ -663,36 +663,36 @@
         "name": "ReligiousLife",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 13
             },
             {
-                "bookId": "imitacao",
+                "key": "imitacao",
                 "count": 2
             },
             {
-                "bookId": "alphonsus-every-day",
+                "key": "alphonsus-every-day",
                 "count": 1
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 15
             },
             {
-                "language": "en",
+                "key": "en",
                 "count": 1
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Religious Life",
                 "description": "Meditations for Religious"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Vida Religiosa",
                 "description": "Meditações para os religiosos"
             }
@@ -702,32 +702,32 @@
         "name": "Faith",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 1
             },
             {
-                "bookId": "divine-intimacy",
+                "key": "divine-intimacy",
                 "count": 2
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 1
             },
             {
-                "language": "en",
+                "key": "en",
                 "count": 2
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Faith",
                 "description": "The virtue of Faith"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Fé",
                 "description": "A virtude da fé"
             }
@@ -737,24 +737,24 @@
         "name": "Church",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 3
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 3
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Church",
                 "description": "The Greatness of the Catholic Church"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Igreja",
                 "description": "A grandeza da igreja Católica"
             }
@@ -764,28 +764,28 @@
         "name": "Heaven",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 8
             },
             {
-                "bookId": "breviario-confianca",
+                "key": "breviario-confianca",
                 "count": 1
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 9
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Heaven",
                 "description": "The sweets of heaven"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Paraíso",
                 "description": "As doçuras do paraíso"
             }
@@ -795,32 +795,32 @@
         "name": "Hope",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 5
             },
             {
-                "bookId": "divine-intimacy",
+                "key": "divine-intimacy",
                 "count": 1
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 5
             },
             {
-                "language": "en",
+                "key": "en",
                 "count": 1
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Hope",
                 "description": "The virtue of Hope"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Esperança",
                 "description": "A virtude da esperança"
             }
@@ -830,48 +830,48 @@
         "name": "Suffering",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 11
             },
             {
-                "bookId": "aquinas-lent",
+                "key": "aquinas-lent",
                 "count": 2
             },
             {
-                "bookId": "aquino-quaresma",
+                "key": "aquino-quaresma",
                 "count": 2
             },
             {
-                "bookId": "breviario-confianca",
+                "key": "breviario-confianca",
                 "count": 5
             },
             {
-                "bookId": "divine-intimacy",
+                "key": "divine-intimacy",
                 "count": 2
             },
             {
-                "bookId": "imitacao",
+                "key": "imitacao",
                 "count": 1
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 19
             },
             {
-                "language": "en",
+                "key": "en",
                 "count": 4
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Suffering",
                 "description": "Agony, persecution and pain"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Sofrimento",
                 "description": "Agonia, perseguição e dores"
             }
@@ -881,32 +881,32 @@
         "name": "Meditation",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 7
             },
             {
-                "bookId": "divine-intimacy",
+                "key": "divine-intimacy",
                 "count": 5
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 7
             },
             {
-                "language": "en",
+                "key": "en",
                 "count": 5
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Meditation",
                 "description": "Meditations on Meditation"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Meditação",
                 "description": "Meditações sobre a meditação"
             }
@@ -916,36 +916,36 @@
         "name": "Penitence",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 6
             },
             {
-                "bookId": "aquinas-lent",
+                "key": "aquinas-lent",
                 "count": 1
             },
             {
-                "bookId": "aquino-quaresma",
+                "key": "aquino-quaresma",
                 "count": 1
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 7
             },
             {
-                "language": "en",
+                "key": "en",
                 "count": 1
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Penance",
                 "description": "The benefits of penance"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Penitência",
                 "description": "Os benefícios da pentiencia"
             }
@@ -955,36 +955,36 @@
         "name": "Obdience",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 3
             },
             {
-                "bookId": "divine-intimacy",
+                "key": "divine-intimacy",
                 "count": 6
             },
             {
-                "bookId": "imitacao",
+                "key": "imitacao",
                 "count": 2
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 5
             },
             {
-                "language": "en",
+                "key": "en",
                 "count": 6
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Obedience",
                 "description": "Models of obedience"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Obediência",
                 "description": "Modelos de obdiencia"
             }
@@ -994,36 +994,36 @@
         "name": "Mass",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 8
             },
             {
-                "bookId": "aquinas-lent",
+                "key": "aquinas-lent",
                 "count": 1
             },
             {
-                "bookId": "divine-intimacy",
+                "key": "divine-intimacy",
                 "count": 2
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 8
             },
             {
-                "language": "en",
+                "key": "en",
                 "count": 3
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Mass",
                 "description": "The Holy Mass and its benefits"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Missa",
                 "description": "A santa Missa e seus beneficios"
             }
@@ -1033,24 +1033,24 @@
         "name": "Carnival",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 2
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 2
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Carnival",
                 "description": "Against the sins in the Carnival"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Carnaval",
                 "description": "Contra os pecados do carnaval"
             }
@@ -1060,24 +1060,24 @@
         "name": "Trust",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 1
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 1
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Confidence",
                 "description": "Trust in God"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Confiança",
                 "description": "A confiança em Deus"
             }
@@ -1087,48 +1087,48 @@
         "name": "Temptation",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 4
             },
             {
-                "bookId": "aquinas-lent",
+                "key": "aquinas-lent",
                 "count": 2
             },
             {
-                "bookId": "aquino-quaresma",
+                "key": "aquino-quaresma",
                 "count": 2
             },
             {
-                "bookId": "breviario-confianca",
+                "key": "breviario-confianca",
                 "count": 4
             },
             {
-                "bookId": "imitacao",
+                "key": "imitacao",
                 "count": 1
             },
             {
-                "bookId": "imitation",
+                "key": "imitation",
                 "count": 1
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 11
             },
             {
-                "language": "en",
+                "key": "en",
                 "count": 3
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Temptation",
                 "description": "About the temptations that afflict us"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Tentação",
                 "description": "Sobre as tentações que nos aflige"
             }
@@ -1138,44 +1138,44 @@
         "name": "BlessedSacrament",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 29
             },
             {
-                "bookId": "aquinas-lent",
+                "key": "aquinas-lent",
                 "count": 3
             },
             {
-                "bookId": "aquino-quaresma",
+                "key": "aquino-quaresma",
                 "count": 3
             },
             {
-                "bookId": "breviario-confianca",
+                "key": "breviario-confianca",
                 "count": 1
             },
             {
-                "bookId": "divine-intimacy",
+                "key": "divine-intimacy",
                 "count": 7
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 33
             },
             {
-                "language": "en",
+                "key": "en",
                 "count": 10
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Blessed Sacrament",
                 "description": "To increase devotion to the Holy Eucharist"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Santíssimo Sacramento",
                 "description": "Para aumentar a devoção a santa eucaristia"
             }
@@ -1185,28 +1185,28 @@
         "name": "SaintJoseph",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 5
             },
             {
-                "bookId": "breviario-confianca",
+                "key": "breviario-confianca",
                 "count": 1
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 6
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Saint Joseph",
                 "description": "On the life and virtues of Saint Joseph"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "São José",
                 "description": "Sobre a vida e virtudes de São José"
             }
@@ -1216,24 +1216,24 @@
         "name": "Confession",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 3
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 3
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Confession",
                 "description": "Of the importance of Confession"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Confissão",
                 "description": "Da importancia confissão"
             }
@@ -1243,24 +1243,24 @@
         "name": "Purgatory",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 3
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 3
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Purgatory",
                 "description": "The Souls in Purgatory"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Purgatório",
                 "description": "As almas do purgatório"
             }
@@ -1270,36 +1270,36 @@
         "name": "SoulFirst",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 10
             },
             {
-                "bookId": "breviario-confianca",
+                "key": "breviario-confianca",
                 "count": 1
             },
             {
-                "bookId": "breviary-trust",
+                "key": "breviary-trust",
                 "count": 1
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 11
             },
             {
-                "language": "en",
+                "key": "en",
                 "count": 1
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Soul First",
                 "description": "The supremacy of the soul over the body"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Alma Primeiro",
                 "description": "A supremacia da alma perante o corpo"
             }
@@ -1309,28 +1309,28 @@
         "name": "GodsWill",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 5
             },
             {
-                "bookId": "breviario-confianca",
+                "key": "breviario-confianca",
                 "count": 5
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 10
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "God's will",
                 "description": "Conformity to God's Will"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "A vontade de Deus",
                 "description": "Conformidade com a vontade de Deus"
             }
@@ -1340,36 +1340,36 @@
         "name": "Charity",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 2
             },
             {
-                "bookId": "divine-intimacy",
+                "key": "divine-intimacy",
                 "count": 2
             },
             {
-                "bookId": "imitacao",
+                "key": "imitacao",
                 "count": 1
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 3
             },
             {
-                "language": "en",
+                "key": "en",
                 "count": 2
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Charity",
                 "description": "The virtue of Charity"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Caridade",
                 "description": "A verdadeira caridade por amor de Deus"
             }
@@ -1379,32 +1379,32 @@
         "name": "Prayer",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 6
             },
             {
-                "bookId": "divine-intimacy",
+                "key": "divine-intimacy",
                 "count": 6
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 6
             },
             {
-                "language": "en",
+                "key": "en",
                 "count": 6
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Prayer",
                 "description": "The power of prayer"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Oração",
                 "description": "O poder da oração"
             }
@@ -1414,24 +1414,24 @@
         "name": "Condemnation",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 2
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 2
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Condemnation",
                 "description": "The pains of those condemned to eternal death"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Condenação",
                 "description": "As dores dos condenados a morte eterna"
             }
@@ -1441,36 +1441,36 @@
         "name": "Salvation",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 8
             },
             {
-                "bookId": "aquinas-lent",
+                "key": "aquinas-lent",
                 "count": 2
             },
             {
-                "bookId": "aquino-quaresma",
+                "key": "aquino-quaresma",
                 "count": 2
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 10
             },
             {
-                "language": "en",
+                "key": "en",
                 "count": 2
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Salvation",
                 "description": "The salvation brought to us by Our Lord Jesus Christ"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Salvação",
                 "description": "A salvação nos trazida por Nosso Senhor Jesus Cristo"
             }
@@ -1480,24 +1480,24 @@
         "name": "SaintAlphonsus",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 2
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 2
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Saint Alfonso",
                 "description": "On the virtues of Saint Alphonsus"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Santo Afonso",
                 "description": "Sobre as virtudes de Santo Afonso"
             }
@@ -1507,24 +1507,24 @@
         "name": "Wrath",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 1
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 1
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Fury",
                 "description": "Against the sins of wrath"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Ira",
                 "description": "Contra os pecados da ira"
             }
@@ -1534,36 +1534,36 @@
         "name": "GoodWorks",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 1
             },
             {
-                "bookId": "alphonsus-every-day",
+                "key": "alphonsus-every-day",
                 "count": 1
             },
             {
-                "bookId": "aquinas-lent",
+                "key": "aquinas-lent",
                 "count": 1
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 1
             },
             {
-                "language": "en",
+                "key": "en",
                 "count": 2
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Good Works",
                 "description": "The need for good works"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Boas Obras",
                 "description": "A necessidade de boas obras"
             }
@@ -1573,24 +1573,24 @@
         "name": "HiddenLife",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 3
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 3
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Hidden Life",
                 "description": "The hidden, withdrawn and lonely life"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Vida Oculta",
                 "description": "A vida oculta, recolhida e solitária"
             }
@@ -1600,32 +1600,32 @@
         "name": "Mercy",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 2
             },
             {
-                "bookId": "divine-intimacy",
+                "key": "divine-intimacy",
                 "count": 1
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 2
             },
             {
-                "language": "en",
+                "key": "en",
                 "count": 1
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Gods Mercy",
                 "description": "God's Mercy"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Misericórdia",
                 "description": "A misericordia de Deus"
             }
@@ -1635,24 +1635,24 @@
         "name": "Saints",
         "bookCount": [
             {
-                "bookId": "afonso-todo-dia",
+                "key": "afonso-todo-dia",
                 "count": 38
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 38
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Saints",
                 "description": "Meditations on the lives of different saints"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Santos",
                 "description": "Meditações sobre a vida de diversos santos"
             }
@@ -1662,36 +1662,36 @@
         "name": "Apostolate",
         "bookCount": [
             {
-                "bookId": "aquinas-lent",
+                "key": "aquinas-lent",
                 "count": 1
             },
             {
-                "bookId": "aquino-quaresma",
+                "key": "aquino-quaresma",
                 "count": 1
             },
             {
-                "bookId": "divine-intimacy",
+                "key": "divine-intimacy",
                 "count": 1
             }
         ],
         "languageCount": [
             {
-                "language": "en",
+                "key": "en",
                 "count": 2
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 1
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Apostolate",
                 "description": "Doing apostolate for love of God"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Apostolado",
                 "description": "A importancia do apostolado por amor a Deus"
             }
@@ -1701,36 +1701,36 @@
         "name": "Persecution",
         "bookCount": [
             {
-                "bookId": "breviario-confianca",
+                "key": "breviario-confianca",
                 "count": 1
             },
             {
-                "bookId": "imitacao",
+                "key": "imitacao",
                 "count": 2
             },
             {
-                "bookId": "breviary-trust",
+                "key": "breviary-trust",
                 "count": 1
             }
         ],
         "languageCount": [
             {
-                "language": "pt",
+                "key": "pt",
                 "count": 3
             },
             {
-                "language": "en",
+                "key": "en",
                 "count": 1
             }
         ],
         "localization": [
             {
-                "language": "en",
+                "key": "en",
                 "title": "Persecution",
                 "description": "How to deal with the difficult life of persecution"
             },
             {
-                "language": "pt",
+                "key": "pt",
                 "title": "Perseguição",
                 "description": "Como lidar com a vida díficil de perseguições"
             }
