@@ -5,8 +5,9 @@ import json
 from string import Template
 from tokenize import String
 
-tags_translations = open('./_index/tags_translations.json', encoding="utf-8")
-localizations = json.load(tags_translations)
+topics_translations = open(
+    './_index/topics_translations.json', encoding="utf-8")
+localizations = json.load(topics_translations)
 
 books_file = open('./_index/books.json', encoding="utf-8")
 books = json.load(books_file)
@@ -44,19 +45,36 @@ for meditation in meditations:
 
                 language_updated = False
 
-                for language_count in tag_from_list["counts"]:
+                for language_count in tag_from_list["languageCount"]:
                     language_index = language_index + 1
 
                     if language_count["language"] == language:
                         # Tag from meditation was found already in the tag list
-                        new_tag_list[tag_list_index]["counts"][language_index]["count"] = new_tag_list[
-                            tag_list_index]["counts"][language_index]["count"] + 1
+                        new_tag_list[tag_list_index]["languageCount"][language_index]["count"] = new_tag_list[
+                            tag_list_index]["languageCount"][language_index]["count"] + 1
                         language_updated = True
 
                 if language_updated == False:
                     # We have a tag, but no count for this language
-                    new_tag_list[tag_list_index]["counts"].append(
+                    new_tag_list[tag_list_index]["languageCount"].append(
                         {"language": language, "count": 1})
+
+                book_index = -1
+                book_updated = False
+
+                for book_count in tag_from_list["bookCount"]:
+                    book_index = book_index + 1
+
+                    if book_count["bookId"] == meditation["bookId"]:
+                        # Tag from meditation was found already in the tag list
+                        new_tag_list[tag_list_index]["bookCount"][book_index]["count"] = new_tag_list[
+                            tag_list_index]["bookCount"][book_index]["count"] + 1
+                        book_updated = True
+
+                if book_updated == False:
+                    # We have a tag, but no count for this book
+                    new_tag_list[tag_list_index]["bookCount"].append(
+                        {"bookId": meditation["bookId"], "count": 1})
 
         if tag_updated == False:
             loc_array = [
@@ -71,11 +89,15 @@ for meditation in meditations:
                 loc_for_newentry.append(
                     {"language": "pt", "title": loc["title_pt"], "description": loc["desc_pt"]})
 
-            new_tag_list.append({"name": tag_from_meditation, "counts": [{
-                                "language": language, "count": 1}], "localization": loc_for_newentry})
+            new_tag_list.append({
+                "name": tag_from_meditation,
+                "bookCount": [
+                    {"bookId": meditation["bookId"], "count": 1}
+                ],
+                "languageCount": [{"language": language, "count": 1}], "localization": loc_for_newentry})
 
 
-output_path = "./_index/tags.json"
+output_path = "./_index/topics.json"
 
 try:
     os.remove(output_path)
