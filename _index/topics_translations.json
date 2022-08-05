@@ -1,17 +1,31 @@
 [
   {
-    "name": "Trust",
-    "title_pt": "Confiança",
-    "desc_pt": "A confiança em Deus",
-    "title_en": "Confidence",
-    "desc_en": "Trust in God"
+    "name": "Apostolate",
+    "title_pt": "Apostolado",
+    "desc_pt": "A importancia do apostolado por amor a Deus",
+    "title_en": "Apostolate",
+    "desc_en": "Doing apostolate for love of God"
   },
   {
-    "name": "Incarnation",
-    "title_pt": "Encarnação",
-    "desc_pt": "A encarnação de Nosso Senhor Jesus Cristo",
-    "title_en": "Incarnation",
-    "desc_en": "The Incarnation of Our Lord Jesus Christ"
+    "name": "BlessedSacrament",
+    "title_pt": "Santíssimo Sacramento",
+    "desc_pt": "Para aumentar a devoção a santa eucaristia",
+    "title_en": "Blessed Sacrament",
+    "desc_en": "To increase devotion to the Holy Eucharist"
+  },
+  {
+    "name": "Carnival",
+    "title_pt": "Carnaval",
+    "desc_pt": "Contra os pecados do carnaval",
+    "title_en": "Carnival",
+    "desc_en": "Against the sins in the Carnival"
+  },
+  {
+    "name": "Charity",
+    "title_pt": "Caridade",
+    "desc_pt": "A verdadeira caridade por amor de Deus",
+    "title_en": "Charity",
+    "desc_en": "The virtue of Charity"
   },
   {
     "name": "Church",
@@ -21,18 +35,67 @@
     "desc_en": "The Greatness of the Catholic Church"
   },
   {
-    "name": "Apostolate",
-    "title_pt": "Apostolado",
-    "desc_pt": "A importancia do apostolado por amor a Deus",
-    "title_en": "Apostolate",
-    "desc_en": "Doing apostolate for love of God"
+    "name": "Condemnation",
+    "title_pt": "Condenação",
+    "desc_pt": "As dores dos condenados a morte eterna",
+    "title_en": "Condemnation",
+    "desc_en": "The pains of those condemned to eternal death"
   },
   {
-    "name": "Mercy",
-    "title_pt": "Misericórdia",
-    "desc_pt": "A misericordia de Deus",
-    "title_en": "Gods Mercy",
-    "desc_en": "God's Mercy"
+    "name": "Confession",
+    "title_pt": "Confissão",
+    "desc_pt": "Da importancia confissão",
+    "title_en": "Confession",
+    "desc_en": "Of the importance of Confession"
+  },
+  {
+    "name": "Crucification",
+    "title_pt": "Crucificação",
+    "desc_pt": "Para meditar melhor na crucificação",
+    "title_en": "Crucifixion",
+    "desc_en": "To better meditate on the crucifixion"
+  },
+  {
+    "name": "Death",
+    "title_pt": "Morte",
+    "desc_pt": "Como se preparar para a morte",
+    "title_en": "Death",
+    "desc_en": "How to prepare for death"
+  },
+  {
+    "name": "Detachment",
+    "title_pt": "Desapego",
+    "desc_pt": "Despego do mundo, dinheiros, amigos, família, lugares e de si mesmo",
+    "title_en": "Detachment",
+    "desc_en": "Detachment from the world, money, friends, family, places and yourself"
+  },
+  {
+    "name": "Disease",
+    "title_pt": "Doença",
+    "desc_pt": "As doenças como ocasião de santificação",
+    "title_en": "Disease",
+    "desc_en": "Illnesses as an occasion for sanctification"
+  },
+  {
+    "name": "Faith",
+    "title_pt": "Fé",
+    "desc_pt": "A virtude da fé",
+    "title_en": "Faith",
+    "desc_en": "The virtue of Faith"
+  },
+  {
+    "name": "GodsLove",
+    "title_pt": "Amor",
+    "desc_pt": "Meditações sobre o amor de Deus para conosco",
+    "title_en": "Love",
+    "desc_en": "Meditations on God's Love for Us"
+  },
+  {
+    "name": "GodsWill",
+    "title_pt": "Vontade de Deus",
+    "desc_pt": "Conformidade com a vontade de Deus",
+    "title_en": "God's will",
+    "desc_en": "Conformity to God's Will"
   },
   {
     "name": "GoodWorks",
@@ -42,60 +105,18 @@
     "desc_en": "The need for good works"
   },
   {
-    "name": "Patience",
-    "title_pt": "Paciência",
-    "desc_pt": "A paciencia com cruzes, tribulações, etc",
-    "title_en": "Patience",
-    "desc_en": "Patience with crosses, tribulations, etc."
+    "name": "Heaven",
+    "title_pt": "Paraíso",
+    "desc_pt": "As doçuras do paraíso",
+    "title_en": "Heaven",
+    "desc_en": "The sweets of heaven"
   },
   {
-    "name": "Passion",
-    "title_pt": "Paixão",
-    "desc_pt": "A paixão de Nosso Senhor Jesus Cristo",
-    "title_en": "Passion",
-    "desc_en": "The Passion of Our Lord Jesus Christ"
-  },
-  {
-    "name": "Procastination",
-    "title_pt": "Procastinação",
-    "desc_pt": "A perca do tempo valioso",
-    "title_en": "Procastination",
-    "desc_en": "Wasting valuable time"
-  },
-  {
-    "name": "Redemption",
-    "title_pt": "Redenção",
-    "desc_pt": "A redenção dos nossos pecados por Nosso Senhor Jesus Cristo",
-    "title_en": "Redemption",
-    "desc_en": "The redemption of our sins through Our Lord Jesus Christ"
-  },
-  {
-    "name": "Salvation",
-    "title_pt": "Salvação",
-    "desc_pt": "A salvação nos trazida por Nosso Senhor Jesus Cristo",
-    "title_en": "Salvation",
-    "desc_en": "The salvation brought to us by Our Lord Jesus Christ"
-  },
-  {
-    "name": "Mass",
-    "title_pt": "Missa",
-    "desc_pt": "A santa Missa e seus beneficios",
-    "title_en": "Mass",
-    "desc_en": "The Holy Mass and its benefits"
-  },
-  {
-    "name": "SoulFirst",
-    "title_pt": "Alma Primeiro",
-    "desc_pt": "A supremacia da alma perante o corpo",
-    "title_en": "Soul First",
-    "desc_en": "The supremacy of the soul over the body"
-  },
-  {
-    "name": "Charity",
-    "title_pt": "Caridade",
-    "desc_pt": "A verdadeira caridade por amor de Deus",
-    "title_en": "Charity",
-    "desc_en": "The virtue of Charity"
+    "name": "Hell",
+    "title_pt": "Inferno",
+    "desc_pt": "O terror e as angustias do inferno",
+    "title_en": "Hell",
+    "desc_en": "The terror and anguish in hell"
   },
   {
     "name": "HiddenLife",
@@ -112,123 +133,25 @@
     "desc_en": "The virtue of Hope"
   },
   {
-    "name": "Faith",
-    "title_pt": "Fé",
-    "desc_pt": "A virtude da fé",
-    "title_en": "Faith",
-    "desc_en": "The virtue of Faith"
-  },
-  {
-    "name": "Suffering",
-    "title_pt": "Sofrimento",
-    "desc_pt": "Agonia, perseguição e dores",
-    "title_en": "Suffering",
-    "desc_en": "Agony, persecution and pain"
-  },
-  {
-    "name": "Purgatory",
-    "title_pt": "Purgatório",
-    "desc_pt": "As almas do purgatório",
-    "title_en": "Purgatory",
-    "desc_en": "The Souls in Purgatory"
-  },
-  {
-    "name": "Heaven",
-    "title_pt": "Paraíso",
-    "desc_pt": "As doçuras do paraíso",
-    "title_en": "Heaven",
-    "desc_en": "The sweets of heaven"
-  },
-  {
-    "name": "Disease",
-    "title_pt": "Doença",
-    "desc_pt": "As doenças como ocasião de santificação",
-    "title_en": "Disease",
-    "desc_en": "Illnesses as an occasion for sanctification"
-  },
-  {
-    "name": "Condemnation",
-    "title_pt": "Condenação",
-    "desc_pt": "As dores dos condenados a morte eterna",
-    "title_en": "Condemnation",
-    "desc_en": "The pains of those condemned to eternal death"
-  },
-  {
-    "name": "Persecution",
-    "title_pt": "Perseguição",
-    "desc_pt": "Como lidar com a vida díficil de perseguições",
-    "title_en": "Persecution",
-    "desc_en": "How to deal with the difficult life of persecution"
-  },
-  {
-    "name": "Death",
-    "title_pt": "Morte",
-    "desc_pt": "Como se preparar para a morte",
-    "title_en": "Death",
-    "desc_en": "How to prepare for death"
-  },
-  {
-    "name": "GodsWill",
-    "title_pt": "A vontade de Deus",
-    "desc_pt": "Conformidade com a vontade de Deus",
-    "title_en": "God's will",
-    "desc_en": "Conformity to God's Will"
-  },
-  {
-    "name": "Wrath",
-    "title_pt": "Ira",
-    "desc_pt": "Contra os pecados da ira",
-    "title_en": "Fury",
-    "desc_en": "Against the sins of wrath"
-  },
-  {
-    "name": "Vanity",
-    "title_pt": "Vaidade",
-    "desc_pt": "Contra os pecados da vaidade",
-    "title_en": "Vanity",
-    "desc_en": "Against the sins of vanity"
-  },
-  {
-    "name": "Carnival",
-    "title_pt": "Carnaval",
-    "desc_pt": "Contra os pecados do carnaval",
-    "title_en": "Carnival",
-    "desc_en": "Against the sins in the Carnival"
-  },
-  {
-    "name": "Confession",
-    "title_pt": "Confissão",
-    "desc_pt": "Da importancia confissão",
-    "title_en": "Confession",
-    "desc_en": "Of the importance of Confession"
-  },
-  {
-    "name": "Detachment",
-    "title_pt": "Desapego",
-    "desc_pt": "Despego do mundo, dinheiros, amigos, família, lugares e de si mesmo",
-    "title_en": "Detachment",
-    "desc_en": "Detachment from the world, money, friends, family, places and yourself"
+    "name": "Incarnation",
+    "title_pt": "Encarnação",
+    "desc_pt": "A encarnação de Nosso Senhor Jesus Cristo",
+    "title_en": "Incarnation",
+    "desc_en": "The Incarnation of Our Lord Jesus Christ"
   },
   {
     "name": "Judgement",
-    "title_pt": "Julgamento",
-    "desc_pt": "Julgamente do indivíduo após a morte e no fim dos tempos",
+    "title_pt": "Juizo",
+    "desc_pt": "Juizo individual após a morte e no fim dos tempos",
     "title_en": "Judgment",
     "desc_en": "Judgment of the individual after death and at the end of time"
   },
   {
-    "name": "ReligiousLife",
-    "title_pt": "Vida Religiosa",
-    "desc_pt": "Meditações para os religiosos",
-    "title_en": "Religious Life",
-    "desc_en": "Meditations for Religious"
-  },
-  {
-    "name": "OurLady",
-    "title_pt": "Nossa Senhora",
-    "desc_pt": "Meditações sobre a Mãe de Deus",
-    "title_en": "Our Lady",
-    "desc_en": "Meditations on the Mother of God"
+    "name": "Mass",
+    "title_pt": "Missa",
+    "desc_pt": "A santa Missa e seus beneficios",
+    "title_en": "Mass",
+    "desc_en": "The Holy Mass and its benefits"
   },
   {
     "name": "Meditation",
@@ -238,18 +161,11 @@
     "desc_en": "Meditations on Meditation"
   },
   {
-    "name": "Saints",
-    "title_pt": "Santos",
-    "desc_pt": "Meditações sobre a vida de diversos santos",
-    "title_en": "Saints",
-    "desc_en": "Meditations on the lives of different saints"
-  },
-  {
-    "name": "GodsLove",
-    "title_pt": "Amor",
-    "desc_pt": "Meditações sobre o amor de Deus para conosco",
-    "title_en": "Love",
-    "desc_en": "Meditations on God's Love for Us"
+    "name": "Mercy",
+    "title_pt": "Misericórdia",
+    "desc_pt": "A misericordia de Deus",
+    "title_en": "Gods Mercy",
+    "desc_en": "God's Mercy"
   },
   {
     "name": "Obdience",
@@ -259,25 +175,32 @@
     "desc_en": "Models of obedience"
   },
   {
-    "name": "Tribulation",
-    "title_pt": "Tribulação",
-    "desc_pt": "Momentos de Tribulação",
-    "title_en": "Tribulation",
-    "desc_en": "Dealing with tribulations"
+    "name": "OurLady",
+    "title_pt": "Nossa Senhora",
+    "desc_pt": "Meditações sobre a Mãe de Deus",
+    "title_en": "Our Lady",
+    "desc_en": "Meditations on the Mother of God"
   },
   {
-    "name": "Prayer",
-    "title_pt": "Oração",
-    "desc_pt": "O poder da oração",
-    "title_en": "Prayer",
-    "desc_en": "The power of prayer"
+    "name": "Passion",
+    "title_pt": "Paixão",
+    "desc_pt": "A paixão de Nosso Senhor Jesus Cristo",
+    "title_en": "Passion",
+    "desc_en": "The Passion of Our Lord Jesus Christ"
   },
   {
-    "name": "Hell",
-    "title_pt": "Inferno",
-    "desc_pt": "O terror e as angustias do inferno",
-    "title_en": "Hell",
-    "desc_en": "The terror and anguish in hell"
+    "name": "Patience",
+    "title_pt": "Paciência",
+    "desc_pt": "A paciencia com cruzes, tribulações, etc",
+    "title_en": "Patience",
+    "desc_en": "Patience with crosses, tribulations, etc."
+  },
+  {
+    "name": "Pending",
+    "title_pt": "Pending",
+    "desc_pt": "Pending",
+    "title_en": "Pending",
+    "desc_en": "Pending"
   },
   {
     "name": "Penitence",
@@ -287,32 +210,46 @@
     "desc_en": "The benefits of penance"
   },
   {
-    "name": "BlessedSacrament",
-    "title_pt": "Santíssimo Sacramento",
-    "desc_pt": "Para aumentar a devoção a santa eucaristia",
-    "title_en": "Blessed Sacrament",
-    "desc_en": "To increase devotion to the Holy Eucharist"
+    "name": "Persecution",
+    "title_pt": "Perseguição",
+    "desc_pt": "Como lidar com a vida díficil de perseguições",
+    "title_en": "Persecution",
+    "desc_en": "How to deal with the difficult life of persecution"
   },
   {
-    "name": "Crucification",
-    "title_pt": "Crucificação",
-    "desc_pt": "Para meditar melhor na crucificação",
-    "title_en": "Crucifixion",
-    "desc_en": "To better meditate on the crucifixion"
+    "name": "Prayer",
+    "title_pt": "Oração",
+    "desc_pt": "O poder da oração",
+    "title_en": "Prayer",
+    "desc_en": "The power of prayer"
   },
   {
-    "name": "SaintJoseph",
-    "title_pt": "São José",
-    "desc_pt": "Sobre a vida e virtudes de São José",
-    "title_en": "Saint Joseph",
-    "desc_en": "On the life and virtues of Saint Joseph"
+    "name": "Procastination",
+    "title_pt": "Procastinação",
+    "desc_pt": "A perca do tempo valioso",
+    "title_en": "Procastination",
+    "desc_en": "Wasting valuable time"
   },
   {
-    "name": "Temptation",
-    "title_pt": "Tentação",
-    "desc_pt": "Sobre as tentações que nos aflige",
-    "title_en": "Temptation",
-    "desc_en": "About the temptations that afflict us"
+    "name": "Purgatory",
+    "title_pt": "Purgatório",
+    "desc_pt": "As almas do purgatório",
+    "title_en": "Purgatory",
+    "desc_en": "The Souls in Purgatory"
+  },
+  {
+    "name": "Redemption",
+    "title_pt": "Redenção",
+    "desc_pt": "A redenção dos nossos pecados por Nosso Senhor Jesus Cristo",
+    "title_en": "Redemption",
+    "desc_en": "The redemption of our sins through Our Lord Jesus Christ"
+  },
+  {
+    "name": "ReligiousLife",
+    "title_pt": "Vida Religiosa",
+    "desc_pt": "Meditações para os religiosos",
+    "title_en": "Religious Life",
+    "desc_en": "Meditations for Religious"
   },
   {
     "name": "SaintAlphonsus",
@@ -322,6 +259,27 @@
     "desc_en": "On the virtues of Saint Alphonsus"
   },
   {
+    "name": "SaintJoseph",
+    "title_pt": "São José",
+    "desc_pt": "Sobre a vida e virtudes de São José",
+    "title_en": "Saint Joseph",
+    "desc_en": "On the life and virtues of Saint Joseph"
+  },
+  {
+    "name": "Saints",
+    "title_pt": "Santos",
+    "desc_pt": "Meditações sobre a vida de diversos santos",
+    "title_en": "Saints",
+    "desc_en": "Meditations on the lives of different saints"
+  },
+  {
+    "name": "Salvation",
+    "title_pt": "Salvação",
+    "desc_pt": "A salvação nos trazida por Nosso Senhor Jesus Cristo",
+    "title_en": "Salvation",
+    "desc_en": "The salvation brought to us by Our Lord Jesus Christ"
+  },
+  {
     "name": "Sinner",
     "title_pt": "Pecador",
     "desc_pt": "Sobre o pecado e o pecador",
@@ -329,10 +287,52 @@
     "desc_en": "About sin and the sinner"
   },
   {
-    "name": "Pending",
-    "title_pt": "Pending",
-    "desc_pt": "Pending",
-    "title_en": "Pending",
-    "desc_en": "Pending"
+    "name": "SoulFirst",
+    "title_pt": "Alma Primeiro",
+    "desc_pt": "A supremacia da alma perante o corpo",
+    "title_en": "Soul First",
+    "desc_en": "The supremacy of the soul over the body"
+  },
+  {
+    "name": "Suffering",
+    "title_pt": "Sofrimento",
+    "desc_pt": "Agonia, perseguição e dores",
+    "title_en": "Suffering",
+    "desc_en": "Agony, persecution and pain"
+  },
+  {
+    "name": "Temptation",
+    "title_pt": "Tentação",
+    "desc_pt": "Sobre as tentações que nos aflige",
+    "title_en": "Temptation",
+    "desc_en": "About the temptations that afflict us"
+  },
+  {
+    "name": "Tribulation",
+    "title_pt": "Tribulação",
+    "desc_pt": "Momentos de Tribulação",
+    "title_en": "Tribulation",
+    "desc_en": "Dealing with tribulations"
+  },
+  {
+    "name": "Trust",
+    "title_pt": "Confiança",
+    "desc_pt": "A confiança em Deus",
+    "title_en": "Confidence",
+    "desc_en": "Trust in God"
+  },
+  {
+    "name": "Vanity",
+    "title_pt": "Vaidade",
+    "desc_pt": "Contra os pecados da vaidade",
+    "title_en": "Vanity",
+    "desc_en": "Against the sins of vanity"
+  },
+  {
+    "name": "Wrath",
+    "title_pt": "Ira",
+    "desc_pt": "Contra os pecados da ira",
+    "title_en": "Fury",
+    "desc_en": "Against the sins of wrath"
   }
 ]
