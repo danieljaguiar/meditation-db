@@ -2,15 +2,15 @@
   {
     "name": "Apostolate",
     "title_pt": "Apostolado",
-    "desc_pt": "A importancia do apostolado por amor a Deus",
+    "desc_pt": "A importância do apostolado por amor a Deus",
     "title_en": "Apostolate",
     "desc_en": "Doing apostolate for love of God"
   },
   {
     "name": "BlessedSacrament",
-    "title_pt": "Santíssimo Sacramento",
+    "title_pt": "Eucaristia",
     "desc_pt": "Para aumentar a devoção a santa eucaristia",
-    "title_en": "Blessed Sacrament",
+    "title_en": "Eucharist",
     "desc_en": "To increase devotion to the Holy Eucharist"
   },
   {
@@ -37,14 +37,14 @@
   {
     "name": "Condemnation",
     "title_pt": "Condenação",
-    "desc_pt": "As dores dos condenados a morte eterna",
+    "desc_pt": "As dores dos condenados à morte eterna",
     "title_en": "Condemnation",
     "desc_en": "The pains of those condemned to eternal death"
   },
   {
     "name": "Confession",
     "title_pt": "Confissão",
-    "desc_pt": "Da importancia confissão",
+    "desc_pt": "Da importância confissão",
     "title_en": "Confession",
     "desc_en": "Of the importance of Confession"
   },
@@ -65,7 +65,7 @@
   {
     "name": "Detachment",
     "title_pt": "Desapego",
-    "desc_pt": "Despego do mundo, dinheiros, amigos, família, lugares e de si mesmo",
+    "desc_pt": "Desapego do mundo, dinheiros, amigos, família, lugares e de si mesmo",
     "title_en": "Detachment",
     "desc_en": "Detachment from the world, money, friends, family, places and yourself"
   },
@@ -114,7 +114,7 @@
   {
     "name": "Hell",
     "title_pt": "Inferno",
-    "desc_pt": "O terror e as angustias do inferno",
+    "desc_pt": "O terror e as angústias do inferno",
     "title_en": "Hell",
     "desc_en": "The terror and anguish in hell"
   },
@@ -142,14 +142,14 @@
   {
     "name": "Judgement",
     "title_pt": "Juizo",
-    "desc_pt": "Juizo individual após a morte e no fim dos tempos",
+    "desc_pt": "Juízo individual após a morte e no fim dos tempos",
     "title_en": "Judgment",
     "desc_en": "Judgment of the individual after death and at the end of time"
   },
   {
     "name": "Mass",
     "title_pt": "Missa",
-    "desc_pt": "A santa Missa e seus beneficios",
+    "desc_pt": "A santa Missa e seus benefícios",
     "title_en": "Mass",
     "desc_en": "The Holy Mass and its benefits"
   },
@@ -163,14 +163,14 @@
   {
     "name": "Mercy",
     "title_pt": "Misericórdia",
-    "desc_pt": "A misericordia de Deus",
+    "desc_pt": "A misericórdia de Deus",
     "title_en": "Gods Mercy",
     "desc_en": "God's Mercy"
   },
   {
     "name": "Obdience",
     "title_pt": "Obediência",
-    "desc_pt": "Modelos de obdiencia",
+    "desc_pt": "Modelos de obediencia",
     "title_en": "Obedience",
     "desc_en": "Models of obedience"
   },
@@ -191,29 +191,22 @@
   {
     "name": "Patience",
     "title_pt": "Paciência",
-    "desc_pt": "A paciencia com cruzes, tribulações, etc",
+    "desc_pt": "A paciência com cruzes, tribulações, etc",
     "title_en": "Patience",
     "desc_en": "Patience with crosses, tribulations, etc."
   },
   {
-    "name": "Pending",
-    "title_pt": "Pending",
-    "desc_pt": "Pending",
-    "title_en": "Pending",
-    "desc_en": "Pending"
-  },
-  {
     "name": "Penitence",
     "title_pt": "Penitência",
-    "desc_pt": "Os benefícios da pentiencia",
+    "desc_pt": "Os benefícios da penitência",
     "title_en": "Penance",
     "desc_en": "The benefits of penance"
   },
   {
     "name": "Persecution",
-    "title_pt": "Perseguição",
+    "title_pt": "Perseguições",
     "desc_pt": "Como lidar com a vida díficil de perseguições",
-    "title_en": "Persecution",
+    "title_en": "Persecutions",
     "desc_en": "How to deal with the difficult life of persecution"
   },
   {
@@ -226,7 +219,7 @@
   {
     "name": "Procastination",
     "title_pt": "Procastinação",
-    "desc_pt": "A perca do tempo valioso",
+    "desc_pt": "A perda do tempo valioso",
     "title_en": "Procastination",
     "desc_en": "Wasting valuable time"
   },
@@ -281,37 +274,37 @@
   },
   {
     "name": "Sinner",
-    "title_pt": "Pecador",
+    "title_pt": "Pecado",
     "desc_pt": "Sobre o pecado e o pecador",
-    "title_en": "Sinner",
+    "title_en": "Sin",
     "desc_en": "About sin and the sinner"
   },
   {
     "name": "SoulFirst",
-    "title_pt": "Alma Primeiro",
+    "title_pt": "Priodidade da Alma",
     "desc_pt": "A supremacia da alma perante o corpo",
-    "title_en": "Soul First",
+    "title_en": "Priority of the Soul",
     "desc_en": "The supremacy of the soul over the body"
   },
   {
     "name": "Suffering",
     "title_pt": "Sofrimento",
-    "desc_pt": "Agonia, perseguição e dores",
+    "desc_pt": "Lidando com agonia, sofrimentos e dores",
     "title_en": "Suffering",
-    "desc_en": "Agony, persecution and pain"
+    "desc_en": "Dealing with agony, suffering and pain"
   },
   {
     "name": "Temptation",
-    "title_pt": "Tentação",
+    "title_pt": "Tentações",
     "desc_pt": "Sobre as tentações que nos aflige",
-    "title_en": "Temptation",
+    "title_en": "Temptations",
     "desc_en": "About the temptations that afflict us"
   },
   {
     "name": "Tribulation",
-    "title_pt": "Tribulação",
+    "title_pt": "Tribulações",
     "desc_pt": "Momentos de Tribulação",
-    "title_en": "Tribulation",
+    "title_en": "Tribulations",
     "desc_en": "Dealing with tribulations"
   },
   {
@@ -323,9 +316,9 @@
   },
   {
     "name": "Vanity",
-    "title_pt": "Vaidade",
+    "title_pt": "Vaidades",
     "desc_pt": "Contra os pecados da vaidade",
-    "title_en": "Vanity",
+    "title_en": "Vanities",
     "desc_en": "Against the sins of vanity"
   },
   {

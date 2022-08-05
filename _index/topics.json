@@ -30,7 +30,7 @@
             {
                 "key": "pt",
                 "title": "Juizo",
-                "description": "Juizo individual após a morte e no fim dos tempos"
+                "description": "Juízo individual após a morte e no fim dos tempos"
             }
         ]
     },
@@ -55,12 +55,12 @@
         "localization": [
             {
                 "key": "en",
-                "title": "Sinner",
+                "title": "Sin",
                 "description": "About sin and the sinner"
             },
             {
                 "key": "pt",
-                "title": "Pecador",
+                "title": "Pecado",
                 "description": "Sobre o pecado e o pecador"
             }
         ]
@@ -176,12 +176,12 @@
         "localization": [
             {
                 "key": "en",
-                "title": "Tribulation",
+                "title": "Tribulations",
                 "description": "Dealing with tribulations"
             },
             {
                 "key": "pt",
-                "title": "Tribulação",
+                "title": "Tribulações",
                 "description": "Momentos de Tribulação"
             }
         ]
@@ -401,7 +401,7 @@
             {
                 "key": "pt",
                 "title": "Paciência",
-                "description": "A paciencia com cruzes, tribulações, etc"
+                "description": "A paciência com cruzes, tribulações, etc"
             }
         ]
     },
@@ -428,7 +428,7 @@
             {
                 "key": "pt",
                 "title": "Inferno",
-                "description": "O terror e as angustias do inferno"
+                "description": "O terror e as angústias do inferno"
             }
         ]
     },
@@ -506,7 +506,7 @@
             {
                 "key": "pt",
                 "title": "Procastinação",
-                "description": "A perca do tempo valioso"
+                "description": "A perda do tempo valioso"
             }
         ]
     },
@@ -553,7 +553,7 @@
             {
                 "key": "pt",
                 "title": "Desapego",
-                "description": "Despego do mundo, dinheiros, amigos, família, lugares e de si mesmo"
+                "description": "Desapego do mundo, dinheiros, amigos, família, lugares e de si mesmo"
             }
         ]
     },
@@ -813,12 +813,12 @@
             {
                 "key": "en",
                 "title": "Suffering",
-                "description": "Agony, persecution and pain"
+                "description": "Dealing with agony, suffering and pain"
             },
             {
                 "key": "pt",
                 "title": "Sofrimento",
-                "description": "Agonia, perseguição e dores"
+                "description": "Lidando com agonia, sofrimentos e dores"
             }
         ]
     },
@@ -892,7 +892,7 @@
             {
                 "key": "pt",
                 "title": "Penitência",
-                "description": "Os benefícios da pentiencia"
+                "description": "Os benefícios da penitência"
             }
         ]
     },
@@ -931,7 +931,7 @@
             {
                 "key": "pt",
                 "title": "Obediência",
-                "description": "Modelos de obdiencia"
+                "description": "Modelos de obediencia"
             }
         ]
     },
@@ -970,7 +970,7 @@
             {
                 "key": "pt",
                 "title": "Missa",
-                "description": "A santa Missa e seus beneficios"
+                "description": "A santa Missa e seus benefícios"
             }
         ]
     },
@@ -1069,12 +1069,12 @@
         "localization": [
             {
                 "key": "en",
-                "title": "Temptation",
+                "title": "Temptations",
                 "description": "About the temptations that afflict us"
             },
             {
                 "key": "pt",
-                "title": "Tentação",
+                "title": "Tentações",
                 "description": "Sobre as tentações que nos aflige"
             }
         ]
@@ -1116,12 +1116,12 @@
         "localization": [
             {
                 "key": "en",
-                "title": "Blessed Sacrament",
+                "title": "Eucharist",
                 "description": "To increase devotion to the Holy Eucharist"
             },
             {
                 "key": "pt",
-                "title": "Santíssimo Sacramento",
+                "title": "Eucaristia",
                 "description": "Para aumentar a devoção a santa eucaristia"
             }
         ]
@@ -1180,7 +1180,7 @@
             {
                 "key": "pt",
                 "title": "Confissão",
-                "description": "Da importancia confissão"
+                "description": "Da importância confissão"
             }
         ]
     },
@@ -1240,12 +1240,12 @@
         "localization": [
             {
                 "key": "en",
-                "title": "Soul First",
+                "title": "Priority of the Soul",
                 "description": "The supremacy of the soul over the body"
             },
             {
                 "key": "pt",
-                "title": "Alma Primeiro",
+                "title": "Priodidade da Alma",
                 "description": "A supremacia da alma perante o corpo"
             }
         ]
@@ -1378,7 +1378,7 @@
             {
                 "key": "pt",
                 "title": "Condenação",
-                "description": "As dores dos condenados a morte eterna"
+                "description": "As dores dos condenados à morte eterna"
             }
         ]
     },
@@ -1572,7 +1572,7 @@
             {
                 "key": "pt",
                 "title": "Misericórdia",
-                "description": "A misericordia de Deus"
+                "description": "A misericórdia de Deus"
             }
         ]
     },
@@ -1638,7 +1638,7 @@
             {
                 "key": "pt",
                 "title": "Apostolado",
-                "description": "A importancia do apostolado por amor a Deus"
+                "description": "A importância do apostolado por amor a Deus"
             }
         ]
     },
@@ -1671,12 +1671,12 @@
         "localization": [
             {
                 "key": "en",
-                "title": "Persecution",
+                "title": "Persecutions",
                 "description": "How to deal with the difficult life of persecution"
             },
             {
                 "key": "pt",
-                "title": "Perseguição",
+                "title": "Perseguições",
                 "description": "Como lidar com a vida díficil de perseguições"
             }
         ]
