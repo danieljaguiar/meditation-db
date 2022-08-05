@@ -29,8 +29,8 @@
             },
             {
                 "key": "pt",
-                "title": "Julgamento",
-                "description": "Julgamente do indivíduo após a morte e no fim dos tempos"
+                "title": "Juizo",
+                "description": "Juizo individual após a morte e no fim dos tempos"
             }
         ]
     },
@@ -89,61 +89,6 @@
                 "key": "pt",
                 "title": "Encarnação",
                 "description": "A encarnação de Nosso Senhor Jesus Cristo"
-            }
-        ]
-    },
-    {
-        "name": "Pending",
-        "bookCount": [
-            {
-                "key": "afonso-todo-dia",
-                "count": 104
-            },
-            {
-                "key": "aquinas-lent",
-                "count": 17
-            },
-            {
-                "key": "aquino-quaresma",
-                "count": 4
-            },
-            {
-                "key": "breviario-confianca",
-                "count": 310
-            },
-            {
-                "key": "breviary-trust",
-                "count": 1
-            },
-            {
-                "key": "divine-intimacy",
-                "count": 92
-            },
-            {
-                "key": "imitacao",
-                "count": 26
-            }
-        ],
-        "languageCount": [
-            {
-                "key": "pt",
-                "count": 444
-            },
-            {
-                "key": "en",
-                "count": 110
-            }
-        ],
-        "localization": [
-            {
-                "key": "en",
-                "title": "Pending",
-                "description": "Pending"
-            },
-            {
-                "key": "pt",
-                "title": "Pending",
-                "description": "Pending"
             }
         ]
     },
@@ -1331,7 +1276,7 @@
             },
             {
                 "key": "pt",
-                "title": "A vontade de Deus",
+                "title": "Vontade de Deus",
                 "description": "Conformidade com a vontade de Deus"
             }
         ]
