@@ -33,31 +33,42 @@ with open(site_map_path, "a", encoding="utf8") as site_map_file:
 
     for author in authors:
         # English
-        m_time_str = os.path.getmtime('./authors/' + author["id"] + "-en.md")
-        m_time = datetime.fromtimestamp(m_time_str).strftime('%Y-%m-%d')
-        output(mapLine.substitute(
-            path=("authors/" + author["id"]), time=m_time), site_map_file)
+        try:
+            m_time_str = os.path.getmtime(
+                './authors/' + author["id"] + "-en.md")
+            m_time = datetime.fromtimestamp(m_time_str).strftime('%Y-%m-%d')
+            output(mapLine.substitute(
+                path=("authors/" + author["id"]), time=m_time), site_map_file)
+        except:
+            pass
 
         # Portuguese
-        m_time_str = os.path.getmtime('./authors/' + author["id"] + "-pt.md")
-        m_time = datetime.fromtimestamp(m_time_str).strftime('%Y-%m-%d')
-        output(mapLine.substitute(
-            path=("pt/authors/" + author["id"]), time=m_time), site_map_file)
+        try:
+            m_time_str = os.path.getmtime(
+                './authors/' + author["id"] + "-pt.md")
+            m_time = datetime.fromtimestamp(m_time_str).strftime('%Y-%m-%d')
+            output(mapLine.substitute(
+                path=("pt/authors/" + author["id"]), time=m_time), site_map_file)
+        except:
+            pass
 
     books_file = open('./_index/books.json', encoding="utf-8")
     books = json.load(books_file)
 
     for meditation in books:
-        m_time_str = os.path.getmtime(
-            './books-description/' + meditation["id"] + ".md")
-        m_time = datetime.fromtimestamp(m_time_str).strftime('%Y-%m-%d')
-        language = ""
+        try:
+            m_time_str = os.path.getmtime(
+                './books-description/' + meditation["id"] + ".md")
+            m_time = datetime.fromtimestamp(m_time_str).strftime('%Y-%m-%d')
+            language = ""
 
-        if meditation["language"] != "en":
-            language = meditation["language"] + "/"
+            if meditation["language"] != "en":
+                language = meditation["language"] + "/"
 
-        output(mapLine.substitute(
-            path=(language + "books/" + meditation["id"]), time=m_time), site_map_file)
+            output(mapLine.substitute(
+                path=(language + "books/" + meditation["id"]), time=m_time), site_map_file)
+        except:
+            pass
 
     meditations_file = open('./_index/meditations.json', encoding="utf-8")
     meditations = json.load(meditations_file)
