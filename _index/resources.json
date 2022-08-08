@@ -9,7 +9,8 @@
     "language": "pt",
     "bookId": "",
     "makeToc": true,
-    "quote": "A meditação discursiva pode definir-se como a aplicação racional da mente a uma verdade sobrenatural para nos convencermos dela e nos movermos a amá-la e praticá-la com a ajuda de graça."
+    "quote": "A meditação discursiva pode definir-se como a aplicação racional da mente a uma verdade sobrenatural para nos convencermos dela e nos movermos a amá-la e praticá-la com a ajuda de graça.",
+    "quoteLen": 186
   },
   {
     "type": "definitions",
@@ -21,7 +22,8 @@
     "language": "pt",
     "bookId": "",
     "makeToc": false,
-    "quote": "Meditar é conversar com Deus, é refletir sobre as verdades da Santa Religião, é conhecer-se mais a si mesmo, é tomar boas resoluções, é antecipar a ocupação celestial"
+    "quote": "Meditar é conversar com Deus, é refletir sobre as verdades da Santa Religião, é conhecer-se mais a si mesmo, é tomar boas resoluções, é antecipar a ocupação celestial",
+    "quoteLen": 166
   },
   {
     "type": "definitions",
@@ -33,7 +35,8 @@
     "language": "en",
     "bookId": "divine-intimacy",
     "makeToc": false,
-    "quote": "it is  \"friendly intercourse\" and exchange of \"mutual benevolence\" between the soul and God, during which the soul \"converses intimately\" with God-intimacy, as we know, is the fruit of love — and the soul speaks with Him whose love she knows."
+    "quote": "it is  \"friendly intercourse\" and exchange of \"mutual benevolence\" between the soul and God, during which the soul \"converses intimately\" with God-intimacy, as we know, is the fruit of love — and the soul speaks with Him whose love she knows.",
+    "quoteLen": 242
   },
   {
     "type": "extras",
@@ -45,7 +48,8 @@
     "language": "pt",
     "bookId": "alma-todo-apostolado",
     "makeToc": true,
-    "quote": ""
+    "quote": "",
+    "quoteLen": 0
   },
   {
     "type": "extras",
@@ -57,7 +61,8 @@
     "language": "en",
     "bookId": "",
     "makeToc": true,
-    "quote": ""
+    "quote": "",
+    "quoteLen": 0
   },
   {
     "type": "methods",
@@ -69,19 +74,21 @@
     "language": "pt",
     "bookId": "filoteia-pt",
     "makeToc": true,
-    "quote": ""
+    "quote": "",
+    "quoteLen": 0
   },
   {
     "type": "methods",
     "order": 2,
     "slug": "royo-marin",
     "authorId": "royo-marin",
-    "title": "Análise histórica dos principais métodos de meditação",
+    "title": "Análise histórica e resumo dos principais métodos de meditação",
     "description": "No seu livro \"Teologia da Perfeição Cristã\" o padre faz uma excelente análise dos métodos de meditação católica. Ele divide os métodos de uma forma temporal e também os agrupa por estilo.",
     "language": "pt",
     "bookId": "",
     "makeToc": true,
-    "quote": "A meditação discursiva pode definir-se como a aplicação racional da mente a uma verdade sobrenatural para nos convencermos dela e nos movermos a amá-la e praticá-la com a ajuda de graça."
+    "quote": "A meditação discursiva pode definir-se como a aplicação racional da mente a uma verdade sobrenatural para nos convencermos dela e nos movermos a amá-la e praticá-la com a ajuda de graça.",
+    "quoteLen": ""
   },
   {
     "type": "methods",
@@ -93,7 +100,8 @@
     "language": "pt",
     "bookId": "afonso-todo-dia",
     "makeToc": true,
-    "quote": ""
+    "quote": "",
+    "quoteLen": 0
   },
   {
     "type": "methods",
@@ -105,7 +113,8 @@
     "language": "pt",
     "bookId": "alma-todo-apostolado",
     "makeToc": true,
-    "quote": ""
+    "quote": "",
+    "quoteLen": 0
   },
   {
     "type": "methods",
@@ -117,6 +126,46 @@
     "language": "pt",
     "bookId": "",
     "makeToc": false,
-    "quote": ""
+    "quote": "",
+    "quoteLen": 0
+  },
+  {
+    "type": "definitions",
+    "order": 2,
+    "slug": "frei-pedro-sinzig-en",
+    "authorId": "sinzig",
+    "title": "Dialogue on Meditation",
+    "description": "At the beginning of his book \"Brief Meditations for all the days of the year\" (not available on our website) Friar Pedro Sinzig proposes a dialogue between 2 characters, in which one of them tries to convince the other that meditation can be done by everyone.",
+    "language": "en",
+    "bookId": "",
+    "makeToc": false,
+    "quote": "To meditate is to talk with God, it is to reflect on the truths of the Holy Religion, it is to get to know yourself better, it is to make good resolutions, it is to anticipate the heavenly occupation",
+    "quoteLen": 199
+  },
+  {
+    "type": "methods",
+    "order": 4,
+    "slug": "frei-pedro-sinzig-en",
+    "authorId": "sinzig",
+    "title": "The brief method of meditation",
+    "description": "No começo do seu livro \"Breves Meditações para todos os dias do ano\" (não disponibilizado no nosso site) o frei Pedro Sinzig nos propõe um diálogo entre 2 personagens, no qual, um deles,  tenta convencer o outro de que a meditação pode ser feita por todos.",
+    "language": "en",
+    "bookId": "",
+    "makeToc": false,
+    "quote": "",
+    "quoteLen": 0
+  },
+  {
+    "type": "methods",
+    "order": 3,
+    "slug": "afonso-de-ligorio-en",
+    "authorId": "alphonsus",
+    "title": "Succinct and objective method of meditation",
+    "description": "A simple and direct but extremely effective method to do meditation (mental prayer) extracted from the book \"Meditation for each day of the year",
+    "language": "en",
+    "bookId": "afonso-todo-dia",
+    "makeToc": true,
+    "quote": "",
+    "quoteLen": 0
   }
 ]
