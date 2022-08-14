@@ -341,6 +341,10 @@
             {
                 "key": "imitacao",
                 "count": 5
+            },
+            {
+                "key": "divine-intimacy",
+                "count": 3
             }
         ],
         "languageCount": [
@@ -350,7 +354,7 @@
             },
             {
                 "key": "en",
-                "count": 2
+                "count": 5
             }
         ],
         "localization": [
@@ -515,7 +519,7 @@
         "bookCount": [
             {
                 "key": "afonso-todo-dia",
-                "count": 13
+                "count": 14
             },
             {
                 "key": "alphonsus-every-day",
@@ -537,7 +541,7 @@
         "languageCount": [
             {
                 "key": "pt",
-                "count": 17
+                "count": 18
             },
             {
                 "key": "en",
@@ -652,7 +656,7 @@
             },
             {
                 "key": "divine-intimacy",
-                "count": 2
+                "count": 6
             }
         ],
         "languageCount": [
@@ -662,7 +666,7 @@
             },
             {
                 "key": "en",
-                "count": 2
+                "count": 6
             }
         ],
         "localization": [
@@ -745,7 +749,7 @@
             },
             {
                 "key": "divine-intimacy",
-                "count": 1
+                "count": 5
             }
         ],
         "languageCount": [
@@ -755,7 +759,7 @@
             },
             {
                 "key": "en",
-                "count": 1
+                "count": 5
             }
         ],
         "localization": [
@@ -1101,12 +1105,16 @@
             {
                 "key": "divine-intimacy",
                 "count": 7
+            },
+            {
+                "key": "imitacao",
+                "count": 1
             }
         ],
         "languageCount": [
             {
                 "key": "pt",
-                "count": 33
+                "count": 34
             },
             {
                 "key": "en",
@@ -1289,8 +1297,12 @@
                 "count": 2
             },
             {
+                "key": "breviario-confianca",
+                "count": 1
+            },
+            {
                 "key": "divine-intimacy",
-                "count": 2
+                "count": 8
             },
             {
                 "key": "imitacao",
@@ -1300,11 +1312,11 @@
         "languageCount": [
             {
                 "key": "pt",
-                "count": 3
+                "count": 4
             },
             {
                 "key": "en",
-                "count": 2
+                "count": 8
             }
         ],
         "localization": [
@@ -1361,12 +1373,16 @@
             {
                 "key": "afonso-todo-dia",
                 "count": 2
+            },
+            {
+                "key": "imitacao",
+                "count": 1
             }
         ],
         "languageCount": [
             {
                 "key": "pt",
-                "count": 2
+                "count": 3
             }
         ],
         "localization": [
@@ -1550,7 +1566,7 @@
             },
             {
                 "key": "divine-intimacy",
-                "count": 1
+                "count": 2
             }
         ],
         "languageCount": [
@@ -1560,7 +1576,7 @@
             },
             {
                 "key": "en",
-                "count": 1
+                "count": 2
             }
         ],
         "localization": [
@@ -1647,7 +1663,7 @@
         "bookCount": [
             {
                 "key": "breviario-confianca",
-                "count": 1
+                "count": 2
             },
             {
                 "key": "imitacao",
@@ -1661,7 +1677,7 @@
         "languageCount": [
             {
                 "key": "pt",
-                "count": 3
+                "count": 4
             },
             {
                 "key": "en",
