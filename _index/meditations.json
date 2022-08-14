@@ -4679,7 +4679,7 @@
     ],
     "slug": "pensamento-da-morte-faz-perder-o-apego-dos-bens-do-mundo",
     "priority": 500,
-    "topics": ["Death", "SoulFirst", ""]
+    "topics": ["Death", "SoulFirst", "Detachment"]
   },
   {
     "bookId": "afonso-todo-dia",
@@ -13697,7 +13697,7 @@
     ],
     "slug": "da-humilde-submissao",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Persecution", "", ""]
   },
   {
     "bookId": "breviario-confianca",
@@ -13713,7 +13713,7 @@
     ],
     "slug": "do-homem-bom-e-pacifico",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Charity", "", ""]
   },
   {
     "bookId": "breviario-confianca",
@@ -20459,7 +20459,7 @@
     ],
     "slug": "livro-4-capitulo-12",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Condemnation", "BlessedSacrament", ""]
   },
   {
     "bookId": "imitacao",
@@ -24157,7 +24157,7 @@
     ],
     "slug": "infinite-love",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["GodsLove", "", ""]
   },
   {
     "bookId": "divine-intimacy",
@@ -24173,7 +24173,7 @@
     ],
     "slug": "infinite-mercy",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Mercy", "", ""]
   },
   {
     "bookId": "divine-intimacy",
@@ -24253,7 +24253,7 @@
     ],
     "slug": "faith",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Faith", "", ""]
   },
   {
     "bookId": "divine-intimacy",
@@ -24269,7 +24269,7 @@
     ],
     "slug": "obscure-light",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Faith", "", ""]
   },
   {
     "bookId": "divine-intimacy",
@@ -24285,7 +24285,7 @@
     ],
     "slug": "power-faith",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Faith", "", ""]
   },
   {
     "bookId": "divine-intimacy",
@@ -24301,7 +24301,7 @@
     ],
     "slug": "faith-practice",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Faith", "", ""]
   },
   {
     "bookId": "divine-intimacy",
@@ -24333,7 +24333,7 @@
     ],
     "slug": "hope",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Hope", "", ""]
   },
   {
     "bookId": "divine-intimacy",
@@ -24349,7 +24349,7 @@
     ],
     "slug": "motive-for-hope",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Hope", "", ""]
   },
   {
     "bookId": "divine-intimacy",
@@ -24365,7 +24365,7 @@
     ],
     "slug": "test-of-hope",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Hope", "", ""]
   },
   {
     "bookId": "divine-intimacy",
@@ -24381,7 +24381,7 @@
     ],
     "slug": "boundless-hope",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Hope", "", ""]
   },
   {
     "bookId": "divine-intimacy",
@@ -24397,7 +24397,7 @@
     ],
     "slug": "charity",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Charity", "", ""]
   },
   {
     "bookId": "divine-intimacy",
@@ -24445,7 +24445,7 @@
     ],
     "slug": "precept-charity",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Charity", "", ""]
   },
   {
     "bookId": "divine-intimacy",
@@ -24461,7 +24461,7 @@
     ],
     "slug": "excellence-of-charity",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Charity", "", ""]
   },
   {
     "bookId": "divine-intimacy",
@@ -24477,7 +24477,7 @@
     ],
     "slug": "act-of-love",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["GodsLove", "", ""]
   },
   {
     "bookId": "divine-intimacy",
@@ -24493,7 +24493,7 @@
     ],
     "slug": "life-of-love",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["GodsLove", "", ""]
   },
   {
     "bookId": "divine-intimacy",
@@ -24509,7 +24509,7 @@
     ],
     "slug": "fraternal-charity",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Charity", "", ""]
   },
   {
     "bookId": "divine-intimacy",
@@ -24525,6 +24525,22 @@
     ],
     "slug": "motive-for-fraternal-charity",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Charity", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 259,
+    "title": "Charity and Humility",
+    "subTitle": "Tenth Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "119",
+        "priority": 500
+      }
+    ],
+    "slug": "chairty-humility",
+    "priority": 500,
+    "topics": ["Charity", "", ""]
   }
 ]
