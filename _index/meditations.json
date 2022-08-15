@@ -24542,5 +24542,45 @@
     "slug": "chairty-humility",
     "priority": 500,
     "topics": ["Charity", "", ""]
+  },
+   {
+    "bookId": "divine-intimacy",
+    "order": 260,
+    "title": "The extent of fraternal charity",
+    "subTitle": "Monday of the tenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "120",
+        "priority": 500
+      }
+    ],
+    "slug": "extent-fraternal-charity",
+    "priority": 500,
+    "topics": [
+      "Charity",
+      "",
+      ""
+    ]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 379,
+    "title": "The Assumption of Blessed Virgin Mary",
+    "subTitle": "August Fifteenth",
+    "rules": [
+      {
+        "type": "fixedDate",
+        "value": "8-15",
+        "priority": 500
+      }
+    ],
+    "slug": "assumption-feast",
+    "priority": 500,
+    "topics": [
+      "OurLady",
+      "",
+      ""
+    ]
   }
 ]
