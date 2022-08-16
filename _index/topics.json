@@ -117,7 +117,7 @@
             },
             {
                 "key": "divine-intimacy",
-                "count": 16
+                "count": 17
             }
         ],
         "languageCount": [
@@ -127,7 +127,7 @@
             },
             {
                 "key": "en",
-                "count": 18
+                "count": 19
             }
         ],
         "localization": [
@@ -1253,7 +1253,7 @@
             },
             {
                 "key": "pt",
-                "title": "Priodidade da Alma",
+                "title": "Prioridade da Alma",
                 "description": "A supremacia da alma perante o corpo"
             }
         ]
@@ -1302,7 +1302,7 @@
             },
             {
                 "key": "divine-intimacy",
-                "count": 8
+                "count": 9
             },
             {
                 "key": "imitacao",
@@ -1316,7 +1316,7 @@
             },
             {
                 "key": "en",
-                "count": 8
+                "count": 9
             }
         ],
         "localization": [
