@@ -24561,6 +24561,70 @@
   },
   {
     "bookId": "divine-intimacy",
+    "order": 261,
+    "title": "The measure of fraternal charity",
+    "subTitle": "Tuesday of the tenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "121",
+        "priority": 500
+      }
+    ],
+    "slug": "measure-fraternal-charity",
+    "priority": 500,
+    "topics": []
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 262,
+    "title": "The new commandment",
+    "subTitle": "Wednesday of the tenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "122",
+        "priority": 500
+      }
+    ],
+    "slug": "new-commandment",
+    "priority": 500,
+    "topics": []
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 263,
+    "title": "Judge Not",
+    "subTitle": "Thrusday after the feast of the most Holy Trinity",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "123",
+        "priority": 500
+      }
+    ],
+    "slug": "judge-not",
+    "priority": 500,
+    "topics": []
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 264,
+    "title": "Be ye merciful",
+    "subTitle": "Friday of the tenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "124",
+        "priority": 500
+      }
+    ],
+    "slug": "be-ye-merciful2",
+    "priority": 500,
+    "topics": []
+  },
+  {
+    "bookId": "divine-intimacy",
     "order": 379,
     "title": "The Assumption of Blessed Virgin Mary",
     "subTitle": "August Fifteenth",
@@ -24574,70 +24638,6 @@
     "slug": "assumption-feast",
     "priority": 500,
     "topics": ["OurLady", "", ""]
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 261,
-    "title": "The measure of fraternal charity",
-    "subTitle": "Tuesday of the tenth week after Pentecost",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "120",
-        "priority": 500
-      }
-    ],
-    "slug": "measure-fraternal-charity",
-    "priority": 500,
-    "topics": ""
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 262,
-    "title": "The new commandment",
-    "subTitle": "Wednesday of the tenth week after Pentecost",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "121",
-        "priority": 500
-      }
-    ],
-    "slug": "new-commandment",
-    "priority": 500,
-    "topics": ""
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 263,
-    "title": "Judge Not",
-    "subTitle": "Thrusday after the feast of the most Holy Trinity",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "122",
-        "priority": 500
-      }
-    ],
-    "slug": "judge-not",
-    "priority": 500,
-    "topics": ""
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 264,
-    "title": "Be ye merciful",
-    "subTitle": "Friday of the tenth week after Pentecost",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "123",
-        "priority": 500
-      }
-    ],
-    "slug": "be-ye-merciful",
-    "priority": 500,
-    "topics": ""
   },
   {
     "bookId": "divine-intimacy",
