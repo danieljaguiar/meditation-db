@@ -24539,7 +24539,7 @@
         "priority": 500
       }
     ],
-    "slug": "chairty-humility",
+    "slug": "charity-humility",
     "priority": 500,
     "topics": ["Charity", "", ""]
   },
@@ -24561,70 +24561,6 @@
   },
   {
     "bookId": "divine-intimacy",
-    "order": 261,
-    "title": "The measure of fraternal charity",
-    "subTitle": "Tuesday of the tenth week after Pentecost",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "121",
-        "priority": 500
-      }
-    ],
-    "slug": "measure-fraternal-charity",
-    "priority": 500,
-    "topics": []
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 262,
-    "title": "The new commandment",
-    "subTitle": "Wednesday of the tenth week after Pentecost",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "122",
-        "priority": 500
-      }
-    ],
-    "slug": "new-commandment",
-    "priority": 500,
-    "topics": []
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 263,
-    "title": "Judge Not",
-    "subTitle": "Thrusday after the feast of the most Holy Trinity",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "123",
-        "priority": 500
-      }
-    ],
-    "slug": "judge-not",
-    "priority": 500,
-    "topics": []
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 264,
-    "title": "Be ye merciful",
-    "subTitle": "Friday of the tenth week after Pentecost",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "124",
-        "priority": 500
-      }
-    ],
-    "slug": "be-ye-merciful2",
-    "priority": 500,
-    "topics": []
-  },
-  {
-    "bookId": "divine-intimacy",
     "order": 379,
     "title": "The Assumption of Blessed Virgin Mary",
     "subTitle": "August Fifteenth",
@@ -24641,9 +24577,89 @@
   },
   {
     "bookId": "divine-intimacy",
+    "order": 261,
+    "title": "The measure of fraternal charity",
+    "subTitle": "Tuesday of the tenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "120",
+        "priority": 500
+      }
+    ],
+    "slug": "measure-fraternal-charity",
+    "priority": 500,
+    "topics": ["Charity", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 262,
+    "title": "The new commandment",
+    "subTitle": "Wednesday of the tenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "121",
+        "priority": 500
+      }
+    ],
+    "slug": "new-commandment",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 263,
+    "title": "Judge Not",
+    "subTitle": "Thrusday after the feast of the most Holy Trinity",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "122",
+        "priority": 500
+      }
+    ],
+    "slug": "judge-not",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 264,
+    "title": "Be ye merciful",
+    "subTitle": "Friday of the tenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "123",
+        "priority": 500
+      }
+    ],
+    "slug": "be-ye-merciful",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
     "order": 265,
     "title": "The mantle of charity",
     "subTitle": "Saturday of the tenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "124",
+        "priority": 500
+      }
+    ],
+    "slug": "mantle-of-charity",
+    "priority": 500,
+    "topics": ["Charity", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 266,
+    "title": "Baptismal Grace",
+    "subTitle": "Eleventh Sunday after Pentecost",
     "rules": [
       {
         "type": "easter",
@@ -24651,8 +24667,104 @@
         "priority": 500
       }
     ],
-    "slug": "mantle-of-charity",
+    "slug": "baptismal-grace",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 267,
+    "title": "Bear ye ine another's burdens",
+    "subTitle": "Monday of the eleventh week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "126",
+        "priority": 500
+      }
+    ],
+    "slug": "anothers-burdens",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 268,
+    "title": "Charity is not selfish",
+    "subTitle": "Tuesday of the eleventh week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "127",
+        "priority": 500
+      }
+    ],
+    "slug": "charity-is-not-selfish",
     "priority": 500,
     "topics": ["Charity", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 269,
+    "title": "Charity Aadapts itself to everyone",
+    "subTitle": "Wednesday of the eleventh week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "128",
+        "priority": 500
+      }
+    ],
+    "slug": "charity-everyone",
+    "priority": 500,
+    "topics": ["Charity", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 270,
+    "title": "Mildness",
+    "subTitle": "Thrusday after the feast of the most Holy Trinity",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "129",
+        "priority": 500
+      }
+    ],
+    "slug": "mildness",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 271,
+    "title": "Love of neighbor and love of God",
+    "subTitle": "Friday of the eleventh week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "130",
+        "priority": 500
+      }
+    ],
+    "slug": "love-neighbhor",
+    "priority": 500,
+    "topics": ["GodsLove", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 272,
+    "title": "Prudence",
+    "subTitle": "Saturday of the eleventh week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "131",
+        "priority": 500
+      }
+    ],
+    "slug": "prudence",
+    "priority": 500,
+    "topics": ["", "", ""]
   }
 ]
