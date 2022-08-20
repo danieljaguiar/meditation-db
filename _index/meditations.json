@@ -24638,5 +24638,21 @@
     "slug": "be-ye-merciful",
     "priority": 500,
     "topics": ""
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 265,
+    "title": "The mantle of charity",
+    "subTitle": "Saturday of the tenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "124",
+        "priority": 500
+      }
+    ],
+    "slug": "mantle-of-charity",
+    "priority": 500,
+    "topics": ["Charity", "", ""]
   }
 ]
