@@ -24766,5 +24766,21 @@
     "slug": "prudence",
     "priority": 500,
     "topics": ["", "", ""]
+  },
+  {
+    "bookId": "afonso-todo-dia",
+    "order": 528,
+    "title": "O surdo-mudo e as confissões sacrilegas",
+    "subTitle": "Segunda Meditação para Domingo da Duodécima Semana depois de Pentecostes",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "126",
+        "priority": 600
+      }
+    ],
+    "slug": "o-surdomudo-e-as-confissoes-sacrilegas",
+    "priority": 500,
+    "topics": ["Confession", "Sinner", ""]
   }
 ]
