@@ -644,7 +644,13 @@
     "order": 41,
     "title": "Festa do Santíssimo Nome de Jesus",
     "subTitle": "Domingo entre a Circuncisão e a Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "",
+        "value": "",
+        "priority": 500
+      }
+    ],
     "slug": "festa-do-santissimo-nome-de-jesus",
     "priority": 500,
     "topics": ["", "", ""]
@@ -6910,7 +6916,13 @@
     "order": 433,
     "title": "Festa de Nossa Senhora do Perpétuo Socorro",
     "subTitle": "Domingo antes do dia 24 de Junho",
-    "rules": [],
+    "rules": [
+      {
+        "type": "",
+        "value": "",
+        "priority": 500
+      }
+    ],
     "slug": "festa-de-nossa-senhora-do-perpetuo-socorro",
     "priority": 500,
     "topics": ["OurLady", "", ""]
@@ -8024,7 +8036,13 @@
     "order": 506,
     "title": "Jesus nasce Menino",
     "subTitle": "Meditação Alternativa",
-    "rules": [],
+    "rules": [
+      {
+        "type": "",
+        "value": "",
+        "priority": 600
+      }
+    ],
     "slug": "jesus-nasce-menino",
     "priority": 500,
     "topics": ["", "", ""]
@@ -8050,7 +8068,13 @@
     "order": 508,
     "title": "Da Oração Dominical",
     "subTitle": "Meditação Alternativa",
-    "rules": [],
+    "rules": [
+      {
+        "type": "",
+        "value": "",
+        "priority": 600
+      }
+    ],
     "slug": "da-oracao-dominical",
     "priority": 500,
     "topics": ["Mass", "", ""]
@@ -8060,7 +8084,13 @@
     "order": 509,
     "title": "Continuação da explicação da Oração Dominical",
     "subTitle": "Meditação Alternativa",
-    "rules": [],
+    "rules": [
+      {
+        "type": "",
+        "value": "",
+        "priority": 600
+      }
+    ],
     "slug": "continuacao-da-explicacao-da-oracao-dominical",
     "priority": 500,
     "topics": ["Mass", "", ""]
@@ -8070,7 +8100,13 @@
     "order": 510,
     "title": "Formosura de Maria Santíssima",
     "subTitle": "Meditação Alternativa",
-    "rules": [],
+    "rules": [
+      {
+        "type": "",
+        "value": "",
+        "priority": 600
+      }
+    ],
     "slug": "formosura-de-maria-santissima",
     "priority": 500,
     "topics": ["OurLady", "", ""]
@@ -8080,7 +8116,13 @@
     "order": 511,
     "title": "Do grande mal que fazem os que ocultam os Pecados na Confissão",
     "subTitle": "Meditação Alternativa",
-    "rules": [],
+    "rules": [
+      {
+        "type": "",
+        "value": "",
+        "priority": 600
+      }
+    ],
     "slug": "ocultam-os-pecados-na-confissao",
     "priority": 500,
     "topics": ["Confession", "", ""]
@@ -8234,7 +8276,13 @@
     "order": 521,
     "title": "Mágoas tardias da Alma negligente na hora da Morte",
     "subTitle": "Meditação Alternativa",
-    "rules": [],
+    "rules": [
+      {
+        "type": "",
+        "value": "",
+        "priority": 600
+      }
+    ],
     "slug": "magoas-tardias-da-alma-negligente-na-hora-da-morte",
     "priority": 500,
     "topics": ["Death", "", ""]
@@ -8276,7 +8324,13 @@
     "order": 524,
     "title": "Meios para se Preparar para a Morte",
     "subTitle": "Meditação Alternativa",
-    "rules": [],
+    "rules": [
+      {
+        "type": "",
+        "value": "",
+        "priority": 600
+      }
+    ],
     "slug": "meios-para-se-preparar-para-a-morte",
     "priority": 500,
     "topics": ["Death", "", ""]
@@ -8350,7 +8404,13 @@
     "order": 67,
     "title": "The goods of this world cannot make you happy",
     "subTitle": "Segunda-feira da Terceira Semana depois da Epifania",
-    "rules": [],
+    "rules": [
+      {
+        "type": "easter",
+        "value": "23",
+        "priority": 500
+      }
+    ],
     "slug": "goods-of-this-world-cannot-make-you-happy",
     "priority": 500,
     "topics": ["Detachment", "", ""]
