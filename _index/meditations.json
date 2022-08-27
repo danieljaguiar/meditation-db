@@ -641,6 +641,22 @@
   },
   {
     "bookId": "afonso-todo-dia",
+    "order": 41,
+    "title": "Festa do Santíssimo Nome de Jesus",
+    "subTitle": "Domingo entre a Circuncisão e a Epifania",
+    "rules": [
+      {
+        "type": "",
+        "value": "",
+        "priority": 500
+      }
+    ],
+    "slug": "festa-do-santissimo-nome-de-jesus",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "afonso-todo-dia",
     "order": 42,
     "title": "Porque Jesus quis nascer criança",
     "subTitle": "Dia 02 de Janeiro",
@@ -6897,6 +6913,22 @@
   },
   {
     "bookId": "afonso-todo-dia",
+    "order": 433,
+    "title": "Festa de Nossa Senhora do Perpétuo Socorro",
+    "subTitle": "Domingo antes do dia 24 de Junho",
+    "rules": [
+      {
+        "type": "",
+        "value": "",
+        "priority": 500
+      }
+    ],
+    "slug": "festa-de-nossa-senhora-do-perpetuo-socorro",
+    "priority": 500,
+    "topics": ["OurLady", "", ""]
+  },
+  {
+    "bookId": "afonso-todo-dia",
     "order": 434,
     "title": "Festa de São João Batista",
     "subTitle": "24 de Junho",
@@ -8001,6 +8033,22 @@
   },
   {
     "bookId": "afonso-todo-dia",
+    "order": 506,
+    "title": "Jesus nasce Menino",
+    "subTitle": "Meditação Alternativa",
+    "rules": [
+      {
+        "type": "",
+        "value": "",
+        "priority": 600
+      }
+    ],
+    "slug": "jesus-nasce-menino",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "afonso-todo-dia",
     "order": 507,
     "title": "Da vida oculta de Jesus no Santíssimo Sacramento",
     "subTitle": "Meditação Alternativa",
@@ -8014,6 +8062,70 @@
     "slug": "da-vida-oculta-de-jesus-no-santissimo-sacramento",
     "priority": 500,
     "topics": ["", "", ""]
+  },
+  {
+    "bookId": "afonso-todo-dia",
+    "order": 508,
+    "title": "Da Oração Dominical",
+    "subTitle": "Meditação Alternativa",
+    "rules": [
+      {
+        "type": "",
+        "value": "",
+        "priority": 600
+      }
+    ],
+    "slug": "da-oracao-dominical",
+    "priority": 500,
+    "topics": ["Mass", "", ""]
+  },
+  {
+    "bookId": "afonso-todo-dia",
+    "order": 509,
+    "title": "Continuação da explicação da Oração Dominical",
+    "subTitle": "Meditação Alternativa",
+    "rules": [
+      {
+        "type": "",
+        "value": "",
+        "priority": 600
+      }
+    ],
+    "slug": "continuacao-da-explicacao-da-oracao-dominical",
+    "priority": 500,
+    "topics": ["Mass", "", ""]
+  },
+  {
+    "bookId": "afonso-todo-dia",
+    "order": 510,
+    "title": "Formosura de Maria Santíssima",
+    "subTitle": "Meditação Alternativa",
+    "rules": [
+      {
+        "type": "",
+        "value": "",
+        "priority": 600
+      }
+    ],
+    "slug": "formosura-de-maria-santissima",
+    "priority": 500,
+    "topics": ["OurLady", "", ""]
+  },
+  {
+    "bookId": "afonso-todo-dia",
+    "order": 511,
+    "title": "Do grande mal que fazem os que ocultam os Pecados na Confissão",
+    "subTitle": "Meditação Alternativa",
+    "rules": [
+      {
+        "type": "",
+        "value": "",
+        "priority": 600
+      }
+    ],
+    "slug": "ocultam-os-pecados-na-confissao",
+    "priority": 500,
+    "topics": ["Confession", "", ""]
   },
   {
     "bookId": "afonso-todo-dia",
@@ -8161,6 +8273,22 @@
   },
   {
     "bookId": "afonso-todo-dia",
+    "order": 521,
+    "title": "Mágoas tardias da Alma negligente na hora da Morte",
+    "subTitle": "Meditação Alternativa",
+    "rules": [
+      {
+        "type": "",
+        "value": "",
+        "priority": 600
+      }
+    ],
+    "slug": "magoas-tardias-da-alma-negligente-na-hora-da-morte",
+    "priority": 500,
+    "topics": ["Death", "", ""]
+  },
+  {
+    "bookId": "afonso-todo-dia",
     "order": 522,
     "title": "Quem ama a Deus, não deve temer a Morte",
     "subTitle": "Meditação Alternativa",
@@ -8188,6 +8316,22 @@
       }
     ],
     "slug": "o-justo-morre-numa-paz-dulcissima",
+    "priority": 500,
+    "topics": ["Death", "", ""]
+  },
+  {
+    "bookId": "afonso-todo-dia",
+    "order": 524,
+    "title": "Meios para se Preparar para a Morte",
+    "subTitle": "Meditação Alternativa",
+    "rules": [
+      {
+        "type": "",
+        "value": "",
+        "priority": 600
+      }
+    ],
+    "slug": "meios-para-se-preparar-para-a-morte",
     "priority": 500,
     "topics": ["Death", "", ""]
   },
