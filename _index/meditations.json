@@ -24954,5 +24954,117 @@
     "slug": "book-4-chapter-xviii",
     "priority": 500,
     "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 280,
+    "title": "The ten lepers",
+    "subTitle": "Thirteenth Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "139",
+        "priority": 500
+      }
+    ],
+    "slug": "ten-lepers",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 281,
+    "title": "Justice and Religion",
+    "subTitle": "Monday of the thirteenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "140",
+        "priority": 500
+      }
+    ],
+    "slug": "justice-religion",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 282,
+    "title": "Piety and Devotion",
+    "subTitle": "Tuesday of the thirteenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "141",
+        "priority": 500
+      }
+    ],
+    "slug": "piety-devotion",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 283,
+    "title": "Gratitude",
+    "subTitle": "Wednesday of the thirteenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "142",
+        "priority": 500
+      }
+    ],
+    "slug": "gratitude",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 284,
+    "title": "Sincerity",
+    "subTitle": "Thrusday after the feast of the most Holy Trinity",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "143",
+        "priority": 500
+      }
+    ],
+    "slug": "sincerity",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 285,
+    "title": "Simplicity",
+    "subTitle": "Friday of the thirteenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "144",
+        "priority": 500
+      }
+    ],
+    "slug": "simplicity",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 286,
+    "title": "Fortitude",
+    "subTitle": "Saturday of the thirteenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "145",
+        "priority": 500
+      }
+    ],
+    "slug": "fortitude",
+    "priority": 500,
+    "topics": ["", "", ""]
   }
 ]
