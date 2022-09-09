@@ -25066,5 +25066,117 @@
     "slug": "fortitude",
     "priority": 500,
     "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 287,
+    "title": "The two kingdoms",
+    "subTitle": "Fourteenth Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "146",
+        "priority": 500
+      }
+    ],
+    "slug": "two-kingdoms",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 288,
+    "title": "Courage",
+    "subTitle": "Monday of the fourteenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "147",
+        "priority": 500
+      }
+    ],
+    "slug": "courage",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 289,
+    "title": "Magnanimity",
+    "subTitle": "Tuesday of the fourteenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "148",
+        "priority": 500
+      }
+    ],
+    "slug": "magnanimity",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 290,
+    "title": "Generosity",
+    "subTitle": "Wednesday of the fourteenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "149",
+        "priority": 500
+      }
+    ],
+    "slug": "generosity",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 291,
+    "title": "Fortitude and Patience",
+    "subTitle": "Thrusday after the feast of the most Holy Trinity",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "150",
+        "priority": 500
+      }
+    ],
+    "slug": "fortitude-patience",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 292,
+    "title": "The practice of patience",
+    "subTitle": "Friday of the fourteenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "151",
+        "priority": 500
+      }
+    ],
+    "slug": "practice-patience",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 293,
+    "title": "Perseverance",
+    "subTitle": "Saturday of the fourteenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "152",
+        "priority": 500
+      }
+    ],
+    "slug": "perseverance",
+    "priority": 500,
+    "topics": ["", "", ""]
   }
 ]
