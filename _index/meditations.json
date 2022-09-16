@@ -25180,108 +25180,115 @@
     "topics": ["", "", ""]
   },
   {
-    "order": "divine-intimacy",
-    "title": 294,
-    "subTitle": "Jesus our life",
-    "rules": "Fifteenth Sunday after Pentecost",
-    "slug": [
+    "bookId": "divine-intimacy",
+    "order": 294,
+    "title": "Jesus our life",
+    "subTitle": "Fifteenth Sunday after Pentecost",
+    "rules": [
       {
         "type": "easter",
         "value": "153",
         "priority": 500
       }
     ],
-    "priority": "jesus-our-life",
-    "topics": 500
+    "slug": "jesus-our-life",
+    "priority": 500,
+    "topics": ["", "", ""]
   },
   {
-    "order": "divine-intimacy",
-    "title": 295,
-    "subTitle": "Perseverance and Confidence",
-    "rules": "Monday of the fifteenth week after Pentecost",
-    "slug": [
+    "bookId": "divine-intimacy",
+    "order": 295,
+    "title": "Perseverance and Confidence",
+    "subTitle": "Monday of the fifteenth week after Pentecost",
+    "rules": [
       {
         "type": "easter",
         "value": "154",
         "priority": 500
       }
     ],
-    "priority": "perseverance-confidence",
-    "topics": 500
+    "slug": "perseverance-confidence",
+    "priority": 500,
+    "topics": ["", "", ""]
   },
   {
-    "order": "divine-intimacy",
-    "title": 296,
-    "subTitle": "Temperance",
-    "rules": "Tuesday of the fifteenth week after Pentecost",
-    "slug": [
+    "bookId": "divine-intimacy",
+    "order": 296,
+    "title": "Temperance",
+    "subTitle": "Tuesday of the fifteenth week after Pentecost",
+    "rules": [
       {
         "type": "easter",
         "value": "155",
         "priority": 500
       }
     ],
-    "priority": "temperance",
-    "topics": 500
+    "slug": "temperance",
+    "priority": 500,
+    "topics": ["", "", ""]
   },
   {
-    "order": "divine-intimacy",
-    "title": 297,
-    "subTitle": "Meekness",
-    "rules": "Wednesday of the fifteenth week after Pentecost",
-    "slug": [
+    "bookId": "divine-intimacy",
+    "order": 297,
+    "title": "Meekness",
+    "subTitle": "Wednesday of the fifteenth week after Pentecost",
+    "rules": [
       {
         "type": "easter",
         "value": "156",
         "priority": 500
       }
     ],
-    "priority": "meekness",
-    "topics": 500
+    "slug": "meekness",
+    "priority": 500,
+    "topics": ["", "", ""]
   },
   {
-    "order": "divine-intimacy",
-    "title": 298,
-    "subTitle": "Spiritual Progress",
-    "rules": "Thrusday after the feast of the most Holy Trinity",
-    "slug": [
+    "bookId": "divine-intimacy",
+    "order": 298,
+    "title": "Spiritual Progress",
+    "subTitle": "Thrusday after the feast of the most Holy Trinity",
+    "rules": [
       {
         "type": "easter",
         "value": "157",
         "priority": 500
       }
     ],
-    "priority": "spiritual-progress",
-    "topics": 500
+    "slug": "spiritual-progress",
+    "priority": 500,
+    "topics": ["", "", ""]
   },
   {
-    "order": "divine-intimacy",
-    "title": 299,
-    "subTitle": "The gift of fear",
-    "rules": "Friday of the fifteenth week after Pentecost",
-    "slug": [
+    "bookId": "divine-intimacy",
+    "order": 299,
+    "title": "The gift of fear",
+    "subTitle": "Friday of the fifteenth week after Pentecost",
+    "rules": [
       {
         "type": "easter",
         "value": "158",
         "priority": 500
       }
     ],
-    "priority": "gift-of-fear",
-    "topics": 500
+    "slug": "gift-of-fear",
+    "priority": 500,
+    "topics": ["", "", ""]
   },
   {
-    "order": "divine-intimacy",
-    "title": 300,
-    "subTitle": "Blessed are the poor in spirit",
-    "rules": "Saturday of the fifteenth week after Pentecost",
-    "slug": [
+    "bookId": "divine-intimacy",
+    "order": 300,
+    "title": "Blessed are the poor in spirit",
+    "subTitle": "Saturday of the fifteenth week after Pentecost",
+    "rules": [
       {
         "type": "easter",
         "value": "159",
         "priority": 500
       }
     ],
-    "priority": "blessed-poor-spirit",
-    "topics": 500
+    "slug": "blessed-poor-spirit",
+    "priority": 500,
+    "topics": ["", "", ""]
   }
 ]
