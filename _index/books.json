@@ -20,15 +20,6 @@
     "shortDescription": "Texts from Saint Alphonsus of Liguori organized by Father Thiago Maria Cristini to be meditated on every day of the liturgical year."
   },
   {
-    "id": "alphonsus-sunday",
-    "language": "en",
-    "priority": 100,
-    "authorId": "alphonsus",
-    "shortTitle": "Sermons for all Sundays in the year",
-    "title": "Sermons for all Sundays in the year",
-    "shortDescription": "In an 'easy and simple style', Saint Alphonsys condensed the topcis of each Sunday of the year, to serve as source material for priests."
-  },
-  {
     "id": "breviario-confianca",
     "language": "pt",
     "priority": 200,
@@ -90,5 +81,14 @@
     "shortTitle": "Imitation of Christ",
     "title": "Imitation of Christ",
     "shortDescription": "After the Bible the most widely read book, consisting in a collection of thoughts aiming on Christian perfection."
+  },
+  {
+    "id": "alphonsus-sunday",
+    "language": "en",
+    "priority": 700,
+    "authorId": "alphonsus",
+    "shortTitle": "Sermons for all Sundays in the year",
+    "title": "Sermons for all Sundays in the year",
+    "shortDescription": "In an 'easy and simple style', Saint Alphonsys condensed the topcis of each Sunday of the year, to serve as source material for priests."
   }
 ]
