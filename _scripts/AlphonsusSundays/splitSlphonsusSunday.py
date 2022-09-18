@@ -23,7 +23,7 @@ except OSError:
 
 count_file = 0
 
-with open(initial_path + "004 - Content.md", encoding="utf-8") as fullFile:
+with open(initial_path + "005 - NumberedBold.md", encoding="utf-8") as fullFile:
     lines = fullFile.readlines()
 
     for line in lines:
