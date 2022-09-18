@@ -8512,6 +8512,854 @@
     "topics": ["Death", "Judgement", ""]
   },
   {
+    "bookId": "alphonsus-sunday",
+    "order": 1,
+    "title": "On the general judgment",
+    "subTitle": "Sermon I - First Sunday of Advent",
+    "rules": [
+      {
+        "type": "advent",
+        "value": "0",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-i",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 2,
+    "title": "On the advantages of tribulations",
+    "subTitle": "Sermon II - Second Sunday of Advent",
+    "rules": [
+      {
+        "type": "advent",
+        "value": "7",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-ii",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 3,
+    "title": "On the means necessary for salvation",
+    "subTitle": "Sermon III - Third Sunday of Advent",
+    "rules": [
+      {
+        "type": "advent",
+        "value": "14",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-iii",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 4,
+    "title": "On the love of Jesus christ for us, and on our obligations to love him",
+    "subTitle": "Sermon IV - Fourth Sunday of Advent",
+    "rules": [
+      {
+        "type": "advent",
+        "value": "21",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-iv",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 5,
+    "title": "In what true wisdom consists",
+    "subTitle": "Sermon V - Sunday within the octave of the nativity",
+    "rules": [
+      {
+        "type": "advent",
+        "value": "28",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-v",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 6,
+    "title": "Malice of mortal sin",
+    "subTitle": "Sermon VI",
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "0",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-vi",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 7,
+    "title": "On the confidence with which we ought to recommend ourselves to the mother of God",
+    "subTitle": "Sermon VII - Second Sunday after the Epiphany",
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "7",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-vii",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 8,
+    "title": "On the remorse of the damned",
+    "subTitle": "Sermon VIII - third Sunday after the Epiphany",
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "14",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-viii",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 9,
+    "title": "Dangers to eternal salvation",
+    "subTitle": "Sermon IX - Fourth Sunday after the Epiphany",
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "21",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-ix",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 10,
+    "title": "On the pains of hell",
+    "subTitle": "Sermon X - Fifth Sunday after the Epiphany",
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "28",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-x",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 11,
+    "title": "On the death of the just",
+    "subTitle": "Sermon XI - Sixth Sunday after the Epiphany",
+    "rules": [
+      {
+        "type": "epiphany",
+        "value": "35",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-xi",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 12,
+    "title": "On the importance of salvation",
+    "subTitle": "Sermon XII - Septuagesima Sunday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-63",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-xii",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 13,
+    "title": "On the unhappy life of sinners, and on the happy life of those who love God",
+    "subTitle": "Sermon XIII - Sexagesima Sunday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-56",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-xiii",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 14,
+    "title": "Delusions of sinners",
+    "subTitle": "Sermon XIV - Quinquagesima Sunday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-49",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-xiv",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 15,
+    "title": "On the number of sins beyond which God pardons no more",
+    "subTitle": "Sermon XV - First Sunday of lent",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-42",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-xv",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 16,
+    "title": "On heaven",
+    "subTitle": "Sermon XVI - Second Sunday of lent",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-35",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-xvi",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 17,
+    "title": "On concealing sins in confession",
+    "subTitle": "Sermon XVII - third Sunday in lent",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-28",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-xvii",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 18,
+    "title": "On the tender compassion which Jesus christ entertains towards sinners",
+    "subTitle": "Sermon XVIII - Fourth Sunday of lent",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-21",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-xviii",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 19,
+    "title": "On the danger to which tepidity exposes the soul",
+    "subTitle": "Sermon XIX - Passion Sunday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-14",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-xix",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 20,
+    "title": "On the evil effects of bad habits",
+    "subTitle": "Sermon XX - Palm Sunday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "-7",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-xx",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 21,
+    "title": "On the miserable state of relapsing sinners",
+    "subTitle": "Sermon XXI - Easter Sunday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "0",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-xxi",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 22,
+    "title": "On avoiding the occasions of sin",
+    "subTitle": "Sermon XXII - First Sunday after Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "7",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-xxii",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 23,
+    "title": "On scandal",
+    "subTitle": "Sermon XXIII - Second Sunday after Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "14",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-xxiii",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 24,
+    "title": "On the value of time",
+    "subTitle": "Sermon XXIV - Third Sunday after Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "21",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-xxiv",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 25,
+    "title": "On obedience to your confessor",
+    "subTitle": "Sermon XXV - Fourth Sunday after Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "28",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-xxv",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 26,
+    "title": "On the conditions of prayer",
+    "subTitle": "Sermon XXVI - Fifth Sunday after Easter",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "35",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-xxvi",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 27,
+    "title": "on human respect",
+    "subTitle": "Sermon XXVII - Sixth Sunday after Pentecost, or the Sunday within the octave of the ascension",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "42",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-xxvii",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 28,
+    "title": "On conformity to the will of God",
+    "subTitle": "Sermon XXVIII - Pentecost Sunday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "49",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-xxviii",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 29,
+    "title": "On the love of the three divine persons for man",
+    "subTitle": "Sermon XXIX - Trinity Sunday",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "56",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-xxix",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 30,
+    "title": "On charity to our neighbour",
+    "subTitle": "Sermon XXX - First Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "63",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-xxx",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 31,
+    "title": "On holy communion",
+    "subTitle": "Sermon XXXI - Second Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "70",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-xxxi",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 32,
+    "title": "On the mercy of God towards sinners",
+    "subTitle": "Sermon XXXII - Third Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "77",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-xxxii",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 33,
+    "title": "Death is certain and uncertain",
+    "subTitle": "Sermon XXXIII - Fourth Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "84",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-xxxii",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 34,
+    "title": "On the sin of anger",
+    "subTitle": "Sermon XXXIV - Fifth Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "91",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-xxxiv",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 35,
+    "title": "On the vanity of the world",
+    "subTitle": "Sermon XXXV - Sixth Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "98",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-xxxv",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 36,
+    "title": "On the education of children",
+    "subTitle": "Sermon XXXVI - Seventh Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "105",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-xxxvi",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 37,
+    "title": "On the particular judgment",
+    "subTitle": "Sermon XXXVII - Eighth Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "112",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-xxxvii",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 38,
+    "title": "On the death of the sinner",
+    "subTitle": "Sermon XXXVIII - Ninth Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "119",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-xxxviii",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 39,
+    "title": "On the efficacy and necessity of prayer",
+    "subTitle": "Sermon XXXIX - Tenth Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "126",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-xxxix",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 40,
+    "title": "On the vice of speaking immodestly",
+    "subTitle": "Sermon XL - Eleventh Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "133",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-xl",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 41,
+    "title": "On the abuse of divine mercy",
+    "subTitle": "Sermon XLL - twelfth Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "140",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-xll",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 42,
+    "title": "On avoiding bad company",
+    "subTitle": "Sermon LXII - thirteenth Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "147",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-lxii",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 43,
+    "title": "All ends, and soon ends",
+    "subTitle": "Sermon XLIII - Fourteenth Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "154",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-xliii",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 44,
+    "title": "On the practical death, or on what ordinarily happens at the death of men of the world",
+    "subTitle": "Sermon XLIV - Fifteenth Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "161",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-xliv",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 45,
+    "title": "On impurity",
+    "subTitle": "Sermon XLV - Sixteenth Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "168",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-xlv",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 46,
+    "title": "On the love of God",
+    "subTitle": "Sermon XLVI - Seventeenth Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "175",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-xlvi",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 47,
+    "title": "On bad thoughts",
+    "subTitle": "Sermon XLVII - Eighteenth Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "182",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-xlvii",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 48,
+    "title": "On the pain of loss which the damned suffer in hell",
+    "subTitle": "Sermon XLVIII - Nineteenth Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "189",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-xlviii",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 49,
+    "title": "On the predominant passion",
+    "subTitle": "Sermon XLIX - Twentieth Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "196",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-xlix",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 50,
+    "title": "On the eternity of hell",
+    "subTitle": "Sermon L - Twenty First Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "203",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-l",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 51,
+    "title": "Straits and anguish of dying christians who have been negligent during life about the duties of religion",
+    "subTitle": "Sermon LI - Twenty Second Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "210",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-li",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 52,
+    "title": "On impenitence",
+    "subTitle": "Sermon LII - Twenty Third Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "217",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-lii",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "alphonsus-sunday",
+    "order": 53,
+    "title": "On blasphemy",
+    "subTitle": "Sermon LIII - Twenty Fourth Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "224",
+        "priority": 500
+      }
+    ],
+    "slug": "sermon-liii",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
     "bookId": "aquinas-lent",
     "order": 1,
     "title": "The work of the vineyard",
@@ -18753,6 +19601,342 @@
   },
   {
     "bookId": "divine-intimacy",
+    "order": 280,
+    "title": "The ten lepers",
+    "subTitle": "Thirteenth Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "140",
+        "priority": 500
+      }
+    ],
+    "slug": "ten-lepers",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 281,
+    "title": "Justice and Religion",
+    "subTitle": "Monday of the thirteenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "141",
+        "priority": 500
+      }
+    ],
+    "slug": "justice-religion",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 282,
+    "title": "Piety and Devotion",
+    "subTitle": "Tuesday of the thirteenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "142",
+        "priority": 500
+      }
+    ],
+    "slug": "piety-devotion",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 283,
+    "title": "Gratitude",
+    "subTitle": "Wednesday of the thirteenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "143",
+        "priority": 500
+      }
+    ],
+    "slug": "gratitude",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 284,
+    "title": "Sincerity",
+    "subTitle": "Thrusday after the feast of the most Holy Trinity",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "144",
+        "priority": 500
+      }
+    ],
+    "slug": "sincerity",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 285,
+    "title": "Simplicity",
+    "subTitle": "Friday of the thirteenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "145",
+        "priority": 500
+      }
+    ],
+    "slug": "simplicity",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 286,
+    "title": "Fortitude",
+    "subTitle": "Saturday of the thirteenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "146",
+        "priority": 500
+      }
+    ],
+    "slug": "fortitude",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 287,
+    "title": "The two kingdoms",
+    "subTitle": "Fourteenth Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "147",
+        "priority": 500
+      }
+    ],
+    "slug": "two-kingdoms",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 288,
+    "title": "Courage",
+    "subTitle": "Monday of the fourteenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "148",
+        "priority": 500
+      }
+    ],
+    "slug": "courage",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 289,
+    "title": "Magnanimity",
+    "subTitle": "Tuesday of the fourteenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "149",
+        "priority": 500
+      }
+    ],
+    "slug": "magnanimity",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 290,
+    "title": "Generosity",
+    "subTitle": "Wednesday of the fourteenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "150",
+        "priority": 500
+      }
+    ],
+    "slug": "generosity",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 291,
+    "title": "Fortitude and Patience",
+    "subTitle": "Thrusday after the feast of the most Holy Trinity",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "151",
+        "priority": 500
+      }
+    ],
+    "slug": "fortitude-patience",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 292,
+    "title": "The practice of patience",
+    "subTitle": "Friday of the fourteenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "152",
+        "priority": 500
+      }
+    ],
+    "slug": "practice-patience",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 293,
+    "title": "Perseverance",
+    "subTitle": "Saturday of the fourteenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "153",
+        "priority": 500
+      }
+    ],
+    "slug": "perseverance",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 294,
+    "title": "Jesus our life",
+    "subTitle": "Fifteenth Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "154",
+        "priority": 500
+      }
+    ],
+    "slug": "jesus-our-life",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 295,
+    "title": "Perseverance and Confidence",
+    "subTitle": "Monday of the fifteenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "155",
+        "priority": 500
+      }
+    ],
+    "slug": "perseverance-confidence",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 296,
+    "title": "Temperance",
+    "subTitle": "Tuesday of the fifteenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "156",
+        "priority": 500
+      }
+    ],
+    "slug": "temperance",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 297,
+    "title": "Meekness",
+    "subTitle": "Wednesday of the fifteenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "157",
+        "priority": 500
+      }
+    ],
+    "slug": "meekness",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 298,
+    "title": "Spiritual Progress",
+    "subTitle": "Thrusday after the feast of the most Holy Trinity",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "158",
+        "priority": 500
+      }
+    ],
+    "slug": "spiritual-progress",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 299,
+    "title": "The gift of fear",
+    "subTitle": "Friday of the fifteenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "159",
+        "priority": 500
+      }
+    ],
+    "slug": "gift-of-fear",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 300,
+    "title": "Blessed are the poor in spirit",
+    "subTitle": "Saturday of the fifteenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "160",
+        "priority": 500
+      }
+    ],
+    "slug": "blessed-poor-spirit",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
     "order": 379,
     "title": "The Assumption of Blessed Virgin Mary",
     "subTitle": "August Fifteenth",
@@ -24952,342 +26136,6 @@
       }
     ],
     "slug": "book-4-chapter-xviii",
-    "priority": 500,
-    "topics": ["", "", ""]
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 280,
-    "title": "The ten lepers",
-    "subTitle": "Thirteenth Sunday after Pentecost",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "139",
-        "priority": 500
-      }
-    ],
-    "slug": "ten-lepers",
-    "priority": 500,
-    "topics": ["", "", ""]
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 281,
-    "title": "Justice and Religion",
-    "subTitle": "Monday of the thirteenth week after Pentecost",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "140",
-        "priority": 500
-      }
-    ],
-    "slug": "justice-religion",
-    "priority": 500,
-    "topics": ["", "", ""]
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 282,
-    "title": "Piety and Devotion",
-    "subTitle": "Tuesday of the thirteenth week after Pentecost",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "141",
-        "priority": 500
-      }
-    ],
-    "slug": "piety-devotion",
-    "priority": 500,
-    "topics": ["", "", ""]
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 283,
-    "title": "Gratitude",
-    "subTitle": "Wednesday of the thirteenth week after Pentecost",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "142",
-        "priority": 500
-      }
-    ],
-    "slug": "gratitude",
-    "priority": 500,
-    "topics": ["", "", ""]
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 284,
-    "title": "Sincerity",
-    "subTitle": "Thrusday after the feast of the most Holy Trinity",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "143",
-        "priority": 500
-      }
-    ],
-    "slug": "sincerity",
-    "priority": 500,
-    "topics": ["", "", ""]
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 285,
-    "title": "Simplicity",
-    "subTitle": "Friday of the thirteenth week after Pentecost",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "144",
-        "priority": 500
-      }
-    ],
-    "slug": "simplicity",
-    "priority": 500,
-    "topics": ["", "", ""]
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 286,
-    "title": "Fortitude",
-    "subTitle": "Saturday of the thirteenth week after Pentecost",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "145",
-        "priority": 500
-      }
-    ],
-    "slug": "fortitude",
-    "priority": 500,
-    "topics": ["", "", ""]
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 287,
-    "title": "The two kingdoms",
-    "subTitle": "Fourteenth Sunday after Pentecost",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "146",
-        "priority": 500
-      }
-    ],
-    "slug": "two-kingdoms",
-    "priority": 500,
-    "topics": ["", "", ""]
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 288,
-    "title": "Courage",
-    "subTitle": "Monday of the fourteenth week after Pentecost",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "147",
-        "priority": 500
-      }
-    ],
-    "slug": "courage",
-    "priority": 500,
-    "topics": ["", "", ""]
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 289,
-    "title": "Magnanimity",
-    "subTitle": "Tuesday of the fourteenth week after Pentecost",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "148",
-        "priority": 500
-      }
-    ],
-    "slug": "magnanimity",
-    "priority": 500,
-    "topics": ["", "", ""]
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 290,
-    "title": "Generosity",
-    "subTitle": "Wednesday of the fourteenth week after Pentecost",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "149",
-        "priority": 500
-      }
-    ],
-    "slug": "generosity",
-    "priority": 500,
-    "topics": ["", "", ""]
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 291,
-    "title": "Fortitude and Patience",
-    "subTitle": "Thrusday after the feast of the most Holy Trinity",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "150",
-        "priority": 500
-      }
-    ],
-    "slug": "fortitude-patience",
-    "priority": 500,
-    "topics": ["", "", ""]
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 292,
-    "title": "The practice of patience",
-    "subTitle": "Friday of the fourteenth week after Pentecost",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "151",
-        "priority": 500
-      }
-    ],
-    "slug": "practice-patience",
-    "priority": 500,
-    "topics": ["", "", ""]
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 293,
-    "title": "Perseverance",
-    "subTitle": "Saturday of the fourteenth week after Pentecost",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "152",
-        "priority": 500
-      }
-    ],
-    "slug": "perseverance",
-    "priority": 500,
-    "topics": ["", "", ""]
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 294,
-    "title": "Jesus our life",
-    "subTitle": "Fifteenth Sunday after Pentecost",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "153",
-        "priority": 500
-      }
-    ],
-    "slug": "jesus-our-life",
-    "priority": 500,
-    "topics": ["", "", ""]
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 295,
-    "title": "Perseverance and Confidence",
-    "subTitle": "Monday of the fifteenth week after Pentecost",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "154",
-        "priority": 500
-      }
-    ],
-    "slug": "perseverance-confidence",
-    "priority": 500,
-    "topics": ["", "", ""]
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 296,
-    "title": "Temperance",
-    "subTitle": "Tuesday of the fifteenth week after Pentecost",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "155",
-        "priority": 500
-      }
-    ],
-    "slug": "temperance",
-    "priority": 500,
-    "topics": ["", "", ""]
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 297,
-    "title": "Meekness",
-    "subTitle": "Wednesday of the fifteenth week after Pentecost",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "156",
-        "priority": 500
-      }
-    ],
-    "slug": "meekness",
-    "priority": 500,
-    "topics": ["", "", ""]
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 298,
-    "title": "Spiritual Progress",
-    "subTitle": "Thrusday after the feast of the most Holy Trinity",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "157",
-        "priority": 500
-      }
-    ],
-    "slug": "spiritual-progress",
-    "priority": 500,
-    "topics": ["", "", ""]
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 299,
-    "title": "The gift of fear",
-    "subTitle": "Friday of the fifteenth week after Pentecost",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "158",
-        "priority": 500
-      }
-    ],
-    "slug": "gift-of-fear",
-    "priority": 500,
-    "topics": ["", "", ""]
-  },
-  {
-    "bookId": "divine-intimacy",
-    "order": 300,
-    "title": "Blessed are the poor in spirit",
-    "subTitle": "Saturday of the fifteenth week after Pentecost",
-    "rules": [
-      {
-        "type": "easter",
-        "value": "159",
-        "priority": 500
-      }
-    ],
-    "slug": "blessed-poor-spirit",
     "priority": 500,
     "topics": ["", "", ""]
   }
