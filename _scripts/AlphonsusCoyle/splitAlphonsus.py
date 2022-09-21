@@ -10,7 +10,7 @@ import os
 sys.path.append(os.path.abspath('./_scripts/main'))
 import books
 
-initial_path = "./_scripts/AlphonsusDaily/"
+initial_path = "./_scripts/AlphonsusCoyle/"
 
 
 try:
@@ -25,10 +25,9 @@ mm = 10000
 ev = 20000
 sr = 30000
 
-print(initial_path + "005 - Manual Corrections/all.md")
 
 with open(initial_path + "test.csv", "a", encoding="utf8") as finalJSON:
-    with open(initial_path + "005 - Manual Corrections/all-3.md", encoding="UTF-8") as fullFile:
+    with open(initial_path + "006 - Adding missing texts/all.md", encoding="UTF-8") as fullFile:
         lines = fullFile.readlines()
 
         overline = ""
@@ -59,8 +58,8 @@ with open(initial_path + "test.csv", "a", encoding="utf8") as finalJSON:
                 file = open(initial_path + "output/" +
                             fileName.__str__() + ".md", "a", encoding="utf8")
 
-                finalJSON.write(fileName.__str__() + ";" + overline + ";" +
-                                headParts[0] + ";" + headParts[1] + '\n')
+                finalJSON.write(fileName.__str__() + "$" + overline + "$" +
+                                headParts[0] + "$" + headParts[1] + '\n')
 
                 continue
 
