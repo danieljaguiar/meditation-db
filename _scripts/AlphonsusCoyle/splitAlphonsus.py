@@ -9,17 +9,22 @@ import datetime
 import os
 sys.path.append(os.path.abspath('./_scripts/main'))
 import books
+from pathlib import Path
+import shutil
+
 
 initial_path = "./_scripts/AlphonsusCoyle/"
 
-
 try:
-    dir = initial_path + "output/"
-    for f in os.listdir(dir):
-        os.remove(os.path.join(dir, f))
+    shutil.rmtree(initial_path + "output/")
 except OSError:
     pass
 
+
+Path(initial_path + "output/").mkdir(parents=True, exist_ok=True)
+Path(initial_path + "output/alphonsus-morning").mkdir(parents=True, exist_ok=True)
+Path(initial_path + "output/alphonsus-evening").mkdir(parents=True, exist_ok=True)
+Path(initial_path + "output/alphonsus-spiritual").mkdir(parents=True, exist_ok=True)
 
 mm = 10000
 ev = 20000
@@ -27,7 +32,7 @@ sr = 30000
 
 
 with open(initial_path + "test.csv", "a", encoding="utf8") as finalJSON:
-    with open(initial_path + "006 - Adding missing texts/all.md", encoding="UTF-8") as fullFile:
+    with open(initial_path + "007 - Manual Corrections/all.md", encoding="UTF-8") as fullFile:
         lines = fullFile.readlines()
 
         overline = ""
@@ -47,18 +52,18 @@ with open(initial_path + "test.csv", "a", encoding="utf8") as finalJSON:
                 fileName = ""
                 if(headParts[0] == "Morning Meditation"):
                     mm = mm + 1
-                    fileName = mm
+                    fileName = "alphonsus-morning/" + mm.__str__()
                 if(headParts[0] == "Evening Meditation"):
                     ev = ev + 1
-                    fileName = ev
+                    fileName = "alphonsus-evening/" + ev.__str__()
                 if(headParts[0] == "Spiritual Reading"):
                     sr = sr + 1
-                    fileName = sr
+                    fileName = "alphonsus-spiritual/" + sr.__str__()
 
                 file = open(initial_path + "output/" +
-                            fileName.__str__() + ".md", "a", encoding="utf8")
+                            fileName + ".md", "a", encoding="utf8")
 
-                finalJSON.write(fileName.__str__() + "$" + overline + "$" +
+                finalJSON.write(fileName + "$" + overline + "$" +
                                 headParts[0] + "$" + headParts[1] + '\n')
 
                 continue
