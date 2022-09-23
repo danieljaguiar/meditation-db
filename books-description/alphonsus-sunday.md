@@ -1,0 +1,6 @@
+In the very beggning of this book we can read:
+
+> THE present Work is entitled, ABRIDGED SERMONS FOR ALL THE SUNDAYS IN THE YEAR. They are called Abridged Sermons, because, although each contains abundant matter for a sermon, the sentiments are briefly expressed not, however, so briefly as to render the sense obscure. Hence the work may be used for spiritual lectures. Diffuseness has been purposely avoided, that the preacher may extend the subject treated in the way which may appear best to him. A preacher will scarce ever deliver, with zeal and warmth, sentiments which he has not made in some manner his own. Hence the matter of each sermon has been condensed into a small compass, that the preacher may extend it according to his pleasure, and thus make it his own.
+> In each sermon there are many passages from the Scriptures and Holy Fathers, and a variety of reflections perhaps too many for a single discourse that the reader may select what will be most pleasing to him. The style is easy and simple, and therefore calculated to render the preaching of the Divine Word conducive to the salvation of souls.
+
+As you can see, the work was intended as material to a preacher (priest) than for meditation. Nevertheless, it has such good content, that makes a valuable material for meditation of the laity to better appreciate the Sunday Mass mysteries.
