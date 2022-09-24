@@ -44330,5 +44330,85 @@
     "slug": "book-4-chapter-xviii",
     "priority": 500,
     "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 301,
+    "title": "The characteristcs of a Christian",
+    "subTitle": "Sixteenth Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "161",
+        "priority": 500
+      }
+    ],
+    "slug": "characteristics-of-christian",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 302,
+    "title": "The gifts of fortitude",
+    "subTitle": "Monday of the sixteenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "162",
+        "priority": 500
+      }
+    ],
+    "slug": "gifts-of-fortitude",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 303,
+    "title": "Blessed are they that hunger and thirst after justice",
+    "subTitle": "Tuesday of the sixteenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "163",
+        "priority": 500
+      }
+    ],
+    "slug": "blessed-are-they-that-hunger-and-thirst-after-justice",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 304,
+    "title": "The gift of piety",
+    "subTitle": "Wednesday of the sixteenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "164",
+        "priority": 500
+      }
+    ],
+    "slug": "gift-of-piety",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 305,
+    "title": "Blessed are the meek",
+    "subTitle": "Thrusday after the feast of the most Holy Trinity",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "165",
+        "priority": 500
+      }
+    ],
+    "slug": "blessed-are-the-meek",
+    "priority": 500,
+    "topics": ["", "", ""]
   }
 ]
