@@ -44442,5 +44442,117 @@
     "slug": "blessed-are-the-merciful",
     "priority": 500,
     "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 308,
+    "title": "Fraternal Union",
+    "subTitle": "Seventeenth Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "168",
+        "priority": 500
+      }
+    ],
+    "slug": "fraternal-union",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 309,
+    "title": "The gift of knowledge",
+    "subTitle": "Monday of the seventeenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "169",
+        "priority": 500
+      }
+    ],
+    "slug": "gift-of-knowledge",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 310,
+    "title": "Blessed are they that mourn",
+    "subTitle": "Tuesday of the seventeenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "170",
+        "priority": 500
+      }
+    ],
+    "slug": "blessed-that-mourn",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 311,
+    "title": "The gift of understanding",
+    "subTitle": "Wednesday of the seventeenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "171",
+        "priority": 500
+      }
+    ],
+    "slug": "gift-of-understanding",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 312,
+    "title": "Blessed are the clean of heart",
+    "subTitle": "Thrusday after the feast of the most Holy Trinity",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "172",
+        "priority": 500
+      }
+    ],
+    "slug": "blessed-clean-of-heart",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 313,
+    "title": "The Gift of Wisdom",
+    "subTitle": "Friday of the seventeenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "173",
+        "priority": 500
+      }
+    ],
+    "slug": "the-gift-of-wisdom",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 314,
+    "title": "Blessed are the peacemakers",
+    "subTitle": "Saturday of the seventeenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "174",
+        "priority": 500
+      }
+    ],
+    "slug": "blessed-peacemakers",
+    "priority": 500,
+    "topics": ["", "", ""]
   }
 ]
