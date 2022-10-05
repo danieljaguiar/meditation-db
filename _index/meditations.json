@@ -44554,5 +44554,117 @@
     "slug": "blessed-peacemakers",
     "priority": 500,
     "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 315,
+    "title": "The power and love of Jesus",
+    "subTitle": "Eighteenth Sunday after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "175",
+        "priority": 500
+      }
+    ],
+    "slug": "power-and-love",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 316,
+    "title": "Our meeting with the Holy Spirit",
+    "subTitle": "Monday of the Eighteenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "176",
+        "priority": 500
+      }
+    ],
+    "slug": "meeting-with-holy-spirit",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 317,
+    "title": "Zeal for Souls",
+    "subTitle": "Tuesday of the Eighteenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "177",
+        "priority": 500
+      }
+    ],
+    "slug": "zeal-for-souls",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 318,
+    "title": "The duty of the Apostolate",
+    "subTitle": "Wednesday of the Eighteenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "178",
+        "priority": 500
+      }
+    ],
+    "slug": "duty-of-apostolate",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 319,
+    "title": "God Collaborators",
+    "subTitle": "Thrusday after the feast of the most Holy Trinity",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "179",
+        "priority": 500
+      }
+    ],
+    "slug": "collaborators",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 320,
+    "title": "One with the mind of Christ",
+    "subTitle": "Friday of the Eighteenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "180",
+        "priority": 500
+      }
+    ],
+    "slug": "one-with-the-mind",
+    "priority": 500,
+    "topics": ["", "", ""]
+  },
+  {
+    "bookId": "divine-intimacy",
+    "order": 321,
+    "title": "The soul of the apostolate",
+    "subTitle": "Saturday of the Eighteenth week after Pentecost",
+    "rules": [
+      {
+        "type": "easter",
+        "value": "181",
+        "priority": 500
+      }
+    ],
+    "slug": "the-soul-of-the-apostolate",
+    "priority": 500,
+    "topics": ["", "", ""]
   }
 ]
