@@ -93,7 +93,7 @@
     ],
     "slug": "quais-sejam-os-que-na-verdade-seguem-a-jesus-cristo",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Tribulation", "", ""]
   },
   {
     "bookId": "afonso-todo-dia",
@@ -605,7 +605,7 @@
     ],
     "slug": "devemos-aproveitar-o-tempo",
     "priority": 500,
-    "topics": ["Procastination", "", ""]
+    "topics": ["Procastination", "Faith", ""]
   },
   {
     "bookId": "afonso-todo-dia",
@@ -621,7 +621,7 @@
     ],
     "slug": "jesus-cristo-tem-feito-e-padecido-tudo-por-nosso-amor",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Incarnation", "", ""]
   },
   {
     "bookId": "afonso-todo-dia",
@@ -701,7 +701,7 @@
     ],
     "slug": "jesus-e-alimentado",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Incarnation", "", ""]
   },
   {
     "bookId": "afonso-todo-dia",
@@ -717,7 +717,7 @@
     ],
     "slug": "o-sono-de-jesus-menino",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Incarnation", "", ""]
   },
   {
     "bookId": "afonso-todo-dia",
@@ -1117,7 +1117,7 @@
     ],
     "slug": "jesus-na-casa-de-nazare",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Incarnation", "", ""]
   },
   {
     "bookId": "afonso-todo-dia",
@@ -5597,7 +5597,7 @@
     ],
     "slug": "a-vida-presente-e-uma-viagem-para-a-eternidade",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Detachment", "", ""]
   },
   {
     "bookId": "afonso-todo-dia",
@@ -5661,7 +5661,7 @@
     ],
     "slug": "terceira-palavra-de-jesus-cristo-na-cruz",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["OurLady", "", ""]
   },
   {
     "bookId": "afonso-todo-dia",
@@ -7773,7 +7773,7 @@
     ],
     "slug": "solidao-de-jesus-na-gruta-de-belem",
     "priority": 500,
-    "topics": ["Suffering", "", ""]
+    "topics": ["Suffering", "Meditation", ""]
   },
   {
     "bookId": "afonso-todo-dia",
@@ -7997,7 +7997,7 @@
     ],
     "slug": "santo-afonso-modelo-da-vida-interior-e-recolhida",
     "priority": 500,
-    "topics": ["Saints", "", ""]
+    "topics": ["Saints", "Patience", ""]
   },
   {
     "bookId": "afonso-todo-dia",
@@ -8829,7 +8829,7 @@
     ],
     "slug": "friday-fourth-week-of-advent",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["GodsLove", "", ""]
   },
   {
     "bookId": "alphonsus-evening",
@@ -15581,7 +15581,7 @@
     ],
     "slug": "friday-second-week-after-epiphany",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Death", "Hell", "Judgement"]
   },
   {
     "bookId": "alphonsus-morning",
@@ -20157,7 +20157,7 @@
     ],
     "slug": "thursday-twentieth-week-after-pentecost",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Mercy", "Sinner", ""]
   },
   {
     "bookId": "alphonsus-morning",
@@ -20589,7 +20589,7 @@
     ],
     "slug": "wednesday-twenty-fourth-week-after-pentecost",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Meditation", "", ""]
   },
   {
     "bookId": "alphonsus-morning",
@@ -25741,7 +25741,7 @@
     ],
     "slug": "tuesday-sixteenth-week-after-pentecost",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Persecution", "Suffering", ""]
   },
   {
     "bookId": "alphonsus-spiritual",
@@ -29341,7 +29341,7 @@
     ],
     "slug": "o-repouso-no-ceu",
     "priority": 500,
-    "topics": ["Heaven", "", ""]
+    "topics": ["Heaven", "Suffering", ""]
   },
   {
     "bookId": "breviario-confianca",
@@ -29469,7 +29469,7 @@
     ],
     "slug": "o-trigo-e-a-palha",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Patience", "", ""]
   },
   {
     "bookId": "breviario-confianca",
@@ -29821,7 +29821,7 @@
     ],
     "slug": "a-eternidade-o-mundo-a-vontade-de-deus",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Heaven", "Salvation", "GodsWill"]
   },
   {
     "bookId": "breviario-confianca",
@@ -33037,7 +33037,7 @@
     ],
     "slug": "para-conservar-a-paz",
     "priority": 500,
-    "topics": ["Tribulation", "Suff", ""]
+    "topics": ["Tribulation", "Suffering", ""]
   },
   {
     "bookId": "breviario-confianca",
@@ -33741,7 +33741,7 @@
     ],
     "slug": "pequeno-sermao-de-sao-francisco",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Saints", "", ""]
   },
   {
     "bookId": "breviario-confianca",
@@ -33821,7 +33821,7 @@
     ],
     "slug": "um-fiat-e-um-gloria-patri",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Patience", "", ""]
   },
   {
     "bookId": "breviario-confianca",
@@ -33933,7 +33933,7 @@
     ],
     "slug": "a-calunia",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Persecution", "Tribulation", ""]
   },
   {
     "bookId": "breviario-confianca",
@@ -33949,7 +33949,7 @@
     ],
     "slug": "golpes-de-misericordia",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Disease", "", ""]
   },
   {
     "bookId": "breviario-confianca",
@@ -33965,7 +33965,7 @@
     ],
     "slug": "a-melhor-das-oracoes",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Prayer", "Patience", ""]
   },
   {
     "bookId": "breviario-confianca",
@@ -33981,7 +33981,7 @@
     ],
     "slug": "feliz-penitencia-que-me-deu-tanta-gloria",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Patience", "", ""]
   },
   {
     "bookId": "breviario-confianca",
@@ -34061,7 +34061,7 @@
     ],
     "slug": "seja-o-que-deus-quiser",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Trust", "", ""]
   },
   {
     "bookId": "breviario-confianca",
@@ -34077,7 +34077,7 @@
     ],
     "slug": "como-e-bom-entregarse-a-divina-providencia",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Trust", "", ""]
   },
   {
     "bookId": "breviario-confianca",
@@ -34093,7 +34093,7 @@
     ],
     "slug": "um-amor-brando-sossegado-e-terno",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Saints", "", ""]
   },
   {
     "bookId": "breviario-confianca",
@@ -34365,7 +34365,7 @@
     ],
     "slug": "o-consolador",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Death", "Hope", "Heaven"]
   },
   {
     "bookId": "breviario-confianca",
@@ -34381,7 +34381,7 @@
     ],
     "slug": "morrer-para-viver-e-viver-para-morrer",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Detachment", "Death", ""]
   },
   {
     "bookId": "breviario-confianca",
@@ -34397,7 +34397,7 @@
     ],
     "slug": "verdadeiras-dores-e-verdadeiros-consoladores",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Death", "", ""]
   },
   {
     "bookId": "breviario-confianca",
@@ -34413,7 +34413,7 @@
     ],
     "slug": "lagrimas-de-uma-viuva-crista",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Death", "", ""]
   },
   {
     "bookId": "breviario-confianca",
@@ -34445,7 +34445,7 @@
     ],
     "slug": "logo-nos-veremos-de-novo",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Death", "", ""]
   },
   {
     "bookId": "breviario-confianca",
@@ -34461,7 +34461,7 @@
     ],
     "slug": "deus-o-permitiu-silencio",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Death", "", ""]
   },
   {
     "bookId": "breviario-confianca",
@@ -34813,7 +34813,7 @@
     ],
     "slug": "o-trabalho-do-divino-artista",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Trust", "", ""]
   },
   {
     "bookId": "breviario-confianca",
@@ -35005,7 +35005,7 @@
     ],
     "slug": "coracaoabismo",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Detachment", "", ""]
   },
   {
     "bookId": "breviario-confianca",
@@ -38109,7 +38109,7 @@
     ],
     "slug": "gift-of-fear",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["GodsLove", "Sinner", ""]
   },
   {
     "bookId": "divine-intimacy",
@@ -38296,7 +38296,7 @@
     ],
     "slug": "livro-1-capitulo-5",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Meditation", "", ""]
   },
   {
     "bookId": "imitacao",
@@ -38637,7 +38637,7 @@
     ],
     "slug": "livro-1-capitulo-16",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Temptation", "", ""]
   },
   {
     "bookId": "imitacao",
@@ -39311,7 +39311,7 @@
     ],
     "slug": "livro-3-capitulo-3",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Temptation", "", ""]
   },
   {
     "bookId": "imitacao",
@@ -39389,7 +39389,7 @@
     ],
     "slug": "livro-3-capitulo-6",
     "priority": 500,
-    "topics": ["GodsLove", "", ""]
+    "topics": ["GodsLove", "Prayer", ""]
   },
   {
     "bookId": "imitacao",
@@ -39701,7 +39701,7 @@
     ],
     "slug": "livro-3-capitulo-18",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Patience", "", ""]
   },
   {
     "bookId": "imitacao",
@@ -39857,7 +39857,7 @@
     ],
     "slug": "livro-3-capitulo-24",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Detachment", "", ""]
   },
   {
     "bookId": "imitacao",
@@ -39961,7 +39961,7 @@
     ],
     "slug": "livro-3-capitulo-28",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Persecution", "", ""]
   },
   {
     "bookId": "imitacao",
@@ -40091,7 +40091,7 @@
     ],
     "slug": "livro-3-capitulo-33",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Detachment", "", ""]
   },
   {
     "bookId": "imitacao",
@@ -40611,7 +40611,7 @@
     ],
     "slug": "livro-3-capitulo-53",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Detachment", "", ""]
   },
   {
     "bookId": "imitacao",
@@ -40637,7 +40637,7 @@
     ],
     "slug": "livro-3-capitulo-54",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Detachment", "", ""]
   },
   {
     "bookId": "imitacao",
@@ -40663,7 +40663,7 @@
     ],
     "slug": "livro-3-capitulo-55",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Sinner", "", ""]
   },
   {
     "bookId": "imitacao",
@@ -40715,7 +40715,7 @@
     ],
     "slug": "livro-3-capitulo-57",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Patience", "", ""]
   },
   {
     "bookId": "imitacao",
@@ -40741,7 +40741,7 @@
     ],
     "slug": "livro-3-capitulo-58",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Saints", "", ""]
   },
   {
     "bookId": "imitacao",
@@ -40923,7 +40923,7 @@
     ],
     "slug": "livro-4-capitulo-6",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["BlessedSacrament", "", ""]
   },
   {
     "bookId": "imitacao",
@@ -40949,7 +40949,7 @@
     ],
     "slug": "livro-4-capitulo-7",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Confession", "", ""]
   },
   {
     "bookId": "imitacao",
@@ -41390,7 +41390,7 @@
     ],
     "slug": "book-1-chapter-v",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Meditation", "", ""]
   },
   {
     "bookId": "imitation",
@@ -41731,7 +41731,7 @@
     ],
     "slug": "book-1-chapter-xvi",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Temptation", "", ""]
   },
   {
     "bookId": "imitation",
@@ -42405,7 +42405,7 @@
     ],
     "slug": "book-3-chapter-iii",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Temptation", "", ""]
   },
   {
     "bookId": "imitation",
@@ -42483,7 +42483,7 @@
     ],
     "slug": "book-3-chapter-vi",
     "priority": 500,
-    "topics": ["GodsLove", "", ""]
+    "topics": ["GodsLove", "Prayer", ""]
   },
   {
     "bookId": "imitation",
@@ -42795,7 +42795,7 @@
     ],
     "slug": "book-3-chapter-xviii",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Patience", "", ""]
   },
   {
     "bookId": "imitation",
@@ -42951,7 +42951,7 @@
     ],
     "slug": "book-3-chapter-xxiv",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Detachment", "", ""]
   },
   {
     "bookId": "imitation",
@@ -43055,7 +43055,7 @@
     ],
     "slug": "book-3-chapter-xxviii",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Persecution", "", ""]
   },
   {
     "bookId": "imitation",
@@ -43185,7 +43185,7 @@
     ],
     "slug": "book-3-chapter-xxxiii",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Detachment", "", ""]
   },
   {
     "bookId": "imitation",
@@ -43705,7 +43705,7 @@
     ],
     "slug": "book-3-chapter-liii",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Detachment", "", ""]
   },
   {
     "bookId": "imitation",
@@ -43731,7 +43731,7 @@
     ],
     "slug": "book-3-chapter-liv",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Detachment", "", ""]
   },
   {
     "bookId": "imitation",
@@ -43757,7 +43757,7 @@
     ],
     "slug": "book-3-chapter-lv",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Sinner", "", ""]
   },
   {
     "bookId": "imitation",
@@ -43809,7 +43809,7 @@
     ],
     "slug": "book-3-chapter-lvii",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Patience", "", ""]
   },
   {
     "bookId": "imitation",
@@ -43835,7 +43835,7 @@
     ],
     "slug": "book-3-chapter-lviii",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Saints", "", ""]
   },
   {
     "bookId": "imitation",
@@ -44017,7 +44017,7 @@
     ],
     "slug": "book-4-chapter-vi",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["BlessedSacrament", "", ""]
   },
   {
     "bookId": "imitation",
@@ -44043,7 +44043,7 @@
     ],
     "slug": "book-4-chapter-vii",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Confession", "", ""]
   },
   {
     "bookId": "imitation",
