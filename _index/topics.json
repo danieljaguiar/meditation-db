@@ -9,6 +9,10 @@
             {
                 "key": "alphonsus-every-day",
                 "count": 1
+            },
+            {
+                "key": "alphonsus-morning",
+                "count": 1
             }
         ],
         "languageCount": [
@@ -18,7 +22,7 @@
             },
             {
                 "key": "en",
-                "count": 1
+                "count": 2
             }
         ],
         "localization": [
@@ -39,17 +43,33 @@
         "bookCount": [
             {
                 "key": "afonso-todo-dia",
-                "count": 32
+                "count": 33
+            },
+            {
+                "key": "alphonsus-morning",
+                "count": 1
+            },
+            {
+                "key": "divine-intimacy",
+                "count": 1
             },
             {
                 "key": "imitacao",
-                "count": 2
+                "count": 3
+            },
+            {
+                "key": "imitation",
+                "count": 3
             }
         ],
         "languageCount": [
             {
                 "key": "pt",
-                "count": 34
+                "count": 36
+            },
+            {
+                "key": "en",
+                "count": 5
             }
         ],
         "localization": [
@@ -70,13 +90,13 @@
         "bookCount": [
             {
                 "key": "afonso-todo-dia",
-                "count": 7
+                "count": 11
             }
         ],
         "languageCount": [
             {
                 "key": "pt",
-                "count": 7
+                "count": 11
             }
         ],
         "localization": [
@@ -93,11 +113,54 @@
         ]
     },
     {
+        "name": "Tribulation",
+        "bookCount": [
+            {
+                "key": "afonso-todo-dia",
+                "count": 22
+            },
+            {
+                "key": "breviario-confianca",
+                "count": 10
+            },
+            {
+                "key": "breviary-trust",
+                "count": 1
+            },
+            {
+                "key": "divine-intimacy",
+                "count": 1
+            }
+        ],
+        "languageCount": [
+            {
+                "key": "pt",
+                "count": 32
+            },
+            {
+                "key": "en",
+                "count": 2
+            }
+        ],
+        "localization": [
+            {
+                "key": "en",
+                "title": "Tribulations",
+                "description": "Dealing with tribulations"
+            },
+            {
+                "key": "pt",
+                "title": "Tribulações",
+                "description": "Momentos de Tribulação"
+            }
+        ]
+    },
+    {
         "name": "OurLady",
         "bookCount": [
             {
                 "key": "afonso-todo-dia",
-                "count": 84
+                "count": 85
             },
             {
                 "key": "alphonsus-every-day",
@@ -123,7 +186,7 @@
         "languageCount": [
             {
                 "key": "pt",
-                "count": 107
+                "count": 108
             },
             {
                 "key": "en",
@@ -144,54 +207,11 @@
         ]
     },
     {
-        "name": "Tribulation",
-        "bookCount": [
-            {
-                "key": "afonso-todo-dia",
-                "count": 21
-            },
-            {
-                "key": "breviario-confianca",
-                "count": 8
-            },
-            {
-                "key": "breviary-trust",
-                "count": 1
-            },
-            {
-                "key": "divine-intimacy",
-                "count": 1
-            }
-        ],
-        "languageCount": [
-            {
-                "key": "pt",
-                "count": 29
-            },
-            {
-                "key": "en",
-                "count": 2
-            }
-        ],
-        "localization": [
-            {
-                "key": "en",
-                "title": "Tribulations",
-                "description": "Dealing with tribulations"
-            },
-            {
-                "key": "pt",
-                "title": "Tribulações",
-                "description": "Momentos de Tribulação"
-            }
-        ]
-    },
-    {
         "name": "Crucification",
         "bookCount": [
             {
                 "key": "afonso-todo-dia",
-                "count": 6
+                "count": 8
             },
             {
                 "key": "aquinas-lent",
@@ -208,16 +228,20 @@
             {
                 "key": "imitacao",
                 "count": 2
+            },
+            {
+                "key": "imitation",
+                "count": 2
             }
         ],
         "languageCount": [
             {
                 "key": "pt",
-                "count": 11
+                "count": 13
             },
             {
                 "key": "en",
-                "count": 4
+                "count": 6
             }
         ],
         "localization": [
@@ -245,6 +269,10 @@
                 "count": 1
             },
             {
+                "key": "alphonsus-morning",
+                "count": 1
+            },
+            {
                 "key": "aquinas-lent",
                 "count": 1
             },
@@ -253,18 +281,26 @@
                 "count": 1
             },
             {
+                "key": "breviario-confianca",
+                "count": 7
+            },
+            {
                 "key": "imitacao",
+                "count": 1
+            },
+            {
+                "key": "imitation",
                 "count": 1
             }
         ],
         "languageCount": [
             {
                 "key": "pt",
-                "count": 42
+                "count": 49
             },
             {
                 "key": "en",
-                "count": 2
+                "count": 4
             }
         ],
         "localization": [
@@ -285,7 +321,7 @@
         "bookCount": [
             {
                 "key": "afonso-todo-dia",
-                "count": 1
+                "count": 2
             },
             {
                 "key": "aquinas-lent",
@@ -299,7 +335,7 @@
         "languageCount": [
             {
                 "key": "pt",
-                "count": 3
+                "count": 4
             },
             {
                 "key": "en",
@@ -327,6 +363,10 @@
                 "count": 27
             },
             {
+                "key": "alphonsus-evening",
+                "count": 1
+            },
+            {
                 "key": "aquinas-lent",
                 "count": 2
             },
@@ -340,10 +380,14 @@
             },
             {
                 "key": "divine-intimacy",
-                "count": 4
+                "count": 5
             },
             {
                 "key": "imitacao",
+                "count": 5
+            },
+            {
+                "key": "imitation",
                 "count": 5
             }
         ],
@@ -354,7 +398,7 @@
             },
             {
                 "key": "en",
-                "count": 6
+                "count": 13
             }
         ],
         "localization": [
@@ -375,25 +419,33 @@
         "bookCount": [
             {
                 "key": "afonso-todo-dia",
-                "count": 2
+                "count": 3
             },
             {
                 "key": "breviario-confianca",
-                "count": 2
+                "count": 6
             },
             {
                 "key": "divine-intimacy",
-                "count": 1
+                "count": 3
+            },
+            {
+                "key": "imitacao",
+                "count": 2
+            },
+            {
+                "key": "imitation",
+                "count": 2
             }
         ],
         "languageCount": [
             {
                 "key": "pt",
-                "count": 4
+                "count": 11
             },
             {
                 "key": "en",
-                "count": 1
+                "count": 5
             }
         ],
         "localization": [
@@ -415,12 +467,20 @@
             {
                 "key": "afonso-todo-dia",
                 "count": 12
+            },
+            {
+                "key": "alphonsus-morning",
+                "count": 1
             }
         ],
         "languageCount": [
             {
                 "key": "pt",
                 "count": 12
+            },
+            {
+                "key": "en",
+                "count": 1
             }
         ],
         "localization": [
@@ -441,7 +501,7 @@
         "bookCount": [
             {
                 "key": "afonso-todo-dia",
-                "count": 32
+                "count": 33
             },
             {
                 "key": "alphonsus-every-day",
@@ -463,7 +523,7 @@
         "languageCount": [
             {
                 "key": "pt",
-                "count": 63
+                "count": 64
             },
             {
                 "key": "en",
@@ -515,11 +575,54 @@
         ]
     },
     {
+        "name": "Faith",
+        "bookCount": [
+            {
+                "key": "afonso-todo-dia",
+                "count": 2
+            },
+            {
+                "key": "divine-intimacy",
+                "count": 6
+            },
+            {
+                "key": "imitacao",
+                "count": 1
+            },
+            {
+                "key": "imitation",
+                "count": 1
+            }
+        ],
+        "languageCount": [
+            {
+                "key": "pt",
+                "count": 3
+            },
+            {
+                "key": "en",
+                "count": 7
+            }
+        ],
+        "localization": [
+            {
+                "key": "en",
+                "title": "Faith",
+                "description": "The virtue of Faith"
+            },
+            {
+                "key": "pt",
+                "title": "Fé",
+                "description": "A virtude da fé"
+            }
+        ]
+    },
+    {
         "name": "Detachment",
         "bookCount": [
             {
                 "key": "afonso-todo-dia",
-                "count": 14
+                "count": 15
             },
             {
                 "key": "alphonsus-every-day",
@@ -527,7 +630,7 @@
             },
             {
                 "key": "breviario-confianca",
-                "count": 2
+                "count": 5
             },
             {
                 "key": "divine-intimacy",
@@ -535,17 +638,21 @@
             },
             {
                 "key": "imitacao",
-                "count": 6
+                "count": 11
+            },
+            {
+                "key": "imitation",
+                "count": 11
             }
         ],
         "languageCount": [
             {
                 "key": "pt",
-                "count": 22
+                "count": 31
             },
             {
                 "key": "en",
-                "count": 4
+                "count": 15
             }
         ],
         "localization": [
@@ -578,7 +685,7 @@
             },
             {
                 "key": "breviario-confianca",
-                "count": 11
+                "count": 13
             },
             {
                 "key": "breviary-trust",
@@ -588,7 +695,7 @@
         "languageCount": [
             {
                 "key": "pt",
-                "count": 17
+                "count": 19
             },
             {
                 "key": "en",
@@ -622,6 +729,10 @@
             {
                 "key": "imitacao",
                 "count": 2
+            },
+            {
+                "key": "imitation",
+                "count": 2
             }
         ],
         "languageCount": [
@@ -631,7 +742,7 @@
             },
             {
                 "key": "en",
-                "count": 1
+                "count": 3
             }
         ],
         "localization": [
@@ -648,52 +759,29 @@
         ]
     },
     {
-        "name": "Faith",
-        "bookCount": [
-            {
-                "key": "afonso-todo-dia",
-                "count": 1
-            },
-            {
-                "key": "divine-intimacy",
-                "count": 6
-            }
-        ],
-        "languageCount": [
-            {
-                "key": "pt",
-                "count": 1
-            },
-            {
-                "key": "en",
-                "count": 6
-            }
-        ],
-        "localization": [
-            {
-                "key": "en",
-                "title": "Faith",
-                "description": "The virtue of Faith"
-            },
-            {
-                "key": "pt",
-                "title": "Fé",
-                "description": "A virtude da fé"
-            }
-        ]
-    },
-    {
         "name": "Church",
         "bookCount": [
             {
                 "key": "afonso-todo-dia",
                 "count": 3
+            },
+            {
+                "key": "imitacao",
+                "count": 1
+            },
+            {
+                "key": "imitation",
+                "count": 1
             }
         ],
         "languageCount": [
             {
                 "key": "pt",
-                "count": 3
+                "count": 4
+            },
+            {
+                "key": "en",
+                "count": 1
             }
         ],
         "localization": [
@@ -718,13 +806,13 @@
             },
             {
                 "key": "breviario-confianca",
-                "count": 1
+                "count": 3
             }
         ],
         "languageCount": [
             {
                 "key": "pt",
-                "count": 9
+                "count": 11
             }
         ],
         "localization": [
@@ -748,6 +836,10 @@
                 "count": 5
             },
             {
+                "key": "breviario-confianca",
+                "count": 1
+            },
+            {
                 "key": "divine-intimacy",
                 "count": 5
             }
@@ -755,7 +847,7 @@
         "languageCount": [
             {
                 "key": "pt",
-                "count": 5
+                "count": 6
             },
             {
                 "key": "en",
@@ -783,6 +875,10 @@
                 "count": 11
             },
             {
+                "key": "alphonsus-spiritual",
+                "count": 1
+            },
+            {
                 "key": "aquinas-lent",
                 "count": 2
             },
@@ -792,25 +888,29 @@
             },
             {
                 "key": "breviario-confianca",
-                "count": 7
+                "count": 11
             },
             {
                 "key": "divine-intimacy",
-                "count": 2
+                "count": 3
             },
             {
                 "key": "imitacao",
+                "count": 1
+            },
+            {
+                "key": "imitation",
                 "count": 1
             }
         ],
         "languageCount": [
             {
                 "key": "pt",
-                "count": 21
+                "count": 25
             },
             {
                 "key": "en",
-                "count": 4
+                "count": 7
             }
         ],
         "localization": [
@@ -831,21 +931,33 @@
         "bookCount": [
             {
                 "key": "afonso-todo-dia",
-                "count": 7
+                "count": 8
+            },
+            {
+                "key": "alphonsus-morning",
+                "count": 1
             },
             {
                 "key": "divine-intimacy",
                 "count": 5
+            },
+            {
+                "key": "imitacao",
+                "count": 1
+            },
+            {
+                "key": "imitation",
+                "count": 1
             }
         ],
         "languageCount": [
             {
                 "key": "pt",
-                "count": 7
+                "count": 9
             },
             {
                 "key": "en",
-                "count": 5
+                "count": 7
             }
         ],
         "localization": [
@@ -914,6 +1026,10 @@
             {
                 "key": "imitacao",
                 "count": 2
+            },
+            {
+                "key": "imitation",
+                "count": 2
             }
         ],
         "languageCount": [
@@ -923,7 +1039,7 @@
             },
             {
                 "key": "en",
-                "count": 6
+                "count": 8
             }
         ],
         "localization": [
@@ -1013,14 +1129,26 @@
                 "count": 1
             },
             {
+                "key": "breviario-confianca",
+                "count": 3
+            },
+            {
                 "key": "imitacao",
+                "count": 1
+            },
+            {
+                "key": "imitation",
                 "count": 1
             }
         ],
         "languageCount": [
             {
                 "key": "pt",
-                "count": 2
+                "count": 5
+            },
+            {
+                "key": "en",
+                "count": 1
             }
         ],
         "localization": [
@@ -1041,7 +1169,7 @@
         "bookCount": [
             {
                 "key": "afonso-todo-dia",
-                "count": 4
+                "count": 5
             },
             {
                 "key": "aquinas-lent",
@@ -1057,21 +1185,21 @@
             },
             {
                 "key": "imitacao",
-                "count": 1
+                "count": 4
             },
             {
                 "key": "imitation",
-                "count": 1
+                "count": 4
             }
         ],
         "languageCount": [
             {
                 "key": "pt",
-                "count": 11
+                "count": 15
             },
             {
                 "key": "en",
-                "count": 3
+                "count": 6
             }
         ],
         "localization": [
@@ -1112,17 +1240,21 @@
             },
             {
                 "key": "imitacao",
-                "count": 2
+                "count": 3
+            },
+            {
+                "key": "imitation",
+                "count": 3
             }
         ],
         "languageCount": [
             {
                 "key": "pt",
-                "count": 35
+                "count": 36
             },
             {
                 "key": "en",
-                "count": 10
+                "count": 13
             }
         ],
         "localization": [
@@ -1143,7 +1275,7 @@
         "bookCount": [
             {
                 "key": "afonso-todo-dia",
-                "count": 5
+                "count": 6
             },
             {
                 "key": "breviario-confianca",
@@ -1153,7 +1285,7 @@
         "languageCount": [
             {
                 "key": "pt",
-                "count": 6
+                "count": 7
             }
         ],
         "localization": [
@@ -1175,12 +1307,24 @@
             {
                 "key": "afonso-todo-dia",
                 "count": 5
+            },
+            {
+                "key": "imitacao",
+                "count": 1
+            },
+            {
+                "key": "imitation",
+                "count": 1
             }
         ],
         "languageCount": [
             {
                 "key": "pt",
-                "count": 5
+                "count": 6
+            },
+            {
+                "key": "en",
+                "count": 1
             }
         ],
         "localization": [
@@ -1201,13 +1345,13 @@
         "bookCount": [
             {
                 "key": "afonso-todo-dia",
-                "count": 3
+                "count": 4
             }
         ],
         "languageCount": [
             {
                 "key": "pt",
-                "count": 3
+                "count": 4
             }
         ],
         "localization": [
@@ -1271,17 +1415,25 @@
             },
             {
                 "key": "breviario-confianca",
-                "count": 5
+                "count": 6
             },
             {
                 "key": "imitacao",
+                "count": 1
+            },
+            {
+                "key": "imitation",
                 "count": 1
             }
         ],
         "languageCount": [
             {
                 "key": "pt",
-                "count": 11
+                "count": 12
+            },
+            {
+                "key": "en",
+                "count": 1
             }
         ],
         "localization": [
@@ -1315,6 +1467,10 @@
             {
                 "key": "imitacao",
                 "count": 1
+            },
+            {
+                "key": "imitation",
+                "count": 1
             }
         ],
         "languageCount": [
@@ -1324,7 +1480,7 @@
             },
             {
                 "key": "en",
-                "count": 13
+                "count": 14
             }
         ],
         "localization": [
@@ -1345,21 +1501,33 @@
         "bookCount": [
             {
                 "key": "afonso-todo-dia",
-                "count": 6
+                "count": 7
+            },
+            {
+                "key": "breviario-confianca",
+                "count": 1
             },
             {
                 "key": "divine-intimacy",
                 "count": 6
+            },
+            {
+                "key": "imitacao",
+                "count": 1
+            },
+            {
+                "key": "imitation",
+                "count": 1
             }
         ],
         "languageCount": [
             {
                 "key": "pt",
-                "count": 6
+                "count": 9
             },
             {
                 "key": "en",
-                "count": 6
+                "count": 7
             }
         ],
         "localization": [
@@ -1385,12 +1553,20 @@
             {
                 "key": "imitacao",
                 "count": 1
+            },
+            {
+                "key": "imitation",
+                "count": 1
             }
         ],
         "languageCount": [
             {
                 "key": "pt",
                 "count": 3
+            },
+            {
+                "key": "en",
+                "count": 1
             }
         ],
         "localization": [
@@ -1420,12 +1596,16 @@
             {
                 "key": "aquino-quaresma",
                 "count": 2
+            },
+            {
+                "key": "breviario-confianca",
+                "count": 1
             }
         ],
         "languageCount": [
             {
                 "key": "pt",
-                "count": 10
+                "count": 11
             },
             {
                 "key": "en",
@@ -1513,6 +1693,10 @@
             {
                 "key": "aquinas-lent",
                 "count": 1
+            },
+            {
+                "key": "divine-intimacy",
+                "count": 1
             }
         ],
         "languageCount": [
@@ -1522,7 +1706,7 @@
             },
             {
                 "key": "en",
-                "count": 2
+                "count": 3
             }
         ],
         "localization": [
@@ -1535,6 +1719,49 @@
                 "key": "pt",
                 "title": "Boas Obras",
                 "description": "A necessidade de boas obras"
+            }
+        ]
+    },
+    {
+        "name": "Mercy",
+        "bookCount": [
+            {
+                "key": "afonso-todo-dia",
+                "count": 3
+            },
+            {
+                "key": "alphonsus-morning",
+                "count": 1
+            },
+            {
+                "key": "breviario-confianca",
+                "count": 1
+            },
+            {
+                "key": "divine-intimacy",
+                "count": 2
+            }
+        ],
+        "languageCount": [
+            {
+                "key": "pt",
+                "count": 4
+            },
+            {
+                "key": "en",
+                "count": 3
+            }
+        ],
+        "localization": [
+            {
+                "key": "en",
+                "title": "Gods Mercy",
+                "description": "God's Mercy"
+            },
+            {
+                "key": "pt",
+                "title": "Misericórdia",
+                "description": "A misericórdia de Deus"
             }
         ]
     },
@@ -1566,52 +1793,33 @@
         ]
     },
     {
-        "name": "Mercy",
-        "bookCount": [
-            {
-                "key": "afonso-todo-dia",
-                "count": 2
-            },
-            {
-                "key": "divine-intimacy",
-                "count": 2
-            }
-        ],
-        "languageCount": [
-            {
-                "key": "pt",
-                "count": 2
-            },
-            {
-                "key": "en",
-                "count": 2
-            }
-        ],
-        "localization": [
-            {
-                "key": "en",
-                "title": "Gods Mercy",
-                "description": "God's Mercy"
-            },
-            {
-                "key": "pt",
-                "title": "Misericórdia",
-                "description": "A misericórdia de Deus"
-            }
-        ]
-    },
-    {
         "name": "Saints",
         "bookCount": [
             {
                 "key": "afonso-todo-dia",
-                "count": 38
+                "count": 37
+            },
+            {
+                "key": "breviario-confianca",
+                "count": 2
+            },
+            {
+                "key": "imitacao",
+                "count": 1
+            },
+            {
+                "key": "imitation",
+                "count": 1
             }
         ],
         "languageCount": [
             {
                 "key": "pt",
-                "count": 38
+                "count": 40
+            },
+            {
+                "key": "en",
+                "count": 1
             }
         ],
         "localization": [
@@ -1624,6 +1832,53 @@
                 "key": "pt",
                 "title": "Santos",
                 "description": "Meditações sobre a vida de diversos santos"
+            }
+        ]
+    },
+    {
+        "name": "Persecution",
+        "bookCount": [
+            {
+                "key": "alphonsus-spiritual",
+                "count": 1
+            },
+            {
+                "key": "breviario-confianca",
+                "count": 4
+            },
+            {
+                "key": "breviary-trust",
+                "count": 1
+            },
+            {
+                "key": "imitacao",
+                "count": 3
+            },
+            {
+                "key": "imitation",
+                "count": 3
+            }
+        ],
+        "languageCount": [
+            {
+                "key": "en",
+                "count": 5
+            },
+            {
+                "key": "pt",
+                "count": 7
+            }
+        ],
+        "localization": [
+            {
+                "key": "en",
+                "title": "Persecutions",
+                "description": "How to deal with the difficult life of persecution"
+            },
+            {
+                "key": "pt",
+                "title": "Perseguições",
+                "description": "Como lidar com a vida díficil de perseguições"
             }
         ]
     },
@@ -1641,16 +1896,24 @@
             {
                 "key": "divine-intimacy",
                 "count": 1
+            },
+            {
+                "key": "imitacao",
+                "count": 1
+            },
+            {
+                "key": "imitation",
+                "count": 1
             }
         ],
         "languageCount": [
             {
                 "key": "en",
-                "count": 2
+                "count": 3
             },
             {
                 "key": "pt",
-                "count": 1
+                "count": 2
             }
         ],
         "localization": [
@@ -1665,60 +1928,5 @@
                 "description": "A importância do apostolado por amor a Deus"
             }
         ]
-    },
-    {
-        "name": "Persecution",
-        "bookCount": [
-            {
-                "key": "breviario-confianca",
-                "count": 2
-            },
-            {
-                "key": "breviary-trust",
-                "count": 1
-            },
-            {
-                "key": "imitacao",
-                "count": 2
-            }
-        ],
-        "languageCount": [
-            {
-                "key": "pt",
-                "count": 4
-            },
-            {
-                "key": "en",
-                "count": 1
-            }
-        ],
-        "localization": [
-            {
-                "key": "en",
-                "title": "Persecutions",
-                "description": "How to deal with the difficult life of persecution"
-            },
-            {
-                "key": "pt",
-                "title": "Perseguições",
-                "description": "Como lidar com a vida díficil de perseguições"
-            }
-        ]
-    },
-    {
-        "name": "Suff",
-        "bookCount": [
-            {
-                "key": "breviario-confianca",
-                "count": 1
-            }
-        ],
-        "languageCount": [
-            {
-                "key": "pt",
-                "count": 1
-            }
-        ],
-        "localization": []
     }
 ]
