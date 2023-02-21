@@ -1517,7 +1517,7 @@
     ],
     "slug": "para-ser-santo-e-preciso-desejalo-muito",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Saints", "", ""]
   },
   {
     "bookId": "afonso-todo-dia",
@@ -1645,7 +1645,7 @@
     ],
     "slug": "o-pecado-renova-a-paixao-de-jesus-cristo",
     "priority": 500,
-    "topics": ["Sinner", "Passion", ""]
+    "topics": ["Sinner", "Passion", "Carnival"]
   },
   {
     "bookId": "afonso-todo-dia",
@@ -27565,7 +27565,7 @@
     ],
     "slug": "the-work-of-the-vineyard",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["GoodWorks", "Procastination", ""]
   },
   {
     "bookId": "aquinas-lent",
@@ -27581,7 +27581,7 @@
     ],
     "slug": "on-doing-good",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["GoodWorks", "Heaven", "Judgement"]
   },
   {
     "bookId": "aquinas-lent",
@@ -27597,7 +27597,7 @@
     ],
     "slug": "the-prayer-of-our-lord-in-the-garden",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["GodsWill", "", ""]
   },
   {
     "bookId": "aquinas-lent",
@@ -27613,7 +27613,7 @@
     ],
     "slug": "good-works",
     "priority": 500,
-    "topics": ["GoodWorks", "", ""]
+    "topics": ["GoodWorks", "Obdience", "Suffering"]
   },
   {
     "bookId": "aquinas-lent",
@@ -27629,7 +27629,7 @@
     ],
     "slug": "the-reward",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["GoodWorks", "Patience", "Suffering"]
   },
   {
     "bookId": "aquinas-lent",
@@ -27677,7 +27677,7 @@
     ],
     "slug": "the-seed",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Charity", "Detachment", ""]
   },
   {
     "bookId": "aquinas-lent",
@@ -27741,7 +27741,7 @@
     ],
     "slug": "our-watch-must-be-ceaseless",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Death", "Judgement", ""]
   },
   {
     "bookId": "aquinas-lent",
@@ -29917,7 +29917,7 @@
     ],
     "slug": "o-peregrino-louco",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Hope", "Heaven", "Salvation"]
   },
   {
     "bookId": "breviario-confianca",
@@ -29965,7 +29965,7 @@
     ],
     "slug": "seras-feliz-no-ceu",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["OurLady", "", ""]
   },
   {
     "bookId": "breviario-confianca",
@@ -29997,7 +29997,7 @@
     ],
     "slug": "o-divino-cirurgiao",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Sinner", "Detachment", ""]
   },
   {
     "bookId": "breviario-confianca",
@@ -30013,7 +30013,7 @@
     ],
     "slug": "o-bom-sofrimento",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Detachment", "", ""]
   },
   {
     "bookId": "breviario-confianca",
@@ -30125,7 +30125,7 @@
     ],
     "slug": "acima-das-nuvens",
     "priority": 500,
-    "topics": ["", "", ""]
+    "topics": ["Trust", "", ""]
   },
   {
     "bookId": "breviario-confianca",
