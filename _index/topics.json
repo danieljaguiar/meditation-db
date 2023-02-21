@@ -13,6 +13,10 @@
             {
                 "key": "alphonsus-morning",
                 "count": 1
+            },
+            {
+                "key": "aquinas-lent",
+                "count": 2
             }
         ],
         "languageCount": [
@@ -22,7 +26,7 @@
             },
             {
                 "key": "en",
-                "count": 2
+                "count": 4
             }
         ],
         "localization": [
@@ -50,6 +54,10 @@
                 "count": 1
             },
             {
+                "key": "breviario-confianca",
+                "count": 1
+            },
+            {
                 "key": "divine-intimacy",
                 "count": 1
             },
@@ -65,7 +73,7 @@
         "languageCount": [
             {
                 "key": "pt",
-                "count": 36
+                "count": 37
             },
             {
                 "key": "en",
@@ -176,7 +184,7 @@
             },
             {
                 "key": "breviario-confianca",
-                "count": 22
+                "count": 23
             },
             {
                 "key": "divine-intimacy",
@@ -186,7 +194,7 @@
         "languageCount": [
             {
                 "key": "pt",
-                "count": 108
+                "count": 109
             },
             {
                 "key": "en",
@@ -274,7 +282,7 @@
             },
             {
                 "key": "aquinas-lent",
-                "count": 1
+                "count": 2
             },
             {
                 "key": "aquino-quaresma",
@@ -300,7 +308,7 @@
             },
             {
                 "key": "en",
-                "count": 4
+                "count": 5
             }
         ],
         "localization": [
@@ -422,6 +430,10 @@
                 "count": 3
             },
             {
+                "key": "aquinas-lent",
+                "count": 1
+            },
+            {
                 "key": "breviario-confianca",
                 "count": 6
             },
@@ -445,7 +457,7 @@
             },
             {
                 "key": "en",
-                "count": 5
+                "count": 6
             }
         ],
         "localization": [
@@ -551,6 +563,10 @@
                 "count": 2
             },
             {
+                "key": "aquinas-lent",
+                "count": 1
+            },
+            {
                 "key": "breviario-confianca",
                 "count": 1
             }
@@ -559,6 +575,10 @@
             {
                 "key": "pt",
                 "count": 3
+            },
+            {
+                "key": "en",
+                "count": 1
             }
         ],
         "localization": [
@@ -629,8 +649,12 @@
                 "count": 2
             },
             {
+                "key": "aquinas-lent",
+                "count": 1
+            },
+            {
                 "key": "breviario-confianca",
-                "count": 5
+                "count": 7
             },
             {
                 "key": "divine-intimacy",
@@ -648,11 +672,11 @@
         "languageCount": [
             {
                 "key": "pt",
-                "count": 31
+                "count": 33
             },
             {
                 "key": "en",
-                "count": 15
+                "count": 16
             }
         ],
         "localization": [
@@ -805,14 +829,22 @@
                 "count": 8
             },
             {
+                "key": "aquinas-lent",
+                "count": 1
+            },
+            {
                 "key": "breviario-confianca",
-                "count": 3
+                "count": 4
             }
         ],
         "languageCount": [
             {
                 "key": "pt",
-                "count": 11
+                "count": 12
+            },
+            {
+                "key": "en",
+                "count": 1
             }
         ],
         "localization": [
@@ -837,7 +869,7 @@
             },
             {
                 "key": "breviario-confianca",
-                "count": 1
+                "count": 2
             },
             {
                 "key": "divine-intimacy",
@@ -847,7 +879,7 @@
         "languageCount": [
             {
                 "key": "pt",
-                "count": 6
+                "count": 7
             },
             {
                 "key": "en",
@@ -880,7 +912,7 @@
             },
             {
                 "key": "aquinas-lent",
-                "count": 2
+                "count": 4
             },
             {
                 "key": "aquino-quaresma",
@@ -910,7 +942,7 @@
             },
             {
                 "key": "en",
-                "count": 7
+                "count": 9
             }
         ],
         "localization": [
@@ -1013,11 +1045,58 @@
         ]
     },
     {
+        "name": "Saints",
+        "bookCount": [
+            {
+                "key": "afonso-todo-dia",
+                "count": 38
+            },
+            {
+                "key": "breviario-confianca",
+                "count": 2
+            },
+            {
+                "key": "imitacao",
+                "count": 1
+            },
+            {
+                "key": "imitation",
+                "count": 1
+            }
+        ],
+        "languageCount": [
+            {
+                "key": "pt",
+                "count": 41
+            },
+            {
+                "key": "en",
+                "count": 1
+            }
+        ],
+        "localization": [
+            {
+                "key": "en",
+                "title": "Saints",
+                "description": "Meditations on the lives of different saints"
+            },
+            {
+                "key": "pt",
+                "title": "Santos",
+                "description": "Meditações sobre a vida de diversos santos"
+            }
+        ]
+    },
+    {
         "name": "Obdience",
         "bookCount": [
             {
                 "key": "afonso-todo-dia",
                 "count": 3
+            },
+            {
+                "key": "aquinas-lent",
+                "count": 1
             },
             {
                 "key": "divine-intimacy",
@@ -1039,7 +1118,7 @@
             },
             {
                 "key": "en",
-                "count": 8
+                "count": 9
             }
         ],
         "localization": [
@@ -1099,13 +1178,13 @@
         "bookCount": [
             {
                 "key": "afonso-todo-dia",
-                "count": 2
+                "count": 3
             }
         ],
         "languageCount": [
             {
                 "key": "pt",
-                "count": 2
+                "count": 3
             }
         ],
         "localization": [
@@ -1130,7 +1209,7 @@
             },
             {
                 "key": "breviario-confianca",
-                "count": 3
+                "count": 4
             },
             {
                 "key": "imitacao",
@@ -1144,7 +1223,7 @@
         "languageCount": [
             {
                 "key": "pt",
-                "count": 5
+                "count": 6
             },
             {
                 "key": "en",
@@ -1414,6 +1493,10 @@
                 "count": 5
             },
             {
+                "key": "aquinas-lent",
+                "count": 1
+            },
+            {
                 "key": "breviario-confianca",
                 "count": 6
             },
@@ -1433,7 +1516,7 @@
             },
             {
                 "key": "en",
-                "count": 1
+                "count": 2
             }
         ],
         "localization": [
@@ -1455,6 +1538,10 @@
             {
                 "key": "afonso-todo-dia",
                 "count": 2
+            },
+            {
+                "key": "aquinas-lent",
+                "count": 1
             },
             {
                 "key": "breviario-confianca",
@@ -1480,7 +1567,7 @@
             },
             {
                 "key": "en",
-                "count": 14
+                "count": 15
             }
         ],
         "localization": [
@@ -1599,13 +1686,13 @@
             },
             {
                 "key": "breviario-confianca",
-                "count": 1
+                "count": 2
             }
         ],
         "languageCount": [
             {
                 "key": "pt",
-                "count": 11
+                "count": 12
             },
             {
                 "key": "en",
@@ -1692,7 +1779,7 @@
             },
             {
                 "key": "aquinas-lent",
-                "count": 1
+                "count": 4
             },
             {
                 "key": "divine-intimacy",
@@ -1706,7 +1793,7 @@
             },
             {
                 "key": "en",
-                "count": 3
+                "count": 6
             }
         ],
         "localization": [
@@ -1789,49 +1876,6 @@
                 "key": "pt",
                 "title": "Vida Oculta",
                 "description": "A vida oculta, recolhida e solitária"
-            }
-        ]
-    },
-    {
-        "name": "Saints",
-        "bookCount": [
-            {
-                "key": "afonso-todo-dia",
-                "count": 37
-            },
-            {
-                "key": "breviario-confianca",
-                "count": 2
-            },
-            {
-                "key": "imitacao",
-                "count": 1
-            },
-            {
-                "key": "imitation",
-                "count": 1
-            }
-        ],
-        "languageCount": [
-            {
-                "key": "pt",
-                "count": 40
-            },
-            {
-                "key": "en",
-                "count": 1
-            }
-        ],
-        "localization": [
-            {
-                "key": "en",
-                "title": "Saints",
-                "description": "Meditations on the lives of different saints"
-            },
-            {
-                "key": "pt",
-                "title": "Santos",
-                "description": "Meditações sobre a vida de diversos santos"
             }
         ]
     },
